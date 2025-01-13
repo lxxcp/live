@@ -34,6 +34,11 @@
             "url": "https://live.kilvn.com/iptv.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
+        {
+            "name": "范明明",
+            "type": 0,
+            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u"           
+        },
  {
             "name": "lxxcp",
             "type": 0,
