@@ -1,19 +1,5 @@
 {
-    "spider": "./spider.jar",
-    "wallpaper": "https://深色壁纸.xxooo.cf/",
-    "sites": [
-        {
-            "key":"TV直播test",
-            "name":"TV直播test",
-            "type": 3,
-            "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quicksearch":1,
-            "filterable": 1,
-            "order num": 87,
-            "ext":"http://ttkx.live:55/lib/好趣网.js"
-        }    
-          ],
+  
        "lives": [
         {
             "name": "金旺",
