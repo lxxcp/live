@@ -73,6 +73,10 @@
             "name":"二哈"
         },
         {
+            "url":"https://mirror.ghproxy.com/https://github.com/lxxcp/live/blob/main/lives.json",
+            "name":"直播"
+        },
+        {
             "url":"https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
             "name":"bizhangjie🈲"
         }
