@@ -1,8 +1,7 @@
 {
   "spider": "",
   "sites": [],
-  "lives": {
-    "undefined": [
+  "lives":  [
       {
         "name": "金旺",
         "url": "https://live.iptv365.org/live.txt",
@@ -22,7 +21,4 @@
         "epg": ""
       }
     ]
-  },
-  "parses": [],
-  "flags": []
 }
