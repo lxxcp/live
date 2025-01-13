@@ -1,0 +1,28 @@
+{
+  "spider": "",
+  "sites": [],
+  "lives": {
+    "undefined": [
+      {
+        "name": "金旺",
+        "url": "https://live.iptv365.org/live.txt",
+        "logo": "",
+        "epg": ""
+      },
+      {
+        "name": "suxuang",
+        "url": "https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
+        "logo": "",
+        "epg": ""
+      },
+      {
+        "name": "kilvn",
+        "url": "https://live.kilvn.com/iptv.m3u",
+        "logo": "",
+        "epg": ""
+      }
+    ]
+  },
+  "parses": [],
+  "flags": []
+}
