@@ -1,6 +1,5 @@
 {
-  "spider": "./spider.jar",
-  "sites": [],
+  "spider": "", 
   "lives":  [
       {
         "name": "金旺",
