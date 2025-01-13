@@ -14,25 +14,21 @@
             "ext":"http://ttkx.live:55/lib/好趣网.js"
         }    
           ],
-    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
-    "lives": [
+       "lives": [
         {
             "name": "金旺",
             "type": 0,
-            "url": "https://live.iptv365.org/live.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "url": "https://live.iptv365.org/live.txt"           
         },
    {
             "name": "suxuang",
             "type": 0,
-            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
+            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
+         },
  {
             "name": "kilvn",
             "type": 0,
-            "url": "https://live.kilvn.com/iptv.m3u",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "url": "https://live.kilvn.com/iptv.m3u"
         },
         {
             "name": "范明明",
@@ -42,40 +38,33 @@
  {
             "name": "lxxcp",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxxcp/iptv-api/master/output/live.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxxcp/iptv-api/master/output/live.txt"
         },
 {
             "name": "yuanzl77",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://github.com/yuanzl77/IPTV/blob/main/live.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "url": "https://mirror.ghproxy.com/https://github.com/yuanzl77/IPTV/blob/main/live.txt"
         },
 
  {
             "name": "zbdsipv6",
             "type": 0,
-            "url": "https://live.zbds.top/tv/iptv6.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "url": "https://live.zbds.top/tv/iptv6.txt"
         },
  {
             "name": "zbdsipv4",
             "type": 0,
-            "url": "https://live.zbds.top/tv/iptv4.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "url": "https://live.zbds.top/tv/iptv4.txt"
         },
-
  {
             "name": "kakaipv6",
             "type": 0,
-            "url": "https://live.kakaxi-1.ink/ipv6.m3u",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "url": "https://live.kakaxi-1.ink/ipv6.m3u"
         },
  {
             "name": "kakaipv4",
             "type": 0,
-            "url": "https://live.kakaxi-1.ink/ipv4.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "url": "https://live.kakaxi-1.ink/ipv4.txt"
         }
     ]
 }
