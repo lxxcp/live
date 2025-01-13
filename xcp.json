@@ -1,5 +1,9 @@
 {
     "urls":[
+         {
+            "url":"https://mirror.ghproxy.com/https://github.com/lxxcp/live/blob/main/lives.json",
+            "name":"直播"
+        },
         {
             "url":"http://www.饭太硬.com/tv",
             "name":"饭太硬"
@@ -71,11 +75,7 @@
         {
             "url":"https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json",
             "name":"二哈"
-        },
-        {
-            "url":"https://mirror.ghproxy.com/https://github.com/lxxcp/live/blob/main/lives.json",
-            "name":"直播"
-        },
+        },       
         {
             "url":"https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
             "name":"bizhangjie🈲"
