@@ -9,30 +9,26 @@ on:
       - main
 
 jobs:
-  run_script:
-    runs-on: ubuntu-latest
-
+  push:
+    runs-on: ${{ matrix.operating-system }}
+    timeout-minutes: 120
+    strategy:
+      matrix:
+        operating-system: [ 'ubuntu-20.04' ]
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.13'
-
-    - name: Cache dependencies
-      uses: actions/cache@v3
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
-
-    - name: Install dependencies
-      run: |
-        pip install requests
-
+      - name: Set branch name
+        id: vars
+        run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ env.BRANCH_NAME }}
+      - name: Run with setup-python 3.13
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.13'
+          update-environment: true
+          cache: 'pipenv'
+          
     - name: Run Python script
       run: python main.py
 
@@ -40,11 +36,8 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add -A
-        if ! git diff --staged --quiet; then
-          git commit -m "Auto-update live files"
-          git push
-        fi
+        git diff
+          final_file=$(python -c '
 
     env:
       TZ: Asia/Shanghai
