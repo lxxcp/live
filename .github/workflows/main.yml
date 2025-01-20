@@ -16,9 +16,7 @@ jobs:
       matrix:
         operating-system: [ 'ubuntu-20.04' ]
     steps:
-      - name: Set branch name
-        id: vars
-        run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
+     
       - uses: actions/checkout@v3
         with:
           ref: ${{ env.BRANCH_NAME }}
@@ -39,5 +37,4 @@ jobs:
         git diff
           final_file=$(python -c '
 
-    env:
-      TZ: Asia/Shanghai
+ 
