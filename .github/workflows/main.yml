@@ -1,5 +1,4 @@
 name: Main Script
-
 # 定义触发条件
 on:
    push:
