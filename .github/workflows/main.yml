@@ -5,4 +5,7 @@ on:
       - main
 
 jobs:
+ name: deploy to staging
+    runs-on: ubuntu-22.04
+     - name: Run Python script   
       run: python main.py
