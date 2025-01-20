@@ -1,10 +1,8 @@
-name: Run Main Script
+name: Main Script
 
 # 定义触发条件
 on:
-  schedule:
-    - cron: '0 0 * * *'  # 每天凌晨0点运行
-  push:
+   push:
     branches:
       - main  # 只在推送到main分支时触发
 
