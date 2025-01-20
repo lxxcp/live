@@ -5,7 +5,7 @@ on:
       - main
 
 jobs:
- name: deploy to staging
+  run_script:
     runs-on: ubuntu-latest
 
      steps:
