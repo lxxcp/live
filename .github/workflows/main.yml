@@ -1,28 +1,10 @@
-name: Release
+name: Daily Update
 on:
   workflow_dispatch:
     branches:
-      - master
+      - main
 
 jobs:
   build:
-    runs-on: windows-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.13'
-          update-environment: true
-          cache: 'pipenv'
-
-      - name: Install pipenv
-        run: pip3 install --user pipenv
-
-      - name: Install dependencies with pipenv
-        run: pipenv --python 3.13 && pipenv install --dev
-
-         - name: Run Python script
+             - name: Run Python script
       run: python main.py
