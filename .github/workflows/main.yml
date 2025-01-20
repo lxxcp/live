@@ -5,6 +5,4 @@ on:
       - main
 
 jobs:
-
-        name: Run Python script
       run: python main.py
