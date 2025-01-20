@@ -1,20 +1,49 @@
 name: Daily Update
+
 on:
-  push:
-       branches: [ main ]
- 
+  schedule:
+    - cron: '45 21 * * *'
+  workflow_dispatch:
+    branches:
+      - main
+
 jobs:
-  build:
+  run_script:
     runs-on: ubuntu-latest
- 
+
     steps:
-    - uses: actions/checkout@v3
- 
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
     - name: Set up Python
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v2
       with:
-        python-version: 3.8
- 
-    - name: Run main.py
+        python-version: '3.10'
+
+    - name: Cache dependencies
+      uses: actions/cache@v2
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Run Python script
       run: python main.py
 
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add -A
+        if ! git diff --staged --quiet; then
+          git commit -m "Auto-update live files"
+          git push
+        fi
+
+    env:
+      TZ: Asia/Shanghai
