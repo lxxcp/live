@@ -44,6 +44,11 @@
             "type": 0,
             "url": "https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"
         },
+             {
+            "name": "live",
+            "type": 0,
+            "url": "https://ghproxy.cc/https://github.com/lxxcp/live/blob/main/live.txt"
+        },
 {
             "name": "yuanzl77",
             "type": 0,
