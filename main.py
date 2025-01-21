@@ -109,7 +109,7 @@ def is_ipv6(url):
 def updateChannelUrlsM3U(channels, template_channels):
     written_urls = set()
 
-    current_date = datetime.now().strftime("%Y-%m-%d")
+    current_date = datetime.now().strftime("%Y-%m-%d %Y-%m-%d")
     for group in config.announcements:
         for announcement in group['entries']:
             if announcement['name'] is None:
