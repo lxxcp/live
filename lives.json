@@ -1,4 +1,4 @@
-{  "spider": "./spider.jar",
+{  "spider": "https://ghp.ci/https://raw.githubusercontent.com/daodao1982/tvbox/main/jar/饭太硬.jar",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -8,9 +8,7 @@
             "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
             "searchable": 1,
             "quicksearch":1,
-            "filterable": 1,
-            "order num": 87,
-            "ext":"http://ttkx.live:55/lib/好趣网.js"
+            "filterable": 1         
         }    
           ],
          "lives": [
