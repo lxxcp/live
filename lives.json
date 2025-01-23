@@ -47,28 +47,23 @@
             "type": 0,
             "url": "https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/live.txt"
         },
-{
-            "name": "jxdx",
-            "type": 0,
-            "url": "https://ghfast.top/https://github.com/lxxcp/live/blob/main/jxdx.txt"
-        },
  {
-            "name": "zbdsipv6",
+            "name": "zbds_ipv6",
             "type": 0,
             "url": "https://live.zbds.top/tv/iptv6.txt"
         },
  {
-            "name": "zbdsipv4",
+            "name": "zbds_ipv4",
             "type": 0,
             "url": "https://live.zbds.top/tv/iptv4.txt"
         },
  {
-            "name": "kakaipv6",
+            "name": "kaka_ipv6",
             "type": 0,
             "url": "https://live.kakaxi-1.ink/ipv6.m3u"
         },
  {
-            "name": "kakaipv4",
+            "name": "kaka_ipv4",
             "type": 0,
             "url": "https://live.kakaxi-1.ink/ipv4.txt"
         }
