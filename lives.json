@@ -1,71 +1,77 @@
-{  "spider": "https://play.iptv365.org/iptv365/spider.jar",
-    "wallpaper": "https://深色壁纸.xxooo.cf/",
-    "sites": [
+{
+    "spider":"https://play.iptv365.org/iptv365/spider.jar",
+    "wallpaper":"https://深色壁纸.xxooo.cf/",
+    "sites":[
         {
             "key":"TV直播test",
             "name":"TV直播test",
-            "type": 3,
-            "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-            "searchable": 1,
+            "type":3,
+            "api":"http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+            "searchable":1,
             "quicksearch":1,
-            "filterable": 1         
-        }    
-          ],
-         "lives": [
+            "filterable":1
+        }
+    ],
+    "lives":[
         {
-            "name": "金旺",
-            "type": 0,
-            "url": "https://live.iptv365.org/live.txt"           
-        },
-   {
-            "name": "suxuang",
-            "type": 0,
-            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
-         },
- {
-            "name": "kilvn",
-            "type": 0,
-            "url": "https://live.kilvn.com/iptv.m3u"
+            "name":"金旺",
+            "type":0,
+            "url":"https://live.iptv365.org/live.txt"
         },
         {
-            "name": "范明明",
-            "type": 0,
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u"           
+            "name":"suxuang",
+            "type":0,
+            "url":"https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
         },
- {
-            "name": "lxxcp",
-            "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/lxxcp/iptv-api/master/output/result.txt"
+        {
+            "name":"kilvn",
+            "type":0,
+            "url":"https://live.kilvn.com/iptv.m3u"
         },
-  {
-            "name": "guovin",
-            "type": 0,
-            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"
+        {
+            "name":"范明明",
+            "type":0,
+            "url":"https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
         },
-             {
-            "name": "live",
-            "type": 0,
-            "url": "https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/live.txt"
+        {
+            "name":"lxxcp",
+            "type":0,
+            "url":"https://ghfast.top/https://raw.githubusercontent.com/lxxcp/iptv-api/master/output/result.txt"
         },
- {
-            "name": "zbds_ipv6",
-            "type": 0,
-            "url": "https://live.zbds.top/tv/iptv6.txt"
+        {
+            "name":"guovin",
+            "type":0,
+            "url":"https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"
         },
- {
-            "name": "zbds_ipv4",
-            "type": 0,
-            "url": "https://live.zbds.top/tv/iptv4.txt"
+        {
+            "name":"live",
+            "type":0,
+            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/live.txt"
         },
- {
-            "name": "kaka_ipv6",
-            "type": 0,
-            "url": "https://live.kakaxi-1.ink/ipv6.m3u"
+        {
+            "name":"jxtv",
+            "type":0,
+            "url":"https://ghproxy.cc/https://github.com/lxxcp/live/blob/main/local.txt"
         },
- {
-            "name": "kaka_ipv4",
-            "type": 0,
-            "url": "https://live.kakaxi-1.ink/ipv4.txt"
+        {
+            "name":"zbds_ipv6",
+            "type":0,
+            "url":"https://live.zbds.top/tv/iptv6.txt"
+        },
+        {
+            "name":"zbds_ipv4",
+            "type":0,
+            "url":"https://live.zbds.top/tv/iptv4.txt"
+        },
+        {
+            "name":"kaka_ipv6",
+            "type":0,
+            "url":"https://live.kakaxi-1.ink/ipv6.m3u"
+        },
+        {
+            "name":"kaka_ipv4",
+            "type":0,
+            "url":"https://live.kakaxi-1.ink/ipv4.txt"
         }
     ]
 }
