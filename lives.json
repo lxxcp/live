@@ -69,9 +69,9 @@
             "url":"https://live.kakaxi-1.ink/ipv6.m3u"
         },
         {
-            "name":"kaka_ipv4",
+            "name":"jxiptv",
             "type":0,
-            "url":"https://live.kakaxi-1.ink/ipv4.txt"
+            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
         }
     ]
 }
