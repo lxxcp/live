@@ -14,6 +14,26 @@
     ],
     "lives":[
         {
+            "name":"lxxcp",
+            "type":0,
+            "url":"https://ghfast.top/https://raw.githubusercontent.com/lxxcp/iptv-api/master/output/result.txt"
+        },
+        {
+            "name":"guovin",
+            "type":0,
+            "url":"https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"
+        },
+        {
+            "name":"jxiptv",
+            "type":0,
+            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
+        },
+        {
+            "name":"live",
+            "type":0,
+            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/live.txt"
+        },
+        {
             "name":"金旺",
             "type":0,
             "url":"https://live.iptv365.org/live.txt"
@@ -34,26 +54,6 @@
             "url":"https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
         },
         {
-            "name":"lxxcp",
-            "type":0,
-            "url":"https://ghfast.top/https://raw.githubusercontent.com/lxxcp/iptv-api/master/output/result.txt"
-        },
-        {
-            "name":"guovin",
-            "type":0,
-            "url":"https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"
-        },
-        {
-            "name":"live",
-            "type":0,
-            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/live.txt"
-        },
-        {
-            "name":"jxtv",
-            "type":0,
-            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/local.txt"
-        },
-        {
             "name":"zbds_ipv6",
             "type":0,
             "url":"https://live.zbds.top/tv/iptv6.txt"
@@ -68,10 +68,10 @@
             "type":0,
             "url":"https://live.kakaxi-1.ink/ipv6.m3u"
         },
-        {
-            "name":"jxiptv",
+         {
+            "name":"kaka_ipv4",
             "type":0,
-            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
+            "url":"https://live.kakaxi-1.ink/ipv4.m3u"
         }
     ]
 }
