@@ -44,9 +44,9 @@
             "url":"https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
         },
         {
-            "name":"kilvn",
+            "name":"vbskycn",
             "type":0,
-            "url":"https://live.kilvn.com/iptv.m3u"
+            "url":"https://ghproxy.cc/https://github.com/vbskycn/iptv/blob/master/tv/hd.txt"
         },
         {
             "name":"范明明",
