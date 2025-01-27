@@ -30,9 +30,9 @@
             "url":"https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"
         },
          {
-            "name":"liveIP4",
+            "name":"liveIPV4",
             "type":0,
-            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxipV4.txt"
+            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxipv4.txt"
         },
         {
             "name":"live",
