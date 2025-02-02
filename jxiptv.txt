@@ -2718,7 +2718,7 @@ KAKU少儿,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224
 陕西卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+延边卫视2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
