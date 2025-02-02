@@ -114,6 +114,7 @@ CHC影迷电影,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226305
 南昌综合,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226382/index.m3u8
 南昌资讯,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226374/index.m3u8
 南昌都市,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226385/index.m3u8
+庐山市电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
 江西卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225492/index.m3u8
 江西卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225705/index.m3u8
 江西卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225746/index.m3u8
@@ -183,7 +184,7 @@ KAKU少儿,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226362/inde
 睛彩篮球,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226235/index.m3u8
 睛彩篮球,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226240/index.m3u8
 睛彩篮球,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226241/index.m3u8
-睛彩足球,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225643/index.m3u8
+睛彩足球,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226235/index.m3u8
 睛彩青少,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226261/index.m3u8
 精品体育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225709/index.m3u8
 精品大剧,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225714/index.m3u8
@@ -218,10 +219,12 @@ KAKU少儿,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226362/inde
 东北热剧,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226202/index.m3u8
 梨园频道,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225581/index.m3u8
 欢乐剧场,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226210/index.m3u8
+武搏世界,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225656/index.m3u8
 武术世界,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225508/index.m3u8
 北京纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225675/index.m3u8
 北京纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225676/index.m3u8
 北京纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226365/index.m3u8
+畅享影院,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226300/index.m3u8
 海外剧场,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225716/index.m3u8
 古装剧场,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225678/index.m3u8
 品质大剧,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226266/index.m3u8
@@ -526,7 +529,6 @@ CHC影迷电影,http://39.134.115.163:8080/PLTV/88888910/224/3221226305/index.m3
 南昌综合,http://39.134.115.163:8080/PLTV/88888910/224/3221226382/index.m3u8
 南昌都市,http://39.134.115.163:8080/PLTV/88888910/224/3221226385/index.m3u8
 南昌资讯,http://39.134.115.163:8080/PLTV/88888910/224/3221226374/index.m3u8
-庐山市电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
 凤凰中文,http://39.134.115.163:8080/PLTV/88888910/224/3221226248/index.m3u8
 凤凰资讯,http://39.134.115.163:8080/PLTV/88888910/224/3221226274/index.m3u8
 凤凰香港,http://39.134.115.163:8080/PLTV/88888910/224/3221226251/index.m3u8
@@ -922,7 +924,7 @@ KAKU少儿,http://39.134.115.163:8080/PLTV/88888888/224/3221226362/1/index.m3u8
 睛彩篮球,http://39.134.115.163:8080/PLTV/88888888/224/3221226235/1/index.m3u8
 睛彩篮球,http://39.134.115.163:8080/PLTV/88888888/224/3221226240/1/index.m3u8
 睛彩篮球,http://39.134.115.163:8080/PLTV/88888888/224/3221226241/1/index.m3u8
-睛彩足球,http://39.134.115.163:8080/PLTV/88888888/224/3221225643/1/index.m3u8
+睛彩足球,http://39.134.115.163:8080/PLTV/88888888/224/3221226235/1/index.m3u8
 睛彩青少,http://39.134.115.163:8080/PLTV/88888888/224/3221226261/1/index.m3u8
 精品体育,http://39.134.115.163:8080/PLTV/88888888/224/3221225709/1/index.m3u8
 精品大剧,http://39.134.115.163:8080/PLTV/88888888/224/3221225714/1/index.m3u8
@@ -1458,6 +1460,7 @@ KAKU少儿,http://39.135.140.104:6610/PLTV/88888888/224/3221226362/1/index.m3u8
 梨园频道,http://39.135.140.104:6610/PLTV/88888888/224/3221225581/1/index.m3u8?fmt=ts2hls
 欢乐剧场,http://39.135.140.104:6610/PLTV/88888888/224/3221226210/1/index.m3u8
 欢乐剧场,http://39.135.140.104:6610/PLTV/88888888/224/3221226210/1/index.m3u8?fmt=ts2hls
+武搏世界,http://39.135.140.104:6610/PLTV/88888888/224/3221225656/1/index.m3u8
 武术世界,http://39.135.140.104:6610/PLTV/88888888/224/3221225508/1/index.m3u8
 武术世界,http://39.135.140.104:6610/PLTV/88888888/224/3221225508/1/index.m3u8?fmt=ts2hls
 武搏世界,http://39.135.140.104:6610/PLTV/88888888/224/3221225656/1/index.m3u8?fmt=ts2hls
@@ -2044,8 +2047,8 @@ KAKU少儿,http://39.137.49.76:8080/PLTV/88888910/224/3221226362/index.m3u8
 睛彩篮球,http://39.137.49.76:8080/PLTV/88888910/224/3221226235/index.m3u8
 睛彩篮球,http://39.137.49.76:8080/PLTV/88888910/224/3221226240/index.m3u8
 睛彩篮球,http://39.137.49.76:8080/PLTV/88888910/224/3221226241/index.m3u8
-睛彩足球,http://39.137.49.76:8080/PLTV/88888910/224/3221225643/index.m3u8
-睛彩足球,http://39.137.49.76:8080/PLTV/88888888/224/3221225643/10000100000000060000000000000162_0.smil/index.m3u8
+睛彩足球,http://39.137.49.76:8080/PLTV/88888910/224/3221226235/index.m3u8
+睛彩足球,http://39.137.49.76:8080/PLTV/88888888/224/3221226235/10000100000000060000000000000162_0.smil/index.m3u8
 睛彩青少,http://39.137.49.76:8080/PLTV/88888888/224/3221226261/10000100000000060000000000000162_0.smil/index.m3u8
 睛彩青少,http://39.137.49.76:8080/PLTV/88888910/224/3221226261/index.m3u8
 精品体育,http://39.137.49.76:8080/PLTV/88888888/224/3221225709/10000100000000060000000000000162_0.smil/index.m3u8
@@ -2760,7 +2763,7 @@ CCTV17,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/322
 睛彩篮球,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226235/index.m3u8
 睛彩篮球,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
 睛彩篮球,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226241/index.m3u8
-睛彩足球,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225643/index.m3u8
+睛彩足球,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226235/index.m3u8
 睛彩青少,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226261/index.m3u8
 精品体育,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225709/index.m3u8
 精品大剧,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
