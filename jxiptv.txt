@@ -2719,18 +2719,14 @@ KAKU少儿,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224
 金鹰纪实,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8
 陕西卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 GOOD2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
 八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
@@ -2738,29 +2734,15 @@ GOOD2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/l
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 音乐欣赏1,http://61.221.215.25:8800/hls/49/index.m3u8
 音乐欣赏2,http://61.221.215.25:8800/hls/58/index.m3u8
-龍華電影,http://37.27.111.214:8080/live/19/hls.m3u8
-博斯運動1,http://37.27.111.214:8080/live/14/hls.m3u8
-博斯高球1,http://37.27.111.214:8080/live/13/hls.m3u8
-亞洲旅遊,http://37.27.111.214:8080/live/10/hls.m3u8
-CINEMA WORLD,http://37.27.111.214:8080/live/30/hls.m3u8
-華視新聞,http://37.27.111.214:8080/live/8/hls.m3u8
-豬哥亮,http://37.27.111.214:8080/live/35/hls.m3u8
-中視,http://37.27.111.214:8080/live/7/hls.m3u8
-HITS,http://37.27.111.214:8080/live/28/hls.m3u8
-LIFE TIME,http://37.27.111.214:8080/live/71/hls.m3u8
-民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 大立DALI,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 台视新闻台,https://live.wcetv.com/hls/master-ttvnews.m3u8
-
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 直播中国,http://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
@@ -2781,7 +2763,6 @@ LIFE TIME,http://37.27.111.214:8080/live/71/hls.m3u8
 经典广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 江西都市广播,https://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 
 #频道ip6
 #1920x1080
