@@ -16,7 +16,7 @@
         {
             "name":"lxxcp",
             "type":0,
-            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/iptv-api/master/output/result.txt"
+            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/iptv-api/blob/master/output/result.txt"
         },
        
         {
@@ -29,12 +29,7 @@
             "type":0,
             "url":"https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"
         },         
-        {
-            "name":"live",
-            "type":0,
-            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/live.txt"
-        },
-        {
+               {
             "name":"金旺",
             "type":0,
             "url":"https://live.iptv365.org/live.txt"
