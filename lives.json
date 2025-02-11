@@ -3,8 +3,8 @@
     "wallpaper":"https://深色壁纸.xxooo.cf/",
     "sites":[
         {
-            "key":"TV直播test",
-            "name":"TV直播test",
+            "key":"TV直播",
+            "name":"TV直播",
             "type":3,
             "api":"http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
             "searchable":1,
@@ -12,33 +12,38 @@
             "filterable":1
         }
     ],
-    "lives":[ 
+    "lives":[
+        {
+            "name":"江西移动IPTV",
+            "type":0,
+            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxydiptv.txt"
+        },
+        {
+            "name":"江西电信IPTV",
+            "type":0,
+            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxdxiptv.txt"
+        },
+        {
+            "name":"jxiptv",
+            "type":0,
+            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
+        },
         {
             "name":"hljydiptv",
             "type":0,
             "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/hljyd.txt"
         },
-		{
-            "name":"jxiptv",
-            "type":0,
-            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
-        },
-	     {
-            "name":"JXIPTV1",
-            "type":0,
-            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxiptv.m3u"
-        },
-		{
+        {
             "name":"lxxcp",
             "type":0,
             "url":"https://gh.tryxd.cn/https://github.com/lxxcp/iptv-api/blob/master/output/result.txt"
         },
-         {
+        {
             "name":"guovin",
             "type":0,
             "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"
-        },         
-               {
+        },
+        {
             "name":"金旺",
             "type":0,
             "url":"https://live.iptv365.org/live.txt"
@@ -52,31 +57,6 @@
             "name":"vbskycn",
             "type":0,
             "url":"https://gitproxy.click/https://github.com/vbskycn/iptv/blob/master/tv/hd.txt"
-        },
-        {
-            "name":"范明明",
-            "type":0,
-            "url":"https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
-        },
-        {
-            "name":"zbds_ipv6",
-            "type":0,
-            "url":"https://live.zbds.top/tv/iptv6.txt"
-        },
-        {
-            "name":"zbds_ipv4",
-            "type":0,
-            "url":"https://live.zbds.top/tv/iptv4.txt"
-        },
-        {
-            "name":"kaka_ipv6",
-            "type":0,
-            "url":"https://live.kakaxi-1.ink/ipv6.m3u"
-        },
-         {
-            "name":"kaka_ipv4",
-            "type":0,
-            "url":"https://live.kakaxi-1.ink/ipv4.m3u"
         }
     ]
 }
