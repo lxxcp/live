@@ -1,12 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="#3840x2160   一号源" tvg-logo="https://live.fanmingming.cn/tv/#3840x2160   一号源.png" group-title="江西移动频道",#3840x2160   一号源
-undefined
-#EXTINF:-1 tvg-name="4KUHD" tvg-logo="https://live.fanmingming.cn/tv/4KUHD.png" group-title="江西移动频道",4KUHD
+#EXTINF:-1 tvg-name="4KUHD" tvg-logo="https://live.fanmingming.cn/tv/纯享4K.png" group-title="江西移动频道",4KUHD
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="江西移动频道",CCTV-16 奥林匹克-4K
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226236/index.m3u8
-#EXTINF:-1 tvg-name="#1920x1080" tvg-logo="https://live.fanmingming.cn/tv/#1920x1080.png" group-title="江西移动频道",#1920x1080
-undefined
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="江西移动频道",CCTV-1 综合
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225501/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="江西移动频道",CCTV-1 综合
@@ -139,29 +135,29 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226270/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226335/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="江西移动频道",CCTV-17 农业农村
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226345/index.m3u8
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西移动频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西移动频道",CCTV世界地理
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226290/index.m3u8
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西移动频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226321/index.m3u8
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226339/index.m3u8
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226318/index.m3u8
-#EXTINF:-1 tvg-name="CCTV文化精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1 tvg-name="CCTV文化精品" tvg-logo="https://live.fanmingming.cn/tv/文化精品.png" group-title="江西移动频道",CCTV文化精品
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226296/index.m3u8
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西移动频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226359/index.m3u8
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西移动频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西移动频道",CCTV第一剧场
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226284/index.m3u8
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西移动频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西移动频道",CCTV风云剧场
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226315/index.m3u8
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西移动频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西移动频道",CCTV风云足球
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226302/index.m3u8
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西移动频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西移动频道",CCTV风云音乐
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226287/index.m3u8
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/CCTV女性时尚.png" group-title="江西移动频道",CCTV女性时尚
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="江西移动频道",CCTV女性时尚
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226293/index.m3u8
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西移动频道",CCTV高尔夫网球
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226299/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="江西移动频道",CETV-1 综合教育
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225917/index.m3u8
@@ -173,9 +169,9 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226367/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="江西移动频道",CGTN纪录
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226341/index.m3u8
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西移动频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西移动频道",CGTN西班牙语
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226372/index.m3u8
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西移动频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西移动频道",CGTN阿拉伯语
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226364/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="江西移动频道",CHC动作电影
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226308/index.m3u8
@@ -203,19 +199,19 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226291/877949953.smil/
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225578/index.m3u8
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.cn/tv/江西公共农业.png" group-title="江西移动频道",江西公共农业
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/10000100000000060000000000000030_0.smil/index.m3u8?
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西移动频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西移动频道",江西少儿频道
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226194/index.m3u8
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西移动频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西移动频道",江西少儿频道
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/10000100000000060000000004716224_0.smil/index.m3u8?
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西移动频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西移动频道",江西新闻频道
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225615/index.m3u8
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西移动频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西移动频道",江西新闻频道
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/10000100000000060000000000230385_0.smil/index.m3u8?
 #EXTINF:-1 tvg-name="江西移动频道" tvg-logo="https://live.fanmingming.cn/tv/江西移动频道.png" group-title="江西移动频道",江西移动频道
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226285/index.m3u8
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西移动频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西移动频道",江西教育频道
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226197/index.m3u8
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西移动频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西移动频道",江西教育频道
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/10000100000000060000000004898209_0.smil/index.m3u8?
 #EXTINF:-1 tvg-name="江西陶瓷频道" tvg-logo="https://live.fanmingming.cn/tv/江西陶瓷频道.png" group-title="江西移动频道",江西陶瓷频道
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226304/index.m3u8
@@ -345,9 +341,9 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225690/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226274/index.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="江西移动频道",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="江西移动频道",凤凰香港
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1 tvg-name="KAKU少儿" tvg-logo="https://live.fanmingming.cn/tv/KAKU少儿.png" group-title="江西移动频道",KAKU少儿
+#EXTINF:-1 tvg-name="KAKU少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="江西移动频道",KAKU少儿
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226362/index.m3u8
 #EXTINF:-1 tvg-name="电影-1" tvg-logo="https://live.fanmingming.cn/tv/电影-1.png" group-title="江西移动频道",电影-1
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225712/index.m3u8
@@ -359,7 +355,7 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226238/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226391/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="江西移动频道",睛彩竞技
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226243/index.m3u8
-#EXTINF:-1 tvg-name="睛彩足球" tvg-logo="https://live.fanmingming.cn/tv/睛彩足球.png" group-title="江西移动频道",睛彩足球
+#EXTINF:-1 tvg-name="睛彩足球" tvg-logo="https://live.fanmingming.cn/tv/咪咕体育.png" group-title="江西移动频道",睛彩足球
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226235/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="江西移动频道",睛彩篮球
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226240/index.m3u8
@@ -367,33 +363,33 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226240/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226241/index.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="江西移动频道",睛彩青少
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226261/index.m3u8
-#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://live.fanmingming.cn/tv/精品体育.png" group-title="江西移动频道",精品体育
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://live.fanmingming.cn/tv/NEWTV精品体育.png" group-title="江西移动频道",精品体育
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225709/index.m3u8
-#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://live.fanmingming.cn/tv/精品大剧.png" group-title="江西移动频道",精品大剧
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://live.fanmingming.cn/tv/NEWTV精品大剧.png" group-title="江西移动频道",精品大剧
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://live.fanmingming.cn/tv/精品萌宠.png" group-title="江西移动频道",精品萌宠
+#EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://live.fanmingming.cn/tv/NEWTV精品萌宠.png" group-title="江西移动频道",精品萌宠
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226245/index.m3u8
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.cn/tv/茶频道.png" group-title="江西移动频道",茶频道
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225781/index.m3u8
-#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://live.fanmingming.cn/tv/超级体育.png" group-title="江西移动频道",超级体育
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级体育.png" group-title="江西移动频道",超级体育
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225622/index.m3u8
-#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://live.fanmingming.cn/tv/超级体育.png" group-title="江西移动频道",超级体育
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级体育.png" group-title="江西移动频道",超级体育
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225767/index.m3u8
-#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.cn/tv/超级电影.png" group-title="江西移动频道",超级电影
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级电影.png" group-title="江西移动频道",超级电影
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225623/index.m3u8
-#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.cn/tv/超级电影.png" group-title="江西移动频道",超级电影
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级电影.png" group-title="江西移动频道",超级电影
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225766/index.m3u8
-#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://live.fanmingming.cn/tv/超级电视剧.png" group-title="江西移动频道",超级电视剧
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级电视剧.png" group-title="江西移动频道",超级电视剧
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225625/index.m3u8
-#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://live.fanmingming.cn/tv/超级电视剧.png" group-title="江西移动频道",超级电视剧
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级电视剧.png" group-title="江西移动频道",超级电视剧
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://live.fanmingming.cn/tv/超级综艺.png" group-title="江西移动频道",超级综艺
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级综艺.png" group-title="江西移动频道",超级综艺
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://live.fanmingming.cn/tv/超级综艺.png" group-title="江西移动频道",超级综艺
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级综艺.png" group-title="江西移动频道",超级综艺
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225768/index.m3u8
 #EXTINF:-1 tvg-name="追番必看" tvg-logo="https://live.fanmingming.cn/tv/追番必看.png" group-title="江西移动频道",追番必看
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226269/index.m3u8
-#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://live.fanmingming.cn/tv/金牌综艺.png" group-title="江西移动频道",金牌综艺
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://live.fanmingming.cn/tv/NEWTV金牌综艺.png" group-title="江西移动频道",金牌综艺
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="江西移动频道",金鹰卡通
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226246/index.m3u8
@@ -405,15 +401,15 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225672/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225764/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="江西移动频道",黑莓电影
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225769/index.m3u8
-#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://live.fanmingming.cn/tv/中国功夫.png" group-title="江西移动频道",中国功夫
+#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://live.fanmingming.cn/tv/NEWTV中国功夫.png" group-title="江西移动频道",中国功夫
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="江西移动频道",中国天气
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226334/index.m3u8
-#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://live.fanmingming.cn/tv/军事评论.png" group-title="江西移动频道",军事评论
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://live.fanmingming.cn/tv/NEWTV军事评论.png" group-title="江西移动频道",军事评论
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225757/index.m3u8
-#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.cn/tv/军旅剧场.png" group-title="江西移动频道",军旅剧场
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.cn/tv/NEWTV军旅剧场.png" group-title="江西移动频道",军旅剧场
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://live.fanmingming.cn/tv/家庭剧场.png" group-title="江西移动频道",家庭剧场
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://live.fanmingming.cn/tv/NEWTV家庭剧场.png" group-title="江西移动频道",家庭剧场
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://live.fanmingming.cn/tv/农业致富.png" group-title="江西移动频道",农业致富
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225670/index.m3u8
@@ -427,11 +423,11 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226328/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-name="新华社" tvg-logo="https://live.fanmingming.cn/tv/新华社.png" group-title="江西移动频道",新华社
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226297/index.m3u8
-#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://live.fanmingming.cn/tv/东北热剧.png" group-title="江西移动频道",东北热剧
+#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://live.fanmingming.cn/tv/NEWTV东北热剧.png" group-title="江西移动频道",东北热剧
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226202/index.m3u8
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://live.fanmingming.cn/tv/梨园频道.png" group-title="江西移动频道",梨园频道
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225581/index.m3u8
-#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://live.fanmingming.cn/tv/欢乐剧场.png" group-title="江西移动频道",欢乐剧场
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://live.fanmingming.cn/tv/NEWTV欢乐剧场.png" group-title="江西移动频道",欢乐剧场
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226210/index.m3u8
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://live.fanmingming.cn/tv/武搏世界.png" group-title="江西移动频道",武搏世界
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225656/index.m3u8
@@ -445,9 +441,9 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225676/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226365/index.m3u8
 #EXTINF:-1 tvg-name="畅享影院" tvg-logo="https://live.fanmingming.cn/tv/畅享影院.png" group-title="江西移动频道",畅享影院
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226300/index.m3u8
-#EXTINF:-1 tvg-name="海外剧场" tvg-logo="https://live.fanmingming.cn/tv/海外剧场.png" group-title="江西移动频道",海外剧场
+#EXTINF:-1 tvg-name="海外剧场" tvg-logo="https://live.fanmingming.cn/tv/NEWTV海外剧场.png" group-title="江西移动频道",海外剧场
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://live.fanmingming.cn/tv/古装剧场.png" group-title="江西移动频道",古装剧场
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://live.fanmingming.cn/tv/NEWTV古装剧场.png" group-title="江西移动频道",古装剧场
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225678/index.m3u8
 #EXTINF:-1 tvg-name="品质大剧" tvg-logo="https://live.fanmingming.cn/tv/品质大剧.png" group-title="江西移动频道",品质大剧
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226266/index.m3u8
@@ -455,9 +451,9 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226266/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226265/index.m3u8
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="江西移动频道",哒啵赛事
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://live.fanmingming.cn/tv/潮妈辣婆.png" group-title="江西移动频道",潮妈辣婆
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://live.fanmingming.cn/tv/NEWTV潮妈辣婆.png" group-title="江西移动频道",潮妈辣婆
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225708/index.m3u8
-#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://live.fanmingming.cn/tv/炫舞未来.png" group-title="江西移动频道",炫舞未来
+#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://live.fanmingming.cn/tv/NEWTV炫舞未来.png" group-title="江西移动频道",炫舞未来
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225707/index.m3u8
 #EXTINF:-1 tvg-name="CCTV中视购物" tvg-logo="https://live.fanmingming.cn/tv/CCTV中视购物.png" group-title="江西移动频道",CCTV中视购物
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225976/index.m3u8
@@ -465,7 +461,7 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225976/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225973/index.m3u8
 #EXTINF:-1 tvg-name="优购物" tvg-logo="https://live.fanmingming.cn/tv/优购物.png" group-title="江西移动频道",优购物
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226219/index.m3u8
-#EXTINF:-1 tvg-name="快乐购物" tvg-logo="https://live.fanmingming.cn/tv/快乐购物.png" group-title="江西移动频道",快乐购物
+#EXTINF:-1 tvg-name="快乐购物" tvg-logo="https://live.fanmingming.cn/tv/快乐购.png" group-title="江西移动频道",快乐购物
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226190/index.m3u8
 #EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.cn/tv/央广购物.png" group-title="江西移动频道",央广购物
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225970/index.m3u8
@@ -477,8 +473,6 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225975/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225971/index.m3u8
 #EXTINF:-1 tvg-name="风尚购物" tvg-logo="https://live.fanmingming.cn/tv/风尚购物.png" group-title="江西移动频道",风尚购物
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226239/index.m3u8
-#EXTINF:-1 tvg-name="#1280x720" tvg-logo="https://live.fanmingming.cn/tv/#1280x720.png" group-title="江西移动频道",#1280x720
-undefined
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="江西移动频道",CCTV-3 综艺
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="江西移动频道",CCTV-5+ 体育赛事
@@ -511,8 +505,6 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225745/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225736/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="江西移动频道",深圳卫视
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-name="#720x576" tvg-logo="https://live.fanmingming.cn/tv/#720x576.png" group-title="江西移动频道",#720x576
-undefined
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="江西移动频道",CCTV-1 综合
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225573/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="江西移动频道",CCTV-2 财经
@@ -675,9 +667,9 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225579/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225576/index.m3u8
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.cn/tv/江西经济生活.png" group-title="江西移动频道",江西经济生活
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225580/index.m3u8
-#EXTINF:-1 tvg-name="KAKU少儿" tvg-logo="https://live.fanmingming.cn/tv/KAKU少儿.png" group-title="江西移动频道",KAKU少儿
+#EXTINF:-1 tvg-name="KAKU少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="江西移动频道",KAKU少儿
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-name="KAKU少儿" tvg-logo="https://live.fanmingming.cn/tv/KAKU少儿.png" group-title="江西移动频道",KAKU少儿
+#EXTINF:-1 tvg-name="KAKU少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="江西移动频道",KAKU少儿
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226360/index.m3u8
 #EXTINF:-1 tvg-name="中华特产" tvg-logo="https://live.fanmingming.cn/tv/中华特产.png" group-title="江西移动频道",中华特产
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226317/index.m3u8
@@ -685,7 +677,7 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226317/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226370/index.m3u8
 #EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://live.fanmingming.cn/tv/优优宝贝.png" group-title="江西移动频道",优优宝贝
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226312/index.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="江西移动频道",优漫卡通
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/江苏优漫卡通.png" group-title="江西移动频道",优漫卡通
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.cn/tv/先锋乒羽.png" group-title="江西移动频道",先锋乒羽
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226311/index.m3u8
@@ -705,7 +697,7 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226322/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225506/index.m3u8
 #EXTINF:-1 tvg-name="证券服务" tvg-logo="https://live.fanmingming.cn/tv/证券服务.png" group-title="江西移动频道",证券服务
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226337/index.m3u8
-#EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://live.fanmingming.cn/tv/车迷频道.png" group-title="江西移动频道",车迷频道
+#EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://live.fanmingming.cn/tv/车迷.png" group-title="江西移动频道",车迷频道
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226331/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="江西移动频道",金鹰卡通
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225554/index.m3u8
@@ -719,8 +711,6 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226378/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226313/index.m3u8
 #EXTINF:-1 tvg-name="生态环境" tvg-logo="https://live.fanmingming.cn/tv/生态环境.png" group-title="江西移动频道",生态环境
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226325/index.m3u8
-#EXTINF:-1 tvg-name="#3840x2160  二号源  宜春移动" tvg-logo="https://live.fanmingming.cn/tv/#3840x2160  二号源  宜春移动.png" group-title="江西移动频道",#3840x2160  二号源  宜春移动
-undefined
 #EXTINF:-1 tvg-name="4KUHD" tvg-logo="https://live.fanmingming.cn/tv/4KUHD.png" group-title="江西移动频道",4KUHD
 http://117.169.30.5:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 #EXTINF:-1 tvg-name="4KUHD" tvg-logo="https://live.fanmingming.cn/tv/4KUHD.png" group-title="江西移动频道",4KUHD
@@ -729,8 +719,6 @@ http://117.169.30.5:6610/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls
 http://117.169.30.5:6610/PLTV/88888888/224/3221226236/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="江西移动频道",CCTV-16 奥林匹克-4K
 http://117.169.30.5:6610/PLTV/88888888/224/3221226236/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="#1920x1080" tvg-logo="https://live.fanmingming.cn/tv/#1920x1080.png" group-title="江西移动频道",#1920x1080
-undefined
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="江西移动频道",CCTV-1 综合
 http://117.169.30.5:6610/PLTV/88888888/224/3221225501/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="江西移动频道",CCTV-1 综合
@@ -1595,7 +1583,7 @@ http://117.169.30.5:6610/PLTV/88888888/224/3221225692/2/index.m3u8?fmt=ts2hls
 http://117.169.30.5:6610/PLTV/88888888/224/3221225734/2/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="江西移动频道",重庆卫视
 http://117.169.30.5:6610/PLTV/88888888/224/3221225734/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://live.fanmingming.cn/tv/金牌综艺.png" group-title="江西移动频道",金牌综艺
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://live.fanmingming.cn/tv/NEWTV金牌综艺.png" group-title="江西移动频道",金牌综艺
 http://117.169.30.5:6610/PLTV/88888888/224/3221225711/2/index.m3u8
 #EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://live.fanmingming.cn/tv/金牌综艺.png" group-title="江西移动频道",金牌综艺
 http://117.169.30.5:6610/PLTV/88888888/224/3221225711/2/index.m3u8?fmt=ts2hls
@@ -1705,8 +1693,6 @@ http://117.169.30.5:6610/PLTV/88888888/224/3221225745/2/index.m3u8?fmt=ts2hls
 http://117.169.30.5:6610/PLTV/88888888/224/3221225736/2/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="江西移动频道",黑龙江卫视
 http://117.169.30.5:6610/PLTV/88888888/224/3221225736/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="#720*576" tvg-logo="https://live.fanmingming.cn/tv/#720*576.png" group-title="江西移动频道",#720*576
-undefined
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="江西移动频道",CCTV-1 综合
 http://117.169.30.5:6610/PLTV/88888888/224/3221225573/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="江西移动频道",CCTV-1 综合
@@ -18539,7 +18525,7 @@ rtsp://118.212.169.134/PLTV/88888888/224/3221227275/1000010000000006000000000164
 rtsp://118.212.169.134/PLTV/88888888/224/3221227273/10000100000000060000000001646408_0.smil
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://live.fanmingming.cn/tv/家庭理财.png" group-title="江西联通频道",家庭理财
 rtsp://118.212.169.134/PLTV/88888888/224/3221227280/10000100000000060000000001646426_0.smil
-#EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://live.fanmingming.cn/tv/车迷频道.png" group-title="江西联通频道",车迷频道
+#EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://live.fanmingming.cn/tv/车迷.png" group-title="江西联通频道",车迷频道
 rtsp://118.212.169.134/PLTV/88888888/224/3221227282/10000100000000060000000001646427_0.smil
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://live.fanmingming.cn/tv/梨园频道.png" group-title="江西联通频道",梨园频道
 rtsp://118.212.169.134/PLTV/88888888/224/3221227267/10000100000000060000000001646411_0.smil
