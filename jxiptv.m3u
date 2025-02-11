@@ -12141,8 +12141,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225729/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225546/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="江西移动频道",黑龙江卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225542/index.m3u8
-#EXTINF:-1 tvg-name="#3840x2160  南昌青山湖2、景德镇2、宜春、九江、鹰潭、赣州、吉安" tvg-logo="https://live.fanmingming.cn/tv/#3840x2160  南昌青山湖2、景德镇2、宜春、九江、鹰潭、赣州、吉安.png" group-title="江西电信频道",#3840x2160  南昌青山湖2、景德镇2、宜春、九江、鹰潭、赣州、吉安
-undefined
+
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="江西电信频道",CCTV-16-4K 奥林匹克
 http://115.153.212.72/PLTV/88888888/224/3221227051/92603106.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="江西电信频道",CCTV-16-4K 奥林匹克
@@ -12207,37 +12206,37 @@ rtsp://115.153.245.70/PLTV/88888888/224/3221227073/106537394.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221227073/106537394.smil
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="江西电信频道",CCTV-4 中文国际K
 rtsp://115.153.254.81/PLTV/88888888/224/3221227073/106537394.smil
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 http://115.153.212.72/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 http://115.153.222.112/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 http://115.153.230.145/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 http://115.153.233.154/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 http://115.153.240.228/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 http://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 http://115.153.247.80/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 http://115.153.254.81/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 rtsp://115.153.212.72/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 rtsp://115.153.230.145/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 rtsp://115.153.233.154/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 rtsp://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 rtsp://115.153.247.80/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="江西电信频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="江西电信频道",欢笑剧场4K
 rtsp://115.153.254.81/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.cn/tv/爱上4K.png" group-title="江西电信频道",爱上4K
 http://115.153.212.72/PLTV/88888888/224/3221227025/86502164.smil/index.m3u8?fmt=ts2hls
@@ -12271,8 +12270,6 @@ rtsp://115.153.245.70/PLTV/88888888/224/3221227025/86502164.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221227025/86502164.smil
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.cn/tv/爱上4K.png" group-title="江西电信频道",爱上4K
 rtsp://115.153.254.81/PLTV/88888888/224/3221227025/86502164.smil
-#EXTINF:-1 tvg-name="#1920x1080" tvg-logo="https://live.fanmingming.cn/tv/#1920x1080.png" group-title="江西电信频道",#1920x1080
-undefined
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="江西电信频道",CCTV-1 综合
 http://115.153.212.72/PLTV/88888888/224/3221225699/iptv8040.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="江西电信频道",CCTV-1 综合
@@ -12897,371 +12894,371 @@ rtsp://115.153.245.70/PLTV/88888888/224/3221226846/61397282.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221226846/61397282.smil
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="江西电信频道",CCTV-17 农业农村
 rtsp://115.153.254.81/PLTV/88888888/224/3221226846/61397282.smil
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 http://115.153.212.72/PLTV/88888888/224/3221226965/86128966.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 http://115.153.222.112/PLTV/88888888/224/3221226965/86128966.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 http://115.153.230.145/PLTV/88888888/224/3221226965/86128966.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 http://115.153.233.154/PLTV/88888888/224/3221226965/86128966.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 http://115.153.240.228/PLTV/88888888/224/3221226965/86128966.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 http://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 http://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 http://115.153.254.81/PLTV/88888888/224/3221226965/86128966.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 rtsp://115.153.212.72/PLTV/88888888/224/3221226965/86128966.smil
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 rtsp://115.153.230.145/PLTV/88888888/224/3221226965/86128966.smil
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 rtsp://115.153.233.154/PLTV/88888888/224/3221226965/86128966.smil
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226965/86128966.smil
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="江西电信频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="江西电信频道",CCTV世界地理
 rtsp://115.153.254.81/PLTV/88888888/224/3221226965/86128966.smil
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 http://115.153.212.72/PLTV/88888888/224/3221227004/86132185.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 http://115.153.222.112/PLTV/88888888/224/3221227004/86132185.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 http://115.153.230.145/PLTV/88888888/224/3221227004/86132185.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 http://115.153.233.154/PLTV/88888888/224/3221227004/86132185.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 http://115.153.240.228/PLTV/88888888/224/3221227004/86132185.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 http://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 http://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 http://115.153.254.81/PLTV/88888888/224/3221227004/86132185.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 rtsp://115.153.212.72/PLTV/88888888/224/3221227004/86132185.smil
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 rtsp://115.153.230.145/PLTV/88888888/224/3221227004/86132185.smil
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 rtsp://115.153.233.154/PLTV/88888888/224/3221227004/86132185.smil
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221227004/86132185.smil
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="江西电信频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="江西电信频道",CCTV兵器科技
 rtsp://115.153.254.81/PLTV/88888888/224/3221227004/86132185.smil
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 http://115.153.212.72/PLTV/88888888/224/3221226955/86106661.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 http://115.153.222.112/PLTV/88888888/224/3221226955/86106661.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 http://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 http://115.153.233.154/PLTV/88888888/224/3221226955/86106661.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 http://115.153.240.228/PLTV/88888888/224/3221226955/86106661.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 http://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 http://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 http://115.153.254.81/PLTV/88888888/224/3221226955/86106661.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 rtsp://115.153.212.72/PLTV/88888888/224/3221226955/86106661.smil
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 rtsp://115.153.233.154/PLTV/88888888/224/3221226955/86106661.smil
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226955/86106661.smil
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="江西电信频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="江西电信频道",CCTV央视台球
 rtsp://115.153.254.81/PLTV/88888888/224/3221226955/86106661.smil
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 http://115.153.212.72/PLTV/88888888/224/3221226957/86128679.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 http://115.153.222.112/PLTV/88888888/224/3221226957/86128679.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 http://115.153.230.145/PLTV/88888888/224/3221226957/86128679.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 http://115.153.233.154/PLTV/88888888/224/3221226957/86128679.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 http://115.153.240.228/PLTV/88888888/224/3221226957/86128679.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 http://115.153.245.70/PLTV/88888888/224/3221226957/86128679.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 http://115.153.247.80/PLTV/88888888/224/3221226957/86128679.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 http://115.153.254.81/PLTV/88888888/224/3221226957/86128679.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 rtsp://115.153.212.72/PLTV/88888888/224/3221226957/86128679.smil
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226957/86128679.smil
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 rtsp://115.153.230.145/PLTV/88888888/224/3221226957/86128679.smil
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 rtsp://115.153.233.154/PLTV/88888888/224/3221226957/86128679.smil
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226957/86128679.smil
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 rtsp://115.153.245.70/PLTV/88888888/224/3221226957/86128679.smil
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 rtsp://115.153.247.80/PLTV/88888888/224/3221226957/86128679.smil
-#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视精品.png" group-title="江西电信频道",CCTV央视精品
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.cn/tv/央视精品.png" group-title="江西电信频道",CCTV央视精品
 rtsp://115.153.254.81/PLTV/88888888/224/3221226957/86128679.smil
 #EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/CCTV女性时尚.png" group-title="江西电信频道",CCTV女性时尚
 http://115.153.254.81/PLTV/88888888/224/3221226998/86128978.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/CCTV女性时尚.png" group-title="江西电信频道",CCTV女性时尚
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="江西电信频道",CCTV女性时尚
 rtsp://115.153.212.72/PLTV/88888888/224/3221226998/86128978.smil
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/CCTV女性时尚.png" group-title="江西电信频道",CCTV女性时尚
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="江西电信频道",CCTV女性时尚
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226998/86128978.smil
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/CCTV女性时尚.png" group-title="江西电信频道",CCTV女性时尚
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="江西电信频道",CCTV女性时尚
 rtsp://115.153.230.145/PLTV/88888888/224/3221226998/86128978.smil
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/CCTV女性时尚.png" group-title="江西电信频道",CCTV女性时尚
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="江西电信频道",CCTV女性时尚
 rtsp://115.153.233.154/PLTV/88888888/224/3221226998/86128978.smil
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/CCTV女性时尚.png" group-title="江西电信频道",CCTV女性时尚
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="江西电信频道",CCTV女性时尚
 rtsp://115.153.245.70/PLTV/88888888/224/3221226998/86128978.smil
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/CCTV女性时尚.png" group-title="江西电信频道",CCTV女性时尚
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="江西电信频道",CCTV女性时尚
 rtsp://115.153.247.80/PLTV/88888888/224/3221226998/86128978.smil
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 http://115.153.212.72/PLTV/88888888/224/3221226996/86128881.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 http://115.153.222.112/PLTV/88888888/224/3221226996/86128881.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 http://115.153.230.145/PLTV/88888888/224/3221226996/86128881.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 http://115.153.233.154/PLTV/88888888/224/3221226996/86128881.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 http://115.153.240.228/PLTV/88888888/224/3221226996/86128881.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 http://115.153.245.70/PLTV/88888888/224/3221226996/86128881.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 http://115.153.247.80/PLTV/88888888/224/3221226996/86128881.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 http://115.153.254.81/PLTV/88888888/224/3221226996/86128881.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 rtsp://115.153.212.72/PLTV/88888888/224/3221226996/86128881.smil
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226996/86128881.smil
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 rtsp://115.153.230.145/PLTV/88888888/224/3221226996/86128881.smil
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 rtsp://115.153.233.154/PLTV/88888888/224/3221226996/86128881.smil
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226996/86128881.smil
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 rtsp://115.153.245.70/PLTV/88888888/224/3221226996/86128881.smil
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 rtsp://115.153.247.80/PLTV/88888888/224/3221226996/86128881.smil
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="江西电信频道",CCTV怀旧剧场
 rtsp://115.153.254.81/PLTV/88888888/224/3221226996/86128881.smil
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 http://115.153.212.72/PLTV/88888888/224/3221226969/86129034.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 http://115.153.222.112/PLTV/88888888/224/3221226969/86129034.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 http://115.153.230.145/PLTV/88888888/224/3221226969/86129034.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 http://115.153.233.154/PLTV/88888888/224/3221226969/86129034.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 http://115.153.240.228/PLTV/88888888/224/3221226969/86129034.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 http://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 http://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 http://115.153.254.81/PLTV/88888888/224/3221226969/86129034.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 rtsp://115.153.212.72/PLTV/88888888/224/3221226969/86129034.smil
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 rtsp://115.153.230.145/PLTV/88888888/224/3221226969/86129034.smil
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 rtsp://115.153.233.154/PLTV/88888888/224/3221226969/86129034.smil
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226969/86129034.smil
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="江西电信频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="江西电信频道",CCTV电视指南
 rtsp://115.153.254.81/PLTV/88888888/224/3221226969/86129034.smil
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 http://115.153.212.72/PLTV/88888888/224/3221226961/86128891.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 http://115.153.222.112/PLTV/88888888/224/3221226961/86128891.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 http://115.153.230.145/PLTV/88888888/224/3221226961/86128891.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 http://115.153.233.154/PLTV/88888888/224/3221226961/86128891.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 http://115.153.240.228/PLTV/88888888/224/3221226961/86128891.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 http://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 http://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 http://115.153.254.81/PLTV/88888888/224/3221226961/86128891.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 rtsp://115.153.212.72/PLTV/88888888/224/3221226961/86128891.smil
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226961/86128891.smil
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 rtsp://115.153.230.145/PLTV/88888888/224/3221226961/86128891.smil
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 rtsp://115.153.233.154/PLTV/88888888/224/3221226961/86128891.smil
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226961/86128891.smil
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="江西电信频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="江西电信频道",CCTV第一剧场
 rtsp://115.153.254.81/PLTV/88888888/224/3221226961/86128891.smil
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 http://115.153.212.72/PLTV/88888888/224/3221226963/86128874.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 http://115.153.222.112/PLTV/88888888/224/3221226963/86128874.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 http://115.153.230.145/PLTV/88888888/224/3221226963/86128874.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 http://115.153.233.154/PLTV/88888888/224/3221226963/86128874.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 http://115.153.240.228/PLTV/88888888/224/3221226963/86128874.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 http://115.153.245.70/PLTV/88888888/224/3221226963/86128874.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 http://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 http://115.153.254.81/PLTV/88888888/224/3221226963/86128874.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 rtsp://115.153.212.72/PLTV/88888888/224/3221226963/86128874.smil
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226963/86128874.smil
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 rtsp://115.153.230.145/PLTV/88888888/224/3221226963/86128874.smil
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 rtsp://115.153.233.154/PLTV/88888888/224/3221226963/86128874.smil
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226963/86128874.smil
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 rtsp://115.153.245.70/PLTV/88888888/224/3221226963/86128874.smil
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 rtsp://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="江西电信频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="江西电信频道",CCTV风云剧场
 rtsp://115.153.254.81/PLTV/88888888/224/3221226963/86128874.smil
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 http://115.153.212.72/PLTV/88888888/224/3221227000/86128919.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 http://115.153.222.112/PLTV/88888888/224/3221227000/86128919.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 http://115.153.230.145/PLTV/88888888/224/3221227000/86128919.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 http://115.153.233.154/PLTV/88888888/224/3221227000/86128919.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 http://115.153.240.228/PLTV/88888888/224/3221227000/86128919.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 http://115.153.245.70/PLTV/88888888/224/3221227000/86128919.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 http://115.153.247.80/PLTV/88888888/224/3221227000/86128919.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 http://115.153.254.81/PLTV/88888888/224/3221227000/86128919.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 rtsp://115.153.212.72/PLTV/88888888/224/3221227000/86128919.smil
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221227000/86128919.smil
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 rtsp://115.153.230.145/PLTV/88888888/224/3221227000/86128919.smil
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 rtsp://115.153.233.154/PLTV/88888888/224/3221227000/86128919.smil
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221227000/86128919.smil
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 rtsp://115.153.245.70/PLTV/88888888/224/3221227000/86128919.smil
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 rtsp://115.153.247.80/PLTV/88888888/224/3221227000/86128919.smil
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="江西电信频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="江西电信频道",CCTV风云足球
 rtsp://115.153.254.81/PLTV/88888888/224/3221227000/86128919.smil
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 http://115.153.212.72/PLTV/88888888/224/3221226994/86128897.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 http://115.153.222.112/PLTV/88888888/224/3221226994/86128897.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 http://115.153.230.145/PLTV/88888888/224/3221226994/86128897.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 http://115.153.233.154/PLTV/88888888/224/3221226994/86128897.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 http://115.153.240.228/PLTV/88888888/224/3221226994/86128897.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 http://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 http://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 http://115.153.254.81/PLTV/88888888/224/3221226994/86128897.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 rtsp://115.153.212.72/PLTV/88888888/224/3221226994/86128897.smil
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 rtsp://115.153.230.145/PLTV/88888888/224/3221226994/86128897.smil
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 rtsp://115.153.233.154/PLTV/88888888/224/3221226994/86128897.smil
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226994/86128897.smil
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="江西电信频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="江西电信频道",CCTV风云音乐
 rtsp://115.153.254.81/PLTV/88888888/224/3221226994/86128897.smil
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 http://115.153.212.72/PLTV/88888888/224/3221226967/86128985.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 http://115.153.222.112/PLTV/88888888/224/3221226967/86128985.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 http://115.153.230.145/PLTV/88888888/224/3221226967/86128985.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 http://115.153.233.154/PLTV/88888888/224/3221226967/86128985.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 http://115.153.240.228/PLTV/88888888/224/3221226967/86128985.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 http://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 http://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 http://115.153.254.81/PLTV/88888888/224/3221226967/86128985.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 rtsp://115.153.212.72/PLTV/88888888/224/3221226967/86128985.smil
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 rtsp://115.153.230.145/PLTV/88888888/224/3221226967/86128985.smil
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 rtsp://115.153.233.154/PLTV/88888888/224/3221226967/86128985.smil
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226967/86128985.smil
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="江西电信频道",CCTV高尔夫网球
 rtsp://115.153.254.81/PLTV/88888888/224/3221226967/86128985.smil
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="江西电信频道",CETV-1 综合教育
 http://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil/index.m3u8?fmt=ts2hls
@@ -13311,21 +13308,21 @@ http://115.153.245.70/PLTV/88888888/224/3221226947/77798966.smil/index.m3u8?fmt=
 http://115.153.247.80/PLTV/88888888/224/3221226947/77798966.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN英语.png" group-title="江西电信频道",CGTN英语
 http://115.153.254.81/PLTV/88888888/224/3221226947/77798966.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN英语.png" group-title="江西电信频道",CGTN英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="江西电信频道",CGTN英语
 rtsp://115.153.212.72/PLTV/88888888/224/3221226947/77798966.smil
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN英语.png" group-title="江西电信频道",CGTN英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="江西电信频道",CGTN英语
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226947/77798966.smil
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN英语.png" group-title="江西电信频道",CGTN英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="江西电信频道",CGTN英语
 rtsp://115.153.230.145/PLTV/88888888/224/3221226947/77798966.smil
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN英语.png" group-title="江西电信频道",CGTN英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="江西电信频道",CGTN英语
 rtsp://115.153.233.154/PLTV/88888888/224/3221226947/77798966.smil
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN英语.png" group-title="江西电信频道",CGTN英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="江西电信频道",CGTN英语
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226947/77798966.smil
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN英语.png" group-title="江西电信频道",CGTN英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="江西电信频道",CGTN英语
 rtsp://115.153.245.70/PLTV/88888888/224/3221226947/77798966.smil
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN英语.png" group-title="江西电信频道",CGTN英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="江西电信频道",CGTN英语
 rtsp://115.153.247.80/PLTV/88888888/224/3221226947/77798966.smil
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN英语.png" group-title="江西电信频道",CGTN英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="江西电信频道",CGTN英语
 rtsp://115.153.254.81/PLTV/88888888/224/3221226947/77798966.smil
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="江西电信频道",CGTN俄语
 http://115.153.212.72/PLTV/88888888/224/3221226966/77798997.smil/index.m3u8?fmt=ts2hls
@@ -13423,69 +13420,69 @@ rtsp://115.153.245.70/PLTV/88888888/224/3221226960/77798993.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221226960/77798993.smil
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="江西电信频道",CGTN纪录
 rtsp://115.153.254.81/PLTV/88888888/224/3221226960/77798993.smil
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 http://115.153.212.72/PLTV/88888888/224/3221226949/77798970.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 http://115.153.222.112/PLTV/88888888/224/3221226949/77798970.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 http://115.153.230.145/PLTV/88888888/224/3221226949/77798970.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 http://115.153.233.154/PLTV/88888888/224/3221226949/77798970.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 http://115.153.240.228/PLTV/88888888/224/3221226949/77798970.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 http://115.153.245.70/PLTV/88888888/224/3221226949/77798970.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 http://115.153.247.80/PLTV/88888888/224/3221226949/77798970.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 http://115.153.254.81/PLTV/88888888/224/3221226949/77798970.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 rtsp://115.153.212.72/PLTV/88888888/224/3221226949/77798970.smil
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226949/77798970.smil
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 rtsp://115.153.230.145/PLTV/88888888/224/3221226949/77798970.smil
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 rtsp://115.153.233.154/PLTV/88888888/224/3221226949/77798970.smil
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226949/77798970.smil
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 rtsp://115.153.245.70/PLTV/88888888/224/3221226949/77798970.smil
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 rtsp://115.153.247.80/PLTV/88888888/224/3221226949/77798970.smil
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="江西电信频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="江西电信频道",CGTN西班牙语
 rtsp://115.153.254.81/PLTV/88888888/224/3221226949/77798970.smil
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 http://115.153.212.72/PLTV/88888888/224/3221226951/77799001.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 http://115.153.222.112/PLTV/88888888/224/3221226951/77799001.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 http://115.153.230.145/PLTV/88888888/224/3221226951/77799001.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 http://115.153.233.154/PLTV/88888888/224/3221226951/77799001.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 http://115.153.240.228/PLTV/88888888/224/3221226951/77799001.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 http://115.153.245.70/PLTV/88888888/224/3221226951/77799001.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 http://115.153.247.80/PLTV/88888888/224/3221226951/77799001.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 http://115.153.254.81/PLTV/88888888/224/3221226951/77799001.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 rtsp://115.153.212.72/PLTV/88888888/224/3221226951/77799001.smil
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226951/77799001.smil
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 rtsp://115.153.230.145/PLTV/88888888/224/3221226951/77799001.smil
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 rtsp://115.153.233.154/PLTV/88888888/224/3221226951/77799001.smil
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226951/77799001.smil
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 rtsp://115.153.245.70/PLTV/88888888/224/3221226951/77799001.smil
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 rtsp://115.153.247.80/PLTV/88888888/224/3221226951/77799001.smil
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="江西电信频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="江西电信频道",CGTN阿拉伯语
 rtsp://115.153.254.81/PLTV/88888888/224/3221226951/77799001.smil
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="江西电信频道",CHC动作电影
 http://115.153.212.72/PLTV/88888888/224/3221226992/86128817.smil/index.m3u8?fmt=ts2hls
@@ -13743,37 +13740,37 @@ rtsp://115.153.245.70/PLTV/88888888/224/3221226708/53213097.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221226708/53213097.smil
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.cn/tv/江西公共农业.png" group-title="江西电信频道",江西公共农业
 rtsp://115.153.254.81/PLTV/88888888/224/3221226708/53213097.smil
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 http://115.153.212.72/PLTV/88888888/224/3221226938/68733921.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 http://115.153.222.112/PLTV/88888888/224/3221226938/68733921.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 http://115.153.230.145/PLTV/88888888/224/3221226938/68733921.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 http://115.153.233.154/PLTV/88888888/224/3221226938/68733921.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 http://115.153.240.228/PLTV/88888888/224/3221226938/68733921.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 http://115.153.245.70/PLTV/88888888/224/3221226938/68733921.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 http://115.153.247.80/PLTV/88888888/224/3221226938/68733921.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 http://115.153.254.81/PLTV/88888888/224/3221226938/68733921.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 rtsp://115.153.212.72/PLTV/88888888/224/3221226938/68733921.smil
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226938/68733921.smil
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 rtsp://115.153.230.145/PLTV/88888888/224/3221226938/68733921.smil
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 rtsp://115.153.233.154/PLTV/88888888/224/3221226938/68733921.smil
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226938/68733921.smil
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 rtsp://115.153.245.70/PLTV/88888888/224/3221226938/68733921.smil
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 rtsp://115.153.247.80/PLTV/88888888/224/3221226938/68733921.smil
-#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿频道.png" group-title="江西电信频道",江西少儿频道
+#EXTINF:-1 tvg-name="江西少儿频道" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="江西电信频道",江西少儿频道
 rtsp://115.153.254.81/PLTV/88888888/224/3221226938/68733921.smil
 #EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.cn/tv/江西影视旅游.png" group-title="江西电信频道",江西影视旅游
 http://115.153.212.72/PLTV/88888888/224/3221227071/98779894.smil/index.m3u8?fmt=ts2hls
@@ -13807,69 +13804,69 @@ rtsp://115.153.245.70/PLTV/88888888/224/3221227071/98779894.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221227071/98779894.smil
 #EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.cn/tv/江西影视旅游.png" group-title="江西电信频道",江西影视旅游
 rtsp://115.153.254.81/PLTV/88888888/224/3221227071/98779894.smil
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 http://115.153.212.72/PLTV/88888888/224/3221226942/69552502.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 http://115.153.222.112/PLTV/88888888/224/3221226942/69552502.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 http://115.153.230.145/PLTV/88888888/224/3221226942/69552502.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 http://115.153.233.154/PLTV/88888888/224/3221226942/69552502.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 http://115.153.240.228/PLTV/88888888/224/3221226942/69552502.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 http://115.153.245.70/PLTV/88888888/224/3221226942/69552502.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 http://115.153.247.80/PLTV/88888888/224/3221226942/69552502.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 http://115.153.254.81/PLTV/88888888/224/3221226942/69552502.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 rtsp://115.153.212.72/PLTV/88888888/224/3221226942/69552502.smil
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226942/69552502.smil
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 rtsp://115.153.230.145/PLTV/88888888/224/3221226942/69552502.smil
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 rtsp://115.153.233.154/PLTV/88888888/224/3221226942/69552502.smil
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226942/69552502.smil
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 rtsp://115.153.245.70/PLTV/88888888/224/3221226942/69552502.smil
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 rtsp://115.153.247.80/PLTV/88888888/224/3221226942/69552502.smil
-#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育频道.png" group-title="江西电信频道",江西教育频道
+#EXTINF:-1 tvg-name="江西教育频道" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="江西电信频道",江西教育频道
 rtsp://115.153.254.81/PLTV/88888888/224/3221226942/69552502.smil
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 http://115.153.212.72/PLTV/88888888/224/3221226650/53190437.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 http://115.153.222.112/PLTV/88888888/224/3221226650/53190437.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 http://115.153.230.145/PLTV/88888888/224/3221226650/53190437.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 http://115.153.233.154/PLTV/88888888/224/3221226650/53190437.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 http://115.153.240.228/PLTV/88888888/224/3221226650/53190437.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 http://115.153.245.70/PLTV/88888888/224/3221226650/53190437.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 http://115.153.247.80/PLTV/88888888/224/3221226650/53190437.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 http://115.153.254.81/PLTV/88888888/224/3221226650/53190437.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 rtsp://115.153.212.72/PLTV/88888888/224/3221226650/53190437.smil
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226650/53190437.smil
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 rtsp://115.153.230.145/PLTV/88888888/224/3221226650/53190437.smil
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 rtsp://115.153.233.154/PLTV/88888888/224/3221226650/53190437.smil
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221226650/53190437.smil
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 rtsp://115.153.245.70/PLTV/88888888/224/3221226650/53190437.smil
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 rtsp://115.153.247.80/PLTV/88888888/224/3221226650/53190437.smil
-#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻频道.png" group-title="江西电信频道",江西新闻频道
+#EXTINF:-1 tvg-name="江西新闻频道" tvg-logo="https://live.fanmingming.cn/tv/江西新闻.png" group-title="江西电信频道",江西新闻频道
 rtsp://115.153.254.81/PLTV/88888888/224/3221226650/53190437.smil
 #EXTINF:-1 tvg-name="江西移动频道" tvg-logo="https://live.fanmingming.cn/tv/江西移动频道.png" group-title="江西电信频道",江西移动频道
 rtsp://115.153.212.72/PLTV/88888888/224/3221227070/96801473.smil
