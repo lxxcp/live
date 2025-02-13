@@ -139,11 +139,11 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226345/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226290/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226321/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226339/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226318/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226296/index.m3u8
 #EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226359/index.m3u8
@@ -159,7 +159,7 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226287/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226293/index.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226299/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="江西移动频道",CETV-1 综合教育
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225917/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226369/index.m3u8
@@ -999,17 +999,17 @@ http://117.169.30.5:6610/PLTV/88888888/224/3221225976/2/index.m3u8?fmt=ts2hls
 http://117.169.30.5:6610/PLTV/88888888/224/3221226321/2/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://117.169.30.5:6610/PLTV/88888888/224/3221226321/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://117.169.30.5:6610/PLTV/88888888/224/3221226339/2/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://117.169.30.5:6610/PLTV/88888888/224/3221226339/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://117.169.30.5:6610/PLTV/88888888/224/3221226318/2/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://117.169.30.5:6610/PLTV/88888888/224/3221226318/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://117.169.30.5:6610/PLTV/88888888/224/3221226296/2/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://117.169.30.5:6610/PLTV/88888888/224/3221226296/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://117.169.30.5:6610/PLTV/88888888/224/3221226359/2/index.m3u8
@@ -2239,11 +2239,11 @@ http://117.169.30.5:6610/PLTV/88888888/224/3221226345/1/index.m3u8
 http://117.169.30.5:6610/PLTV/88888888/224/3221226290/1/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://117.169.30.5:6610/PLTV/88888888/224/3221226321/1/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://117.169.30.5:6610/PLTV/88888888/224/3221226339/1/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://117.169.30.5:6610/PLTV/88888888/224/3221226318/1/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://117.169.30.5:6610/PLTV/88888888/224/3221226296/1/index.m3u8
 #EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://117.169.30.5:6610/PLTV/88888888/224/3221226359/1/index.m3u8
@@ -2943,11 +2943,11 @@ http://39.134.115.221:8080/PLTV/88888910/224/3221226290/index.m3u8
 http://39.134.115.221:8080/PLTV/88888910/224/3221225976/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://39.134.115.221:8080/PLTV/88888910/224/3221226321/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://39.134.115.221:8080/PLTV/88888910/224/3221226339/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://39.134.115.221:8080/PLTV/88888910/224/3221226318/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://39.134.115.221:8080/PLTV/88888910/224/3221226296/index.m3u8
 #EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://39.134.115.221:8080/PLTV/88888910/224/3221226359/index.m3u8
@@ -3633,11 +3633,11 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221226345/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221226290/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://39.134.115.163:8080/PLTV/88888910/224/3221226321/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://39.134.115.163:8080/PLTV/88888910/224/3221226339/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://39.134.115.163:8080/PLTV/88888910/224/3221226318/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://39.134.115.163:8080/PLTV/88888910/224/3221226296/index.m3u8
 #EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://39.134.115.163:8080/PLTV/88888910/224/3221226359/index.m3u8
@@ -4331,11 +4331,11 @@ http://39.134.115.163:8080/PLTV/88888888/224/3221226345/1/index.m3u8
 http://39.134.115.163:8080/PLTV/88888888/224/3221226290/1/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://39.134.115.163:8080/PLTV/88888888/224/3221226321/1/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://39.134.115.163:8080/PLTV/88888888/224/3221226339/1/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://39.134.115.163:8080/PLTV/88888888/224/3221226318/1/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://39.134.115.163:8080/PLTV/88888888/224/3221226296/1/index.m3u8
 #EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://39.134.115.163:8080/PLTV/88888888/224/3221226359/1/index.m3u8
@@ -5119,11 +5119,11 @@ http://39.135.140.104:6610/PLTV/88888888/224/3221226345/1/index.m3u8
 http://39.135.140.104:6610/PLTV/88888888/224/3221226290/1/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://39.135.140.104:6610/PLTV/88888888/224/3221226321/1/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://39.135.140.104:6610/PLTV/88888888/224/3221226339/1/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://39.135.140.104:6610/PLTV/88888888/224/3221226318/1/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://39.135.140.104:6610/PLTV/88888888/224/3221226296/1/index.m3u8
 #EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://39.135.140.104:6610/PLTV/88888888/224/3221226359/1/index.m3u8
@@ -6261,17 +6261,17 @@ http://39.137.49.76:8080/PLTV/88888910/224/3221225976/index.m3u8
 http://39.137.49.76:8080/PLTV/88888888/224/3221226321/10000100000000060000000000000162_0.smil/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://39.137.49.76:8080/PLTV/88888910/224/3221226321/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://39.137.49.76:8080/PLTV/88888888/224/3221226339/10000100000000060000000000000162_0.smil/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://39.137.49.76:8080/PLTV/88888910/224/3221226339/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://39.137.49.76:8080/PLTV/88888888/224/3221226318/10000100000000060000000000000162_0.smil/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://39.137.49.76:8080/PLTV/88888910/224/3221226318/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://39.137.49.76:8080/PLTV/88888888/224/3221226296/10000100000000060000000000000162_0.smil/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://39.137.49.76:8080/PLTV/88888910/224/3221226296/index.m3u8
 #EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="江西移动频道",CCTV女性时尚
 http://39.137.49.76:8080/PLTV/88888888/224/3221226293/10000100000000060000000000000162_0.smil/index.m3u8
@@ -7505,11 +7505,11 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226345/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226290/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226321/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226339/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226318/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226296/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226359/index.m3u8?fmt=ts2hls
@@ -8681,11 +8681,11 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226290/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225976/2/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226321/2/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226339/2/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226318/2/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226296/2/index.m3u8
 #EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226359/2/index.m3u8
@@ -9379,11 +9379,11 @@ http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226290/2/index.
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225976/2/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226321/2/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226339/2/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226318/2/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226296/2/index.m3u8
 #EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226359/2/index.m3u8
@@ -10077,11 +10077,11 @@ http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226290/2/index.
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225976/2/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226321/2/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226339/2/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226318/2/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226296/2/index.m3u8
 #EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226359/2/index.m3u8
@@ -10775,11 +10775,11 @@ http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226290/index.m3
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225976/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226321/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226339/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226318/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226296/index.m3u8
 #EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226359/index.m3u8
@@ -11473,11 +11473,11 @@ http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226290/index.m3
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225976/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226321/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226339/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226318/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226296/index.m3u8
 #EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226359/index.m3u8
@@ -12171,11 +12171,11 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226290/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225976/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="江西移动频道",CCTV兵器科技
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226321/index.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="江西移动频道台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="江西移动频道",CCTV央视台球
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226339/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="江西移动频道",CCTV怀旧剧场
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226318/index.m3u8
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="江西移动频道",CCTV文化精品
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="江西移动频道",CCTV央视精品
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226296/index.m3u8
 #EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="江西移动频道",CCTV电视指南
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226359/index.m3u8
