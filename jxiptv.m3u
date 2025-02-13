@@ -335,11 +335,11 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225734/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225727/index.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="江西移动频道",黑龙江卫视
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225690/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226248/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226274/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1,tvg-id="KAKU少儿" tvg-name="KAKU少儿" tvg-logo="https://epg.112114.xyz/logo/KAKU少儿.png" group-title="江西移动频道",KAKU少儿
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226362/index.m3u8
@@ -1151,17 +1151,17 @@ http://117.169.30.5:6610/PLTV/88888888/224/3221225669/2/index.m3u8?fmt=ts2hls
 http://117.169.30.5:6610/PLTV/88888888/224/3221225670/2/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://epg.112114.xyz/logo/NEWTV农业致富.png" group-title="江西移动频道",农业致富
 http://117.169.30.5:6610/PLTV/88888888/224/3221225670/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://117.169.30.5:6610/PLTV/88888888/224/3221226248/2/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://117.169.30.5:6610/PLTV/88888888/224/3221226248/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://117.169.30.5:6610/PLTV/88888888/224/3221226274/2/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://117.169.30.5:6610/PLTV/88888888/224/3221226274/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://117.169.30.5:6610/PLTV/88888888/224/3221226251/2/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://117.169.30.5:6610/PLTV/88888888/224/3221226251/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="动画世界" tvg-name="动画世界" tvg-logo="https://epg.112114.xyz/logo/动画世界.png" group-title="江西移动频道",动画世界
 http://117.169.30.5:6610/PLTV/88888888/224/3221226272/2/index.m3u8
@@ -2423,11 +2423,11 @@ http://117.169.30.5:6610/PLTV/88888888/224/3221225727/1/index.m3u8
 http://117.169.30.5:6610/PLTV/88888888/224/3221225586/1/index.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="江西移动频道",黑龙江卫视
 http://117.169.30.5:6610/PLTV/88888888/224/3221225690/1/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://117.169.30.5:6610/PLTV/88888888/224/3221226248/1/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://117.169.30.5:6610/PLTV/88888888/224/3221226274/1/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://117.169.30.5:6610/PLTV/88888888/224/3221226251/1/index.m3u8
 #EXTINF:-1,tvg-id="KAKU少儿" tvg-name="KAKU少儿" tvg-logo="https://epg.112114.xyz/logo/KAKU少儿.png" group-title="江西移动频道",KAKU少儿
 http://117.169.30.5:6610/PLTV/88888888/224/3221226362/1/index.m3u8
@@ -3019,11 +3019,11 @@ http://39.134.115.221:8080/PLTV/88888910/224/3221225757/index.m3u8
 http://39.134.115.221:8080/PLTV/88888910/224/3221225669/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://epg.112114.xyz/logo/NEWTV农业致富.png" group-title="江西移动频道",农业致富
 http://39.134.115.221:8080/PLTV/88888910/224/3221225670/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://39.134.115.221:8080/PLTV/88888910/224/3221226248/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://39.134.115.221:8080/PLTV/88888910/224/3221226274/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://39.134.115.221:8080/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1,tvg-id="动画世界" tvg-name="动画世界" tvg-logo="https://epg.112114.xyz/logo/动画世界.png" group-title="江西移动频道",动画世界
 http://39.134.115.221:8080/PLTV/88888910/224/3221226272/index.m3u8
@@ -3817,11 +3817,11 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221226382/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221226385/index.m3u8
 #EXTINF:-1,tvg-id="南昌资讯" tvg-name="南昌资讯" tvg-logo="https://epg.112114.xyz/logo/南昌资讯.png" group-title="江西移动频道",南昌资讯
 http://39.134.115.163:8080/PLTV/88888910/224/3221226374/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://39.134.115.163:8080/PLTV/88888910/224/3221226248/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://39.134.115.163:8080/PLTV/88888910/224/3221226274/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://39.134.115.163:8080/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1,tvg-id="KAKU少儿" tvg-name="KAKU少儿" tvg-logo="https://epg.112114.xyz/logo/KAKU少儿.png" group-title="江西移动频道",KAKU少儿
 http://39.134.115.163:8080/PLTV/88888910/224/3221226362/index.m3u8
@@ -4515,11 +4515,11 @@ http://39.134.115.163:8080/PLTV/88888888/224/3221225727/1/index.m3u8
 http://39.134.115.163:8080/PLTV/88888888/224/3221225586/1/index.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="江西移动频道",黑龙江卫视
 http://39.134.115.163:8080/PLTV/88888888/224/3221225690/1/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://39.134.115.163:8080/PLTV/88888888/224/3221226248/1/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://39.134.115.163:8080/PLTV/88888888/224/3221226274/1/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://39.134.115.163:8080/PLTV/88888888/224/3221226251/1/index.m3u8
 #EXTINF:-1,tvg-id="KAKU少儿" tvg-name="KAKU少儿" tvg-logo="https://epg.112114.xyz/logo/KAKU少儿.png" group-title="江西移动频道",KAKU少儿
 http://39.134.115.163:8080/PLTV/88888888/224/3221226362/1/index.m3u8
@@ -5425,17 +5425,17 @@ http://39.135.140.104:6610/PLTV/88888888/224/3221225586/1/index.m3u8?fmt=ts2hls
 http://39.135.140.104:6610/PLTV/88888888/224/3221225690/1/index.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="江西移动频道",黑龙江卫视
 http://39.135.140.104:6610/PLTV/88888888/224/3221225690/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://39.135.140.104:6610/PLTV/88888888/224/3221226248/1/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://39.135.140.104:6610/PLTV/88888888/224/3221226248/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://39.135.140.104:6610/PLTV/88888888/224/3221226274/1/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://39.135.140.104:6610/PLTV/88888888/224/3221226274/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://39.135.140.104:6610/PLTV/88888888/224/3221226251/1/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://39.135.140.104:6610/PLTV/88888888/224/3221226251/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="海外剧场" tvg-name="海外剧场" tvg-logo="https://epg.112114.xyz/logo/海外剧场.png" group-title="江西移动频道",海外剧场
 http://39.135.140.104:6610/PLTV/88888888/224/3221225716/1/index.m3u8
@@ -6637,17 +6637,17 @@ http://39.137.49.76:8080/PLTV/88888910/224/3221226374/index.m3u8
 http://39.137.49.76:8080/PLTV/88888888/224/3221226385/10000100000000060000000000000162_0.smil/index.m3u8
 #EXTINF:-1,tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://epg.112114.xyz/logo/南昌都市.png" group-title="江西移动频道",南昌都市
 http://39.137.49.76:8080/PLTV/88888910/224/3221226385/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://39.137.49.76:8080/PLTV/88888888/224/3221226248/10000100000000060000000000000162_0.smil/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://39.137.49.76:8080/PLTV/88888910/224/3221226248/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://39.137.49.76:8080/PLTV/88888888/224/3221226274/10000100000000060000000000000162_0.smil/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://39.137.49.76:8080/PLTV/88888910/224/3221226274/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://39.137.49.76:8080/PLTV/88888888/224/3221226251/10000100000000060000000000000162_0.smil/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://39.137.49.76:8080/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1,tvg-id="KAKU少儿" tvg-name="KAKU少儿" tvg-logo="https://epg.112114.xyz/logo/KAKU少儿.png" group-title="江西移动频道",KAKU少儿
 http://39.137.49.76:8080/PLTV/88888888/224/3221226362/10000100000000060000000000000162_0.smil/index.m3u8
@@ -7691,11 +7691,11 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/100001000000000
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="江西陶瓷频道" tvg-name="江西陶瓷频道" tvg-logo="https://epg.112114.xyz/logo/江西陶瓷.png" group-title="江西移动频道",江西陶瓷频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226304/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1,tvg-id="KAKU少儿" tvg-name="KAKU少儿" tvg-logo="https://epg.112114.xyz/logo/KAKU少儿.png" group-title="江西移动频道",KAKU少儿
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226362/index.m3u8?fmt=ts2hls
@@ -8241,11 +8241,11 @@ http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226382
 http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://epg.112114.xyz/logo/南昌都市.png" group-title="江西移动频道",南昌都市
 http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226385/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226274/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://epg.112114.xyz/logo/NEWTV潮妈辣婆.png" group-title="江西移动频道",潮妈辣婆
 http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
@@ -8455,11 +8455,11 @@ http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225729
 http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 #EXTINF:-1,tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://epg.112114.xyz/logo/延边卫视.png" group-title="江西移动频道",延边卫视2
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 #EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="江西移动频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="港澳台",TVB星河
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="江西移动频道",TVB星河
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 #EXTINF:-1,tvg-id="GOODTV" tvg-name="GOODTV" tvg-logo="https://epg.112114.xyz/logo/GOODTV.png" group-title="江西移动频道",GOODTV好消息
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
@@ -8481,7 +8481,7 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1,tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://epg.112114.xyz/logo/中天娱乐台.png" group-title="江西移动频道",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1,tvg-id="纬来精采" tvg-name="纬来精采" tvg-logo="https://epg.112114.xyz/logo/纬来精采.png" group-title="港澳台",纬来精采
+#EXTINF:-1,tvg-id="纬来精采" tvg-name="纬来精采" tvg-logo="https://epg.112114.xyz/logo/纬来精采.png" group-title="江西移动频道",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1,tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.112114.xyz/logo/动物星球.png" group-title="江西移动频道",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
@@ -8493,13 +8493,13 @@ http://61.221.215.25:8800/hls/58/index.m3u8
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1,tvg-id="番薯111" tvg-name="番薯111" tvg-logo="https://epg.112114.xyz/logo/番薯.png" group-title="江西移动频道",番薯111
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1,tvg-id="大爱一台" tvg-name="大爱一台" tvg-logo="https://epg.112114.xyz/logo/大爱一台.png" group-title="港澳台",大爱一台
+#EXTINF:-1,tvg-id="大爱一台" tvg-name="大爱一台" tvg-logo="https://epg.112114.xyz/logo/大爱一台.png" group-title="江西移动频道",大爱一台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1,tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://epg.112114.xyz/logo/大爱二台.png" group-title="港澳台",大爱二台
+#EXTINF:-1,tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://epg.112114.xyz/logo/大爱二台.png" group-title="江西移动频道",大爱二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1,tvg-id="大立DALI" tvg-name="大立DALI" tvg-logo="https://epg.112114.xyz/logo/大立DALI.png" group-title="江西移动频道",大立DALI
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻台
+#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="江西移动频道",台视新闻台
 https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1,tvg-id="红牛运动" tvg-name="红牛运动" tvg-logo="https://epg.112114.xyz/logo/红牛运动.png" group-title="江西移动频道",红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -8517,7 +8517,7 @@ http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 #EXTINF:-1,tvg-id="音乐之声" tvg-name="音乐之声" tvg-logo="https://epg.112114.xyz/logo/音乐之声.png" group-title="江西移动频道",音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1,tvg-id="香港之声" tvg-name="香港之声" tvg-logo="https://epg.112114.xyz/logo/香港之声.png" group-title="香港",香港之声
+#EXTINF:-1,tvg-id="香港之声" tvg-name="香港之声" tvg-logo="https://epg.112114.xyz/logo/香港之声.png" group-title="江西移动频道",香港之声
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 #EXTINF:-1,tvg-id="乡村之声" tvg-name="乡村之声" tvg-logo="https://epg.112114.xyz/logo/乡村之声.png" group-title="江西移动频道",乡村之声
 http://ngcdn017.cnr.cn/live/xczs/index.m3u8
@@ -8755,11 +8755,11 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226382/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226374/2/index.m3u8
 #EXTINF:-1,tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://epg.112114.xyz/logo/南昌都市.png" group-title="江西移动频道",南昌都市
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226385/2/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="江西移动频道",东南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225585/2/index.m3u8
@@ -9453,11 +9453,11 @@ http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226382/2/index.
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226374/2/index.m3u8
 #EXTINF:-1,tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://epg.112114.xyz/logo/南昌都市.png" group-title="江西移动频道",南昌都市
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226385/2/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="江西移动频道",东南卫视
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225585/2/index.m3u8
@@ -10151,11 +10151,11 @@ http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226382/2/index.
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226374/2/index.m3u8
 #EXTINF:-1,tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://epg.112114.xyz/logo/南昌都市.png" group-title="江西移动频道",南昌都市
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226385/2/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="江西移动频道",东南卫视
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225585/2/index.m3u8
@@ -10849,11 +10849,11 @@ http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226382/index.m3
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226374/index.m3u8
 #EXTINF:-1,tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://epg.112114.xyz/logo/南昌都市.png" group-title="江西移动频道",南昌都市
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226385/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226248/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226274/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="江西移动频道",东南卫视
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225585/index.m3u8
@@ -11547,11 +11547,11 @@ http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226382/index.m3
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226374/index.m3u8
 #EXTINF:-1,tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://epg.112114.xyz/logo/南昌都市.png" group-title="江西移动频道",南昌都市
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226385/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226248/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226274/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="江西移动频道",东南卫视
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225585/index.m3u8
@@ -12245,11 +12245,11 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226382/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226374/index.m3u8
 #EXTINF:-1,tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://epg.112114.xyz/logo/南昌都市.png" group-title="江西移动频道",南昌都市
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226385/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="江西移动频道",凤凰中文
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="江西移动频道",凤凰资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="江西移动频道",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="江西移动频道",东南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225585/index.m3u8
@@ -14252,19 +14252,19 @@ http://115.153.245.70/PLTV/88888888/224/3221226999/86441130.smil/index.m3u8?fmt=
 http://115.153.247.80/PLTV/88888888/224/3221226999/86441130.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="动作影院" tvg-name="动作影院" tvg-logo="https://epg.112114.xyz/logo/动作影院.png" group-title="江西电信频道",动作影院
 http://115.153.254.81/PLTV/88888888/224/3221226999/86441130.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="江西电信频道",北京纪实科教
 http://115.153.222.112/PLTV/88888888/224/3221227074/108965751.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="江西电信频道",北京纪实科教
 http://115.153.222.112:554/PLTV/88888888/224/3221227074/108965751.smil?fmt=ts2hls
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="江西电信频道",北京纪实科教
 http://115.153.230.145/PLTV/88888888/224/3221227074/108965751.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="江西电信频道",北京纪实科教
 http://115.153.233.154/PLTV/88888888/224/3221227074/108965751.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="江西电信频道",北京纪实科教
 http://115.153.245.70/PLTV/88888888/224/3221227074/108965751.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="江西电信频道",北京纪实科教
 http://115.153.247.80/PLTV/88888888/224/3221227074/108965751.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="江西电信频道",北京纪实科教
 http://115.153.254.81/PLTV/88888888/224/3221227074/108965751.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV古装剧场.png" group-title="江西电信频道",古装剧场
 http://115.153.212.72/PLTV/88888888/224/3221227020/86441115.smil/index.m3u8?fmt=ts2hls
