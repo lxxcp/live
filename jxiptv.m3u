@@ -527,17 +527,17 @@ http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225565/index.m3u8
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225564/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="江西移动频道",CCTV-17 农业农村
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225910/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225563/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225661/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226242/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226350/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225937/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225969/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225747/index.m3u8
@@ -1035,9 +1035,9 @@ http://117.169.30.5:6610/PLTV/88888888/224/3221226287/2/index.m3u8?fmt=ts2hls
 http://117.169.30.5:6610/PLTV/88888888/224/3221226299/2/index.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://117.169.30.5:6610/PLTV/88888888/224/3221226299/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225917/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://117.169.30.5:6610/PLTV/88888888/224/3221226369/2/index.m3u8
@@ -1735,29 +1735,29 @@ http://117.169.30.5:6610/PLTV/88888888/224/3221225570/2/index.m3u8?fmt=ts2hls
 http://117.169.30.5:6610/PLTV/88888888/224/3221225920/2/index.m3u8
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="江西移动频道",CCTV-9 纪录
 http://117.169.30.5:6610/PLTV/88888888/224/3221225920/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225563/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225563/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225661/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225661/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://117.169.30.5:6610/PLTV/88888888/224/3221226242/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://117.169.30.5:6610/PLTV/88888888/224/3221226242/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://117.169.30.5:6610/PLTV/88888888/224/3221226350/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://117.169.30.5:6610/PLTV/88888888/224/3221226350/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225937/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225937/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225969/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225969/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" group-title="江西移动频道",CGTN俄语
 http://117.169.30.5:6610/PLTV/88888888/224/3221226282/2/index.m3u8
@@ -2259,7 +2259,7 @@ http://117.169.30.5:6610/PLTV/88888888/224/3221226287/1/index.m3u8
 http://117.169.30.5:6610/PLTV/88888888/224/3221226293/1/index.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://117.169.30.5:6610/PLTV/88888888/224/3221226299/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225917/1/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://117.169.30.5:6610/PLTV/88888888/224/3221226369/1/index.m3u8
@@ -2615,17 +2615,17 @@ http://117.169.30.5:6610/PLTV/88888888/224/3221225565/1/index.m3u8
 http://117.169.30.5:6610/PLTV/88888888/224/3221225564/1/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="江西移动频道",CCTV-17 农业农村
 http://117.169.30.5:6610/PLTV/88888888/224/3221225910/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225563/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225661/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://117.169.30.5:6610/PLTV/88888888/224/3221226242/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://117.169.30.5:6610/PLTV/88888888/224/3221226350/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225937/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://117.169.30.5:6610/PLTV/88888888/224/3221225969/1/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://117.169.30.5:6610/PLTV/88888888/224/3221225747/1/index.m3u8
@@ -2961,7 +2961,7 @@ http://39.134.115.221:8080/PLTV/88888910/224/3221226302/index.m3u8
 http://39.134.115.221:8080/PLTV/88888910/224/3221226287/index.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://39.134.115.221:8080/PLTV/88888910/224/3221226299/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.134.115.221:8080/PLTV/88888910/224/3221225917/index.m3u8
 #EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" group-title="江西移动频道",CGTN俄语
 http://39.134.115.221:8080/PLTV/88888910/224/3221226367/index.m3u8
@@ -3311,17 +3311,17 @@ http://39.134.115.221:8080/PLTV/88888910/224/3221225571/index.m3u8
 http://39.134.115.221:8080/PLTV/88888910/224/3221225570/index.m3u8
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="江西移动频道",CCTV-9 纪录
 http://39.134.115.221:8080/PLTV/88888910/224/3221225920/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.134.115.221:8080/PLTV/88888910/224/3221225563/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.134.115.221:8080/PLTV/88888910/224/3221225661/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://39.134.115.221:8080/PLTV/88888910/224/3221226242/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://39.134.115.221:8080/PLTV/88888910/224/3221226350/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://39.134.115.221:8080/PLTV/88888910/224/3221225937/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://39.134.115.221:8080/PLTV/88888910/224/3221225969/index.m3u8
 #EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" group-title="江西移动频道",CGTN俄语
 http://39.134.115.221:8080/PLTV/88888910/224/3221226282/index.m3u8
@@ -3653,7 +3653,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221226287/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221226293/index.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://39.134.115.163:8080/PLTV/88888910/224/3221226299/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225917/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://39.134.115.163:8080/PLTV/88888910/224/3221226369/index.m3u8
@@ -4009,17 +4009,17 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225565/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225564/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="江西移动频道",CCTV-17 农业农村
 http://39.134.115.163:8080/PLTV/88888910/224/3221225910/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225563/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225661/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://39.134.115.163:8080/PLTV/88888910/224/3221226242/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://39.134.115.163:8080/PLTV/88888910/224/3221226350/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225937/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225969/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://39.134.115.163:8080/PLTV/88888910/224/3221225747/index.m3u8
@@ -4351,7 +4351,7 @@ http://39.134.115.163:8080/PLTV/88888888/224/3221226287/1/index.m3u8
 http://39.134.115.163:8080/PLTV/88888888/224/3221226293/1/index.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://39.134.115.163:8080/PLTV/88888888/224/3221226299/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.134.115.163:8080/PLTV/88888888/224/3221225917/1/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://39.134.115.163:8080/PLTV/88888888/224/3221226369/1/index.m3u8
@@ -4707,17 +4707,17 @@ http://39.134.115.163:8080/PLTV/88888888/224/3221225565/1/index.m3u8
 http://39.134.115.163:8080/PLTV/88888888/224/3221225564/1/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="江西移动频道",CCTV-17 农业农村
 http://39.134.115.163:8080/PLTV/88888888/224/3221225910/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.134.115.163:8080/PLTV/88888888/224/3221225563/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.134.115.163:8080/PLTV/88888888/224/3221225661/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://39.134.115.163:8080/PLTV/88888888/224/3221226242/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://39.134.115.163:8080/PLTV/88888888/224/3221226350/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://39.134.115.163:8080/PLTV/88888888/224/3221225937/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://39.134.115.163:8080/PLTV/88888888/224/3221225969/1/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://39.134.115.163:8080/PLTV/88888888/224/3221225747/1/index.m3u8
@@ -5141,9 +5141,9 @@ http://39.135.140.104:6610/PLTV/88888888/224/3221226293/1/index.m3u8
 http://39.135.140.104:6610/PLTV/88888888/224/3221226293/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://39.135.140.104:6610/PLTV/88888888/224/3221226299/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.135.140.104:6610/PLTV/88888888/224/3221225917/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.135.140.104:6610/PLTV/88888888/224/3221225917/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="江西移动频道",CGTN纪录
 http://39.135.140.104:6610/PLTV/88888888/224/3221226341/1/index.m3u8
@@ -5739,27 +5739,27 @@ http://39.135.140.104:6610/PLTV/88888888/224/3221225565/1/index.m3u8?fmt=ts2hls
 http://39.135.140.104:6610/PLTV/88888888/224/3221225564/1/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="江西移动频道",CCTV-17 农业农村
 http://39.135.140.104:6610/PLTV/88888888/224/3221225910/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.135.140.104:6610/PLTV/88888888/224/3221225563/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.135.140.104:6610/PLTV/88888888/224/3221225563/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.135.140.104:6610/PLTV/88888888/224/3221225661/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.135.140.104:6610/PLTV/88888888/224/3221225661/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://39.135.140.104:6610/PLTV/88888888/224/3221226242/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://39.135.140.104:6610/PLTV/88888888/224/3221226242/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://39.135.140.104:6610/PLTV/88888888/224/3221226350/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://39.135.140.104:6610/PLTV/88888888/224/3221225937/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://39.135.140.104:6610/PLTV/88888888/224/3221225937/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://39.135.140.104:6610/PLTV/88888888/224/3221225969/1/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://39.135.140.104:6610/PLTV/88888888/224/3221225969/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="江西移动频道",CGTN纪录
 http://39.135.140.104:6610/PLTV/88888888/224/3221225645/1/index.m3u8
@@ -6301,9 +6301,9 @@ http://39.137.49.76:8080/PLTV/88888910/224/3221226287/index.m3u8
 http://39.137.49.76:8080/PLTV/88888888/224/3221226299/10000100000000060000000000000162_0.smil/index.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://39.137.49.76:8080/PLTV/88888910/224/3221226299/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.137.49.76:8080/PLTV/88888888/224/3221225917/10000100000000060000000000000162_0.smil/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.137.49.76:8080/PLTV/88888910/224/3221225917/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://39.137.49.76:8080/PLTV/88888888/224/3221226369/10000100000000060000000000000162_0.smil/index.m3u8
@@ -7025,7 +7025,7 @@ http://39.137.49.76:8080/PLTV/88888888/224/3221225560/10000100000000060000000000
 http://39.137.49.76:8080/PLTV/88888888/224/3221225561/10000100000000060000000000000162_0.smil/index.m3u8
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="江西移动频道",西藏卫视
 http://39.137.49.76:8080/PLTV/88888888/224/3221225562/10000100000000060000000000000162_0.smil/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.137.49.76:8080/PLTV/88888888/224/3221225563/10000100000000060000000000000162_0.smil/index.m3u8
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="江西移动频道",CCTV-15 音乐
 http://39.137.49.76:8080/PLTV/88888888/224/3221225564/10000100000000060000000000000162_0.smil/index.m3u8
@@ -7061,7 +7061,7 @@ http://39.137.49.76:8080/PLTV/88888888/224/3221225582/10000100000000060000000000
 http://39.137.49.76:8080/PLTV/88888888/224/3221225583/10000100000000060000000000000162_0.smil/index.m3u8
 #EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="江西移动频道",CGTN纪录
 http://39.137.49.76:8080/PLTV/88888888/224/3221225645/10000100000000060000000000000162_0.smil/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.137.49.76:8080/PLTV/88888888/224/3221225661/10000100000000060000000000000162_0.smil/index.m3u8
 #EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="江西移动频道",优漫卡通
 http://39.137.49.76:8080/PLTV/88888888/224/3221225665/10000100000000060000000000000162_0.smil/index.m3u8
@@ -7091,9 +7091,9 @@ http://39.137.49.76:8080/PLTV/88888888/224/3221225747/10000100000000060000000000
 http://39.137.49.76:8080/PLTV/88888888/224/3221225910/10000100000000060000000000000162_0.smil/index.m3u8
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="江西移动频道",CCTV-9 纪录
 http://39.137.49.76:8080/PLTV/88888888/224/3221225920/10000100000000060000000000000162_0.smil/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://39.137.49.76:8080/PLTV/88888888/224/3221225937/10000100000000060000000000000162_0.smil/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://39.137.49.76:8080/PLTV/88888888/224/3221225969/10000100000000060000000000000162_0.smil/index.m3u8
 #EXTINF:-1,tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/汽摩.png" group-title="江西移动频道",汽摩
 http://39.137.49.76:8080/PLTV/88888888/224/3221225506/10000100000000060000000000000162_0.smil/index.m3u8
@@ -7109,7 +7109,7 @@ http://39.137.49.76:8080/PLTV/88888888/224/3221226203/10000100000000060000000000
 http://39.137.49.76:8080/PLTV/88888888/224/3221226204/10000100000000060000000000000162_0.smil/index.m3u8
 #EXTINF:-1,tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://epg.112114.xyz/logo/康巴卫视.png" group-title="江西移动频道",四川康巴卫视
 http://39.137.49.76:8080/PLTV/88888888/224/3221226207/10000100000000060000000000000162_0.smil/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://39.137.49.76:8080/PLTV/88888888/224/3221226242/10000100000000060000000000000162_0.smil/index.m3u8
 #EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="江西移动频道",CGTN纪录
 http://39.137.49.76:8080/PLTV/88888888/224/3221226260/10000100000000060000000000000162_0.smil/index.m3u8
@@ -7149,7 +7149,7 @@ http://39.137.49.76:8080/PLTV/88888888/224/3221226337/10000100000000060000000000
 http://39.137.49.76:8080/PLTV/88888888/224/3221226338/10000100000000060000000000000162_0.smil/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://39.137.49.76:8080/PLTV/88888888/224/3221226347/10000100000000060000000000000162_0.smil/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://39.137.49.76:8080/PLTV/88888888/224/3221226350/10000100000000060000000000000162_0.smil/index.m3u8
 #EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" group-title="江西移动频道",山东教育
 http://39.137.49.76:8080/PLTV/88888888/224/3221226353/10000100000000060000000000000162_0.smil/index.m3u8
@@ -7221,7 +7221,7 @@ http://39.137.49.76:8080/PLTV/88888910/224/3221225560/index.m3u8
 http://39.137.49.76:8080/PLTV/88888910/224/3221225561/index.m3u8
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="江西移动频道",西藏卫视
 http://39.137.49.76:8080/PLTV/88888910/224/3221225562/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.137.49.76:8080/PLTV/88888910/224/3221225563/index.m3u8
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="江西移动频道",CCTV-15 音乐
 http://39.137.49.76:8080/PLTV/88888910/224/3221225564/index.m3u8
@@ -7257,7 +7257,7 @@ http://39.137.49.76:8080/PLTV/88888910/224/3221225582/index.m3u8
 http://39.137.49.76:8080/PLTV/88888910/224/3221225583/index.m3u8
 #EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="江西移动频道",CGTN纪录
 http://39.137.49.76:8080/PLTV/88888910/224/3221225645/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://39.137.49.76:8080/PLTV/88888910/224/3221225661/index.m3u8
 #EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="江西移动频道",优漫卡通
 http://39.137.49.76:8080/PLTV/88888910/224/3221225665/index.m3u8
@@ -7287,9 +7287,9 @@ http://39.137.49.76:8080/PLTV/88888910/224/3221225747/index.m3u8
 http://39.137.49.76:8080/PLTV/88888910/224/3221225910/index.m3u8
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="江西移动频道",CCTV-9 纪录
 http://39.137.49.76:8080/PLTV/88888910/224/3221225920/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://39.137.49.76:8080/PLTV/88888910/224/3221225937/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://39.137.49.76:8080/PLTV/88888910/224/3221225969/index.m3u8
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="江西移动频道",嘉佳卡通
 http://39.137.49.76:8080/PLTV/88888910/224/3221226193/index.m3u8
@@ -7303,7 +7303,7 @@ http://39.137.49.76:8080/PLTV/88888910/224/3221226203/index.m3u8
 http://39.137.49.76:8080/PLTV/88888910/224/3221226204/index.m3u8
 #EXTINF:-1,tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://epg.112114.xyz/logo/康巴卫视.png" group-title="江西移动频道",四川康巴卫视
 http://39.137.49.76:8080/PLTV/88888910/224/3221226207/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://39.137.49.76:8080/PLTV/88888910/224/3221226242/index.m3u8
 #EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="江西移动频道",CGTN纪录
 http://39.137.49.76:8080/PLTV/88888910/224/3221226260/index.m3u8
@@ -7343,7 +7343,7 @@ http://39.137.49.76:8080/PLTV/88888910/224/3221226337/index.m3u8
 http://39.137.49.76:8080/PLTV/88888910/224/3221226338/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://39.137.49.76:8080/PLTV/88888910/224/3221226347/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://39.137.49.76:8080/PLTV/88888910/224/3221226350/index.m3u8
 #EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" group-title="江西移动频道",山东教育
 http://39.137.49.76:8080/PLTV/88888910/224/3221226353/index.m3u8
@@ -7523,7 +7523,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226302/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226287/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226299/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226369/index.m3u8?fmt=ts2hls
@@ -7881,11 +7881,11 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225565/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225564/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="江西移动频道",CCTV-17 农业农村
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225910/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225563/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226350/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225969/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8
@@ -7903,7 +7903,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225552/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225561/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="江西移动频道",中华特产
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226317/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1,tvg-id="CETV-2 空中课堂 " tvg-name="CETV-2 空中课堂 " tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂 
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226242/index.m3u8
@@ -8385,11 +8385,11 @@ http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225740
 http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="江西移动频道",黑龙江卫视
 http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225937/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
@@ -8701,7 +8701,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226287/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226293/2/index.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226299/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225917/2/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226369/2/index.m3u8
@@ -9055,17 +9055,17 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225565/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225564/2/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="江西移动频道",CCTV-17 农业农村
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225910/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225563/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225661/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226242/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226350/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225937/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225969/2/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225747/2/index.m3u8
@@ -9399,7 +9399,7 @@ http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226287/2/index.
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226293/2/index.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226299/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225917/2/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226369/2/index.m3u8
@@ -9753,17 +9753,17 @@ http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225565/2/index.
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225564/2/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="江西移动频道",CCTV-17 农业农村
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225910/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225563/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225661/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226242/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226350/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225937/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225969/2/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225747/2/index.m3u8
@@ -10097,7 +10097,7 @@ http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226287/2/index.
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226293/2/index.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226299/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225917/2/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226369/2/index.m3u8
@@ -10451,17 +10451,17 @@ http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225565/2/index.
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225564/2/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="江西移动频道",CCTV-17 农业农村
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225910/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225563/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225661/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226242/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226350/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225937/2/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225969/2/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225747/2/index.m3u8
@@ -10795,7 +10795,7 @@ http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226287/index.m3
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226293/index.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226299/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225917/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226369/index.m3u8
@@ -11149,17 +11149,17 @@ http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225565/index.m3
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225564/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="江西移动频道",CCTV-17 农业农村
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225910/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225563/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225661/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226242/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226350/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225937/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225969/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225747/index.m3u8
@@ -11493,7 +11493,7 @@ http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226287/index.m3
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226293/index.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226299/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225917/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226369/index.m3u8
@@ -11847,17 +11847,17 @@ http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225565/index.m3
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225564/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="江西移动频道",CCTV-17 农业农村
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225910/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225563/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225661/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226242/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226350/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225937/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225969/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225747/index.m3u8
@@ -12191,7 +12191,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226287/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226293/index.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西移动频道",CCTV高尔夫网球
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226299/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225917/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226369/index.m3u8
@@ -12545,17 +12545,17 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225565/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225564/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="江西移动频道",CCTV-17 农业农村
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225910/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225563/index.m3u8
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西移动频道",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225661/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226242/index.m3u8
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西移动频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西移动频道",CETV-2 空中课堂
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226350/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225937/index.m3u8
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西移动频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西移动频道",CETV-4 职业教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225969/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西移动频道",CGTN
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225747/index.m3u8
@@ -13210,21 +13210,21 @@ http://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil/index.m3u8?fmt=
 http://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="江西电信频道",CCTV高尔夫网球
 http://115.153.254.81/PLTV/88888888/224/3221226967/86128985.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
 http://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
 http://115.153.222.112/PLTV/88888888/224/3221226858/63768493.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
 http://115.153.230.145/PLTV/88888888/224/3221226858/63768493.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
 http://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
 http://115.153.240.228/PLTV/88888888/224/3221226858/63768493.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
 http://115.153.245.70/PLTV/88888888/224/3221226858/63768493.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
 http://115.153.247.80/PLTV/88888888/224/3221226858/63768493.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1 综合教育" tvg-name="CETV-1 综合教育" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1综合教育.png" group-title="江西电信频道",CETV-1 综合教育
 http://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西电信频道",CGTN
 http://115.153.212.72/PLTV/88888888/224/3221226947/77798966.smil/index.m3u8?fmt=ts2hls
@@ -14762,37 +14762,37 @@ http://115.153.245.70/PLTV/88888888/224/3221225517/iptv7949.smil/index.m3u8?fmt=
 http://115.153.247.80/PLTV/88888888/224/3221225517/iptv7949.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="江西电信频道",CCTV-1 综合
 http://115.153.254.81/PLTV/88888888/224/3221225517/iptv7949.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西电信频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西电信频道",CETV-2 空中课堂
 http://115.153.212.72/PLTV/88888888/224/3221226978/85722625.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西电信频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西电信频道",CETV-2 空中课堂
 http://115.153.222.112/PLTV/88888888/224/3221226978/85722625.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西电信频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西电信频道",CETV-2 空中课堂
 http://115.153.230.145/PLTV/88888888/224/3221226978/85722625.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西电信频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西电信频道",CETV-2 空中课堂
 http://115.153.233.154/PLTV/88888888/224/3221226978/85722625.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西电信频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西电信频道",CETV-2 空中课堂
 http://115.153.240.228/PLTV/88888888/224/3221226978/85722625.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西电信频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西电信频道",CETV-2 空中课堂
 http://115.153.245.70/PLTV/88888888/224/3221226978/85722625.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西电信频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西电信频道",CETV-2 空中课堂
 http://115.153.247.80/PLTV/88888888/224/3221226978/85722625.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-2 空中课堂" tvg-name="CETV-2 空中课堂" tvg-logo="https://epg.112114.xyz/logo/CETV2空中课堂.png" group-title="江西电信频道",CETV-2 空中课堂
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2堂.png" group-title="江西电信频道",CETV-2 空中课堂
 http://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西电信频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西电信频道",CETV-4 职业教育
 http://115.153.212.72/PLTV/88888888/224/3221226905/65242632.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西电信频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西电信频道",CETV-4 职业教育
 http://115.153.222.112/PLTV/88888888/224/3221226905/65242632.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西电信频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西电信频道",CETV-4 职业教育
 http://115.153.230.145/PLTV/88888888/224/3221226905/65242632.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西电信频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西电信频道",CETV-4 职业教育
 http://115.153.233.154/PLTV/88888888/224/3221226905/65242632.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西电信频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西电信频道",CETV-4 职业教育
 http://115.153.240.228/PLTV/88888888/224/3221226905/65242632.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西电信频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西电信频道",CETV-4 职业教育
 http://115.153.245.70/PLTV/88888888/224/3221226905/65242632.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西电信频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西电信频道",CETV-4 职业教育
 http://115.153.247.80/PLTV/88888888/224/3221226905/65242632.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-4 职业教育" tvg-name="CETV-4 职业教育" tvg-logo="https://epg.112114.xyz/logo/CETV4职业教育.png" group-title="江西电信频道",CETV-4 职业教育
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="江西电信频道",CETV-4 职业教育
 http://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="江西电信频道",CGTN
 http://115.153.212.72/PLTV/88888888/224/3221226694/55738457.smil/index.m3u8?fmt=ts2hls
