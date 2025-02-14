@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="三沙卫视">
+<tv><channel id="CCTV4K">
+		<display-name lang="zh">CCTV4K</display-name>
+	</channel>
+	<channel id="三沙卫视">
 		<display-name lang="zh">三沙卫视</display-name>
 	</channel>
 	<channel id="东南卫视">
@@ -167,9 +170,189 @@
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
+	<channel id="CCTV4K">
+		<display-name lang="zh">CCTV4K</display-name>
+	</channel>
 	<channel id="求索纪录">
 		<display-name lang="zh">求索纪录</display-name>
 	</channel>
+	<programme channel="CCTV4K" start="20250214000000 +0800" stop="20250214060000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214060000 +0800" stop="20250214060100 +0800">
+		<title lang="zh">4K频道宣传片-标识演绎4</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214060100 +0800" stop="20250214064100 +0800">
+		<title lang="zh">探索·发现（4K）-2024-88</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214064100 +0800" stop="20250214072300 +0800">
+		<title lang="zh">远方的家2024-83(4K)</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214072300 +0800" stop="20250214072300 +0800">
+		<title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214072300 +0800" stop="20250214075300 +0800">
+		<title lang="zh">国家记忆-2024-81（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214075300 +0800" stop="20250214084300 +0800">
+		<title lang="zh">航拍中国（第三季）--一同飞越-3（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214084300 +0800" stop="20250214085300 +0800">
+		<title lang="zh">千秋诗颂-早发白帝城（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214085300 +0800" stop="20250214085800 +0800">
+		<title lang="zh">中国微名片·世界遗产（第二季）-1（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214085800 +0800" stop="20250214085900 +0800">
+		<title lang="zh">4K宣传片-三餐四季总宣（第二季）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214085900 +0800" stop="20250214085900 +0800">
+		<title lang="zh">4K宣传片-美美与共</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214085900 +0800" stop="20250214090000 +0800">
+		<title lang="zh">4K宣传片-舌尖上的中国4</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214090000 +0800" stop="20250214094700 +0800">
+		<title lang="zh">赤热-（4K）-3/34</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214094700 +0800" stop="20250214103300 +0800">
+		<title lang="zh">赤热-（4K）-4/34</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214103300 +0800" stop="20250214103300 +0800">
+		<title lang="zh">4K频道宣传片-标识演绎3</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214103300 +0800" stop="20250214110100 +0800">
+		<title lang="zh">记住乡愁2025-4（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214110100 +0800" stop="20250214110600 +0800">
+		<title lang="zh">听起来很好吃-8（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214110600 +0800" stop="20250214111100 +0800">
+		<title lang="zh">听起来很好吃(第二季)-15（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214111100 +0800" stop="20250214113500 +0800">
+		<title lang="zh">辣椒的征途-1（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214113500 +0800" stop="20250214115900 +0800">
+		<title lang="zh">鲜生史 第二季-6（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214115900 +0800" stop="20250214120000 +0800">
+		<title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214120000 +0800" stop="20250214123000 +0800">
+		<title lang="zh">国家记忆-2024-81（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214123000 +0800" stop="20250214131200 +0800">
+		<title lang="zh">远方的家2024-83(4K)</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214131200 +0800" stop="20250214140200 +0800">
+		<title lang="zh">航拍中国（第三季）--一同飞越-3（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214140200 +0800" stop="20250214144900 +0800">
+		<title lang="zh">新居之约-（4K）-6/39</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214144900 +0800" stop="20250214153500 +0800">
+		<title lang="zh">新居之约-（4K）-7/39</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214153500 +0800" stop="20250214153500 +0800">
+		<title lang="zh">4K宣传片-澳门双行线</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214153500 +0800" stop="20250214153600 +0800">
+		<title lang="zh">4K宣传片-美美与共</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214153600 +0800" stop="20250214153600 +0800">
+		<title lang="zh">4K宣传片-三餐四季总宣（第二季）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214153600 +0800" stop="20250214153600 +0800">
+		<title lang="zh">4K频道宣传片-标识演绎3</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214153600 +0800" stop="20250214160400 +0800">
+		<title lang="zh">记住乡愁2025-4（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214160400 +0800" stop="20250214164400 +0800">
+		<title lang="zh">探索·发现（4K）-2024-88</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214164400 +0800" stop="20250214165400 +0800">
+		<title lang="zh">千秋诗颂-早发白帝城（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214165400 +0800" stop="20250214165900 +0800">
+		<title lang="zh">中国微名片·世界遗产（第二季）-1（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214165900 +0800" stop="20250214170400 +0800">
+		<title lang="zh">听起来很好吃-8（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214170400 +0800" stop="20250214170900 +0800">
+		<title lang="zh">听起来很好吃(第二季)-15（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214170900 +0800" stop="20250214171100 +0800">
+		<title lang="zh">4K节目垫播-美丽中国-云南滇金丝猴（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214171100 +0800" stop="20250214171100 +0800">
+		<title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214171100 +0800" stop="20250214173600 +0800">
+		<title lang="zh">辣椒的征途-1（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214173600 +0800" stop="20250214180000 +0800">
+		<title lang="zh">鲜生史 第二季-6（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214180000 +0800" stop="20250214180000 +0800">
+		<title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214180000 +0800" stop="20250214183000 +0800">
+		<title lang="zh">国家记忆-2024-82（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214183000 +0800" stop="20250214185800 +0800">
+		<title lang="zh">记住乡愁2025-5（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214185800 +0800" stop="20250214194000 +0800">
+		<title lang="zh">远方的家2024-84(4K)</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214194000 +0800" stop="20250214195000 +0800">
+		<title lang="zh">千秋诗颂-游子吟（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214195000 +0800" stop="20250214195500 +0800">
+		<title lang="zh">中国微名片·世界遗产（第二季）-2（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214195500 +0800" stop="20250214200000 +0800">
+		<title lang="zh">大国小鲜——石榴说-1（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214200000 +0800" stop="20250214200000 +0800">
+		<title lang="zh">4K宣传片-澳门双行线</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214200000 +0800" stop="20250214200200 +0800">
+		<title lang="zh">4K宣传片-舌尖上的中国4</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214200200 +0800" stop="20250214205000 +0800">
+		<title lang="zh">赤热-（4K）-5/34</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214205000 +0800" stop="20250214213600 +0800">
+		<title lang="zh">赤热-（4K）-6/34</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214213600 +0800" stop="20250214213600 +0800">
+		<title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214213600 +0800" stop="20250214222600 +0800">
+		<title lang="zh">航拍中国（第三季）--一同飞越-4（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214222600 +0800" stop="20250214230600 +0800">
+		<title lang="zh">探索·发现（4K）-2024-89</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214230600 +0800" stop="20250214230600 +0800">
+		<title lang="zh">4K标识演绎-2019-1</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214230600 +0800" stop="20250214233100 +0800">
+		<title lang="zh">辣椒的征途-2（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214233100 +0800" stop="20250214235500 +0800">
+		<title lang="zh">鲜生史 第二季-7（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214235500 +0800" stop="20250214235900 +0800">
+		<title lang="zh">4K垫播节目-2021丝绸之旅</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214235900 +0800" stop="20250214235900 +0800">
+		<title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
+	</programme>
 	<programme channel="三沙卫视" start="20250214000000 +0800" stop="20250214004000 +0800">
 		<title lang="zh">风尚潮</title>
 	</programme>
@@ -5791,6 +5974,183 @@
 	</programme>
 	<programme channel="黑龙江卫视" start="20250214233600 +0800" stop="20250214235900 +0800">
 		<title lang="zh">活力剧场:大秧歌</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214000000 +0800" stop="20250214060000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214060000 +0800" stop="20250214060100 +0800">
+		<title lang="zh">4K频道宣传片-标识演绎4</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214060100 +0800" stop="20250214064100 +0800">
+		<title lang="zh">探索·发现（4K）-2024-88</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214064100 +0800" stop="20250214072300 +0800">
+		<title lang="zh">远方的家2024-83(4K)</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214072300 +0800" stop="20250214072300 +0800">
+		<title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214072300 +0800" stop="20250214075300 +0800">
+		<title lang="zh">国家记忆-2024-81（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214075300 +0800" stop="20250214084300 +0800">
+		<title lang="zh">航拍中国（第三季）--一同飞越-3（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214084300 +0800" stop="20250214085300 +0800">
+		<title lang="zh">千秋诗颂-早发白帝城（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214085300 +0800" stop="20250214085800 +0800">
+		<title lang="zh">中国微名片·世界遗产（第二季）-1（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214085800 +0800" stop="20250214085900 +0800">
+		<title lang="zh">4K宣传片-三餐四季总宣（第二季）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214085900 +0800" stop="20250214085900 +0800">
+		<title lang="zh">4K宣传片-美美与共</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214085900 +0800" stop="20250214090000 +0800">
+		<title lang="zh">4K宣传片-舌尖上的中国4</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214090000 +0800" stop="20250214094700 +0800">
+		<title lang="zh">赤热-（4K）-3/34</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214094700 +0800" stop="20250214103300 +0800">
+		<title lang="zh">赤热-（4K）-4/34</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214103300 +0800" stop="20250214103300 +0800">
+		<title lang="zh">4K频道宣传片-标识演绎3</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214103300 +0800" stop="20250214110100 +0800">
+		<title lang="zh">记住乡愁2025-4（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214110100 +0800" stop="20250214110600 +0800">
+		<title lang="zh">听起来很好吃-8（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214110600 +0800" stop="20250214111100 +0800">
+		<title lang="zh">听起来很好吃(第二季)-15（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214111100 +0800" stop="20250214113500 +0800">
+		<title lang="zh">辣椒的征途-1（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214113500 +0800" stop="20250214115900 +0800">
+		<title lang="zh">鲜生史 第二季-6（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214115900 +0800" stop="20250214120000 +0800">
+		<title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214120000 +0800" stop="20250214123000 +0800">
+		<title lang="zh">国家记忆-2024-81（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214123000 +0800" stop="20250214131200 +0800">
+		<title lang="zh">远方的家2024-83(4K)</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214131200 +0800" stop="20250214140200 +0800">
+		<title lang="zh">航拍中国（第三季）--一同飞越-3（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214140200 +0800" stop="20250214144900 +0800">
+		<title lang="zh">新居之约-（4K）-6/39</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214144900 +0800" stop="20250214153500 +0800">
+		<title lang="zh">新居之约-（4K）-7/39</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214153500 +0800" stop="20250214153500 +0800">
+		<title lang="zh">4K宣传片-澳门双行线</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214153500 +0800" stop="20250214153600 +0800">
+		<title lang="zh">4K宣传片-美美与共</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214153600 +0800" stop="20250214153600 +0800">
+		<title lang="zh">4K宣传片-三餐四季总宣（第二季）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214153600 +0800" stop="20250214153600 +0800">
+		<title lang="zh">4K频道宣传片-标识演绎3</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214153600 +0800" stop="20250214160400 +0800">
+		<title lang="zh">记住乡愁2025-4（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214160400 +0800" stop="20250214164400 +0800">
+		<title lang="zh">探索·发现（4K）-2024-88</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214164400 +0800" stop="20250214165400 +0800">
+		<title lang="zh">千秋诗颂-早发白帝城（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214165400 +0800" stop="20250214165900 +0800">
+		<title lang="zh">中国微名片·世界遗产（第二季）-1（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214165900 +0800" stop="20250214170400 +0800">
+		<title lang="zh">听起来很好吃-8（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214170400 +0800" stop="20250214170900 +0800">
+		<title lang="zh">听起来很好吃(第二季)-15（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214170900 +0800" stop="20250214171100 +0800">
+		<title lang="zh">4K节目垫播-美丽中国-云南滇金丝猴（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214171100 +0800" stop="20250214171100 +0800">
+		<title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214171100 +0800" stop="20250214173600 +0800">
+		<title lang="zh">辣椒的征途-1（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214173600 +0800" stop="20250214180000 +0800">
+		<title lang="zh">鲜生史 第二季-6（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214180000 +0800" stop="20250214180000 +0800">
+		<title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214180000 +0800" stop="20250214183000 +0800">
+		<title lang="zh">国家记忆-2024-82（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214183000 +0800" stop="20250214185800 +0800">
+		<title lang="zh">记住乡愁2025-5（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214185800 +0800" stop="20250214194000 +0800">
+		<title lang="zh">远方的家2024-84(4K)</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214194000 +0800" stop="20250214195000 +0800">
+		<title lang="zh">千秋诗颂-游子吟（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214195000 +0800" stop="20250214195500 +0800">
+		<title lang="zh">中国微名片·世界遗产（第二季）-2（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214195500 +0800" stop="20250214200000 +0800">
+		<title lang="zh">大国小鲜——石榴说-1（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214200000 +0800" stop="20250214200000 +0800">
+		<title lang="zh">4K宣传片-澳门双行线</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214200000 +0800" stop="20250214200200 +0800">
+		<title lang="zh">4K宣传片-舌尖上的中国4</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214200200 +0800" stop="20250214205000 +0800">
+		<title lang="zh">赤热-（4K）-5/34</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214205000 +0800" stop="20250214213600 +0800">
+		<title lang="zh">赤热-（4K）-6/34</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214213600 +0800" stop="20250214213600 +0800">
+		<title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214213600 +0800" stop="20250214222600 +0800">
+		<title lang="zh">航拍中国（第三季）--一同飞越-4（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214222600 +0800" stop="20250214230600 +0800">
+		<title lang="zh">探索·发现（4K）-2024-89</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214230600 +0800" stop="20250214230600 +0800">
+		<title lang="zh">4K标识演绎-2019-1</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214230600 +0800" stop="20250214233100 +0800">
+		<title lang="zh">辣椒的征途-2（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214233100 +0800" stop="20250214235500 +0800">
+		<title lang="zh">鲜生史 第二季-7（4K）</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214235500 +0800" stop="20250214235900 +0800">
+		<title lang="zh">4K垫播节目-2021丝绸之旅</title>
+	</programme>
+	<programme channel="CCTV4K" start="20250214235900 +0800" stop="20250214235900 +0800">
+		<title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
 	</programme>
 	<programme channel="求索纪录" start="20250214000000 +0800" stop="20250214000500 +0800">
 		<title lang="zh">宝物鉴价大师(2)</title>
