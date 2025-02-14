@@ -137,7 +137,7 @@
 <epg>
     <tvid>19</tvid>
     <epgid>CCTV-17 农业农村</epgid>
-    <name>CCTV-17农村农业,农村农业，CCTV17,CCTV-17,cctv17,农业农村,cctv17农业农村,cctv-17</name>
+    <name>CCTV-17农村农业,农村农业,CCTV17,CCTV-17,cctv17,农业农村,cctv17农业农村,cctv-17</name>
     <status>1</status>
     <note>农业农村</note>
 </epg>
@@ -300,7 +300,7 @@
 <epg>
     <tvid>42</tvid>
     <epgid>4KUHD</epgid>
-    <name>4KUH,4ku,4KU</name>
+    <name>4KUH,4ku,4KU,UHD</name>
     <status>1</status>
     <note>4KUHD</note>
 </epg>
@@ -314,7 +314,7 @@
 <epg>
     <tvid>44</tvid>
     <epgid>江西陶瓷</epgid>
-    <name>陶瓷</name>
+    <name>陶瓷,taoci</name>
     <status>1</status>
     <note>江西陶瓷</note>
 </epg>
@@ -470,7 +470,7 @@
     <epgid>newtv超级体育</epgid>
     <name>超级体育,NEWTV超级体育</name>
     <status>1</status>
-    <note>超级综艺</note>
+    <note>超级体育</note>
 </epg>
 <epg>
     <tvid>67</tvid>
@@ -485,6 +485,27 @@
     <name>newtv黑莓电影,NEWTV黑莓电影</name>
     <status>1</status>
     <note>黑莓电影</note>
+</epg>
+<epg>
+    <tvid>69</tvid>
+    <epgid>中视购物</epgid>
+    <name>CCTV-中视购物,CCTV中视购物</name>
+    <status>1</status>
+    <note>中视购物</note>
+</epg>
+<epg>
+    <tvid>70</tvid>
+    <epgid>newtv动画世界</epgid>
+    <name>动画世界,NEWTV动画世界</name>
+    <status>1</status>
+    <note>动画世界</note>
+</epg>
+<epg>
+    <tvid>71</tvid>
+    <epgid>品质大剧</epgid>
+    <name>东方品质大剧,上海品质大剧,上海品质,东方品质</name>
+    <status>1</status>
+    <note>动画世界</note>
 </epg>
 
 
