@@ -32,10 +32,10 @@ CCTV风云音乐
 CCTV高尔夫网球
 CCTV央视台球
 CCTV老故事
-CETV1
-CETV2
-CETV3
-CETV4
+CETV-1 综合教育
+CETV-2 空中课堂
+CETV-3 教育服务
+CETV-4 职业教育
 CGTN俄语
 CGTN法语
 CGTN英语
