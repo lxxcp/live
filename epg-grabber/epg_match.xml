@@ -312,13 +312,6 @@
     <note>央视奥林匹克</note>
 </epg>
 <epg>
-    <tvid>43</tvid>
-    <epgid>江西教育</epgid>
-    <name>江西教育频道,jxedu</name>
-    <status>1</status>
-    <note>江西教育</note>
-</epg>
-<epg>
     <tvid>44</tvid>
     <epgid>江西陶瓷</epgid>
     <name>陶瓷,</name>
@@ -459,11 +452,18 @@
     <note>潮妈辣婆</note>
 </epg>
 <epg>
-    <tvid>63</tvid>
+    <tvid>64</tvid>
     <epgid>newtv炫舞未来</epgid>
     <name>炫舞未来,NEWTV炫舞未来</name>
     <status>1</status>
     <note>炫舞未来</note>
+</epg>
+<epg>
+    <tvid>65</tvid>
+    <epgid>江西教育</epgid>
+    <name>江西教育频道,jxedu</name>
+    <status>1</status>
+    <note>江西教育</note>
 </epg>
 
 
