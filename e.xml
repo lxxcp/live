@@ -315,8 +315,8 @@
 		<display-name lang="zh">财富天下</display-name></channel>
 	<channel id="贵州卫视">
 		<display-name lang="zh">贵州卫视</display-name></channel>
-	<channel id="超级体育">
-		<display-name lang="zh">超级体育</display-name></channel>
+	<channel id="newtv超级体育">
+		<display-name lang="zh">newtv超级体育</display-name></channel>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">newtv超级电影</display-name></channel>
 	<channel id="newtv超级电视剧">
@@ -18133,52 +18133,52 @@
 	<programme channel="贵州卫视" start="20250214230200 +0800" stop="20250214235900 +0800">
 		<title lang="zh">等着我</title>
 	</programme>
-	<programme channel="超级体育" start="20250214000000 +0800" stop="20250214010500 +0800">
+	<programme channel="newtv超级体育" start="20250214000000 +0800" stop="20250214010500 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="超级体育" start="20250214010500 +0800" stop="20250214023500 +0800">
+	<programme channel="newtv超级体育" start="20250214010500 +0800" stop="20250214023500 +0800">
 		<title lang="zh">赛事集锦-2024年世界羽联世界巡回赛总决赛 4(4K)</title>
 	</programme>
-	<programme channel="超级体育" start="20250214023500 +0800" stop="20250214040000 +0800">
+	<programme channel="newtv超级体育" start="20250214023500 +0800" stop="20250214040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季花样滑冰大奖赛 芬兰站 1</title>
 	</programme>
-	<programme channel="超级体育" start="20250214040000 +0800" stop="20250214053000 +0800">
+	<programme channel="newtv超级体育" start="20250214040000 +0800" stop="20250214053000 +0800">
 		<title lang="zh">国际足球赛场-24-25赛季英超联赛第22轮 曼彻斯特联-布赖顿(4K)</title>
 	</programme>
-	<programme channel="超级体育" start="20250214053000 +0800" stop="20250214060000 +0800">
+	<programme channel="newtv超级体育" start="20250214053000 +0800" stop="20250214060000 +0800">
 		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 4</title>
 	</programme>
-	<programme channel="超级体育" start="20250214060000 +0800" stop="20250214063000 +0800">
+	<programme channel="newtv超级体育" start="20250214060000 +0800" stop="20250214063000 +0800">
 		<title lang="zh">赛事集锦(奥林匹克)-2024/2025赛季雪车世界杯</title>
 	</programme>
-	<programme channel="超级体育" start="20250214063000 +0800" stop="20250214070000 +0800">
+	<programme channel="newtv超级体育" start="20250214063000 +0800" stop="20250214070000 +0800">
 		<title lang="zh">健身动起来</title>
 	</programme>
-	<programme channel="超级体育" start="20250214070000 +0800" stop="20250214090000 +0800">
+	<programme channel="newtv超级体育" start="20250214070000 +0800" stop="20250214090000 +0800">
 		<title lang="zh">体坛晨报</title>
 	</programme>
-	<programme channel="超级体育" start="20250214090000 +0800" stop="20250214120000 +0800">
+	<programme channel="newtv超级体育" start="20250214090000 +0800" stop="20250214120000 +0800">
 		<title lang="zh">哈尔滨2025年亚冬会-赛事转播报道7-1</title>
 	</programme>
-	<programme channel="超级体育" start="20250214120000 +0800" stop="20250214130000 +0800">
+	<programme channel="newtv超级体育" start="20250214120000 +0800" stop="20250214130000 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
-	<programme channel="超级体育" start="20250214130000 +0800" stop="20250214180000 +0800">
+	<programme channel="newtv超级体育" start="20250214130000 +0800" stop="20250214180000 +0800">
 		<title lang="zh">哈尔滨2025年亚冬会-赛事转播报道7-2</title>
 	</programme>
-	<programme channel="超级体育" start="20250214180000 +0800" stop="20250214195500 +0800">
+	<programme channel="newtv超级体育" start="20250214180000 +0800" stop="20250214195500 +0800">
 		<title lang="zh">体育新闻 全景亚冬会特别节目</title>
 	</programme>
-	<programme channel="超级体育" start="20250214195500 +0800" stop="20250214210500 +0800">
+	<programme channel="newtv超级体育" start="20250214195500 +0800" stop="20250214210500 +0800">
 		<title lang="zh">哈尔滨2025年亚冬会- 闭幕式</title>
 	</programme>
-	<programme channel="超级体育" start="20250214210500 +0800" stop="20250214213000 +0800">
+	<programme channel="newtv超级体育" start="20250214210500 +0800" stop="20250214213000 +0800">
 		<title lang="zh">体坛零距离(4K)</title>
 	</programme>
-	<programme channel="超级体育" start="20250214213000 +0800" stop="20250214223500 +0800">
+	<programme channel="newtv超级体育" start="20250214213000 +0800" stop="20250214223500 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
-	<programme channel="超级体育" start="20250214223500 +0800" stop="20250214235900 +0800">
+	<programme channel="newtv超级体育" start="20250214223500 +0800" stop="20250214235900 +0800">
 		<title lang="zh">2024/2025赛季斯诺克威尔士公开赛-1/4决赛1</title>
 	</programme>
 	<programme channel="newtv超级电影" start="20250214000100 +0800" stop="20250214013900 +0800">
@@ -21830,8 +21830,8 @@
 		<display-name lang="zh">财富天下</display-name></channel>
 	<channel id="贵州卫视">
 		<display-name lang="zh">贵州卫视</display-name></channel>
-	<channel id="超级体育">
-		<display-name lang="zh">超级体育</display-name></channel>
+	<channel id="newtv超级体育">
+		<display-name lang="zh">newtv超级体育</display-name></channel>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">newtv超级电影</display-name></channel>
 	<channel id="newtv超级电视剧">
@@ -39648,52 +39648,52 @@
 	<programme channel="贵州卫视" start="20250214230200 +0800" stop="20250214235900 +0800">
 		<title lang="zh">等着我</title>
 	</programme>
-	<programme channel="超级体育" start="20250214000000 +0800" stop="20250214010500 +0800">
+	<programme channel="newtv超级体育" start="20250214000000 +0800" stop="20250214010500 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="超级体育" start="20250214010500 +0800" stop="20250214023500 +0800">
+	<programme channel="newtv超级体育" start="20250214010500 +0800" stop="20250214023500 +0800">
 		<title lang="zh">赛事集锦-2024年世界羽联世界巡回赛总决赛 4(4K)</title>
 	</programme>
-	<programme channel="超级体育" start="20250214023500 +0800" stop="20250214040000 +0800">
+	<programme channel="newtv超级体育" start="20250214023500 +0800" stop="20250214040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季花样滑冰大奖赛 芬兰站 1</title>
 	</programme>
-	<programme channel="超级体育" start="20250214040000 +0800" stop="20250214053000 +0800">
+	<programme channel="newtv超级体育" start="20250214040000 +0800" stop="20250214053000 +0800">
 		<title lang="zh">国际足球赛场-24-25赛季英超联赛第22轮 曼彻斯特联-布赖顿(4K)</title>
 	</programme>
-	<programme channel="超级体育" start="20250214053000 +0800" stop="20250214060000 +0800">
+	<programme channel="newtv超级体育" start="20250214053000 +0800" stop="20250214060000 +0800">
 		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 4</title>
 	</programme>
-	<programme channel="超级体育" start="20250214060000 +0800" stop="20250214063000 +0800">
+	<programme channel="newtv超级体育" start="20250214060000 +0800" stop="20250214063000 +0800">
 		<title lang="zh">赛事集锦(奥林匹克)-2024/2025赛季雪车世界杯</title>
 	</programme>
-	<programme channel="超级体育" start="20250214063000 +0800" stop="20250214070000 +0800">
+	<programme channel="newtv超级体育" start="20250214063000 +0800" stop="20250214070000 +0800">
 		<title lang="zh">健身动起来</title>
 	</programme>
-	<programme channel="超级体育" start="20250214070000 +0800" stop="20250214090000 +0800">
+	<programme channel="newtv超级体育" start="20250214070000 +0800" stop="20250214090000 +0800">
 		<title lang="zh">体坛晨报</title>
 	</programme>
-	<programme channel="超级体育" start="20250214090000 +0800" stop="20250214120000 +0800">
+	<programme channel="newtv超级体育" start="20250214090000 +0800" stop="20250214120000 +0800">
 		<title lang="zh">哈尔滨2025年亚冬会-赛事转播报道7-1</title>
 	</programme>
-	<programme channel="超级体育" start="20250214120000 +0800" stop="20250214130000 +0800">
+	<programme channel="newtv超级体育" start="20250214120000 +0800" stop="20250214130000 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
-	<programme channel="超级体育" start="20250214130000 +0800" stop="20250214180000 +0800">
+	<programme channel="newtv超级体育" start="20250214130000 +0800" stop="20250214180000 +0800">
 		<title lang="zh">哈尔滨2025年亚冬会-赛事转播报道7-2</title>
 	</programme>
-	<programme channel="超级体育" start="20250214180000 +0800" stop="20250214195500 +0800">
+	<programme channel="newtv超级体育" start="20250214180000 +0800" stop="20250214195500 +0800">
 		<title lang="zh">体育新闻 全景亚冬会特别节目</title>
 	</programme>
-	<programme channel="超级体育" start="20250214195500 +0800" stop="20250214210500 +0800">
+	<programme channel="newtv超级体育" start="20250214195500 +0800" stop="20250214210500 +0800">
 		<title lang="zh">哈尔滨2025年亚冬会- 闭幕式</title>
 	</programme>
-	<programme channel="超级体育" start="20250214210500 +0800" stop="20250214213000 +0800">
+	<programme channel="newtv超级体育" start="20250214210500 +0800" stop="20250214213000 +0800">
 		<title lang="zh">体坛零距离(4K)</title>
 	</programme>
-	<programme channel="超级体育" start="20250214213000 +0800" stop="20250214223500 +0800">
+	<programme channel="newtv超级体育" start="20250214213000 +0800" stop="20250214223500 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
-	<programme channel="超级体育" start="20250214223500 +0800" stop="20250214235900 +0800">
+	<programme channel="newtv超级体育" start="20250214223500 +0800" stop="20250214235900 +0800">
 		<title lang="zh">2024/2025赛季斯诺克威尔士公开赛-1/4决赛1</title>
 	</programme>
 	<programme channel="newtv超级电影" start="20250214000100 +0800" stop="20250214013900 +0800">
