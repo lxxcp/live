@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv><channel id="CCTV-1 综合">
-		<display-name lang="zh">CCTV1</display-name>
+		<display-name lang="zh">CCTV-1 综合</display-name>
 	</channel>
 	<channel id="CCTV-10 科教">
-		<display-name lang="zh">CCTV10</display-name>
+		<display-name lang="zh">CCTV-10 科教</display-name>
 	</channel>
 	<channel id="CCTV-11 戏曲">
 		<display-name lang="zh">CCTV11</display-name>
