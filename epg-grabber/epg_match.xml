@@ -252,34 +252,34 @@
     <epgid>CETV-4 职业教育</epgid>
     <name>教育四套,CETV4,中国教育4台,CETV-4,cetv4</name>
     <status>1</status>
-    <note>教育三套</note>
+    <note>CETV-4 职业教育</note>
 </epg>
 <epg>
     <tvid>36</tvid>
     <epgid>北京纪实科教</epgid>
     <name>北京纪实,BTV纪实,BTV纪实科教,BTV纪</name>
     <status>1</status>
-    <note>教育三套</note>
+    <note>北京纪实科教</note>
 </epg>
 
 <epg>
     <tvid>37</tvid>
     <epgid>CCTV-4 中文国际欧洲</epgid>
-    <name>CCTV4欧洲,cctv4 欧洲</name>
+    <name>CCTV4欧洲,cctv4 欧洲,cctv,CCTV4EUO</name>
     <status>1</status>
     <note>央视国际</note>
 </epg>
 <epg>
     <tvid>38</tvid>
     <epgid>CCTV-4 中文国际美洲</epgid>
-    <name>CCTV4美洲,cctv4 美洲</name>
+    <name>CCTV4美洲,cctv4 美洲,CCTV4AME</name>
     <status>1</status>
     <note>央视国际</note>
 </epg>
 <epg>
     <tvid>39</tvid>
     <epgid>KAKU少儿</epgid>
-    <name>卡酷少儿,卡酷，KAKU-少儿,btv卡酷,btv卡酷少,北京卡酷</name>
+    <name>卡酷少儿,卡酷，KAKU-少儿,btv卡酷,btv卡酷少,北京卡酷,BTV科教</name>
     <status>1</status>
     <note>北京卡酷</note>
 </epg>
@@ -309,12 +309,12 @@
     <epgid>CCTV-16 奥林匹克-4K</epgid>
     <name>CCTV-16奥林匹克,奥林匹克,CCTV-16,CCTV16,CCTV-16,cctv16 奥林匹克 -4K</name>
     <status>1</status>
-    <note>央视奥林匹克</note>
+    <note>央视奥林匹克-4K</note>
 </epg>
 <epg>
     <tvid>44</tvid>
     <epgid>江西陶瓷</epgid>
-    <name>陶瓷,</name>
+    <name>陶瓷</name>
     <status>1</status>
     <note>江西陶瓷</note>
 </epg>
