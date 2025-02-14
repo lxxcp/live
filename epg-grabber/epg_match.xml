@@ -282,11 +282,18 @@
     <note>央视国际</note>
 </epg>
 <epg>
-    <tvid>37</tvid>
+    <tvid>38</tvid>
     <epgid>CCTV-4 中文国际美洲</epgid>
     <name>CCTV4美洲,cctv4 美洲</name>
     <status>1</status>
     <note>央视国际</note>
+</epg>
+<epg>
+    <tvid>39</tvid>
+    <epgid>KAKU少儿</epgid>
+    <name>卡酷少儿,卡酷，KAKU-少儿,btv卡酷,btv卡酷少,北京卡酷</name>
+    <status>1</status>
+    <note>北京卡酷</note>
 </epg>
 
 
