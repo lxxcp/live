@@ -291,11 +291,179 @@
     <note>CCTV4K</note>
 </epg>
 <epg>
-    <tvid>40</tvid>
+    <tvid>41</tvid>
     <epgid>欢笑剧场4K</epgid>
     <name>欢笑剧场-4K,欢笑剧场</name>
     <status>1</status>
     <note>欢笑剧场</note>
+</epg>
+<epg>
+    <tvid>42</tvid>
+    <epgid>4KUHD</epgid>
+    <name>4KUH,4ku,4KU</name>
+    <status>1</status>
+    <note>4KUHD</note>
+</epg>
+<epg>
+    <tvid>43</tvid>
+    <epgid>CCTV-16 奥林匹克-4K</epgid>
+    <name>CCTV-16奥林匹克,奥林匹克,CCTV-16,CCTV16,CCTV-16,cctv16 奥林匹克 -4K</name>
+    <status>1</status>
+    <note>央视奥林匹克</note>
+</epg>
+<epg>
+    <tvid>43</tvid>
+    <epgid>江西教育</epgid>
+    <name>江西教育频道,jxedu</name>
+    <status>1</status>
+    <note>江西教育</note>
+</epg>
+<epg>
+    <tvid>44</tvid>
+    <epgid>江西陶瓷</epgid>
+    <name>陶瓷,</name>
+    <status>1</status>
+    <note>江西陶瓷</note>
+</epg>
+<epg>
+    <tvid>45</tvid>
+    <epgid>南昌综合</epgid>
+    <name>南昌新闻,南昌1,南昌新闻综合</name>
+    <status>1</status>
+    <note>南昌综合</note>
+</epg>
+<epg>
+    <tvid>46</tvid>
+    <epgid>newtv海外剧场</epgid>
+    <name>海外剧场,NEWTV海外剧场</name>
+    <status>1</status>
+    <note>海外剧场</note>
+</epg>
+<epg>
+    <tvid>47</tvid>
+    <epgid>newtv精品体育</epgid>
+    <name>精品体育,NEWTV精品体育</name>
+    <status>1</status>
+    <note>精品体育</note>
+</epg>
+<epg>
+    <tvid>48</tvid>
+    <epgid>newtv精品大剧</epgid>
+    <name>精品大剧,NEWTV精品大剧</name>
+    <status>1</status>
+    <note>精品大剧</note>
+</epg>
+<epg>
+    <tvid>49</tvid>
+    <epgid>newtv精品萌宠</epgid>
+    <name>精品萌宠,NEWTV精品萌宠</name>
+    <status>1</status>
+    <note>精品萌宠</note>
+</epg>
+<epg>
+    <tvid>50</tvid>
+    <epgid>茶频道</epgid>
+    <name>茶,湖南茶频道,湖南茶</name>
+    <status>1</status>
+    <note>精品大剧</note>
+</epg>
+<epg>
+    <tvid>51</tvid>
+    <epgid>newtv超级电影</epgid>
+    <name>超级电影,NEWTV超级电影</name>
+    <status>1</status>
+    <note>超级电影</note>
+</epg>
+<epg>
+    <tvid>52</tvid>
+    <epgid>newtv超级电视剧</epgid>
+    <name>超级电视剧,NEWTV超级电视剧</name>
+    <status>1</status>
+    <note>超级电视剧</note>
+</epg>
+<epg>
+    <tvid>53</tvid>
+    <epgid>newtv超级综艺</epgid>
+    <name>超级综艺,NEWTV超级综艺</name>
+    <status>1</status>
+    <note>超级综艺</note>
+</epg>
+<epg>
+    <tvid>54</tvid>
+    <epgid>newtv金牌综艺</epgid>
+    <name>金牌综艺,NEWTV金牌综艺</name>
+    <status>1</status>
+    <note>金牌综艺</note>
+</epg>
+<epg>
+    <tvid>55</tvid>
+    <epgid>newtv中国功夫</epgid>
+    <name>中国功夫,NEWTV中国功夫</name>
+    <status>1</status>
+    <note>中国功夫</note>
+</epg>
+<epg>
+    <tvid>56</tvid>
+    <epgid>newtv军事评论</epgid>
+    <name>军事评论,NEWTV军事评论</name>
+    <status>1</status>
+    <note>中国功夫</note>
+</epg>
+<epg>
+    <tvid>57</tvid>
+    <epgid>newtv军旅剧场</epgid>
+    <name>军旅剧场,NEWTV军旅剧场</name>
+    <status>1</status>
+    <note>军旅剧场</note>
+</epg>
+<epg>
+    <tvid>58</tvid>
+    <epgid>newtv家庭剧场</epgid>
+    <name>家庭剧场,NEWTV家庭剧场</name>
+    <status>1</status>
+    <note>家庭剧场</note>
+</epg>
+<epg>
+    <tvid>59</tvid>
+    <epgid>newtv农业致富</epgid>
+    <name>农业致富,NEWTV农业致富</name>
+    <status>1</status>
+    <note>农业致富</note>
+</epg>
+<epg>
+    <tvid>60</tvid>
+    <epgid>newtv怡伴健康</epgid>
+    <name>怡伴健康,NEWTV怡伴健康</name>
+    <status>1</status>
+    <note>怡伴健康</note>
+</epg>
+<epg>
+    <tvid>61</tvid>
+    <epgid>newtv欢乐剧场</epgid>
+    <name>欢乐剧场,NEWTV欢乐剧场</name>
+    <status>1</status>
+    <note>欢乐剧场</note>
+</epg>
+<epg>
+    <tvid>62</tvid>
+    <epgid>newtv古装剧场</epgid>
+    <name>古装剧场,NEWTV古装剧场</name>
+    <status>1</status>
+    <note>古装剧场</note>
+</epg>
+<epg>
+    <tvid>63</tvid>
+    <epgid>newtv潮妈辣婆</epgid>
+    <name>潮妈辣婆,NEWTV潮妈辣婆</name>
+    <status>1</status>
+    <note>潮妈辣婆</note>
+</epg>
+<epg>
+    <tvid>63</tvid>
+    <epgid>newtv炫舞未来</epgid>
+    <name>炫舞未来,NEWTV炫舞未来</name>
+    <status>1</status>
+    <note>炫舞未来</note>
 </epg>
 
 
