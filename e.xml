@@ -23,9 +23,6 @@
 	<channel id="CCTV风云剧场">
 		<display-name lang="zh">CCTV风云剧场</display-name>
 	</channel>
-	<channel id="CETV1">
-		<display-name lang="zh">CETV1</display-name>
-	</channel>
 	<channel id="CGTN俄语">
 		<display-name lang="zh">CGTN俄语</display-name>
 	</channel>
@@ -124,6 +121,9 @@
 	</channel>
 	<channel id="天津卫视">
 		<display-name lang="zh">天津卫视</display-name>
+	</channel>
+	<channel id="CCTV央视台球">
+		<display-name lang="zh">央视台球</display-name>
 	</channel>
 	<channel id="CCTV文化精品">
 		<display-name lang="zh">央视精品</display-name>
@@ -248,6 +248,9 @@
 	<channel id="睛彩羽毛球">
 		<display-name lang="zh">睛彩羽毛球</display-name>
 	</channel>
+	<channel id="CCTV第一剧场">
+		<display-name lang="zh">第一剧场</display-name>
+	</channel>
 	<channel id="精品体育">
 		<display-name lang="zh">精品体育</display-name>
 	</channel>
@@ -278,8 +281,14 @@
 	<channel id="青海卫视">
 		<display-name lang="zh">青海卫视</display-name>
 	</channel>
-	<channel id="风云足球">
+	<channel id="CCTV风云剧场">
+		<display-name lang="zh">风云剧场</display-name>
+	</channel>
+	<channel id="CCTV风云足球">
 		<display-name lang="zh">风云足球</display-name>
+	</channel>
+	<channel id="CCTV风云音乐">
+		<display-name lang="zh">风云音乐</display-name>
 	</channel>
 	<channel id="香港卫视">
 		<display-name lang="zh">香港卫视</display-name>
@@ -1459,168 +1468,6 @@
 	</programme>
 	<programme channel="CCTV风云剧场" start="20250214233600 +0800" stop="20250214235900 +0800">
 		<title lang="zh">风云剧场-时间的针脚第13集(许可证版)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214000000 +0800" stop="20250214002000 +0800">
-		<title lang="zh">等着我(8)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214002000 +0800" stop="20250214005000 +0800">
-		<title lang="zh">发现中国(85)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214005000 +0800" stop="20250214012500 +0800">
-		<title lang="zh">发现中国(86)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214012500 +0800" stop="20250214015300 +0800">
-		<title lang="zh">影视公开课(7)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214015300 +0800" stop="20250214022100 +0800">
-		<title lang="zh">影视公开课(1)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214022100 +0800" stop="20250214022600 +0800">
-		<title lang="zh">微纪录:执着的女博士</title>
-	</programme>
-	<programme channel="CETV1" start="20250214022600 +0800" stop="20250214023500 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CETV1" start="20250214023500 +0800" stop="20250214032000 +0800">
-		<title lang="zh">纪录中国(49)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214032000 +0800" stop="20250214040000 +0800">
-		<title lang="zh">纪录中国(50)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214040000 +0800" stop="20250214040500 +0800">
-		<title lang="zh">纪录中国(50)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214040500 +0800" stop="20250214041000 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CETV1" start="20250214041000 +0800" stop="20250214044200 +0800">
-		<title lang="zh">发现中国(87)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214044200 +0800" stop="20250214050200 +0800">
-		<title lang="zh">艺术素养公开课:跟着大师学乐器</title>
-	</programme>
-	<programme channel="CETV1" start="20250214050200 +0800" stop="20250214051000 +0800">
-		<title lang="zh">微纪录:无人书店</title>
-	</programme>
-	<programme channel="CETV1" start="20250214051000 +0800" stop="20250214054000 +0800">
-		<title lang="zh">二十四道拐(13)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214054000 +0800" stop="20250214060000 +0800">
-		<title lang="zh">放飞梦想青春歌会精华版(4)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214060000 +0800" stop="20250214060800 +0800">
-		<title lang="zh">微纪录:月亮妈妈</title>
-	</programme>
-	<programme channel="CETV1" start="20250214060800 +0800" stop="20250214070200 +0800">
-		<title lang="zh">二十四道拐(14)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214070200 +0800" stop="20250214075200 +0800">
-		<title lang="zh">神枪(27)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214075200 +0800" stop="20250214080000 +0800">
-		<title lang="zh">神枪(28)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214080000 +0800" stop="20250214084300 +0800">
-		<title lang="zh">神枪(28)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214084300 +0800" stop="20250214093300 +0800">
-		<title lang="zh">神枪(29)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214093300 +0800" stop="20250214102300 +0800">
-		<title lang="zh">神枪(30)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214102300 +0800" stop="20250214111300 +0800">
-		<title lang="zh">神枪(31)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214111300 +0800" stop="20250214113300 +0800">
-		<title lang="zh">等着我(95)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214113300 +0800" stop="20250214120500 +0800">
-		<title lang="zh">美丽人生</title>
-	</programme>
-	<programme channel="CETV1" start="20250214120500 +0800" stop="20250214121500 +0800">
-		<title lang="zh">教育新闻直播间</title>
-	</programme>
-	<programme channel="CETV1" start="20250214121500 +0800" stop="20250214122000 +0800">
-		<title lang="zh">微纪录:肘香不怕巷子深</title>
-	</programme>
-	<programme channel="CETV1" start="20250214122000 +0800" stop="20250214131000 +0800">
-		<title lang="zh">大西南剿匪记(42)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214131000 +0800" stop="20250214140000 +0800">
-		<title lang="zh">大西南剿匪记(43)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214140000 +0800" stop="20250214145000 +0800">
-		<title lang="zh">大西南剿匪记(44)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214145000 +0800" stop="20250214151000 +0800">
-		<title lang="zh">放飞梦想青春歌会精华版(2)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214151000 +0800" stop="20250214152100 +0800">
-		<title lang="zh">教育新闻直播间</title>
-	</programme>
-	<programme channel="CETV1" start="20250214152100 +0800" stop="20250214155100 +0800">
-		<title lang="zh">大西南剿匪记(45)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214155100 +0800" stop="20250214155600 +0800">
-		<title lang="zh">微纪录:金老师的夏天</title>
-	</programme>
-	<programme channel="CETV1" start="20250214155600 +0800" stop="20250214160100 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CETV1" start="20250214160100 +0800" stop="20250214170500 +0800">
-		<title lang="zh">新春特别节目(48)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214170500 +0800" stop="20250214171500 +0800">
-		<title lang="zh">教育新闻直播间</title>
-	</programme>
-	<programme channel="CETV1" start="20250214171500 +0800" stop="20250214173500 +0800">
-		<title lang="zh">等着我(96)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214173500 +0800" stop="20250214180500 +0800">
-		<title lang="zh">美丽人生</title>
-	</programme>
-	<programme channel="CETV1" start="20250214180500 +0800" stop="20250214183000 +0800">
-		<title lang="zh">家有灶君(2)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214183000 +0800" stop="20250214190000 +0800">
-		<title lang="zh">全国教育新闻联播</title>
-	</programme>
-	<programme channel="CETV1" start="20250214190000 +0800" stop="20250214193000 +0800">
-		<title lang="zh">转播中央台新闻联播</title>
-	</programme>
-	<programme channel="CETV1" start="20250214193000 +0800" stop="20250214194500 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CETV1" start="20250214194500 +0800" stop="20250214200000 +0800">
-		<title lang="zh">育见(31)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214200000 +0800" stop="20250214204500 +0800">
-		<title lang="zh">e视界</title>
-	</programme>
-	<programme channel="CETV1" start="20250214204500 +0800" stop="20250214213500 +0800">
-		<title lang="zh">布达拉宫(7)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214213500 +0800" stop="20250214214500 +0800">
-		<title lang="zh">微纪录:无人书店</title>
-	</programme>
-	<programme channel="CETV1" start="20250214214500 +0800" stop="20250214221500 +0800">
-		<title lang="zh">发现中国(50)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214221500 +0800" stop="20250214222000 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CETV1" start="20250214222000 +0800" stop="20250214222500 +0800">
-		<title lang="zh">微纪录:深夜读书人</title>
-	</programme>
-	<programme channel="CETV1" start="20250214222500 +0800" stop="20250214223000 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CETV1" start="20250214223000 +0800" stop="20250214230000 +0800">
-		<title lang="zh">等着我(9)</title>
-	</programme>
-	<programme channel="CETV1" start="20250214230000 +0800" stop="20250214233000 +0800">
-		<title lang="zh">美丽人生</title>
 	</programme>
 	<programme channel="CGTN俄语" start="20250214000000 +0800" stop="20250214004500 +0800">
 		<title lang="zh">今生有你(精编版)（第5集）</title>
@@ -6077,6 +5924,69 @@
 	<programme channel="天津卫视" start="20250214231000 +0800" stop="20250214235900 +0800">
 		<title lang="zh">勇者无惧(41)</title>
 	</programme>
+	<programme channel="CCTV央视台球" start="20250214011400 +0800" stop="20250214021800 +0800">
+		<title lang="zh">赛场直击-2023年世界斯诺克锦标赛半决赛(6) 卢卡·布雷切尔-斯佳辉</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214021800 +0800" stop="20250214022800 +0800">
+		<title lang="zh">实况录像-2023/2024赛季世界斯诺克大师赛 马克·艾伦的147</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214022800 +0800" stop="20250214034800 +0800">
+		<title lang="zh">实况录像-2015年斯诺克上海大师赛 精选3</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214034800 +0800" stop="20250214040000 +0800">
+		<title lang="zh">实况录像-2015/2016赛季斯诺克威尔士公开赛 丁俊晖147</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214040000 +0800" stop="20250214041000 +0800">
+		<title lang="zh">实况录像-2018年斯诺克王中王赛 塞尔比的147</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214041000 +0800" stop="20250214051300 +0800">
+		<title lang="zh">实况录像-2015年世界斯诺克国际锦标赛 精选1</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214051300 +0800" stop="20250214065600 +0800">
+		<title lang="zh">实况录像-2015年斯诺克中国公开赛1/4决赛</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214065600 +0800" stop="20250214081600 +0800">
+		<title lang="zh">实况录像-2015年斯诺克上海大师赛 精选3</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214081600 +0800" stop="20250214100000 +0800">
+		<title lang="zh">实况录像-2020年斯诺克王中王赛 决赛</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214100000 +0800" stop="20250214114300 +0800">
+		<title lang="zh">实况录像-2015年世界斯诺克国际锦标赛 精选2</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214114300 +0800" stop="20250214131600 +0800">
+		<title lang="zh">实况录像-2020/2021赛季斯诺克大师赛 精选1</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214131600 +0800" stop="20250214150000 +0800">
+		<title lang="zh">实况录像-2023/2024赛季世界斯诺克巡回赛 英国锦标赛 2</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214150000 +0800" stop="20250214162000 +0800">
+		<title lang="zh">实况录像-2015年斯诺克中国公开赛半决赛</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214162000 +0800" stop="20250214173800 +0800">
+		<title lang="zh">赛场直击-2023年世界斯诺克锦标赛半决赛(4) 卢卡·布雷切尔-斯佳辉</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214173800 +0800" stop="20250214185500 +0800">
+		<title lang="zh">赛场直击-2023年世界斯诺克锦标赛半决赛(5) 卢卡·布雷切尔-斯佳辉</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214185500 +0800" stop="20250214200000 +0800">
+		<title lang="zh">赛场直击-2023年世界斯诺克锦标赛半决赛(6) 卢卡·布雷切尔-斯佳辉</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214200000 +0800" stop="20250214214300 +0800">
+		<title lang="zh">实况录像-2023/2024赛季世界斯诺克巡回赛 英国锦标赛 3</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214214300 +0800" stop="20250214215300 +0800">
+		<title lang="zh">实况录像-2024/2025赛季斯诺克武汉公开赛 斯佳辉的147</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214215300 +0800" stop="20250214220000 +0800">
+		<title lang="zh">实况录像-2022/2023赛季世界斯诺克锦标赛 决赛 塞尔比的147</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214220000 +0800" stop="20250214231300 +0800">
+		<title lang="zh">赛场直击-2021年斯诺克威尔士公开赛第二轮 奥沙利文VS吉米怀特</title>
+	</programme>
+	<programme channel="CCTV央视台球" start="20250214231300 +0800" stop="20250214235900 +0800">
+		<title lang="zh">赛场直击-2021年斯诺克威尔士公开赛第三轮1 墨菲VS马奎尔</title>
+	</programme>
 	<programme channel="CCTV文化精品" start="20250214003900 +0800" stop="20250214080200 +0800">
 		<title lang="zh">探索·发现-2022-358</title>
 	</programme>
@@ -9578,6 +9488,42 @@
 	<programme channel="睛彩羽毛球" start="20250214223000 +0800" stop="20250214235900 +0800">
 		<title lang="zh">五人制亚洲杯阿富汗-科威特</title>
 	</programme>
+	<programme channel="CCTV第一剧场" start="20250214001900 +0800" stop="20250214070000 +0800">
+		<title lang="zh">莲花楼 34/40</title>
+	</programme>
+	<programme channel="CCTV第一剧场" start="20250214070000 +0800" stop="20250214074600 +0800">
+		<title lang="zh">莲花楼 33/40</title>
+	</programme>
+	<programme channel="CCTV第一剧场" start="20250214074600 +0800" stop="20250214120000 +0800">
+		<title lang="zh">莲花楼 34/40</title>
+	</programme>
+	<programme channel="CCTV第一剧场" start="20250214120000 +0800" stop="20250214124600 +0800">
+		<title lang="zh">如果奔跑是我的人生 23/28</title>
+	</programme>
+	<programme channel="CCTV第一剧场" start="20250214124600 +0800" stop="20250214134800 +0800">
+		<title lang="zh">如果奔跑是我的人生 24/28</title>
+	</programme>
+	<programme channel="CCTV第一剧场" start="20250214134800 +0800" stop="20250214143400 +0800">
+		<title lang="zh">胡同 9/36</title>
+	</programme>
+	<programme channel="CCTV第一剧场" start="20250214143400 +0800" stop="20250214152000 +0800">
+		<title lang="zh">胡同 10/36</title>
+	</programme>
+	<programme channel="CCTV第一剧场" start="20250214152000 +0800" stop="20250214160600 +0800">
+		<title lang="zh">胡同 11/36</title>
+	</programme>
+	<programme channel="CCTV第一剧场" start="20250214160600 +0800" stop="20250214165200 +0800">
+		<title lang="zh">胡同 12/36</title>
+	</programme>
+	<programme channel="CCTV第一剧场" start="20250214165200 +0800" stop="20250214173800 +0800">
+		<title lang="zh">胡同 13/36</title>
+	</programme>
+	<programme channel="CCTV第一剧场" start="20250214173800 +0800" stop="20250214220000 +0800">
+		<title lang="zh">胡同 14/36</title>
+	</programme>
+	<programme channel="CCTV第一剧场" start="20250214220000 +0800" stop="20250214235900 +0800">
+		<title lang="zh">热门影院-不朽的园丁(许可证)</title>
+	</programme>
 	<programme channel="精品体育" start="20250214000000 +0800" stop="20250214002600 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
@@ -10586,56 +10532,185 @@
 	<programme channel="青海卫视" start="20250214233000 +0800" stop="20250214235900 +0800">
 		<title lang="zh">龙斗天下</title>
 	</programme>
-	<programme channel="风云足球" start="20250214011500 +0800" stop="20250214024000 +0800">
+	<programme channel="CCTV风云剧场" start="20250214070100 +0800" stop="20250214075200 +0800">
+		<title lang="zh">县委大院 14/24</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214075200 +0800" stop="20250214084100 +0800">
+		<title lang="zh">县委大院 15/24</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214084100 +0800" stop="20250214092900 +0800">
+		<title lang="zh">县委大院 16/24</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214092900 +0800" stop="20250214101900 +0800">
+		<title lang="zh">县委大院 17/24</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214101900 +0800" stop="20250214111200 +0800">
+		<title lang="zh">县委大院 18/24</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214111200 +0800" stop="20250214120000 +0800">
+		<title lang="zh">县委大院 19/24</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214120000 +0800" stop="20250214124800 +0800">
+		<title lang="zh">风云剧场-时间的针脚第8集(许可证版)</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214124800 +0800" stop="20250214134200 +0800">
+		<title lang="zh">风云剧场-时间的针脚第9集(许可证版)</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214134200 +0800" stop="20250214142900 +0800">
+		<title lang="zh">风云剧场-时间的针脚第10集(许可证版)</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214142900 +0800" stop="20250214151800 +0800">
+		<title lang="zh">县委大院 20/24</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214151800 +0800" stop="20250214161000 +0800">
+		<title lang="zh">县委大院 21/24</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214161000 +0800" stop="20250214165600 +0800">
+		<title lang="zh">县委大院 22/24</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214165600 +0800" stop="20250214174900 +0800">
+		<title lang="zh">县委大院 23/24</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214174900 +0800" stop="20250214184300 +0800">
+		<title lang="zh">县委大院 24/24</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214184300 +0800" stop="20250214193000 +0800">
+		<title lang="zh">心想事成 1/36</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214193000 +0800" stop="20250214201900 +0800">
+		<title lang="zh">父辈的荣耀 2/30</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214201900 +0800" stop="20250214210800 +0800">
+		<title lang="zh">父辈的荣耀 3/30</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214210800 +0800" stop="20250214220000 +0800">
+		<title lang="zh">父辈的荣耀 4/30</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214220000 +0800" stop="20250214224600 +0800">
+		<title lang="zh">风云剧场-时间的针脚第11集(许可证版)</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214224600 +0800" stop="20250214233600 +0800">
+		<title lang="zh">风云剧场-时间的针脚第12集(许可证版)</title>
+	</programme>
+	<programme channel="CCTV风云剧场" start="20250214233600 +0800" stop="20250214235900 +0800">
+		<title lang="zh">风云剧场-时间的针脚第13集(许可证版)</title>
+	</programme>
+	<programme channel="CCTV风云足球" start="20250214011500 +0800" stop="20250214024000 +0800">
 		<title lang="zh">欧冠1/4决赛第2回合:拜仁-阿森纳</title>
 	</programme>
-	<programme channel="风云足球" start="20250214024000 +0800" stop="20250214040500 +0800">
+	<programme channel="CCTV风云足球" start="20250214024000 +0800" stop="20250214040500 +0800">
 		<title lang="zh">欧冠:多特蒙德-巴黎圣日耳曼</title>
 	</programme>
-	<programme channel="风云足球" start="20250214040500 +0800" stop="20250214053000 +0800">
+	<programme channel="CCTV风云足球" start="20250214040500 +0800" stop="20250214053000 +0800">
 		<title lang="zh">欧冠:巴黎圣日耳曼-多特蒙德</title>
 	</programme>
-	<programme channel="风云足球" start="20250214053000 +0800" stop="20250214065500 +0800">
+	<programme channel="CCTV风云足球" start="20250214053000 +0800" stop="20250214065500 +0800">
 		<title lang="zh">欧冠决赛:多特蒙德-皇家马德里</title>
 	</programme>
-	<programme channel="风云足球" start="20250214065500 +0800" stop="20250214082000 +0800">
+	<programme channel="CCTV风云足球" start="20250214065500 +0800" stop="20250214082000 +0800">
 		<title lang="zh">法甲:勒阿弗尔-巴黎圣日耳曼</title>
 	</programme>
-	<programme channel="风云足球" start="20250214082000 +0800" stop="20250214094500 +0800">
+	<programme channel="CCTV风云足球" start="20250214082000 +0800" stop="20250214094500 +0800">
 		<title lang="zh">法甲联赛第1轮:摩纳哥-圣艾蒂安</title>
 	</programme>
-	<programme channel="风云足球" start="20250214094500 +0800" stop="20250214111000 +0800">
+	<programme channel="CCTV风云足球" start="20250214094500 +0800" stop="20250214111000 +0800">
 		<title lang="zh">法甲第9轮:马赛-巴黎圣日耳曼</title>
 	</programme>
-	<programme channel="风云足球" start="20250214111000 +0800" stop="20250214123500 +0800">
+	<programme channel="CCTV风云足球" start="20250214111000 +0800" stop="20250214123500 +0800">
 		<title lang="zh">西甲联赛第11轮:赫塔费-巴伦西亚</title>
 	</programme>
-	<programme channel="风云足球" start="20250214123500 +0800" stop="20250214140000 +0800">
+	<programme channel="CCTV风云足球" start="20250214123500 +0800" stop="20250214140000 +0800">
 		<title lang="zh">英超联赛第16轮:利物浦-富勒姆</title>
 	</programme>
-	<programme channel="风云足球" start="20250214140000 +0800" stop="20250214152500 +0800">
+	<programme channel="CCTV风云足球" start="20250214140000 +0800" stop="20250214152500 +0800">
 		<title lang="zh">南美解放者杯1/8决赛第二回合</title>
 	</programme>
-	<programme channel="风云足球" start="20250214152500 +0800" stop="20250214165000 +0800">
+	<programme channel="CCTV风云足球" start="20250214152500 +0800" stop="20250214165000 +0800">
 		<title lang="zh">南美解放者杯1/8决赛第二回合</title>
 	</programme>
-	<programme channel="风云足球" start="20250214165000 +0800" stop="20250214181500 +0800">
+	<programme channel="CCTV风云足球" start="20250214165000 +0800" stop="20250214181500 +0800">
 		<title lang="zh">英超联赛第3轮:切尔西-水晶宫</title>
 	</programme>
-	<programme channel="风云足球" start="20250214181500 +0800" stop="20250214194000 +0800">
+	<programme channel="CCTV风云足球" start="20250214181500 +0800" stop="20250214194000 +0800">
 		<title lang="zh">英超第4轮:利物浦-诺丁汉森林</title>
 	</programme>
-	<programme channel="风云足球" start="20250214194000 +0800" stop="20250214210000 +0800">
+	<programme channel="CCTV风云足球" start="20250214194000 +0800" stop="20250214210000 +0800">
 		<title lang="zh">西甲联赛第17轮:巴列卡诺-皇马</title>
 	</programme>
-	<programme channel="风云足球" start="20250214210000 +0800" stop="20250214222500 +0800">
+	<programme channel="CCTV风云足球" start="20250214210000 +0800" stop="20250214222500 +0800">
 		<title lang="zh">法甲联赛第15轮:马赛-里尔</title>
 	</programme>
-	<programme channel="风云足球" start="20250214222500 +0800" stop="20250214235000 +0800">
+	<programme channel="CCTV风云足球" start="20250214222500 +0800" stop="20250214235000 +0800">
 		<title lang="zh">西甲联赛第11轮:赫塔费-巴伦西亚</title>
 	</programme>
-	<programme channel="风云足球" start="20250214235000 +0800" stop="20250214235900 +0800">
+	<programme channel="CCTV风云足球" start="20250214235000 +0800" stop="20250214235900 +0800">
 		<title lang="zh">法甲第9轮:马赛-巴黎圣日耳曼</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214003200 +0800" stop="20250214070000 +0800">
+		<title lang="zh">合唱先锋2023-32-七彩阳光</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214070000 +0800" stop="20250214073000 +0800">
+		<title lang="zh">风华国乐-2022-159</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214073000 +0800" stop="20250214083000 +0800">
+		<title lang="zh">唱出我新声-精华版12</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214083000 +0800" stop="20250214095600 +0800">
+		<title lang="zh">合唱先锋2023-32-七彩阳光</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214095600 +0800" stop="20250214111400 +0800">
+		<title lang="zh">星光大道-2024-55(这一站星光31)</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214111400 +0800" stop="20250214115900 +0800">
+		<title lang="zh">音乐公开课-2024-4(4K)</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214115900 +0800" stop="20250214122900 +0800">
+		<title lang="zh">地中海风尚-2023-21</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214122900 +0800" stop="20250214132400 +0800">
+		<title lang="zh">地中海风尚-2023-22</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214132400 +0800" stop="20250214135400 +0800">
+		<title lang="zh">乐游天下-2023-6笙歌满园迎春来1</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214135400 +0800" stop="20250214140600 +0800">
+		<title lang="zh">非遗里的中国-秀演精编1</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214140600 +0800" stop="20250214150600 +0800">
+		<title lang="zh">合唱先锋2023-31-回声悠扬(纯享版)</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214150600 +0800" stop="20250214162300 +0800">
+		<title lang="zh">门大吉2022-6</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214162300 +0800" stop="20250214172400 +0800">
+		<title lang="zh">童声唱-2024-13</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214172400 +0800" stop="20250214175900 +0800">
+		<title lang="zh">风华国乐-2022-158</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214175900 +0800" stop="20250214185900 +0800">
+		<title lang="zh">一起音乐吧-2022-90 因为爱情</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214185900 +0800" stop="20250214200000 +0800">
+		<title lang="zh">乐享汇-2024-24</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214200000 +0800" stop="20250214203000 +0800">
+		<title lang="zh">地中海风尚-2023-23</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214203000 +0800" stop="20250214210000 +0800">
+		<title lang="zh">地中海风尚-2023-24</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214210000 +0800" stop="20250214221700 +0800">
+		<title lang="zh">星光大道-2024-56(这一站星光32)</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214221700 +0800" stop="20250214230200 +0800">
+		<title lang="zh">音乐公开课-2024-7全民声乐课</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214230200 +0800" stop="20250214233200 +0800">
+		<title lang="zh">风华国乐-2022-160</title>
+	</programme>
+	<programme channel="CCTV风云音乐" start="20250214233200 +0800" stop="20250214235900 +0800">
+		<title lang="zh">一起音乐吧-2022-90 因为爱情</title>
 	</programme>
 	<programme channel="香港卫视" start="20250214000000 +0800" stop="20250214001000 +0800">
 		<title lang="zh">精彩呈现</title>
