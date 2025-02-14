@@ -472,6 +472,20 @@
     <status>1</status>
     <note>超级综艺</note>
 </epg>
+<epg>
+    <tvid>67</tvid>
+    <epgid>黑莓动画</epgid>
+    <name>newtv黑莓动画,NEWTV黑莓动画</name>
+    <status>1</status>
+    <note>黑莓动画</note>
+</epg>
+<epg>
+    <tvid>68</tvid>
+    <epgid>黑莓电影</epgid>
+    <name>newtv黑莓电影,NEWTV黑莓电影</name>
+    <status>1</status>
+    <note>黑莓电影</note>
+</epg>
 
 
 </epgs>
