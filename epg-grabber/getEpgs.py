@@ -145,7 +145,7 @@ urls = [
      'https://github.com/zsz520/epg/blob/main/epg/epgpw_hk.xml.gz',
 'https://github.com/zsz520/epg/blob/main/epg/erw.xml.gz',
   'https://github.com/zsz520/epg/blob/main/epg/epgpw_tw.xml.gz',
-  'https://github.com/zsz520/epg/blob/main/epg/livednow.xml.gz',
+  'https://github.com/zsz520/epg/blob/main/epg/livednow.xml.gz',]
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     
