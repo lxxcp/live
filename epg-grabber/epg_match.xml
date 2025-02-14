@@ -137,9 +137,9 @@
 <epg>
     <tvid>19</tvid>
     <epgid>CCTV-17 农业农村</epgid>
-    <name>CCTV-17农村农业,农村农业，CCTV17,CCTV-17,cctv17,农业农村，cctv17农业农村</name>
+    <name>CCTV-17农村农业,农村农业，CCTV17,CCTV-17,cctv17,农业农村,cctv17农业农村,cctv-17</name>
     <status>1</status>
-    <note>农村农业</note>
+    <note>农业农村</note>
 </epg>
 <epg>
     <tvid>20</tvid>
@@ -257,7 +257,7 @@
 <epg>
     <tvid>36</tvid>
     <epgid>北京纪实科教</epgid>
-    <name>北京纪实,BTV纪实,BTV纪实科教</name>
+    <name>北京纪实,BTV纪实,BTV纪实科教,BTV纪</name>
     <status>1</status>
     <note>教育三套</note>
 </epg>
@@ -464,6 +464,13 @@
     <name>江西教育频道,jxedu</name>
     <status>1</status>
     <note>江西教育</note>
+</epg>
+<epg>
+    <tvid>66</tvid>
+    <epgid>newtv超级体育</epgid>
+    <name>超级体育,NEWTV超级体育</name>
+    <status>1</status>
+    <note>超级综艺</note>
 </epg>
 
 
