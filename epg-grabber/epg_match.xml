@@ -327,29 +327,29 @@
 </epg>
 <epg>
     <tvid>46</tvid>
-    <epgid>newtv海外剧场</epgid>
-    <name>海外剧场,NEWTV海外剧场</name>
+    <epgid>海外剧场</epgid>
+    <name>newtv海外剧场,NEWTV海外剧场</name>
     <status>1</status>
     <note>海外剧场</note>
 </epg>
 <epg>
     <tvid>47</tvid>
-    <epgid>newtv精品体育</epgid>
-    <name>精品体育,NEWTV精品体育</name>
+    <epgid>精品体育</epgid>
+    <name>newtv精品体育,NEWTV精品体育</name>
     <status>1</status>
     <note>精品体育</note>
 </epg>
 <epg>
     <tvid>48</tvid>
-    <epgid>newtv精品大剧</epgid>
-    <name>精品大剧,NEWTV精品大剧</name>
+    <epgid>精品大剧</epgid>
+    <name>newtv精品大剧,NEWTV精品大剧</name>
     <status>1</status>
     <note>精品大剧</note>
 </epg>
 <epg>
     <tvid>49</tvid>
-    <epgid>newtv精品萌宠</epgid>
-    <name>精品萌宠,NEWTV精品萌宠</name>
+    <epgid>精品萌宠</epgid>
+    <name>newtv精品萌宠,NEWTV精品萌宠</name>
     <status>1</status>
     <note>精品萌宠</note>
 </epg>
@@ -362,99 +362,99 @@
 </epg>
 <epg>
     <tvid>51</tvid>
-    <epgid>newtv超级电影</epgid>
-    <name>超级电影,NEWTV超级电影</name>
+    <epgid>超级电影</epgid>
+    <name>newtv超级电影,NEWTV超级电影</name>
     <status>1</status>
     <note>超级电影</note>
 </epg>
 <epg>
     <tvid>52</tvid>
-    <epgid>newtv超级电视剧</epgid>
-    <name>超级电视剧,NEWTV超级电视剧</name>
+    <epgid>超级电视剧</epgid>
+    <name>newtv超级电视剧,NEWTV超级电视剧</name>
     <status>1</status>
     <note>超级电视剧</note>
 </epg>
 <epg>
     <tvid>53</tvid>
-    <epgid>newtv超级综艺</epgid>
-    <name>超级综艺,NEWTV超级综艺</name>
+    <epgid>超级综艺</epgid>
+    <name>newtv超级综艺,NEWTV超级综艺</name>
     <status>1</status>
     <note>超级综艺</note>
 </epg>
 <epg>
     <tvid>54</tvid>
-    <epgid>newtv金牌综艺</epgid>
-    <name>金牌综艺,NEWTV金牌综艺</name>
+    <epgid>金牌综艺</epgid>
+    <name>newtv金牌综艺,NEWTV金牌综艺</name>
     <status>1</status>
     <note>金牌综艺</note>
 </epg>
 <epg>
     <tvid>55</tvid>
-    <epgid>newtv中国功夫</epgid>
-    <name>中国功夫,NEWTV中国功夫</name>
+    <epgid>中国功夫</epgid>
+    <name>newtv中国功夫,NEWTV中国功夫</name>
     <status>1</status>
     <note>中国功夫</note>
 </epg>
 <epg>
     <tvid>56</tvid>
-    <epgid>newtv军事评论</epgid>
-    <name>军事评论,NEWTV军事评论</name>
+    <epgid>军事评论</epgid>
+    <name>newtv军事评论,NEWTV军事评论</name>
     <status>1</status>
-    <note>中国功夫</note>
+    <note>军事评论</note>
 </epg>
 <epg>
     <tvid>57</tvid>
-    <epgid>newtv军旅剧场</epgid>
-    <name>军旅剧场,NEWTV军旅剧场</name>
+    <epgid>军旅剧场</epgid>
+    <name>newtv军旅剧场,NEWTV军旅剧场</name>
     <status>1</status>
     <note>军旅剧场</note>
 </epg>
 <epg>
     <tvid>58</tvid>
-    <epgid>newtv家庭剧场</epgid>
-    <name>家庭剧场,NEWTV家庭剧场</name>
+    <epgid>家庭剧场</epgid>
+    <name>newtv家庭剧场,NEWTV家庭剧场</name>
     <status>1</status>
     <note>家庭剧场</note>
 </epg>
 <epg>
     <tvid>59</tvid>
-    <epgid>newtv农业致富</epgid>
-    <name>农业致富,NEWTV农业致富</name>
+    <epgid>农业致富</epgid>
+    <name>newtv农业致富,NEWTV农业致富</name>
     <status>1</status>
     <note>农业致富</note>
 </epg>
 <epg>
     <tvid>60</tvid>
-    <epgid>newtv怡伴健康</epgid>
-    <name>怡伴健康,NEWTV怡伴健康</name>
+    <epgid>怡伴健康</epgid>
+    <name>newtv怡伴健康,NEWTV怡伴健康</name>
     <status>1</status>
     <note>怡伴健康</note>
 </epg>
 <epg>
     <tvid>61</tvid>
-    <epgid>newtv欢乐剧场</epgid>
+    <epgid>欢乐剧场</epgid>
     <name>欢乐剧场,NEWTV欢乐剧场</name>
     <status>1</status>
-    <note>欢乐剧场</note>
+    <note>newtv欢乐剧场</note>
 </epg>
 <epg>
     <tvid>62</tvid>
-    <epgid>newtv古装剧场</epgid>
-    <name>古装剧场,NEWTV古装剧场</name>
+    <epgid>古装剧场</epgid>
+    <name>newtv古装剧场,NEWTV古装剧场</name>
     <status>1</status>
     <note>古装剧场</note>
 </epg>
 <epg>
     <tvid>63</tvid>
-    <epgid>newtv潮妈辣婆</epgid>
-    <name>潮妈辣婆,NEWTV潮妈辣婆</name>
+    <epgid>潮妈辣婆</epgid>
+    <name>newtv潮妈辣婆,NEWTV潮妈辣婆</name>
     <status>1</status>
     <note>潮妈辣婆</note>
 </epg>
 <epg>
     <tvid>64</tvid>
-    <epgid>newtv炫舞未来</epgid>
-    <name>炫舞未来,NEWTV炫舞未来</name>
+    <epgid>炫舞未来</epgid>
+    <name>newtv炫舞未来,NEWTV炫舞未来</name>
     <status>1</status>
     <note>炫舞未来</note>
 </epg>
@@ -467,8 +467,8 @@
 </epg>
 <epg>
     <tvid>66</tvid>
-    <epgid>newtv超级体育</epgid>
-    <name>超级体育,NEWTV超级体育</name>
+    <epgid>超级体育</epgid>
+    <name>newtv超级体育,NEWTV超级体育</name>
     <status>1</status>
     <note>超级体育</note>
 </epg>
@@ -495,8 +495,8 @@
 </epg>
 <epg>
     <tvid>70</tvid>
-    <epgid>newtv动画世界</epgid>
-    <name>动画世界,NEWTV动画世界</name>
+    <epgid>动画世界</epgid>
+    <name>newtv动画世界,NEWTV动画世界</name>
     <status>1</status>
     <note>动画世界</note>
 </epg>
