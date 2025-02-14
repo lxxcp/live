@@ -2,12 +2,29 @@ import os
 import gzip
 import xml.etree.ElementTree as ET
 import requests
+import logging
 
 save_as_gz = True  # 是否保存 .gz 文件
 tvg_ids_file = os.path.join(os.path.dirname(__file__), 'tvg-ids.txt')
 epg_match_file = os.path.join(os.path.dirname(__file__), 'epg_match.xml')
 output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'e.xml')
 output_file_gz = output_file + '.gz'
+
+def load_tvg_ids(tvg_ids_file):
+    """
+    加载 tvg-ids.txt 文件，构建频道 ID 到显示名称的映射表
+    """
+    tvg_ids = {}
+    try:
+        with open(tvg_ids_file, 'r') as file:
+            for line in file:
+                line = line.strip()
+                if line:
+                    tvg_ids[line] = line
+        logging.info(f"Loaded {len(tvg_ids)} TVG IDs from {tvg_ids_file}")
+    except Exception as e:
+        logging.error(f"Failed to read {tvg_ids_file}: {e}")
+    return tvg_ids
 
 def load_epg_mapping(epg_match_file):
     """
@@ -59,7 +76,7 @@ def fetch_and_extract_xml(url):
         logging.error(f"Failed to fetch {url}: {e}")
         return None
 
-def filter_and_build_epg(urls, mapping):
+def filter_and_build_epg(urls, mapping, tvg_ids):
     """
     过滤并构建 EPG 数据
     """
@@ -83,6 +100,11 @@ def filter_and_build_epg(urls, mapping):
             normalized_tvg_id = normalize_channel_name(tvg_id, mapping)
             if normalized_tvg_id in valid_tvg_ids:
                 channel.set('id', normalized_tvg_id)
+                # 添加 display-name 标签
+                display_name = tvg_ids.get(normalized_tvg_id, normalized_tvg_id)
+                display_name_elem = ET.SubElement(channel, 'display-name')
+                display_name_elem.set('lang', 'zh')
+                display_name_elem.text = display_name
                 root.append(channel)
 
         for programme in epg_data.findall('programme'):
@@ -113,11 +135,13 @@ urls = [
 ]
 
 if __name__ == "__main__":
-    import logging
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     
     # 加载频道名称映射表
     mapping = load_epg_mapping(epg_match_file)
     
+    # 加载 tvg-ids.txt 文件中的频道 ID 和显示名称
+    tvg_ids = load_tvg_ids(tvg_ids_file)
+    
     # 过滤并构建 EPG 数据
-    filter_and_build_epg(urls, mapping)
+    filter_and_build_epg(urls, mapping, tvg_ids)
