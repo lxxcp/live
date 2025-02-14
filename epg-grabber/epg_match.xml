@@ -63,7 +63,6 @@
     <status>1</status>
     <note>央视电影</note>
 </epg>
-
 <epg>
     <tvid>9</tvid>
     <epgid>CCTV-7 国防军事</epgid>
@@ -71,7 +70,6 @@
     <status>1</status>
     <note>央视军事农业</note>
 </epg>
-
 <epg>
     <tvid>10</tvid>
     <epgid>CCTV-8 电视剧</epgid>
@@ -79,7 +77,6 @@
     <status>1</status>
     <note>央视电视剧</note>
 </epg>
-
 <epg>
     <tvid>11</tvid>
     <epgid>CCTV-9 纪录</epgid>
@@ -87,7 +84,6 @@
     <status>1</status>
     <note>央视纪录</note>
 </epg>
-
 <epg>
     <tvid>12</tvid>
     <epgid>CCTV-10 科教</epgid>
@@ -103,7 +99,6 @@
     <status>1</status>
     <note>央视戏曲</note>
 </epg>
-
 <epg>
     <tvid>14</tvid>
     <epgid>CCTV-12 社会与法</epgid>
@@ -111,7 +106,6 @@
     <status>1</status>
     <note>央视社会与法</note>
 </epg>
-
 <epg>
     <tvid>15</tvid>
     <epgid>CCTV-13 新闻</epgid>
@@ -119,7 +113,6 @@
     <status>1</status>
     <note>央视新闻</note>
 </epg>
-
 <epg>
     <tvid>16</tvid>
     <epgid>CCTV-14 少儿</epgid>
@@ -127,7 +120,6 @@
     <status>1</status>
     <note>央视少儿</note>
 </epg>
-
 <epg>
     <tvid>17</tvid>
     <epgid>CCTV-15 音乐</epgid>
@@ -135,7 +127,6 @@
     <status>1</status>
     <note>央视音乐</note>
 </epg>
-
 <epg>
     <tvid>18</tvid>
     <epgid>CCTV-16 奥林匹克</epgid>
@@ -143,11 +134,10 @@
     <status>1</status>
     <note>央视奥林匹克</note>
 </epg>
-
 <epg>
     <tvid>19</tvid>
     <epgid>CCTV-17 农业农村</epgid>
-    <name>CCTV-17农村农业,农村农业，CCTV17,CCTV-17,cctv17</name>
+    <name>CCTV-17农村农业,农村农业，CCTV17,CCTV-17,cctv17,农业农村，cctv17农业农村</name>
     <status>1</status>
     <note>农村农业</note>
 </epg>
@@ -243,7 +233,6 @@
     <status>1</status>
     <note>教育一套</note>
 </epg>
-
 <epg>
     <tvid>33</tvid>
     <epgid>CETV-2 空中课堂</epgid>
@@ -251,7 +240,6 @@
     <status>1</status>
     <note>教育二套</note>
 </epg>
-
 <epg>
     <tvid>34</tvid>
     <epgid>CETV-3 教育服务</epgid>
