@@ -64,6 +64,7 @@ urls = [
     'https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz',
    'https://gitee.com/taksssss/tv/raw/main/epg/livednow.xml.gz',
     'https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz',
+    'https://e.erw.cc/all.xml.gz',
 ]
 
 if __name__ == "__main__":

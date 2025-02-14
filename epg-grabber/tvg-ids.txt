@@ -1,3 +1,4 @@
+
 CCTV4K
 CCTV8K
 CCTV-1综合
@@ -31,10 +32,10 @@ CCTV-风云音乐
 CCTV-高尔夫网球
 CCTV央视台球
 CCTV老故事
-CETV-1 综合教育
-CETV-2 空中课堂
-CETV-3 教育服务
-CETV-4 职业教育
+CETV-1综合教育
+CETV-2空中课堂
+CETV-3教育服务
+CETV-4职业教育
 CGTN俄语
 CGTN法语
 CGTN英语
@@ -152,66 +153,66 @@ CGTN阿拉伯语
 金鹰卡通
 青春动漫
 黑莓动画
-IHOT 爱科幻
-IHOT 爱奇谈,
-IHOT 爱院线
-IHOT 爱喜剧
-IHOT 爱浪漫
-IHOT 爱怀旧
-IHOT 爱江湖
-IHOT 爱谍战
-IHOT 爱悬疑
-IHOT 爱经典
-IHOT 爱都市
-IHOT 爱娱乐
-IHOT 爱青春
-IHOT 爱家庭
-IHOT 爱动漫
-IHOT 爱玩具
-IHOT 爱电竞
-IHOT 爱赛车
-IHOT 爱体育
-IHOT 爱世界
-IHOT 爱旅行
-IHOT 爱解密
-IHOT 爱军武
-IHOT 爱幼教
-IHOT 爱猎奇
-IHOT 爱历史
-IHOT 爱科学
-IHOT 爱时尚
-IHOT 爱探索
-IHOT 爱美食
-NewTV 东北热剧
-NewTV 中国功夫
-NewTV 健康有约
-NewTV 军事评论
-NewTV 军旅剧场
-NewTV 农业致富
-NewTV 动作电影
-NewTV 古装剧场
-NewTV 家庭剧场
-NewTV 怡伴健康
-NewTV 惊悚悬疑
-NewTV 搏击
-NewTV 明星大片
-NewTV 欢乐剧场
-NewTV 武搏世界
-NewTV 海外剧场
-NewTV 潮妈辣婆
-NewTV 炫舞未来
-NewTV 爱情喜剧
-NewTV 精品体育
-NewTV 精品大剧
-NewTV 精品纪录
-NewTV 精品萌宠
-NewTV 精品记录
-NewTV 超级体育
-NewTV 超级电影
-NewTV 超级电视剧
-NewTV 超级综艺
-NewTV 金牌综艺
-NewTV 魅力潇湘
+IHOT爱科幻
+IHOT爱奇谈,
+IHOT爱院线
+IHOT爱喜剧
+IHOT爱浪漫
+IHOT爱怀旧
+IHOT爱江湖
+IHOT爱谍战
+IHOT爱悬疑
+IHOT爱经典
+IHOT爱都市
+IHOT爱娱乐
+IHOT爱青春
+IHOT爱家庭
+IHOT爱动漫
+IHOT爱玩具
+IHOT爱电竞
+IHOT爱赛车
+IHOT爱体育
+IHOT爱世界
+IHOT爱旅行
+IHOT爱解密
+IHOT爱军武
+IHOT爱幼教
+IHOT爱猎奇
+IHOT爱历史
+IHOT爱科学
+IHOT爱时尚
+IHOT爱探索
+IHOT爱美食
+NewTV东北热剧
+NewTV中国功夫
+NewTV健康有约
+NewTV军事评论
+NewTV军旅剧场
+NewTV农业致富
+NewTV动作电影
+NewTV古装剧场
+NewTV家庭剧场
+NewTV怡伴健康
+NewTV惊悚悬疑
+NewTV搏击
+NewTV明星大片
+NewTV欢乐剧场
+NewTV武搏世界
+NewTV海外剧场
+NewTV潮妈辣婆
+NewTV炫舞未来
+NewTV爱情喜剧
+NewTV精品体育
+NewTV精品大剧
+NewTV精品纪录
+NewTV精品萌宠
+NewTV精品记录
+NewTV超级体育
+NewTV超级电影
+NewTV超级电视剧
+NewTV超级综艺
+NewTV金牌综艺
+NewTV魅力潇湘
 欧美剧场
 都市剧场
 欧美影院
@@ -229,4 +230,3 @@ NewTV 魅力潇湘
 求索纪录
 电竞综合
 动物纪录
-
