@@ -302,6 +302,13 @@
     <status>1</status>
     <note>CCTV4K</note>
 </epg>
+<epg>
+    <tvid>40</tvid>
+    <epgid>欢笑剧场4K</epgid>
+    <name>欢笑剧场-4K,欢笑剧场</name>
+    <status>1</status>
+    <note>欢笑剧场</note>
+</epg>
 
 
 </epgs>
