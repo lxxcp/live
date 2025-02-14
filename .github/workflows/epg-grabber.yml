@@ -4,9 +4,7 @@ on:
   schedule:
     # Runs twice a day
     - cron: "0 0,12 * * *"
-  
-  # Add a manual trigger
-  workflow_dispatch:
+  workflow_dispatch:  # Manual trigger
 
 jobs:
   update-files:
@@ -15,7 +13,7 @@ jobs:
       - name: Checkout repository (no history)
         uses: actions/checkout@v3
         with:
-          fetch-depth: 1
+          fetch-depth: 1  # 仅克隆最新提交，减少耗时
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,10 +28,22 @@ jobs:
         run: |
           python epg-grabber/getEpgs.py
 
-      - name: Force commit and push the changes (no history)
+      - name: Check for changes
+        id: check-changes
+        run: |
+          git add e.xml e.xml.gz
+          if git diff-index --quiet HEAD --; then
+            echo "No changes detected."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected."
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes (if any)
+        if: steps.check-changes.outputs.has_changes == 'true'
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
-          git add -A epg.xml epg.xml.gz
           git commit -m "Update EPG"
-          git push --force # Force push to overwrite the previous commit
+          git push --force
