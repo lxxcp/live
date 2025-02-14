@@ -507,6 +507,55 @@
     <status>1</status>
     <note>动画世界</note>
 </epg>
+<epg>
+    <tvid>72</tvid>
+    <epgid>三立戏剧台</epgid>
+    <name>三立戲劇台,三立戲劇,三立戏剧</name>
+    <status>1</status>
+    <note>三立戏剧台</note>
+</epg>
+<epg>
+    <tvid>73</tvid>
+    <epgid>AMC电影台</epgid>
+    <name>AMC电影</name>
+    <status>1</status>
+    <note>AMC电影台</note>
+</epg>
+<epg>
+    <tvid>74</tvid>
+    <epgid>中天娱乐</epgid>
+    <name>中天娛樂台,中天娛樂,中天娱乐台,中天娛樂臺</name>
+    <status>1</status>
+    <note>中天娱乐</note>
+</epg>
+<epg>
+    <tvid>75</tvid>
+    <epgid>纬来精采</epgid>
+    <name>纬来精采HD,緯來精采台,緯來精采,緯來精采臺</name>
+    <status>1</status>
+    <note>纬来精采</note>
+</epg>
+<epg>
+    <tvid>76</tvid>
+    <epgid>八大戏剧台</epgid>
+    <name>八大戲劇臺,,八大戲劇,八大戏剧</name>
+    <status>1</status>
+    <note>八大戏剧台</note>
+</epg>
+<epg>
+    <tvid>77</tvid>
+    <epgid>八大第一台</epgid>
+    <name>八大第一臺,,八大第一</name>
+    <status>1</status>
+    <note>八大第一</note>
+</epg>
+<epg>
+    <tvid>78</tvid>
+    <epgid>延边卫视2</epgid>
+    <name>YBTV-2,YBTV2</name>
+    <status>1</status>
+    <note>延边卫视2</note>
+</epg>
 
 
 </epgs>
