@@ -42,7 +42,7 @@
 
 <epg>
     <tvid>6</tvid>
-    <epgid>CCTV5 体育</epgid>
+    <epgid>CCTV-5 体育</epgid>
     <name>央视体育,CCTV-5体育,CCTV-5,CCTV5,CCTV5体育,cctv5</name>
     <status>1</status>
     <note>央视体育</note>
@@ -274,6 +274,20 @@
     <note>教育三套</note>
 </epg>
 
+<epg>
+    <tvid>37</tvid>
+    <epgid>CCTV-4 中文国际欧洲</epgid>
+    <name>CCTV4欧洲,cctv4 欧洲</name>
+    <status>1</status>
+    <note>央视国际</note>
+</epg>
+<epg>
+    <tvid>37</tvid>
+    <epgid>CCTV-4 中文国际美洲</epgid>
+    <name>CCTV4美洲,cctv4 美洲</name>
+    <status>1</status>
+    <note>央视国际</note>
+</epg>
 
 
 </epgs>
