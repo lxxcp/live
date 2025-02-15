@@ -37,17 +37,20 @@ jobs:
       - name: Update guide
         run: |
           pwd
+          ls -la  # 列出当前目录的文件
           python epg/get-epg.py
+          ls -la  # 再次列出当前目录的文件，检查 guide.xml 是否生成
 
       - name: Commit changes
         run: |
           git config --local user.email "github-actions-bot@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
 
       - name: Pull changes
-        run: git pull -r
+        run: |
+          git pull -r
 
       - name: Push changes
         uses: ad-m/github-push-action@master
