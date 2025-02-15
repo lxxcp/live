@@ -1,3 +1,4 @@
+
 #-*- coding: utf-8 -*-                                                                                                                                  
 import re
 import pytz
@@ -21,7 +22,7 @@ sat_channel = ['cetv1','cetv2','cetv3','cetv4','btv1','btvjishi','dongfang', \
         'yanbian','xizang','xinjiang','bingtuan','btvchild','gaoerfu','sdetv']
 sat_channel_tvsou = ['hubei','hunan','zhejiang','jiangsu','dongfang','btv1','guangdong',\
     'shenzhen','heilongjiang','tianjin','shandong','anhui','liaoning']
-'''
+
 def getChannelCNTV(fhandle, channelID):
     '''
     通过央视cntv接口，获取央视，和上星卫视的节目单，写入同目录下 guide.xml 文件，文件格式符合xmltv标准
@@ -34,7 +35,7 @@ def getChannelCNTV(fhandle, channelID):
 
     Return:
         None,直接写入xml文件
-  
+    '''
 
     #change channelID list to str cids
     cids = ''
@@ -164,15 +165,15 @@ def getChannelTVsou(fhandle, channelID):
             fhandle.write('    </programme>\n')
 
 
-with open('tvsou.xml','w', encoding='utf-8') as fhandle: # 参数 w 表示覆盖，追加用 at (追加+文本)
+with open('guide.xml','w', encoding='utf-8') as fhandle: # 参数 w 表示覆盖，追加用 at (追加+文本)
     fhandle.write('<?xml version="1.0" encoding="utf-8" ?>\n')
     fhandle.write('<tv generator-info-name="lxxcp" generator-info-url="https://github.com/lxxcp/epg">\n')
-  getChannelTVsou(fhandle,cctv_channel_tvsou)
-  getChannelTVsou(fhandle, 'weishi')
-   getChannelCNTV(fhandle, cctv_channel)
-     getChannelCNTV(fhandle, sat_channel)
+#    getChannelTVsou(fhandle,cctv_channel_tvsou)
+#    getChannelTVsou(fhandle, 'weishi')
+    getChannelCNTV(fhandle, cctv_channel)
+    getChannelCNTV(fhandle, sat_channel)
     getChannelEPG(fhandle, cctv_channel)
     getChannelEPG(fhandle, sat_channel)    
-  getChannelTVmining(fhandle,cctv_channel_tvmining)
-    getChannelTVmining(fhandle,sat_channel_tvmining)
+#    getChannelTVmining(fhandle,cctv_channel_tvmining)
+#    getChannelTVmining(fhandle,sat_channel_tvmining)
     fhandle.write('</tv>')
