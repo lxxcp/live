@@ -37,7 +37,7 @@ jobs:
       - name: Update guide
         run: |
           pwd
-          python epg/get-epg.py
+          python epg/get-epg1.py
 
       - name: Commit changes
         run: |
