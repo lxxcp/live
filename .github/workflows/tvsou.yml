@@ -38,7 +38,7 @@ jobs:
       - name: Update tv-guide
         run: |
           pwd
-          python spiders/tvsou.py
+          python epg/tvmao.py
 
       - name: Commit changes
         run: |
