@@ -6,7 +6,7 @@ import re
 import gzip
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup as bs
-from datetime import timedelta
+from datetime import timedelta 
 import random
 
 headers = {
@@ -64,7 +64,60 @@ def get_morning_lis(url):  # 获取当天上午的节目列表
             time.sleep(2)
     return []
 
-# 其他函数保持不变...
+def get_epgs_tvmao(channel, channel_id, date, epgs_list):
+    url = f"https://www.tvmao.com/program/{channel_id}-{date.strftime('%Y%m%d')}"
+    lis = get_morning_lis(url)
+    if not lis:
+        return {'success': False, 'msg': '无法获取节目列表'}
+
+    epgs = []
+    for li in lis:
+        time_str = li.select('span.p_time')[0].text.strip()
+        title = li.select('span.p_title')[0].text.strip()
+        desc_url = li.select('a')[0].get('href')
+        desc = get_desc(desc_url)
+        epg = {
+            'channel': channel,
+            'title': title,
+            'start_time': f"{date.strftime('%Y-%m-%d')} {time_str}",
+            'desc': desc
+        }
+        epgs.append(epg)
+
+    return {'success': True, 'epgs': epgs}
+
+def generate_xml(epgs, filename):
+    root = ET.Element('tv')
+    for epg in epgs:
+        program = ET.SubElement(root, 'programme')
+        ET.SubElement(program, 'channel').text = epg['channel']['id']
+        ET.SubElement(program, 'title').text = epg['title']
+        ET.SubElement(program, 'start').text = epg['start_time']
+        ET.SubElement(program, 'desc').text = epg['desc']
+    tree = ET.ElementTree(root)
+    tree.write(filename, encoding='utf-8', xml_declaration=True)
+
+def generate_gz_xml(epgs_list, filename):
+    root = ET.Element('tv')
+    for epgs in epgs_list:
+        for epg in epgs:
+            program = ET.SubElement(root, 'programme')
+            ET.SubElement(program, 'channel').text = epg['channel']['id']
+            ET.SubElement(program, 'title').text = epg['title']
+            ET.SubElement(program, 'start').text = epg['start_time']
+            ET.SubElement(program, 'desc').text = epg['desc']
+    tree = ET.ElementTree(root)
+    with gzip.open(filename, 'wb') as f:
+        f.write(ET.tostring(root, encoding='utf-8', xml_declaration=True))
+
+def get_epgs_for_seven_days(channel, channel_id, start_date):
+    epgs_list = []
+    for i in range(7):
+        date = start_date + timedelta(days=i)
+        result = get_epgs_tvmao(channel, channel_id, date, epgs_list)
+        if result['success']:
+            epgs_list.append(result['epgs'])
+    return epgs_list
 
 def main():
     start_date = datetime.datetime.now().date()
