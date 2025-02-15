@@ -34,7 +34,7 @@ def getChannelCNTV(fhandle, channelID):
 
     Return:
         None,直接写入xml文件
-    '''
+  
 
     #change channelID list to str cids
     cids = ''
@@ -102,7 +102,7 @@ def getChannelEPG(fhandle, channelID):
             fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (st, et, channelID[n]))
             fhandle.write('        <title lang="zh">%s</title>\n' % detail3['t'])
             fhandle.write('    </programme>\n')            
-'''
+
 # 本段内容适用电视猫，备份使用，先注释掉
 def getChannelTVsou(fhandle, channelID):
     
