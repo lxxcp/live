@@ -16,7 +16,7 @@ cctv_channel_tvsou = ['cctv-1','cctv-2','cctv-3','cctv-4','cctv-5','cctv5+','cct
 sat_channel = ['cetv1','cetv2','cetv3','cetv4','btv1','btvjishi','dongfang', \
         'hunan','shandong','zhejiang','jiangsu','guangdong','dongnan','anhui', \
         'gansu','liaoning','travel','neimenggu','ningxia','qinghai','xiamen', \
-        'yunnan','chongqing','jiangxi','shan1xi','shan3xi','shenzhen','sichuan','tianjin', \
+        'yunnan','chongqing','jiangxi','shan1xi','shenzhen','sichuan','tianjin', \
         'guangxi','guizhou','hebei','henan','heilongjiang','hubei','jilin', \
         'yanbian','xizang','xinjiang','bingtuan','btvchild','gaoerfu','sdetv']
 sat_channel_tvsou = ['hubei','hunan','zhejiang','jiangsu','dongfang','btv1','guangdong',\
@@ -41,7 +41,7 @@ def getChannelCNTV(fhandle, channelID):
     for x in channelID:
         cids = cids + x + ','
 
-    epgdate = datetime.now(tz).strftime('%Y%m%d')
+    epgdate = datetime.now().strftime('%Y%m%d')
     session = requests.Session()
     api = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s" % (cids, epgdate)
     epgdata = session.get(api).json()
@@ -53,60 +53,20 @@ def getChannelCNTV(fhandle, channelID):
         fhandle.write('    <channel id="%s">\n' % channelID[n])
         fhandle.write('        <display-name lang="cn">%s</display-name>\n' % epgdata[channelID[n]]['channelName'])
         fhandle.write('    </channel>\n')
-
-def getChannelEPG(fhandle, channelID):
-
-    #change channelID list to str cids
-    cids = ''
-    for x in channelID:
-        cids = cids + x + ','
-
-    epgdate = datetime.now(tz).strftime('%Y%m%d')
-    epgdate2 = (datetime.now(tz) + timedelta(days=1)).strftime('%Y%m%d')
-    epgdate3 = (datetime.now(tz) + timedelta(days=2)).strftime('%Y%m%d')
-    session = requests.Session()
-    api = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s" % (cids, epgdate)
-    api2 = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s" % (cids, epgdate2)
-    api3 = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s" % (cids, epgdate3)
-    epgdata = session.get(api).json()
-    epgdata2 = session.get(api2).json()
-    epgdata3 = session.get(api3).json()
-
-    for n in range(len(channelID)):
-        program = epgdata[channelID[n]]['program']
+        
+        #write programe
         for detail in program:
-            #write programe
             st = datetime.fromtimestamp(detail['st']).strftime('%Y%m%d%H%M')+'00'
             et = datetime.fromtimestamp(detail['et']).strftime('%Y%m%d%H%M')+'00'
 
             fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (st, et, channelID[n]))
-            fhandle.write('        <title lang="zh">%s</title>\n' % detail['t'])
+            fhandle.write('        <title lang="cn">%s</title>\n' % detail['t'])
             fhandle.write('    </programme>\n')
-
-        program2 = epgdata2[channelID[n]]['program']
-        for detail2 in program2:
-            #write programe
-            st = datetime.fromtimestamp(detail2['st']).strftime('%Y%m%d%H%M')+'00'
-            et = datetime.fromtimestamp(detail2['et']).strftime('%Y%m%d%H%M')+'00'
-
-            fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (st, et, channelID[n]))
-            fhandle.write('        <title lang="zh">%s</title>\n' % detail2['t'])
-            fhandle.write('    </programme>\n')
-
-        program3 = epgdata3[channelID[n]]['program']
-        for detail3 in program3:
-            #write programe
-            st = datetime.fromtimestamp(detail3['st']).strftime('%Y%m%d%H%M')+'00'
-            et = datetime.fromtimestamp(detail3['et']).strftime('%Y%m%d%H%M')+'00'
-
-            fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (st, et, channelID[n]))
-            fhandle.write('        <title lang="zh">%s</title>\n' % detail3['t'])
-            fhandle.write('    </programme>\n')            
 '''
 # 本段内容适用电视猫，备份使用，先注释掉
 def getChannelTVsou(fhandle, channelID):
-    
-    #获取TVSOU的节目单和节目信息，先获取所有台的ID，再通过ID获取每个台每天节目单
+
+    # 获取TVSOU的节目单和节目信息，先获取所有台的ID，再通过ID获取每个台每天节目单
 
     #获取tvsou每个台的地址
     session = requests.Session()
@@ -164,15 +124,13 @@ def getChannelTVsou(fhandle, channelID):
             fhandle.write('    </programme>\n')
 '''
 
-with open('guide.xml','w', encoding='utf-8') as fhandle: # 参数 w 表示覆盖，追加用 at (追加+文本)
+with open('guide.xml','w', encoding='utf-8') as fhandle:
     fhandle.write('<?xml version="1.0" encoding="utf-8" ?>\n')
-    fhandle.write('<tv generator-info-name="lxxcp" generator-info-url="https://github.com/lxxcp/epg">\n')
+    fhandle.write('<tv>\n')
 #    getChannelTVsou(fhandle,cctv_channel_tvsou)
 #    getChannelTVsou(fhandle, 'weishi')
     getChannelCNTV(fhandle, cctv_channel)
     getChannelCNTV(fhandle, sat_channel)
-    getChannelEPG(fhandle, cctv_channel)
-    getChannelEPG(fhandle, sat_channel)    
 #    getChannelTVmining(fhandle,cctv_channel_tvmining)
 #    getChannelTVmining(fhandle,sat_channel_tvmining)
     fhandle.write('</tv>')
