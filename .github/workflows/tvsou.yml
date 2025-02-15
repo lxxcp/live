@@ -1,17 +1,17 @@
-
-name: auto tvmao
+name: Auto TVmao
 
 on:
   push:
   schedule:
-    - cron: "0 17,23,4,10 * * *" 
+    - cron: "0 17,23,4,10 * * *"  # 每天 1:00, 7:00, 13:00, 19:00 UTC（北京时间 9:00, 15:00, 21:00, 3:00）
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
 
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
@@ -21,23 +21,13 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pytz requests lxml  # 显式安装所需模块
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
-      - uses: actions/cache@v1
-        if: startsWith(runner.os, 'Linux')
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+          pip install requests beautifulsoup4 lxml
 
       - name: Set Timezone
         run: sudo timedatectl set-timezone 'Asia/Shanghai'
 
-      - name: Update tv-guide
+      - name: Run TVmao script
         run: |
-          pwd
           python epg/tvmao.py
 
       - name: Commit changes
@@ -45,13 +35,9 @@ jobs:
           git config --local user.email "github-actions-bot@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
-
-      - name: Pull changes
-        run: git pull -r
+          git diff-index --quiet HEAD || git commit -m "🚀 Auto-update TV guide at $(date '+%Y-%m-%d %H:%M:%S')"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
