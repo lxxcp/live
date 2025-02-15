@@ -38,7 +38,7 @@ jobs:
       - name: Update tv-guide
         run: |
           pwd
-          python get-epg.py
+          python epg/get-epg.py
 
       - name: Commit changes
         run: |
