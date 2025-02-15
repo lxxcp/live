@@ -31,7 +31,6 @@ sat_channel_tvsou = [
     'hubei', 'hunan', 'zhejiang', 'jiangsu', 'dongfang', 'btv1', 'guangdong',
     'shenzhen', 'heilongjiang', 'tianjin', 'shandong', 'anhui', 'liaoning'
 ]
-
 # 频道名称映射字典
 channel_name_mapping = {
     'cctv1': 'CCTV-1 综合',
