@@ -1,4 +1,4 @@
-name: auto update
+name: EPG更新CNTV
 
 on:
   schedule:
@@ -37,7 +37,7 @@ jobs:
       - name: Update guide
         run: |
           pwd
-          python epg/tvsou.py
+          python epg/get-epg.py
 
       - name: Commit changes
         run: |
