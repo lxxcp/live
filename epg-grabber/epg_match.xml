@@ -461,7 +461,7 @@
 <epg>
     <tvid>65</tvid>
     <epgid>江西教育</epgid>
-    <name>江西教育频道,jxedu,江西教育电视台，</name>
+    <name>江西教育频道,jxedu,江西教育电视台</name>
     <status>1</status>
     <note>江西教育</note>
 </epg>
@@ -555,6 +555,20 @@
     <name>YBTV-2,YBTV2</name>
     <status>1</status>
     <note>延边卫视2</note>
+</epg>
+<epg>
+    <tvid>79</tvid>
+    <epgid>风尚购物</epgid>
+    <name>江西风尚购物,JXTV-FSTVGO</name>
+    <status>1</status>
+    <note>风尚购物</note>
+</epg>
+<epg>
+    <tvid>80</tvid>
+    <epgid>收视指南</epgid>
+    <name>江西电视指南频道,JXTV-JXTV-GUIDE,江西电视指南</name>
+    <status>1</status>
+    <note>收视指南</note>
 </epg>
 
 
