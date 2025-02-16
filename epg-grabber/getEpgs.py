@@ -157,8 +157,9 @@ urls = [
     'https://e.erw.cc/all.xml.gz',
     'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',
     'https://e.erw.cc/allcc.xml.gz', 
-    'https://epg.aptv.app/pp.xmlgz',
     'http://epg.51zmt.top:8000/e.xml.gz',
+  'https://github.com/iptv-pro/iptv-pro.github.io/blob/main/epg/epg.xml.gz',
+ 'https://github.com/mou-min/EPG/blob/main/e1.xml.gz',
 ]
 
 if __name__ == "__main__":
