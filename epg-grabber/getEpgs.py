@@ -44,11 +44,17 @@ def load_epg_mapping(epg_match_file):
         logging.error(f"Failed to load {epg_match_file}: {e}")
     return mapping
 
-def normalize_channel_name(name, mapping):
+def normalize_channel_name(name, mapping, tvg_ids):
     """
     根据映射表将频道名称规范化
     """
-    return mapping.get(name, name)
+    normalized_name = mapping.get(name, name)
+    if normalized_name in tvg_ids:
+        return normalized_name
+    elif name in tvg_ids:
+        return name
+    else:
+        return name
 
 def fetch_and_extract_xml(url):
     """
@@ -90,6 +96,7 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
 
     root = ET.Element('tv')
     seen_channels = set()  # 用于记录已经处理过的频道，避免重复
+    unmapped_channels = set()  # 用于记录未映射的频道
 
     for url in urls:
         epg_data = fetch_and_extract_xml(url)
@@ -99,7 +106,7 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
         channel_count = 0
         for channel in epg_data.findall('channel'):
             tvg_id = channel.get('id')
-            normalized_tvg_id = normalize_channel_name(tvg_id, mapping)
+            normalized_tvg_id = normalize_channel_name(tvg_id, mapping, tvg_ids)
             if normalized_tvg_id in valid_tvg_ids and normalized_tvg_id not in seen_channels:
                 # 删除原有 display-name 标签
                 for old_display in channel.findall('display-name'):
@@ -120,10 +127,14 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
 
         for programme in epg_data.findall('programme'):
             tvg_id = programme.get('channel')
-            normalized_tvg_id = normalize_channel_name(tvg_id, mapping)
+            normalized_tvg_id = normalize_channel_name(tvg_id, mapping, tvg_ids)
             if normalized_tvg_id in valid_tvg_ids:
                 programme.set('channel', normalized_tvg_id)
                 root.append(programme)
+
+    # 输出未映射的频道
+    if unmapped_channels:
+        logging.warning(f"Found {len(unmapped_channels)} unmapped channels: {unmapped_channels}")
 
     # 保存生成的 EPG 数据
     try:
