@@ -6,6 +6,7 @@ import logging
 from copy import deepcopy
 import datetime
 
+# 配置参数
 save_as_gz = True  # 是否保存 .gz 文件
 tvg_ids_file = os.path.join(os.path.dirname(__file__), 'tvg-ids.txt')
 epg_match_file = os.path.join(os.path.dirname(__file__), 'epg_match.xml')
@@ -13,139 +14,195 @@ output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'e.xml')
 output_file_gz = output_file + '.gz'
 
 def load_tvg_ids(tvg_ids_file):
-    # ...（保持不变）...
+    """加载 tvg-ids.txt 文件中的有效频道ID"""
+    tvg_ids = {}
+    try:
+        with open(tvg_ids_file, 'r') as file:
+            for line in file:
+                line = line.strip()
+                if line:
+                    tvg_ids[line] = line
+        logging.info(f"Loaded {len(tvg_ids)} TVG IDs from {tvg_ids_file}")
+    except Exception as e:
+        logging.error(f"Failed to read {tvg_ids_file}: {e}")
+    return tvg_ids
 
 def load_epg_mapping(epg_match_file):
-    # ...（保持不变）...
+    """加载频道名称映射表"""
+    mapping = {}
+    try:
+        tree = ET.parse(epg_match_file)
+        root = tree.getroot()
+        for epg in root.findall('epg'):
+            epgid = epg.find('epgid').text
+            names = epg.find('name').text.split(',')
+            for name in names:
+                mapping[name.strip()] = epgid
+        logging.info(f"Loaded {len(mapping)} channel mappings from {epg_match_file}")
+    except Exception as e:
+        logging.error(f"Failed to load {epg_match_file}: {e}")
+    return mapping
 
 def normalize_channel_name(name, mapping, tvg_ids):
-    # ...（保持不变）...
+    """标准化频道名称"""
+    normalized_name = mapping.get(name, name)
+    if normalized_name in tvg_ids:
+        return normalized_name
+    elif name in tvg_ids:
+        return name
+    else:
+        return name
 
 def fetch_and_extract_xml(url):
-    # ...（保持不变）...
+    """获取并解析XML数据"""
+    try:
+        logging.info(f"Fetching data from {url}")
+        response = requests.get(url)
+        response.raise_for_status()
+
+        if url.endswith('.gz'):
+            decompressed_data = gzip.decompress(response.content)
+            return ET.fromstring(decompressed_data)
+        else:
+            return ET.fromstring(response.content)
+    except requests.RequestException as e:
+        logging.error(f"Failed to fetch {url}: {e}")
+    except Exception as e:
+        logging.error(f"Failed to process {url}: {e}")
+    return None
 
 def parse_epg_time(start_time):
-    """解析EPG时间字符串，返回UTC datetime对象"""
+    """解析EPG时间字符串"""
     if not start_time:
         return None
     try:
-        parts = start_time.split(' ')
-        if len(parts) != 2:
-            return None
-        time_part, tz_part = parts
+        time_part, tz_part = start_time.split()
         dt = datetime.datetime.strptime(time_part, "%Y%m%d%H%M%S")
+        
+        # 处理时区偏移
         tz_sign = tz_part[0]
         tz_hours = int(tz_part[1:3])
         tz_mins = int(tz_part[3:5])
         tz_offset = datetime.timedelta(hours=tz_hours, minutes=tz_mins)
         if tz_sign == '-':
             tz_offset = -tz_offset
+            
         utc_dt = dt - tz_offset
-        utc_dt = utc_dt.replace(tzinfo=datetime.timezone.utc)
-        return utc_dt
+        return utc_dt.replace(tzinfo=datetime.timezone.utc)
     except Exception as e:
-        logging.error(f"解析时间失败 {start_time}: {e}")
+        logging.error(f"Failed to parse time {start_time}: {e}")
         return None
 
 def filter_and_build_epg(urls, mapping, tvg_ids):
+    """主处理函数"""
     try:
         with open(tvg_ids_file, 'r') as file:
             valid_tvg_ids = set(line.strip() for line in file)
-        logging.info(f"从 {tvg_ids_file} 加载了 {len(valid_tvg_ids)} 个有效TVG ID")
+        logging.info(f"Loaded {len(valid_tvg_ids)} valid TVG IDs")
     except Exception as e:
-        logging.error(f"读取 {tvg_ids_file} 失败: {e}")
+        logging.error(f"Failed to load TVG IDs: {e}")
         return
 
-    # 创建两个根元素分别存储当日和四日数据
+    # 创建两个XML根节点
     root_daily = ET.Element('tv')
     root_four_days = ET.Element('tv')
-    seen_channels = set()  # 记录已处理的频道
+    seen_channels = set()
     today = datetime.datetime.utcnow().date()
     four_days_max = today + datetime.timedelta(days=3)
 
     for url in urls:
         epg_data = fetch_and_extract_xml(url)
-        if epg_data is None:
+        if not epg_data:
             continue
 
-        # 处理频道
+        # 处理频道信息
         channel_count = 0
         for channel in epg_data.findall('channel'):
             tvg_id = channel.get('id')
-            normalized_tvg_id = normalize_channel_name(tvg_id, mapping, tvg_ids)
-            if normalized_tvg_id in valid_tvg_ids and normalized_tvg_id not in seen_channels:
-                # 清理原有display-name
-                for old_display in channel.findall('display-name'):
-                    channel.remove(old_display)
-                # 添加新display-name
-                display_name = ET.SubElement(channel, 'display-name')
-                display_name.set('lang', 'zh')
-                display_name.text = normalized_tvg_id
-                channel.set('id', normalized_tvg_id)
+            norm_id = normalize_channel_name(tvg_id, mapping, tvg_ids)
+            
+            if norm_id in valid_tvg_ids and norm_id not in seen_channels:
+                # 清理并更新显示名称
+                for elem in channel.findall('display-name'):
+                    channel.remove(elem)
+                ET.SubElement(channel, 'display-name', {'lang': 'zh'}).text = norm_id
+                channel.set('id', norm_id)
                 
-                # 深拷贝并添加到两个根元素
-                channel_daily = deepcopy(channel)
-                channel_four = deepcopy(channel)
-                root_daily.append(channel_daily)
-                root_four_days.append(channel_four)
-                seen_channels.add(normalized_tvg_id)
+                # 添加到两个XML树
+                for root in [root_daily, root_four_days]:
+                    root.append(deepcopy(channel))
+                
+                seen_channels.add(norm_id)
                 channel_count += 1
-        logging.info(f"从 {url} 获取了 {channel_count} 个频道")
+        logging.info(f"Processed {channel_count} channels from {url}")
 
-        # 处理节目
-        prog_daily_count = 0
-        prog_four_count = 0
+        # 处理节目信息
+        daily_count = four_count = 0
         for programme in epg_data.findall('programme'):
             tvg_id = programme.get('channel')
-            normalized_tvg_id = normalize_channel_name(tvg_id, mapping, tvg_ids)
-            if normalized_tvg_id not in valid_tvg_ids:
-                continue
-
-            # 解析时间
-            start_time = programme.get('start')
-            utc_dt = parse_epg_time(start_time)
-            if not utc_dt:
-                continue
-            prog_date = utc_dt.date()
-
-            # 深拷贝节目并设置频道ID
-            prog_copy = deepcopy(programme)
-            prog_copy.set('channel', normalized_tvg_id)
-
-            # 添加到当日数据
-            if prog_date == today:
-                root_daily.append(prog_copy)
-                prog_daily_count += 1
+            norm_id = normalize_channel_name(tvg_id, mapping, tvg_ids)
             
-            # 添加到四日数据
-            if prog_date <= four_days_max:
-                # 需要再次深拷贝，因为元素不能有多个父节点
-                prog_copy_four = deepcopy(prog_copy)
-                root_four_days.append(prog_copy_four)
-                prog_four_count += 1
+            if norm_id not in valid_tvg_ids:
+                continue
 
-        logging.info(f"从 {url} 处理了 {prog_daily_count} 当日节目和 {prog_four_count} 四日节目")
+            # 时间解析
+            start_time = parse_epg_time(programme.get('start'))
+            if not start_time:
+                continue
+            prog_date = start_time.date()
+
+            # 克隆节目节点
+            prog_daily = deepcopy(programme)
+            prog_four = deepcopy(programme)
+            prog_daily.set('channel', norm_id)
+            prog_four.set('channel', norm_id)
+
+            # 添加到不同XML树
+            if prog_date == today:
+                root_daily.append(prog_daily)
+                daily_count += 1
+            
+            if prog_date <= four_days_max:
+                root_four_days.append(prog_four)
+                four_count += 1
+
+        logging.info(f"Added {daily_count} daily and {four_count} four-day programs from {url}")
 
     # 保存文件
     try:
         # 保存当日EPG
         ET.ElementTree(root_daily).write(output_file, encoding='utf-8', xml_declaration=True)
-        logging.info(f"当日EPG已保存至 {output_file}")
+        logging.info(f"Daily EPG saved to {output_file}")
 
         # 保存四日EPG（压缩）
         if save_as_gz:
             with gzip.open(output_file_gz, 'wb') as f:
                 ET.ElementTree(root_four_days).write(f, encoding='utf-8', xml_declaration=True)
-            logging.info(f"四日EPG已压缩保存至 {output_file_gz}")
+            logging.info(f"Four-day EPG saved to {output_file_gz}")
     except Exception as e:
-        logging.error(f"保存文件失败: {e}")
+        logging.error(f"Failed to save files: {e}")
 
+# EPG数据源列表
 urls = [
-    # ...（URL列表保持不变）...
+    'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',
+    'https://epg.pw/xmltv/epg_CN.xml',
+    'https://epg.pw/xmltv/epg_hk.xml.gz',
+    'https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz',
+    'https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz',
+    'https://e.erw.cc/all.xml.gz',
+    'https://e.erw.cc/allcc.xml.gz',
 ]
 
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-    mapping = load_epg_mapping(epg_match_file)
-    tvg_ids = load_tvg_ids(tvg_ids_file)
-    filter_and_build_epg(urls, mapping, tvg_ids)
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        datefmt='%Y-%m-%d %H:%M:%S'
+    )
+    
+    # 加载配置
+    channel_mapping = load_epg_mapping(epg_match_file)
+    tvg_id_list = load_tvg_ids(tvg_ids_file)
+    
+    # 执行处理
+    filter_and_build_epg(urls, channel_mapping, tvg_id_list)
