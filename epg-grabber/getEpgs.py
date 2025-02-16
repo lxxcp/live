@@ -119,7 +119,7 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
                 programme.set('channel', normalized_tvg_id)
                 root.append(programme)
 
-    # 后续保存代码保持不变...
+    # 保存生成的 EPG 数据
     try:
         tree = ET.ElementTree(root)
         tree.write(output_file, encoding='utf-8', xml_declaration=True)
@@ -138,11 +138,12 @@ urls = [
     'https://gitee.com/taksssss/tv/raw/main/epg/livednow.xml.gz',
     'https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz',
     'https://e.erw.cc/all.xml.gz',
-     'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',
-     'https://e.erw.cc/allcc.xml.gz', 
+    'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',
+    'https://e.erw.cc/allcc.xml.gz', 
     'https://epg.aptv.app/pp.xmlgz',
-   'http://epg.51zmt.top:8000/e.xml.gz',
- ]
+    'http://epg.51zmt.top:8000/e.xml.gz',
+]
+
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     
