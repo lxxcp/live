@@ -28,7 +28,7 @@ jobs:
 
       - name: Run TVmao script
         run: |
-          python epg/tvmao.py
+          python epg/tvmao_epg.py
 
       - name: Commit changes
         run: |
