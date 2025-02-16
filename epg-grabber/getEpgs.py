@@ -89,16 +89,18 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
         return
 
     root = ET.Element('tv')
+    seen_channels = set()  # 用于记录已经处理过的频道，避免重复
 
     for url in urls:
         epg_data = fetch_and_extract_xml(url)
         if epg_data is None:
             continue
 
+        channel_count = 0
         for channel in epg_data.findall('channel'):
             tvg_id = channel.get('id')
             normalized_tvg_id = normalize_channel_name(tvg_id, mapping)
-            if normalized_tvg_id in valid_tvg_ids:
+            if normalized_tvg_id in valid_tvg_ids and normalized_tvg_id not in seen_channels:
                 # 删除原有 display-name 标签
                 for old_display in channel.findall('display-name'):
                     channel.remove(old_display)
@@ -111,6 +113,10 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
                 # 更新 channel 的 id
                 channel.set('id', normalized_tvg_id)
                 root.append(channel)
+                seen_channels.add(normalized_tvg_id)
+                channel_count += 1
+
+        logging.info(f"Fetched {channel_count} channels from {url}")
 
         for programme in epg_data.findall('programme'):
             tvg_id = programme.get('channel')
