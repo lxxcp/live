@@ -160,6 +160,7 @@ urls = [
     'http://epg.51zmt.top:8000/e.xml.gz',
   'https://github.com/iptv-pro/iptv-pro.github.io/blob/main/epg/epg.xml.gz',
  'https://github.com/mou-min/EPG/blob/main/e1.xml.gz',
+  'https://iptv.crestekk.cn/epgphp/t.xml.gz',
 ]
 
 if __name__ == "__main__":

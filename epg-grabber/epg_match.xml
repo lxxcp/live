@@ -377,14 +377,14 @@
 <epg>
     <tvid>53</tvid>
     <epgid>八大戏剧台</epgid>
-    <name>八大戲劇臺,,八大戲劇,八大戏剧,八大戏剧台</name>
+    <name>八大戲劇臺,八大戲劇,八大戏剧,八大戏剧台</name>
     <status>1</status>
     <note>八大戏剧台</note>
 </epg>
 <epg>
     <tvid>54</tvid>
     <epgid>八大第一台</epgid>
-    <name>八大第一臺,,八大第一,八大第一台</name>
+    <name>八大第一臺,八大第一,八大第一台</name>
     <status>1</status>
     <note>八大第一</note>
 </epg>
@@ -398,7 +398,7 @@
 <epg>
     <tvid>56</tvid>
     <epgid>风尚购物</epgid>
-    <name>江西风尚购物,JXTV-FSTVGO,风尚购物,风尚购物频道,江西风尚购物频道</name>
+    <name>江西风尚购物,JXTV-FSTVGO,风尚购物,风尚购物频道,江西风尚购物频道,风尚</name>
     <status>1</status>
     <note>风尚购物</note>
 </epg>
@@ -409,5 +409,18 @@
     <status>1</status>
     <note>收视指南</note>
 </epg>
-
+<epg>
+    <tvid>58</tvid>
+    <epgid>武搏世界</epgid>
+    <name>武搏,搏击,newtv搏击,newtv武搏</name>
+    <status>1</status>
+    <note>武搏世界</note>
+</epg>
+<epg>
+    <tvid>59</tvid>
+    <epgid>国学频道</epgid>
+    <name>国学</name>
+    <status>1</status>
+    <note>国学频道</note>
+</epg>
 </epgs>
