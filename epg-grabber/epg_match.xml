@@ -229,28 +229,28 @@
 <epg>
     <tvid>32</tvid>
     <epgid>CETV-1 综合教育</epgid>
-    <name>教育一套,CETV1,CETV-1,中国教育1台,cetv1,CETV-1 综合教育</name>
+    <name>中国教育一套,CETV1,CETV-1,中国教育1台,cetv1,CETV-1 综合教育</name>
     <status>1</status>
     <note>教育一套</note>
 </epg>
 <epg>
     <tvid>33</tvid>
     <epgid>CETV-2 空中课堂</epgid>
-    <name>教育二套,CETV2,中国教育2台,空中课堂,CETV-2,cetv2,CETV-2 空中课堂</name>
+    <name>中国教育二套,CETV2,中国教育2台,空中课堂,CETV-2,cetv2,CETV-2 空中课堂</name>
     <status>1</status>
     <note>教育二套</note>
 </epg>
 <epg>
     <tvid>34</tvid>
     <epgid>CETV-3 教育服务</epgid>
-    <name>教育三套,CETV3,中国教育3台,CETV-3,cetv3,CETV-3 教育服务</name>
+    <name>中国教育三套,CETV3,中国教育3台,CETV-3,cetv3,CETV-3 教育服务</name>
     <status>1</status>
     <note>教育三套</note>
 </epg>
 <epg>
     <tvid>35</tvid>
     <epgid>CETV-4 职业教育</epgid>
-    <name>教育四套,CETV4,中国教育4台,CETV-4,cetv4,CETV-4 职业教育</name>
+    <name>中国教育四套,CETV4,中国教育4台,CETV-4,cetv4,CETV-4 职业教育</name>
     <status>1</status>
     <note>CETV-4 职业教育</note>
 </epg>
@@ -279,7 +279,7 @@
 <epg>
     <tvid>39</tvid>
     <epgid>KAKU少儿</epgid>
-    <name>卡酷少儿,卡酷，KAKU-少儿,btv卡酷,btv卡酷少,北京卡酷,BTV科教</name>
+    <name>卡酷少儿,卡酷，KAKU-少儿,btv卡酷,btv卡酷少,北京卡酷,BTV科教,卡酷动画</name>
     <status>1</status>
     <note>北京卡酷</note>
 </epg>
@@ -300,7 +300,7 @@
 <epg>
     <tvid>42</tvid>
     <epgid>4KUHD</epgid>
-    <name>4KUH,4ku,4KU,UHD,4KUHD</name>
+    <name>纯享4K,4KUH,4ku,4KU,UHD,4KUHD</name>
     <status>1</status>
     <note>4KUHD</note>
 </epg>
@@ -327,256 +327,88 @@
 </epg>
 <epg>
     <tvid>46</tvid>
-    <epgid>海外剧场</epgid>
-    <name>newtv海外剧场,NEWTV海外剧场,海外剧场</name>
-    <status>1</status>
-    <note>海外剧场</note>
-</epg>
-<epg>
-    <tvid>47</tvid>
-    <epgid>精品体育</epgid>
-    <name>newtv精品体育,NEWTV精品体育,精品体育</name>
-    <status>1</status>
-    <note>精品体育</note>
-</epg>
-<epg>
-    <tvid>48</tvid>
-    <epgid>精品大剧</epgid>
-    <name>newtv精品大剧,NEWTV精品大剧,精品大剧</name>
-    <status>1</status>
-    <note>精品大剧</note>
-</epg>
-<epg>
-    <tvid>49</tvid>
-    <epgid>精品萌宠</epgid>
-    <name>newtv精品萌宠,NEWTV精品萌宠,精品萌宠</name>
-    <status>1</status>
-    <note>精品萌宠</note>
-</epg>
-<epg>
-    <tvid>50</tvid>
     <epgid>茶频道</epgid>
     <name>茶,湖南茶频道,湖南茶,茶频道</name>
     <status>1</status>
     <note>精品大剧</note>
 </epg>
 <epg>
-    <tvid>51</tvid>
-    <epgid>超级电影</epgid>
-    <name>newtv超级电影,NEWTV超级电影,超级电影</name>
-    <status>1</status>
-    <note>超级电影</note>
-</epg>
-<epg>
-    <tvid>52</tvid>
-    <epgid>超级电视剧</epgid>
-    <name>newtv超级电视剧,NEWTV超级电视剧,超级电视剧</name>
-    <status>1</status>
-    <note>超级电视剧</note>
-</epg>
-<epg>
-    <tvid>53</tvid>
-    <epgid>超级综艺</epgid>
-    <name>newtv超级综艺,NEWTV超级综艺,超级综艺</name>
-    <status>1</status>
-    <note>超级综艺</note>
-</epg>
-<epg>
-    <tvid>54</tvid>
-    <epgid>金牌综艺</epgid>
-    <name>newtv金牌综艺,NEWTV金牌综艺,金牌综艺</name>
-    <status>1</status>
-    <note>金牌综艺</note>
-</epg>
-<epg>
-    <tvid>55</tvid>
-    <epgid>中国功夫</epgid>
-    <name>newtv中国功夫,NEWTV中国功夫,中国功夫</name>
-    <status>1</status>
-    <note>中国功夫</note>
-</epg>
-<epg>
-    <tvid>56</tvid>
-    <epgid>军事评论</epgid>
-    <name>newtv军事评论,NEWTV军事评论,军事评论</name>
-    <status>1</status>
-    <note>军事评论</note>
-</epg>
-<epg>
-    <tvid>57</tvid>
-    <epgid>军旅剧场</epgid>
-    <name>newtv军旅剧场,NEWTV军旅剧场,军旅剧场</name>
-    <status>1</status>
-    <note>军旅剧场</note>
-</epg>
-<epg>
-    <tvid>58</tvid>
-    <epgid>家庭剧场</epgid>
-    <name>newtv家庭剧场,NEWTV家庭剧场,家庭剧场</name>
-    <status>1</status>
-    <note>家庭剧场</note>
-</epg>
-<epg>
-    <tvid>59</tvid>
-    <epgid>农业致富</epgid>
-    <name>newtv农业致富,NEWTV农业致富,农业致富</name>
-    <status>1</status>
-    <note>农业致富</note>
-</epg>
-<epg>
-    <tvid>60</tvid>
-    <epgid>怡伴健康</epgid>
-    <name>newtv怡伴健康,NEWTV怡伴健康,怡伴健康</name>
-    <status>1</status>
-    <note>怡伴健康</note>
-</epg>
-<epg>
-    <tvid>61</tvid>
-    <epgid>欢乐剧场</epgid>
-    <name>欢乐剧场,NEWTV欢乐剧场,欢乐剧场</name>
-    <status>1</status>
-    <note>newtv欢乐剧场</note>
-</epg>
-<epg>
-    <tvid>62</tvid>
-    <epgid>古装剧场</epgid>
-    <name>newtv古装剧场,NEWTV古装剧场,古装剧场</name>
-    <status>1</status>
-    <note>古装剧场</note>
-</epg>
-<epg>
-    <tvid>63</tvid>
-    <epgid>潮妈辣婆</epgid>
-    <name>newtv潮妈辣婆,NEWTV潮妈辣婆,潮妈辣婆</name>
-    <status>1</status>
-    <note>潮妈辣婆</note>
-</epg>
-<epg>
-    <tvid>64</tvid>
-    <epgid>炫舞未来</epgid>
-    <name>newtv炫舞未来,NEWTV炫舞未来,炫舞未来</name>
-    <status>1</status>
-    <note>炫舞未来</note>
-</epg>
-<epg>
-    <tvid>65</tvid>
+    <tvid>47</tvid>
     <epgid>江西教育</epgid>
     <name>江西教育频道,jxedu,江西教育电视台</name>
     <status>1</status>
     <note>江西教育</note>
 </epg>
 <epg>
-    <tvid>66</tvid>
-    <epgid>超级体育</epgid>
-    <name>newtv超级体育,NEWTV超级体育,超级体育</name>
-    <status>1</status>
-    <note>超级体育</note>
-</epg>
-<epg>
-    <tvid>67</tvid>
-    <epgid>黑莓动画</epgid>
-    <name>newtv黑莓动画,NEWTV黑莓动画,黑莓动画</name>
-    <status>1</status>
-    <note>黑莓动画</note>
-</epg>
-<epg>
-    <tvid>68</tvid>
-    <epgid>黑莓电影</epgid>
-    <name>newtv黑莓电影,NEWTV黑莓电影,黑莓电影</name>
-    <status>1</status>
-    <note>黑莓电影</note>
-</epg>
-<epg>
-    <tvid>69</tvid>
-    <epgid>中视购物</epgid>
-    <name>CCTV-中视购物,CCTV中视购物,中视购物</name>
-    <status>1</status>
-    <note>中视购物</note>
-</epg>
-<epg>
-    <tvid>70</tvid>
-    <epgid>动画世界</epgid>
-    <name>newtv动画世界,NEWTV动画世界,动画世界</name>
-    <status>1</status>
-    <note>动画世界</note>
-</epg>
-<epg>
-    <tvid>71</tvid>
+    <tvid>48</tvid>
     <epgid>品质大剧</epgid>
     <name>东方品质大剧,上海品质大剧,上海品质,东方品质,品质大剧</name>
     <status>1</status>
     <note>动画世界</note>
 </epg>
 <epg>
-    <tvid>72</tvid>
+    <tvid>49</tvid>
     <epgid>三立戏剧台</epgid>
     <name>三立戲劇台,三立戲劇,三立戏剧,三立戏剧台</name>
     <status>1</status>
     <note>三立戏剧台</note>
 </epg>
 <epg>
-    <tvid>73</tvid>
+    <tvid>50</tvid>
     <epgid>AMC电影台</epgid>
-    <name>AMC电影,AMC电影台,amc电影台</name>
+    <name>AMC,AMC电影,AMC电影台,amc电影台</name>
     <status>1</status>
     <note>AMC电影台</note>
 </epg>
 <epg>
-    <tvid>74</tvid>
+    <tvid>51</tvid>
     <epgid>中天娱乐</epgid>
     <name>中天娛樂台,中天娛樂,中天娱乐台,中天娛樂臺,中天娱乐</name>
     <status>1</status>
     <note>中天娱乐</note>
 </epg>
 <epg>
-    <tvid>75</tvid>
+    <tvid>52</tvid>
     <epgid>纬来精采</epgid>
     <name>纬来精采HD,緯來精采台,緯來精采,緯來精采臺,纬来精采</name>
     <status>1</status>
     <note>纬来精采</note>
 </epg>
 <epg>
-    <tvid>76</tvid>
+    <tvid>53</tvid>
     <epgid>八大戏剧台</epgid>
     <name>八大戲劇臺,,八大戲劇,八大戏剧,八大戏剧台</name>
     <status>1</status>
     <note>八大戏剧台</note>
 </epg>
 <epg>
-    <tvid>77</tvid>
+    <tvid>54</tvid>
     <epgid>八大第一台</epgid>
     <name>八大第一臺,,八大第一,八大第一台</name>
     <status>1</status>
     <note>八大第一</note>
 </epg>
 <epg>
-    <tvid>78</tvid>
+    <tvid>55</tvid>
     <epgid>延边卫视2</epgid>
-    <name>YBTV-2,YBTV2,延边卫视2</name>
+    <name>延边2台,YBTV-2,YBTV2,延边卫视2</name>
     <status>1</status>
     <note>延边卫视2</note>
 </epg>
 <epg>
-    <tvid>79</tvid>
+    <tvid>56</tvid>
     <epgid>风尚购物</epgid>
     <name>江西风尚购物,JXTV-FSTVGO,风尚购物,风尚购物频道,江西风尚购物频道</name>
     <status>1</status>
     <note>风尚购物</note>
 </epg>
 <epg>
-    <tvid>80</tvid>
+    <tvid>57</tvid>
     <epgid>收视指南</epgid>
     <name>江西电视指南频道,JXTV-JXTV-GUIDE,江西电视指南,收视指南</name>
     <status>1</status>
     <note>收视指南</note>
 </epg>
 <epg>
-    <tvid>81</tvid>
-    <epgid>武搏世界</epgid>
-    <name>newtv武搏世界,NEWTV武搏世界,NEWTV武搏,NEWTV搏击</name>
-    <status>1</status>
-    <note>武搏世界</note>
-</epg>
-
 
 </epgs>

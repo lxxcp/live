@@ -139,15 +139,10 @@ urls = [
     'https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz',
     'https://e.erw.cc/all.xml.gz',
      'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',
-     'https://github.com/zsz520/epg/blob/main/epg/112114.xml.gz',
-     'https://github.com/zsz520/epg/blob/main/epg/51zmt.xml.gz',
-     'https://github.com/zsz520/epg/blob/main/epg/epgpw_cn.xml.gz',
-     'https://github.com/zsz520/epg/blob/main/epg/epgpw_hk.xml.gz',
-'https://github.com/zsz520/epg/blob/main/epg/erw.xml.gz',
-   'https://e.erw.cc/allcc.xml.gz',
-  'https://github.com/zsz520/epg/blob/main/epg/epgpw_tw.xml.gz',
+     'https://e.erw.cc/allcc.xml.gz', 
     'https://epg.aptv.app/pp.xmlgz',
-  'https://github.com/zsz520/epg/blob/main/epg/livednow.xml.gz',]
+   'http://epg.51zmt.top:8000/e.xml.gz',
+ ]
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     
