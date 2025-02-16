@@ -3,6 +3,8 @@ import gzip
 import xml.etree.ElementTree as ET
 import requests
 import logging
+from copy import deepcopy
+import datetime
 
 save_as_gz = True  # 是否保存 .gz 文件
 tvg_ids_file = os.path.join(os.path.dirname(__file__), 'tvg-ids.txt')
@@ -11,169 +13,139 @@ output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'e.xml')
 output_file_gz = output_file + '.gz'
 
 def load_tvg_ids(tvg_ids_file):
-    """
-    加载 tvg-ids.txt 文件，构建频道 ID 到显示名称的映射表
-    """
-    tvg_ids = {}
-    try:
-        with open(tvg_ids_file, 'r') as file:
-            for line in file:
-                line = line.strip()
-                if line:
-                    tvg_ids[line] = line
-        logging.info(f"Loaded {len(tvg_ids)} TVG IDs from {tvg_ids_file}")
-    except Exception as e:
-        logging.error(f"Failed to read {tvg_ids_file}: {e}")
-    return tvg_ids
+    # ...（保持不变）...
 
 def load_epg_mapping(epg_match_file):
-    """
-    加载 epg_match.xml 文件，构建频道名称到标准名称的映射表
-    """
-    mapping = {}
-    try:
-        tree = ET.parse(epg_match_file)
-        root = tree.getroot()
-        for epg in root.findall('epg'):
-            epgid = epg.find('epgid').text
-            names = epg.find('name').text.split(',')
-            for name in names:
-                mapping[name.strip()] = epgid
-        logging.info(f"Loaded {len(mapping)} channel mappings from {epg_match_file}")
-    except Exception as e:
-        logging.error(f"Failed to load {epg_match_file}: {e}")
-    return mapping
+    # ...（保持不变）...
 
 def normalize_channel_name(name, mapping, tvg_ids):
-    """
-    根据映射表将频道名称规范化
-    """
-    normalized_name = mapping.get(name, name)
-    if normalized_name in tvg_ids:
-        return normalized_name
-    elif name in tvg_ids:
-        return name
-    else:
-        return name
+    # ...（保持不变）...
 
 def fetch_and_extract_xml(url):
-    """
-    从 URL 获取 XML 数据并解析
-    """
-    try:
-        logging.info(f"Fetching data from {url}")
-        response = requests.get(url)
-        response.raise_for_status()  # 检查请求是否成功
+    # ...（保持不变）...
 
-        if url.endswith('.gz'):
-            try:
-                decompressed_data = gzip.decompress(response.content)
-                return ET.fromstring(decompressed_data)
-            except Exception as e:
-                logging.error(f"Failed to decompress and parse XML from {url}: {e}")
-                return None
-        else:
-            try:
-                return ET.fromstring(response.content)
-            except Exception as e:
-                logging.error(f"Failed to parse XML from {url}: {e}")
-                return None
-    except requests.RequestException as e:
-        logging.error(f"Failed to fetch {url}: {e}")
+def parse_epg_time(start_time):
+    """解析EPG时间字符串，返回UTC datetime对象"""
+    if not start_time:
+        return None
+    try:
+        parts = start_time.split(' ')
+        if len(parts) != 2:
+            return None
+        time_part, tz_part = parts
+        dt = datetime.datetime.strptime(time_part, "%Y%m%d%H%M%S")
+        tz_sign = tz_part[0]
+        tz_hours = int(tz_part[1:3])
+        tz_mins = int(tz_part[3:5])
+        tz_offset = datetime.timedelta(hours=tz_hours, minutes=tz_mins)
+        if tz_sign == '-':
+            tz_offset = -tz_offset
+        utc_dt = dt - tz_offset
+        utc_dt = utc_dt.replace(tzinfo=datetime.timezone.utc)
+        return utc_dt
+    except Exception as e:
+        logging.error(f"解析时间失败 {start_time}: {e}")
         return None
 
 def filter_and_build_epg(urls, mapping, tvg_ids):
-    """
-    过滤并构建 EPG 数据
-    """
     try:
         with open(tvg_ids_file, 'r') as file:
             valid_tvg_ids = set(line.strip() for line in file)
-        logging.info(f"Loaded {len(valid_tvg_ids)} valid TVG IDs from {tvg_ids_file}")
+        logging.info(f"从 {tvg_ids_file} 加载了 {len(valid_tvg_ids)} 个有效TVG ID")
     except Exception as e:
-        logging.error(f"Failed to read {tvg_ids_file}: {e}")
+        logging.error(f"读取 {tvg_ids_file} 失败: {e}")
         return
 
-    root = ET.Element('tv')
-    seen_channels = set()  # 用于记录已经处理过的频道，避免重复
-    unmapped_channels = set()  # 用于记录未映射的频道
+    # 创建两个根元素分别存储当日和四日数据
+    root_daily = ET.Element('tv')
+    root_four_days = ET.Element('tv')
+    seen_channels = set()  # 记录已处理的频道
+    today = datetime.datetime.utcnow().date()
+    four_days_max = today + datetime.timedelta(days=3)
 
     for url in urls:
         epg_data = fetch_and_extract_xml(url)
         if epg_data is None:
             continue
 
+        # 处理频道
         channel_count = 0
         for channel in epg_data.findall('channel'):
             tvg_id = channel.get('id')
             normalized_tvg_id = normalize_channel_name(tvg_id, mapping, tvg_ids)
             if normalized_tvg_id in valid_tvg_ids and normalized_tvg_id not in seen_channels:
-                # 删除原有 display-name 标签
+                # 清理原有display-name
                 for old_display in channel.findall('display-name'):
                     channel.remove(old_display)
-                
-                # 创建新的 display-name
-                display_name_elem = ET.SubElement(channel, 'display-name')
-                display_name_elem.set('lang', 'zh')
-                display_name_elem.text = normalized_tvg_id  # 直接使用标准化后的 ID 作为文本
-                
-                # 更新 channel 的 id
+                # 添加新display-name
+                display_name = ET.SubElement(channel, 'display-name')
+                display_name.set('lang', 'zh')
+                display_name.text = normalized_tvg_id
                 channel.set('id', normalized_tvg_id)
-                root.append(channel)
+                
+                # 深拷贝并添加到两个根元素
+                channel_daily = deepcopy(channel)
+                channel_four = deepcopy(channel)
+                root_daily.append(channel_daily)
+                root_four_days.append(channel_four)
                 seen_channels.add(normalized_tvg_id)
                 channel_count += 1
+        logging.info(f"从 {url} 获取了 {channel_count} 个频道")
 
-        logging.info(f"Fetched {channel_count} channels from {url}")
-
+        # 处理节目
+        prog_daily_count = 0
+        prog_four_count = 0
         for programme in epg_data.findall('programme'):
             tvg_id = programme.get('channel')
             normalized_tvg_id = normalize_channel_name(tvg_id, mapping, tvg_ids)
-            if normalized_tvg_id in valid_tvg_ids:
-                programme.set('channel', normalized_tvg_id)
-                root.append(programme)
+            if normalized_tvg_id not in valid_tvg_ids:
+                continue
 
-    # 输出未映射的频道
-    if unmapped_channels:
-        logging.warning(f"Found {len(unmapped_channels)} unmapped channels: {unmapped_channels}")
+            # 解析时间
+            start_time = programme.get('start')
+            utc_dt = parse_epg_time(start_time)
+            if not utc_dt:
+                continue
+            prog_date = utc_dt.date()
 
-    # 保存生成的 EPG 数据
+            # 深拷贝节目并设置频道ID
+            prog_copy = deepcopy(programme)
+            prog_copy.set('channel', normalized_tvg_id)
+
+            # 添加到当日数据
+            if prog_date == today:
+                root_daily.append(prog_copy)
+                prog_daily_count += 1
+            
+            # 添加到四日数据
+            if prog_date <= four_days_max:
+                # 需要再次深拷贝，因为元素不能有多个父节点
+                prog_copy_four = deepcopy(prog_copy)
+                root_four_days.append(prog_copy_four)
+                prog_four_count += 1
+
+        logging.info(f"从 {url} 处理了 {prog_daily_count} 当日节目和 {prog_four_count} 四日节目")
+
+    # 保存文件
     try:
-        tree = ET.ElementTree(root)
-        tree.write(output_file, encoding='utf-8', xml_declaration=True)
-        logging.info(f"New EPG saved to {output_file}")
+        # 保存当日EPG
+        ET.ElementTree(root_daily).write(output_file, encoding='utf-8', xml_declaration=True)
+        logging.info(f"当日EPG已保存至 {output_file}")
 
+        # 保存四日EPG（压缩）
         if save_as_gz:
             with gzip.open(output_file_gz, 'wb') as f:
-                tree.write(f, encoding='utf-8', xml_declaration=True)
-            logging.info(f"New EPG saved to {output_file_gz}")
+                ET.ElementTree(root_four_days).write(f, encoding='utf-8', xml_declaration=True)
+            logging.info(f"四日EPG已压缩保存至 {output_file_gz}")
     except Exception as e:
-        logging.error(f"Failed to save EPG file: {e}")
+        logging.error(f"保存文件失败: {e}")
 
 urls = [
-     'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',  
-    'https://epg.pw/xmltv/epg_CN.xml',
-    'https://epg.pw/xmltv/epg_hk.xml.gz',
-    'https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz', 
-    'https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz',
-    'https://gitee.com/taksssss/tv/raw/main/epg/livednow.xml.gz',
-    'https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz',
-    'https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz',
-    'https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz',
-    'https://e.erw.cc/all.xml.gz',
-    'https://e.erw.cc/allcc.xml.gz',   
-   'https://github.com/iptv-pro/iptv-pro.github.io/blob/main/epg/epg.xml.gz',
-   'https://github.com/mou-min/EPG/blob/main/e1.xml.gz',
-   'https://iptv.crestekk.cn/epgphp/t.xml.gz',
+    # ...（URL列表保持不变）...
 ]
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-    
-    # 加载频道名称映射表
     mapping = load_epg_mapping(epg_match_file)
-    
-    # 加载 tvg-ids.txt 文件中的频道 ID 和显示名称
     tvg_ids = load_tvg_ids(tvg_ids_file)
-    
-    # 过滤并构建 EPG 数据
     filter_and_build_epg(urls, mapping, tvg_ids)
