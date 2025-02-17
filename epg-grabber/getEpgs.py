@@ -74,35 +74,37 @@ def fetch_and_extract_xml(url):
     return None 
  
  
-def parse_epg_time(start_time): 
-    """解析EPG时间并转换为中国时区""" 
-    if not start_time: 
-        return None 
-    try: 
-        if len(start_time) == 14: 
-            dt = datetime.datetime.strptime(start_time,  "%Y%m%d%H%M%S").replace(tzinfo=pytz.utc)  
-        else: 
-            # 提取基础时间部分 
-            dt_part = start_time[:14] 
-            dt = datetime.datetime.strptime(dt_part,  "%Y%m%d%H%M%S") 
- 
-            # 处理时区偏移 
-            tz_part = start_time[14:] 
-            if tz_part: 
-                if tz_part[0] in '+-': 
-                    sign = -1 if tz_part[0] == '-' else 1 
-                    tz_str = tz_part[1:].ljust(4, '0') 
-                    hours = int(tz_str[:2]) 
-                    minutes = int(tz_str[2:4]) 
-                    dt += sign * datetime.timedelta(hours=hours,  minutes=minutes) 
-                elif tz_part.upper()  == 'Z': 
-                    dt = dt.replace(tzinfo=datetime.timezone.utc)  
- 
-        # 转换为中国时区 
-        return dt.astimezone(TIMEZONE)  
-    except Exception as e: 
-        logging.error(f" 时间解析失败 '{start_time}': {e}") 
-        return None 
+def parse_epg_time(start_time):
+    """解析EPG时间并转换为中国时区"""
+    if not start_time:
+        return None
+    try:
+        if len(start_time) == 14:
+            dt = datetime.datetime.strptime(start_time, "%Y%m%d%H%M%S").replace(tzinfo=pytz.utc)
+        else:
+            # 提取基础时间部分
+            dt_part = start_time[:14]
+            dt = datetime.datetime.strptime(dt_part, "%Y%m%d%H%M%S")
+
+            # 处理时区偏移
+            tz_part = start_time[14:]
+            if tz_part:
+                if tz_part[0] in '+-':
+                    sign = -1 if tz_part[0] == '-' else 1
+                    tz_str = tz_part[1:].ljust(4, '0')
+                    hours = int(tz_str[:2])
+                    minutes = int(tz_str[2:4])
+                    dt += sign * datetime.timedelta(hours=hours, minutes=minutes)
+                elif tz_part.upper() == 'Z':
+                    dt = dt.replace(tzinfo=datetime.timezone.utc)
+
+        # 转换为中国时区
+        dt = dt.astimezone(TIMEZONE)
+        logging.debug(f"Parsed time: {dt}")
+        return dt
+    except Exception as e:
+        logging.error(f"时间解析失败 '{start_time}': {e}")
+        return None
  
  
 def filter_and_build_epg(urls, mapping, tvg_ids): 
@@ -175,20 +177,31 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
                 program_count += 1 
         logging.info(f" 从 {url} 添加 {program_count} 个节目到四日EPG") 
  
-    # 保存文件 
-    try: 
-        ET.ElementTree(root_today).write(output_file, encoding='utf-8', xml_declaration=True) 
-        logging.info(f" 今日EPG已保存至 {output_file}") 
+   # 保存文件
+try:
+    # 确保 root_today 只包含当天的节目
+    for program in root_today.findall('programme'):
+        start_time = parse_epg_time(program.get('start'))
+        if start_time >= today_start + datetime.timedelta(days=1):
+            root_today.remove(program)
+
+    ET.ElementTree(root_today).write(output_file, encoding='utf-8', xml_declaration=True)
+    logging.info(f"今日EPG已保存至 {output_file}")
+
+    if save_as_gz:
+        # 确保 root_four_days 只包含四天的节目
+        for program in root_four_days.findall('programme'):
+            start_time = parse_epg_time(program.get('start'))
+            if start_time >= four_days_end:
+                root_four_days.remove(program)
+
+        with gzip.open(output_file_gz, 'wb') as f:
+            ET.ElementTree(root_four_days).write(f, encoding='utf-8', xml_declaration=True)
+        logging.info(f"四日EPG已压缩保存至 {output_file_gz}")
+except Exception as e:
+    logging.error(f"保存文件失败: {e}")
  
-        if save_as_gz: 
-            with gzip.open(output_file_gz,  'wb') as f: 
-                ET.ElementTree(root_four_days).write(f, encoding='utf-8', xml_declaration=True) 
-            logging.info(f" 四日EPG已压缩保存至 {output_file_gz}") 
-    except Exception as e: 
-        logging.error(f" 保存文件失败: {e}") 
  
- 
-# 更新后的有效URL列表 
 urls = [ 
     'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',  
     'https://raw.githubusercontent.com/lxxcp/live/main/guide.xml',  
