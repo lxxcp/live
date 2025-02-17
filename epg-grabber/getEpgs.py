@@ -71,8 +71,6 @@ def fetch_and_extract_xml(url):
  
 def parse_epg_time(start_time):
     """解析EPG时间并转换为中国时区"""
-    if not start_time:
-        return None 
    try:
         # 处理不带时区的情况，默认视为UTC
         if len(start_time) == 14:
