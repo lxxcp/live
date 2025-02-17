@@ -97,13 +97,9 @@ def parse_epg_time(start_time):
 
 def filter_and_build_epg(urls, mapping, tvg_ids):
     """主处理函数（关键修改）"""
-    try:
-        with open(config_file, 'r') as file:
-            valid_tvg_ids = set(line.strip() for line in file)
-        logging.info(f"Loaded {len(valid_tvg_ids)} valid TVG IDs")
-    except Exception as e:
-        logging.error(f"Failed to load TVG IDs: {e}")
-        return
+    # 使用传入的tvg_ids字典的键作为有效ID集合
+    valid_tvg_ids = set(tvg_ids.keys())
+    logging.info(f"Using {len(valid_tvg_ids)} valid TVG IDs from config")
 
     # 创建XML根节点
     root_four_days = ET.Element('tv')
@@ -119,7 +115,7 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
         if not epg_data:
             continue
 
-        # 处理频道信息（保持不变）...
+        # 处理频道信息
         channel_count = 0
         for channel in epg_data.findall('channel'):
             tvg_id = channel.get('id')
@@ -132,15 +128,14 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
                 ET.SubElement(channel, 'display-name', {'lang': 'zh'}).text = norm_id
                 channel.set('id', norm_id)
                 
-                # 添加到两个XML树
-                for root in [root_daily, root_four_days]:
-                    root.append(deepcopy(channel))
+                # 添加到XML树
+                root_four_days.append(deepcopy(channel))
                 
                 seen_channels.add(norm_id)
                 channel_count += 1
         logging.info(f"Processed {channel_count} channels from {url}")
 
-        # 处理节目信息（关键修改）
+        # 处理节目信息
         for programme in epg_data.findall('programme'):
             tvg_id = programme.get('channel')
             norm_id = normalize_channel_name(tvg_id, mapping, tvg_ids)
@@ -163,7 +158,7 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
 
         logging.info(f"Processed programs from {url}")
 
-    # 保存文件（调整逻辑）
+    # 保存文件
     try:
         if save_as_gz:
             with gzip.open(output_file_gz, 'wb') as f:
@@ -192,7 +187,7 @@ if __name__ == "__main__":
     
     # 加载配置
     channel_mapping = load_epg_mapping(epg_match_file)
-    tvg_id_list = load_config(config_file)  # 修改为load_config
+    tvg_id_list = load_config(config_file)
     
     # 执行处理
     filter_and_build_epg(urls, channel_mapping, tvg_id_list)
