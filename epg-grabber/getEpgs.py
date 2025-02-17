@@ -196,7 +196,7 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
                 ET.ElementTree(root_four_days).write(f, encoding='utf-8', xml_declaration=True) 
             logging.info(f" 四日EPG已压缩保存至 {output_file_gz}") 
     except Exception as e: 
-        logging.error(f" 保存文件失败: {e}) 
+        logging.error(f" 保存文件失败) 
 
  
 urls = [ 
