@@ -71,11 +71,15 @@ def fetch_and_extract_xml(url):
  
 def parse_epg_time(start_time):
     """解析EPG时间并转换为中国时区"""
-   try:
-        # 处理不带时区的情况，默认视为UTC
-        if len(start_time) == 14:
+    if not start_time:
+        return None 
+    try:
+if len(start_time) == 14:
             dt = datetime.datetime.strptime(start_time, "%Y%m%d%H%M%S").replace(tzinfo=pytz.utc)
         else:
+        # 提取基础时间部分 
+        dt_part = start_time[:14]
+        dt = datetime.datetime.strptime(dt_part,  "%Y%m%d%H%M%S")
         
         # 处理时区偏移 
         tz_part = start_time[14:]
