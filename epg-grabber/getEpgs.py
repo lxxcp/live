@@ -102,12 +102,14 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
     logging.info(f"Using {len(valid_tvg_ids)} valid TVG IDs from config")
 
     # 创建XML根节点
-    root_four_days = ET.Element('tv')
+    root_today = ET.Element('tv')  # 当天节目单
+    root_four_days = ET.Element('tv')  # 四天节目单
     seen_channels = set()
     
     # 时间范围计算（基于中国时区）
     now = datetime.datetime.now(TIMEZONE)
     today_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    today_end = today_start + datetime.timedelta(days=1)
     four_days_end = today_start + datetime.timedelta(days=4)
 
     for url in urls:
@@ -128,7 +130,8 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
                 ET.SubElement(channel, 'display-name', {'lang': 'zh'}).text = norm_id
                 channel.set('id', norm_id)
                 
-                # 添加到XML树
+                # 添加到两个XML树
+                root_today.append(deepcopy(channel))
                 root_four_days.append(deepcopy(channel))
                 
                 seen_channels.add(norm_id)
@@ -152,6 +155,10 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
             prog = deepcopy(programme)
             prog.set('channel', norm_id)
 
+            # 判断是否在当天范围内
+            if today_start <= start_time < today_end:
+                root_today.append(prog)
+
             # 判断是否在四天范围内
             if today_start <= start_time < four_days_end:
                 root_four_days.append(prog)
@@ -160,6 +167,12 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
 
     # 保存文件
     try:
+        # 保存当天节目单为 e.xml
+        with open(output_file, 'wb') as f:
+            ET.ElementTree(root_today).write(f, encoding='utf-8', xml_declaration=True)
+        logging.info(f"Today's EPG saved to {output_file}")
+
+        # 保存四天节目单为 e.xml.gz
         if save_as_gz:
             with gzip.open(output_file_gz, 'wb') as f:
                 ET.ElementTree(root_four_days).write(f, encoding='utf-8', xml_declaration=True)
