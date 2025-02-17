@@ -26,14 +26,14 @@ jobs:
           pip install pytz requests lxml  # 显式安装所需模块
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Cache dependencies
-        uses: actions/cache@v2  # 更新为v2版本
-        if: startsWith(runner.os, 'Linux')
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+    - name: Cache dependencies
+  uses: actions/cache@v4  # 更新为v4版本
+  if: startsWith(runner.os, 'Linux')
+  with:
+    path: ~/.cache/pip
+    key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+    restore-keys: |
+      ${{ runner.os }}-pip-
 
       - name: Set Timezone
         run: sudo timedatectl set-timezone 'Asia/Shanghai'
