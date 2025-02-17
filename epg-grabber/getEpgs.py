@@ -120,8 +120,7 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
             continue
 
         # 处理频道信息（保持不变）...
-        # ...（与原始代码相同处理频道逻辑）...
-  channel_count = 0
+        channel_count = 0
         for channel in epg_data.findall('channel'):
             tvg_id = channel.get('id')
             norm_id = normalize_channel_name(tvg_id, mapping, tvg_ids)
@@ -181,7 +180,7 @@ urls = [
     'https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz',
     'https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz',
     'https://e.erw.cc/all.xml.gz',
-    'https://e.erw.cc/allcc.xml.gz',]
+    'https://e.erw.cc/allcc.xml.gz',
 ]
 
 if __name__ == "__main__":
