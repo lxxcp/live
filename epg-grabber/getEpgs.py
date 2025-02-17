@@ -202,4 +202,5 @@ if __name__ == "__main__":
         datefmt='%Y-%m-%d %H:%M:%S' 
     ) 
     channel_mapping = load_epg_mapping(epg_match_file) 
- 
+  tvg_id_list = load_config(config_file) 
+    process_sources(urls, channel_mapping, tvg_id_list)
