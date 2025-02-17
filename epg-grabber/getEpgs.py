@@ -187,13 +187,12 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
  
 # 更新后的有效URL列表 
 urls = [ 
-    'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',  
-    # 修正后的链接 
+    'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',   
     'https://raw.githubusercontent.com/lxxcp/live/main/guide.xml',  
-    # 确认以下URL是否有效，若不可用建议移除或替换 
     'https://epg.pw/xmltv/epg_CN.xml',  
     'https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz',  
-    'https://gitee.com/taksssss/tv/raw/main/epg/51z  
+    'https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz', 
+'https://e.erw.cc/all.xml.gz', 'https://e.erw.cc/allcc.xml.gz', ]  
 if __name__ == "__main__":
     logging.basicConfig( 
         level=logging.INFO,
