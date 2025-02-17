@@ -183,6 +183,7 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
 # EPG数据源列表
 urls = [
     'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',
+    'https://github.com/lxxcp/live/blob/main/guide.xml',
     'https://epg.pw/xmltv/epg_CN.xml',
     'https://epg.pw/xmltv/epg_hk.xml.gz',
     'https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz',
