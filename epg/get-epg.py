@@ -61,16 +61,19 @@ def getChannelEPG(fhandle, channelID):
     for x in channelID:
         cids = cids + x + ','
 
-    epgdate = datetime.now(tz).strftime('%Y%m%d')
-    epgdate2 = (datetime.now(tz) + timedelta(days=1)).strftime('%Y%m%d')
-    epgdate3 = (datetime.now(tz) + timedelta(days=2)).strftime('%Y%m%d')
-    session = requests.Session()
-    api = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s" % (cids, epgdate)
-    api2 = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s" % (cids, epgdate2)
-    api3 = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s" % (cids, epgdate3)
-    epgdata = session.get(api).json()
-    epgdata2 = session.get(api2).json()
-    epgdata3 = session.get(api3).json()
+   epgdate = datetime.now(tz).strftime('%Y%m%d')  
+    epgdate2 = (datetime.now(tz)  + timedelta(days=1)).strftime('%Y%m%d') 
+    epgdate3 = (datetime.now(tz)  + timedelta(days=2)).strftime('%Y%m%d') 
+    epgdate4 = (datetime.now(tz)  + timedelta(days=3)).strftime('%Y%m%d') 
+    session = requests.Session() 
+    api = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s"  % (cids, epgdate) 
+    api2 = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s"  % (cids, epgdate2) 
+    api3 = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s"  % (cids, epgdate3) 
+    api4 = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s"  % (cids, epgdate4) 
+    epgdata = session.get(api).json()  
+    epgdata2 = session.get(api2).json()  
+    epgdata3 = session.get(api3).json()  
+    epgdata4 = session.get(api4).json()  
 
     for n in range(len(channelID)):
         program = epgdata[channelID[n]]['program']
