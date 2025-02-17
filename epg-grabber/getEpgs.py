@@ -1,29 +1,29 @@
 import os 
 import gzip 
-import xml.etree.ElementTree  as ET 
+import xml.etree.ElementTree as ET 
 import requests 
 import logging 
 from copy import deepcopy 
 import datetime 
 import pytz 
- 
+
 # 配置参数 
-config_file = os.path.join(os.path.dirname(__file__),  'config.txt')  
-epg_match_file = os.path.join(os.path.dirname(__file__),  'epg_match.xml')  
-output_file_gz = os.path.join(os.path.dirname(os.path.dirname(__file__)),  'e.xml.gz')  
+config_file = os.path.join(os.path.dirname(__file__), 'config.txt')  
+epg_match_file = os.path.join(os.path.dirname(__file__), 'epg_match.xml')  
+output_file_gz = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'e.xml.gz')  
 TIMEZONE = pytz.timezone('Asia/Shanghai')  
- 
+
 def load_config(config_file): 
     """加载有效频道ID""" 
     tvg_ids = {} 
     try: 
         with open(config_file, 'r') as file: 
-            tvg_ids = {line.strip():  line.strip()  for line in file if line.strip()}  
+            tvg_ids = {line.strip(): line.strip() for line in file if line.strip()}  
         logging.info(f"   已加载 {len(tvg_ids)} 个频道ID从 {config_file}") 
     except Exception as e: 
         logging.error(f"   读取配置文件失败 {config_file}: {e}") 
     return tvg_ids 
- 
+
 def load_epg_mapping(epg_match_file): 
     """加载频道名称映射表""" 
     mapping = {} 
@@ -38,74 +38,84 @@ def load_epg_mapping(epg_match_file):
     except Exception as e: 
         logging.error(f"   加载映射文件失败 {epg_match_file}: {e}") 
     return mapping 
- 
+
 def normalize_channel_name(name, mapping): 
     """标准化频道名称（仅映射，不验证）""" 
-    return mapping.get(name,  name) 
- 
+    return mapping.get(name, name) 
+
 def fetch_and_extract_xml(url): 
     try: 
         logging.info(f"   正在获取数据: {url}") 
-        response = requests.get(url,  timeout=20) 
+        response = requests.get(url, timeout=20) 
         response.raise_for_status()  
- 
+
         # 处理压缩内容 
-        if response.headers.get('Content-Encoding')  == 'gzip' or url.endswith('.gz'):  
+        if response.headers.get('Content-Encoding') == 'gzip' or url.endswith('.gz'):  
             content = gzip.decompress(response.content)  
         else: 
             content = response.content  
- 
+
         return ET.fromstring(content)  
     except Exception as e: 
         logging.error(f"   处理 {url} 失败: {str(e)}") 
     return None 
- 
+
 def parse_epg_time(start_time): 
     """解析EPG时间并转换为中国时区""" 
     if not start_time: 
         return None 
     try: 
-        if ' ' in start_time:  # 包含时区偏移量 
-            time_str, timezone_str = start_time.split('  ') 
-            dt = datetime.datetime.strptime(time_str,  "%Y%m%d%H%M%S") 
-            if timezone_str == 'Z': 
-                dt = dt.replace(tzinfo=pytz.utc).astimezone(TIMEZONE)  
-            else: 
-                timezone_offset = int(timezone_str[:3]) * 3600 
-                tz = pytz.FixedOffset(timezone_offset) 
-                dt = tz.localize(dt).astimezone(TIMEZONE)  
-        else:  # 没有时区偏移量 
-            dt = datetime.datetime.strptime(start_time,  "%Y%m%d%H%M%S") 
-            dt = TIMEZONE.localize(dt)  
-        return dt 
+        # 分割时间和时区部分（兼容不同空格数量）
+        parts = start_time.split(maxsplit=1)
+        time_str = parts[0]
+        timezone_str = parts[1] if len(parts) > 1 else ''
+
+        # 解析基础时间
+        dt = datetime.datetime.strptime(time_str, "%Y%m%d%H%M%S")
+        
+        # 处理时区
+        if timezone_str.strip() == 'Z':
+            dt = dt.replace(tzinfo=pytz.utc).astimezone(TIMEZONE)
+        elif timezone_str:
+            # 处理类似+0800的时区
+            sign = 1 if timezone_str[0] == '+' else -1
+            hours = int(timezone_str[1:3])
+            minutes = int(timezone_str[3:5])
+            offset = sign * (hours * 60 + minutes)
+            dt = TIMEZONE.localize(dt) + datetime.timedelta(minutes=offset)
+        else:
+            # 无时区信息时假定为本地时间
+            dt = TIMEZONE.localize(dt)
+            
+        return dt
     except Exception as e: 
         logging.error(f"   时间解析失败 '{start_time}': {e}") 
         return None 
- 
+
 def format_epg_time(dt): 
     """将 datetime 对象格式化为 EPG 时间字符串""" 
-    return dt.strftime("%Y%m%d%H%M%S  %z") 
- 
+    return dt.strftime("%Y%m%d%H%M%S +0800") 
+
 def is_programme_valid(start_time, today_start): 
     """检查节目时间是否为今天及今天以后""" 
     parsed_time = parse_epg_time(start_time) 
     return parsed_time is not None and parsed_time >= today_start 
- 
+
 def process_sources(urls, mapping, tvg_ids): 
     valid_ids = set(tvg_ids.keys())  
     channels_dict = {} 
     programmes_dict = {} 
- 
+
     # 获取当天零点时间 
     now = datetime.datetime.now(TIMEZONE)  
-    today_start = now.replace(hour=0,  minute=0, second=0, microsecond=0) 
- 
+    today_start = now.replace(hour=0, minute=0, second=0, microsecond=0) 
+
     # 第一阶段：收集所有数据 
     for url in urls: 
         epg_data = fetch_and_extract_xml(url) 
-        if not epg_data: 
+        if epg_data is None: 
             continue 
- 
+
         # 处理频道信息 
         for channel in epg_data.findall('channel'):  
             original_id = channel.get('id')  
@@ -120,9 +130,9 @@ def process_sources(urls, mapping, tvg_ids):
                     new_channel.remove(elem)  
                 # 添加标准化名称 
                 ET.SubElement(new_channel, 'display-name', {'lang': 'zh'}).text = norm_id 
-                new_channel.set('id',  norm_id) 
+                new_channel.set('id', norm_id) 
                 channels_dict[norm_id] = new_channel 
- 
+
         # 处理节目信息 
         for programme in epg_data.findall('programme'):  
             original_id = programme.get('channel')  
@@ -131,33 +141,33 @@ def process_sources(urls, mapping, tvg_ids):
             norm_id = normalize_channel_name(original_id, mapping) 
             if norm_id not in valid_ids: 
                 continue 
- 
+
             # 解析和过滤时间 
             start_time = programme.get('start')  
             stop_time = programme.get('stop')  
- 
+
             parsed_start_time = parse_epg_time(start_time) 
             parsed_stop_time = parse_epg_time(stop_time) 
- 
+
             if parsed_start_time is None or parsed_stop_time is None: 
                 continue 
- 
+
             if not is_programme_valid(start_time, today_start): 
                 continue 
- 
+
             # 更新时间为中国时区并格式化 
             new_start_time = format_epg_time(parsed_start_time) 
             new_stop_time = format_epg_time(parsed_stop_time) 
-            programme.set('start',  new_start_time) 
-            programme.set('stop',  new_stop_time) 
- 
+            programme.set('start', new_start_time) 
+            programme.set('stop', new_stop_time) 
+
             # 添加到节目字典 
             if norm_id not in programmes_dict: 
                 programmes_dict[norm_id] = [] 
             programmes_dict[norm_id].append(programme) 
- 
+
         logging.info(f"   已处理 {url}") 
- 
+
     # 第二阶段：节目去重 
     logging.info("   开始节目去重处理...") 
     for channel_id in programmes_dict: 
@@ -166,47 +176,46 @@ def process_sources(urls, mapping, tvg_ids):
         for prog in programmes_dict[channel_id]: 
             # 创建唯一标识：开始时间+标题+描述 
             title_elem = prog.find('title')  
-            title = title_elem.text  if title_elem is not None else '' 
+            title = title_elem.text if title_elem is not None else '' 
             desc_elem = prog.find('desc')  
-            desc = desc_elem.text  if desc_elem is not None else '' 
-            key = f"{prog.get('start')}  |{title}|{desc}" 
- 
+            desc = desc_elem.text if desc_elem is not None else '' 
+            key = f"{prog.get('start')}|{title}|{desc}" 
+
             if key not in seen: 
                 seen.add(key)  
                 unique_programmes.append(prog)  
         programmes_dict[channel_id] = unique_programmes 
         logging.info(f"   频道 {channel_id} 去重后保留 {len(unique_programmes)} 个节目") 
- 
+
     # 第三阶段：构建最终XML 
     root = ET.Element('tv') 
- 
+
     # 添加频道信息 
     for channel in channels_dict.values():  
         root.append(deepcopy(channel))  
- 
+
     # 添加节目信息 
     total_programs = 0 
     for channel_id, progs in programmes_dict.items():  
         for prog in progs: 
             new_prog = deepcopy(prog) 
-            new_prog.set('channel',  channel_id) 
+            new_prog.set('channel', channel_id) 
             root.append(new_prog)  
             total_programs += 1 
- 
+
     logging.info(f"   最终包含 {len(channels_dict)} 个频道和 {total_programs} 个节目") 
- 
+
     # 保存文件 
-    xml_string = ET.tostring(root,  encoding='utf-8', method='xml') 
+    xml_string = ET.tostring(root, encoding='utf-8', method='xml') 
     xml_header = b'<?xml version="1.0" encoding="utf-8"?>' 
     xml_with_header = xml_header + xml_string 
- 
+
     try: 
-        with gzip.open(output_file_gz,  'wb') as f: 
+        with gzip.open(output_file_gz, 'wb') as f: 
             f.write(xml_with_header)  
         logging.info(f"EPG  文件已压缩保存至 {output_file_gz}") 
     except Exception as e: 
         logging.error(f"   文件保存失败: {e}") 
-
 
 urls = [ 
     'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',  
@@ -217,7 +226,7 @@ urls = [
     'https://e.erw.cc/all.xml.gz',  
     'https://e.erw.cc/allcc.xml.gz',  
 ] 
- 
+
 if __name__ == "__main__": 
     logging.basicConfig(  
         level=logging.INFO, 
@@ -225,5 +234,5 @@ if __name__ == "__main__":
         datefmt='%Y-%m-%d %H:%M:%S' 
     ) 
     channel_mapping = load_epg_mapping(epg_match_file) 
-    tvg_id_list = load_config(config_file)  # 修复缩进
+    tvg_id_list = load_config(config_file) 
     process_sources(urls, channel_mapping, tvg_id_list)
