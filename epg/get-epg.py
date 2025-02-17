@@ -75,36 +75,19 @@ def getChannelEPG(fhandle, channelID):
     epgdata3 = session.get(api3).json()  
     epgdata4 = session.get(api4).json()  
 
-    for n in range(len(channelID)):
-        program = epgdata[channelID[n]]['program']
-        for detail in program:
-            #write programe
-            st = datetime.fromtimestamp(detail['st']).strftime('%Y%m%d%H%M')+'00'
-            et = datetime.fromtimestamp(detail['et']).strftime('%Y%m%d%H%M')+'00'
-
-            fhandle.write('    <programme  channel="%s" start="%s" stop="%s" >\n' % (channelID[n], st, et))
-            fhandle.write('        <title lang="zh">%s</title>\n' % detail['t'])
-            fhandle.write('    </programme>\n')
-
-        program2 = epgdata2[channelID[n]]['program']
-        for detail2 in program2:
-            #write programe
-            st = datetime.fromtimestamp(detail2['st']).strftime('%Y%m%d%H%M')+'00'
-            et = datetime.fromtimestamp(detail2['et']).strftime('%Y%m%d%H%M')+'00'
-
-            fhandle.write('    <programme  channel="%s" start="%s" stop="%s" >\n' % (channelID[n], st, et))
-            fhandle.write('        <title lang="zh">%s</title>\n' % detail2['t'])
-            fhandle.write('    </programme>\n')
-
-        program3 = epgdata3[channelID[n]]['program']
-        for detail3 in program3:
-            #write programe
-            st = datetime.fromtimestamp(detail3['st']).strftime('%Y%m%d%H%M')+'00'
-            et = datetime.fromtimestamp(detail3['et']).strftime('%Y%m%d%H%M')+'00'
-
-            fhandle.write('    <programme  channel="%s" start="%s" stop="%s" >\n' % (channelID[n], st, et))
-            fhandle.write('        <title lang="zh">%s</title>\n' % detail3['t'])
-            fhandle.write('    </programme>\n')            
+    for n in range(len(channelID)): 
+        programs = [epgdata, epgdata2, epgdata3, epgdata4] 
+        for epgdata_current in programs: 
+            program = epgdata_current[channelID[n]]['program'] 
+            for detail in program: 
+                # write programme 
+                st = datetime.fromtimestamp(detail['st']).strftime('%Y%m%d%H%M')+'00'  
+                et = datetime.fromtimestamp(detail['et']).strftime('%Y%m%d%H%M')+'00'  
+ 
+                fhandle.write('     <programme  channel="%s" start="%s" stop="%s" >\n' % (channelID[n], st, et)) 
+                fhandle.write('         <title lang="zh">%s</title>\n' % detail['t']) 
+                fhandle.write('     </programme>\n') 
+        
 '''
 # 本段内容适用电视猫，备份使用，先注释掉
 def getChannelTVsou(fhandle, channelID):
