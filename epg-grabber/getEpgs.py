@@ -68,7 +68,7 @@ def fetch_and_extract_xml(url):
         # 尝试解析XML 
         return ET.fromstring(content)  
     except requests.exceptions.HTTPError  as e: 
-        logging.error(f"HTTP 错误 {e.response.status_code}  来自 {url}") 
+        logging.error(f"HTTP  错误 {e.response.status_code}  来自 {url}") 
     except Exception as e: 
         logging.error(f" 处理 {url} 失败: {str(e)}") 
     return None 
@@ -154,7 +154,11 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
                 continue 
  
             start_time = parse_epg_time(program.get('start'))  
-            if not start_time or start_time < today_start: 
+            if not start_time: 
+                continue 
+ 
+            # 过滤掉早于今日开始时间的节目 
+            if start_time < today_start: 
                 continue 
  
             # 克隆并调整节目 
@@ -168,9 +172,8 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
             # 添加到四日EPG 
             if start_time < four_days_end: 
                 root_four_days.append(prog)  
- 
-            program_count += 1 
-        logging.info(f" 从 {url} 添加 {program_count} 个节目") 
+                program_count += 1 
+        logging.info(f" 从 {url} 添加 {program_count} 个节目到四日EPG") 
  
     # 保存文件 
     try: 
@@ -187,13 +190,16 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
  
 # 更新后的有效URL列表 
 urls = [ 
-    'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',   
+    'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',  
     'https://raw.githubusercontent.com/lxxcp/live/main/guide.xml',  
     'https://epg.pw/xmltv/epg_CN.xml',  
     'https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz',  
-    'https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz', 
-'https://e.erw.cc/all.xml.gz', 'https://e.erw.cc/allcc.xml.gz', ]  
-if __name__ == "__main__":
+    'https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz',  
+    'https://e.erw.cc/all.xml.gz',  
+    'https://e.erw.cc/allcc.xml.gz',  
+] 
+ 
+ if __name__ == "__main__":
     logging.basicConfig( 
         level=logging.INFO,
         format='%(asctime)s - %(levelname)s - %(message)s',
