@@ -58,15 +58,38 @@ def fetch_and_extract_xml(url):
     return None 
  
 def parse_epg_time(start_time):
-    """解析EPG时间并转换为中国时区"""
-    if not start_time: return None 
+    """解析EPG时间并转换为中国时区（修复时间分割问题）"""
+    if not start_time:
+        return None 
+ 
     try:
-        # 处理带时区的时间格式 (YYYYMMDDHHMMSS ±HHMM)
-        dt = datetime.datetime.strptime(start_time[:15],  "%Y%m%d%H%M%S")
-        offset = datetime.timedelta(hours=int(start_time[16:18]),  minutes=int(start_time[18:20]))
-        if start_time[15] == '-': offset = -offset 
+        # 基础时间部分处理（至少14位：YYYYMMDDHHMMSS）
+        if len(start_time) < 14:
+            raise ValueError("时间字符串过短")
+ 
+        dt_part = start_time[:14]
+        dt = datetime.datetime.strptime(dt_part,  "%Y%m%d%H%M%S")
+ 
+        # 时区处理（支持多种格式）
+        tz_part = start_time[14:]
+        offset = datetime.timedelta(0) 
+ 
+        if tz_part:
+            # 处理带符号的时区格式（±HHMM / ±HH）
+            if tz_part[0] in '+-':
+                sign = -1 if tz_part[0] == '-' else 1 
+                tz_str = tz_part[1:].zfill(4)  # 统一为4位数字 
+                hours = int(tz_str[:2])
+                minutes = int(tz_str[2:4]) if len(tz_str) >=4 else 0 
+                offset = sign * datetime.timedelta(hours=hours,  minutes=minutes)
+            # 处理UTC标识（Z）
+            elif tz_part[0].upper() == 'Z':
+                offset = datetime.timedelta(0) 
+        
+        # 应用时区偏移 
         dt = dt.replace(tzinfo=datetime.timezone(offset)).astimezone(TIMEZONE) 
         return dt 
+ 
     except Exception as e:
         logging.error(f" 时间解析失败 {start_time}: {e}")
         return None 
