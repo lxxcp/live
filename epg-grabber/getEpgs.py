@@ -90,7 +90,9 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
 
     # 获取当天零点时间
     now = datetime.datetime.now(TIMEZONE)
-    today_start = now.replace(hour=0,  minute=0, second=0, microsecond=0)
+    today_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    # 设置未来几天的时间范围（例如未来3天）
+    future_end = today_start + datetime.timedelta(days=4)  # 包含今天及未来3天
 
     for url in urls:
         epg_data = fetch_and_extract_xml(url)
@@ -123,7 +125,11 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
                 continue
 
             start_time = parse_epg_time(program.get('start'))
-            if not start_time or start_time < today_start:
+            if not start_time:
+                continue
+
+            # 过滤掉早于今天零点或晚于未来几天的节目
+            if start_time < today_start or start_time >= future_end:
                 continue
 
             # 克隆并更新节目信息
@@ -136,7 +142,7 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
 
     # 保存最终文件
     try:
-        with gzip.open(output_file_gz,  'wb') as f:
+        with gzip.open(output_file_gz, 'wb') as f:
             ET.ElementTree(root).write(f, encoding='utf-8', xml_declaration=True)
         logging.info(f"EPG文件已压缩保存至 {output_file_gz}")
     except Exception as e:
