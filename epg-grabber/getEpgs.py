@@ -42,49 +42,42 @@ def load_epg_mapping(epg_match_file):
     return mapping 
  
 def normalize_channel_name(name, mapping, tvg_ids):
-    """标准化频道名称并验证有效性"""
-    normalized = mapping.get(name,  name)
-    if normalized not in tvg_ids:
-        logging.debug(f" 频道未匹配: '{name}' → '{normalized}'")
-    return normalized if normalized in tvg_ids else name 
+    original_name = name
+    norm_id = mapping.get(name, name)
+    if norm_id not in tvg_ids:
+        logging.debug(f"频道未匹配: 原名 '{original_name}', 映射后 '{norm_id}' 不在配置ID中")
+    return norm_id if norm_id in tvg_ids else original_name
  
 def fetch_and_extract_xml(url):
-    """获取并解析XML数据，增强错误处理"""
     try:
-        logging.info(f" 正在获取 {url}")
-        response = requests.get(url,  timeout=10)
-        response.raise_for_status() 
+        logging.info(f"Fetching data from {url}")
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()  # 触发HTTP错误
         
-        # 处理内容编码 
-        if url.endswith('.gz')  or 'gzip' in response.headers.get('Content-Encoding',  ''):
-            content = gzip.decompress(response.content) 
+        # 检查内容类型是否为gzip或XML
+        content_type = response.headers.get('Content-Type', '')
+        if 'gzip' in content_type or url.endswith('.gz'):
+            content = gzip.decompress(response.content)
         else:
-            content = response.content  
+            content = response.content
         
-        # 处理可能的字符编码问题 
-        try:
-            content = content.decode('utf-8') 
-        except UnicodeDecodeError:
-            content = content.decode('gbk',  errors='replace')
-        
-        return ET.fromstring(content) 
-    
-    except requests.exceptions.RequestException  as e:
-        logging.error(f" 请求失败 {url}: {e}")
-    except ET.ParseError as e:
-        logging.error(f"XML 解析失败 {url}: {e}")
+        # 尝试解析XML
+        return ET.fromstring(content)
+    except requests.exceptions.HTTPError as e:
+        logging.error(f"HTTP错误 {e.response.status_code} 来自 {url}")
     except Exception as e:
-        logging.error(f" 处理失败 {url}: {e}")
-    return None 
+        logging.error(f"处理 {url} 失败: {str(e)}")
+    return None
  
 def parse_epg_time(start_time):
     """解析EPG时间并转换为中国时区"""
     if not start_time:
         return None 
-    try:
-        # 提取基础时间部分 
-        dt_part = start_time[:14]
-        dt = datetime.datetime.strptime(dt_part,  "%Y%m%d%H%M%S")
+   try:
+        # 处理不带时区的情况，默认视为UTC
+        if len(start_time) == 14:
+            dt = datetime.datetime.strptime(start_time, "%Y%m%d%H%M%S").replace(tzinfo=pytz.utc)
+        else:
         
         # 处理时区偏移 
         tz_part = start_time[14:]
@@ -114,10 +107,11 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
     today_start = now.replace(hour=0,  minute=0, second=0, microsecond=0)
     four_days_end = today_start + datetime.timedelta(days=4) 
     
-    for url in urls:
-        epg_data = fetch_and_extract_xml(url)
-        if epg_data is None:
-            continue 
+   for url in urls:
+    epg_data = fetch_and_extract_xml(url)
+    if epg_data is None:
+        logging.warning(f"跳过无效数据源: {url}")
+        continue
         
         # 处理频道 
         channel_count = 0 
@@ -184,16 +178,18 @@ def filter_and_build_epg(urls, mapping, tvg_ids):
  
 # 更新后的有效URL列表 
 urls = [
-    'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz', 
-    'https://raw.githubusercontent.com/lxxcp/live/main/guide.xml',   # 修正后的URL 
-    'https://epg.pw/xmltv/epg_CN.xml', 
-    # 'https://epg.pw/xmltv/epg_hk.xml.gz',   # 注释无效URL 
-    'https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz', 
-    'https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz', 
-    'https://e.erw.cc/all.xml.gz', 
-    'https://e.erw.cc/allcc.xml.gz', 
-]
- 
+    'https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',
+    # 修正后的链接
+    'https://raw.githubusercontent.com/lxxcp/live/main/guide.xml',
+    # 确认以下URL是否有效，若不可用建议移除或替换
+    'https://epg.pw/xmltv/epg_CN.xml',
+    # 'https://epg.pw/xmltv/epg_hk.xml.gz',  # 确认404问题
+    'https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz',
+    'https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz',
+    'https://e.erw.cc/all.xml.gz',
+    'https://e.erw.cc/allcc.xml.gz',
+] 
+
 if __name__ == "__main__":
     logging.basicConfig( 
         level=logging.INFO,
