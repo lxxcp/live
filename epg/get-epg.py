@@ -79,7 +79,7 @@ def getChannelEPG(fhandle, channelID):
             st = datetime.fromtimestamp(detail['st']).strftime('%Y%m%d%H%M')+'00'
             et = datetime.fromtimestamp(detail['et']).strftime('%Y%m%d%H%M')+'00'
 
-            fhandle.write('    <programme  channel="%s" start="%s" stop="%s" >\n' % (st, et, channelID[n]))
+            fhandle.write('    <programme  channel="%s" start="%s" stop="%s" >\n' % (channelID[n]), st, et, channelID[n]))
             fhandle.write('        <title lang="zh">%s</title>\n' % detail['t'])
             fhandle.write('    </programme>\n')
 
@@ -89,7 +89,7 @@ def getChannelEPG(fhandle, channelID):
             st = datetime.fromtimestamp(detail2['st']).strftime('%Y%m%d%H%M')+'00'
             et = datetime.fromtimestamp(detail2['et']).strftime('%Y%m%d%H%M')+'00'
 
-            fhandle.write('    <programme  channel="%s" start="%s" stop="%s" >\n' % (st, et, channelID[n]))
+            fhandle.write('    <programme  channel="%s" start="%s" stop="%s" >\n' % (channelID[n]), st, et, channelID[n]))
             fhandle.write('        <title lang="zh">%s</title>\n' % detail2['t'])
             fhandle.write('    </programme>\n')
 
@@ -99,7 +99,7 @@ def getChannelEPG(fhandle, channelID):
             st = datetime.fromtimestamp(detail3['st']).strftime('%Y%m%d%H%M')+'00'
             et = datetime.fromtimestamp(detail3['et']).strftime('%Y%m%d%H%M')+'00'
 
-            fhandle.write('    <programme  channel="%s" start="%s" stop="%s" >\n' % (st, et, channelID[n]))
+            fhandle.write('    <programme  channel="%s" start="%s" stop="%s" >\n' % (channelID[n]), st, et, channelID[n]))
             fhandle.write('        <title lang="zh">%s</title>\n' % detail3['t'])
             fhandle.write('    </programme>\n')            
 '''
