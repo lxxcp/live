@@ -60,37 +60,38 @@ def fetch_and_extract_xml(url):
         logging.error(f"   处理 {url} 失败: {str(e)}") 
     return None 
 
-def parse_epg_time(start_time): 
-    """解析EPG时间并转换为中国时区""" 
-    if not start_time: 
-        return None 
-    try: 
-        # 分割时间和时区部分（兼容不同空格数量）
-        parts = start_time.split(maxsplit=1)
-        time_str = parts[0]
-        timezone_str = parts[1] if len(parts) > 1 else ''
+def parse_epg_time(start_time):
+    """解析EPG时间并转换为中国时区"""
+    if not start_time:
+        return None
+    try:
+        # 移除所有空格（兼容不同格式）
+        clean_time = start_time.replace(" ", "")
+        
+        # 分离时间和时区标识
+        base_time = clean_time[:14]
+        tz_marker = clean_time[14:] if len(clean_time) > 14 else ''
 
         # 解析基础时间
-        dt = datetime.datetime.strptime(time_str, "%Y%m%d%H%M%S")
-        
+        dt = datetime.datetime.strptime(base_time, "%Y%m%d%H%M%S")
+
         # 处理时区
-        if timezone_str.strip() == 'Z':
-            dt = dt.replace(tzinfo=pytz.utc).astimezone(TIMEZONE)
-        elif timezone_str:
-            # 处理类似+0800的时区
-            sign = 1 if timezone_str[0] == '+' else -1
-            hours = int(timezone_str[1:3])
-            minutes = int(timezone_str[3:5])
-            offset = sign * (hours * 60 + minutes)
-            dt = TIMEZONE.localize(dt) + datetime.timedelta(minutes=offset)
-        else:
-            # 无时区信息时假定为本地时间
+        if tz_marker.upper() == 'Z':  # UTC时间
+            dt = pytz.utc.localize(dt).astimezone(TIMEZONE)
+        elif tz_marker:  # 含时区偏移
+            offset = datetime.datetime.strptime(tz_marker, "%z").utcoffset()
+            dt = dt.replace(tzinfo=datetime.timezone(offset)).astimezone(TIMEZONE)
+        else:  # 无时区信息默认为本地时间
             dt = TIMEZONE.localize(dt)
             
         return dt
-    except Exception as e: 
-        logging.error(f"   时间解析失败 '{start_time}': {e}") 
-        return None 
+    except Exception as e:
+        logging.error(f"时间解析失败 '{start_time}': {e}")
+        return None
+
+def format_epg_time(dt):
+    """将 datetime 对象格式化为 EPG 时间字符串（固定+0800时区）"""
+    return dt.strftime("%Y%m%d%H%M%S +0800")
 
 def format_epg_time(dt): 
     """将 datetime 对象格式化为 EPG 时间字符串""" 
