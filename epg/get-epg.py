@@ -4,6 +4,8 @@ import requests
 import gzip 
 from lxml import html 
 from datetime import datetime, timezone, timedelta 
+import random 
+import time 
  
 # 设置时区为亚洲上海 
 tz = pytz.timezone('Asia/Shanghai')  
@@ -25,6 +27,15 @@ sat_channel = ['cetv1', 'cetv2', 'cetv3', 'cetv4', 'btv1', 'btvjishi', 'dongfang
                'shuhua', 'kuailechuidiao', 'cctvliyuan', 'wushushijie', 'cctvqimo', 'huanqiuqiguan', 
                'cctvzhengquanzixun', 'btvchild', 'youxijingji'] 
  
+# 模拟不同浏览器的请求头 
+user_agents = [ 
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15' 
+] 
+ 
+ 
 def get_epg_data(session, cids, epgdate): 
     """ 
     向API发送请求获取节目单数据 
@@ -36,7 +47,11 @@ def get_epg_data(session, cids, epgdate):
     try: 
         # 正确格式化API地址 
         api = f"http://api.cntv.cn/epg/epginfo?c={cids}&d={epgdate}"  
-        response = session.get(api)  
+        # 随机选择一个请求头 
+        headers = { 
+            'User-Agent': random.choice(user_agents)  
+        } 
+        response = session.get(api,  headers=headers) 
         response.raise_for_status()   # 检查请求是否成功 
         epgdata = response.json()  
         print(f"API response for {cids} on {epgdate}: {epgdata}") 
@@ -47,6 +62,7 @@ def get_epg_data(session, cids, epgdate):
     except ValueError as e: 
         print(f"JSON decoding error: {e}") 
         return {} 
+ 
  
 def get_channel_info(fhandle, channel_id, epg_data): 
     """ 
@@ -60,6 +76,7 @@ def get_channel_info(fhandle, channel_id, epg_data):
         fhandle.write(f'     <channel id="{channel_id}">\n') 
         fhandle.write(f'         <display-name lang="cn">{channel_name}</display-name>\n') 
         fhandle.write('     </channel>\n') 
+ 
  
 def get_channel_programs(fhandle, channel_id, all_epg_data): 
     """ 
@@ -78,6 +95,7 @@ def get_channel_programs(fhandle, channel_id, all_epg_data):
                 fhandle.write(f'     <programme channel="{channel_id}" start="{start_time}" stop="{end_time}">\n') 
                 fhandle.write(f'         <title lang="zh">{title}</title>\n') 
                 fhandle.write('     </programme>\n') 
+ 
  
 def main(): 
     """ 
@@ -99,6 +117,8 @@ def main():
             cids = ','.join(all_channels) 
             epg_data = get_epg_data(session, cids, epg_date) 
             all_channel_epg_data.append(epg_data)  
+            # 随机设置请求间隔 
+            time.sleep(random.uniform(1,  3)) 
  
         # 写入频道信息 
         for channel in all_channels: 
@@ -110,5 +130,7 @@ def main():
  
         fhandle.write('</tv>')  
  
+ 
 if __name__ == "__main__": 
     main() 
+ 
