@@ -24,7 +24,7 @@ jobs:
 
       - name: Run EPG grabber script
         run: |
-          python epg/tvmao.py 
+          python epg/tvmao1.py 
 
       - name: Check for changes
         id: check-changes
