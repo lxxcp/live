@@ -27,7 +27,7 @@
 <epg>
     <tvid>4</tvid>
     <epgid>CCTV-4 中文国际</epgid>
-    <name>CCTV4,央视国际,CCTV-4 国际,CCTV-4,CCTV4,CCTV4国际,CCTV-4中文国际,CCTV4 中文国际,CCTV-4国际亚洲,cctv4</name>
+    <name>CCTV4,CCTV-4 (亚洲),央视国际,CCTV-4 国际,CCTV-4,CCTV4,CCTV4国际,CCTV-4中文国际,CCTV4 中文国际,CCTV-4国际亚洲,cctv4</name>
     <status>1</status>
     <note>央视国际</note>
 </epg>
@@ -130,7 +130,7 @@
 <epg>
     <tvid>18</tvid>
     <epgid>CCTV-16 奥林匹克</epgid>
-    <name>CCTV-16奥林匹克,奥林匹克,CCTV-16,CCTV16,CCTV-16,cctv16 奥林匹克 -4K</name>
+    <name>CCTV-16奥林匹克,奥林匹克,CCTV-16,CCTV16,CCTV-16,cctv16 奥林匹克</name>
     <status>1</status>
     <note>央视奥林匹克</note>
 </epg>
@@ -172,7 +172,7 @@
 <epg>
     <tvid>24</tvid>
     <epgid>CCTV文化精品</epgid>
-    <name>CCTV-文化精品,文化精品,央视精品</name>
+    <name>CCTV-文化精品,文化精品,央视精品,CCTV央视文化精品</name>
     <status>1</status>
     <note>文化精品</note>
 </epg>
@@ -265,14 +265,14 @@
 <epg>
     <tvid>37</tvid>
     <epgid>CCTV-4 中文国际欧洲</epgid>
-    <name>CCTV4欧洲,cctv4 欧洲,cctv,CCTV4EUO</name>
+    <name>CCTV4欧洲,CCTV-4 (欧洲),cctv4 欧洲,cctv,CCTV4EUO</name>
     <status>1</status>
     <note>央视国际</note>
 </epg>
 <epg>
     <tvid>38</tvid>
     <epgid>CCTV-4 中文国际美洲</epgid>
-    <name>CCTV4美洲,cctv4 美洲,CCTV4AME</name>
+    <name>CCTV4美洲,cctv4 美洲,CCTV-4 (美洲),CCTV4AME</name>
     <status>1</status>
     <note>央视国际</note>
 </epg>
