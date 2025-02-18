@@ -11,7 +11,7 @@ jobs:
       - name: Checkout repository (no history)
         uses: actions/checkout@v3
         with:
-          fetch-depth: 1  # 仅克隆最新提交，减少耗时
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -21,11 +21,12 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install requests lxml pytz bs4
+
       - name: Run EPG grabber script
         run: |
-         python epg/tvmao.py 
+          python epg/tvmao.py 
 
-     - name: Check for changes
+      - name: Check for changes
         id: check-changes
         run: |
           git add tvmao.xml.gz
@@ -36,6 +37,7 @@ jobs:
             echo "Changes detected."
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
+
       - name: Commit and push changes (if any)
         if: steps.check-changes.outputs.has_changes == 'true'
         run: |
