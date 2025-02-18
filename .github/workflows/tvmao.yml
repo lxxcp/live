@@ -1,0 +1,28 @@
+name: EPGTVMAO
+on: 
+  schedule: 
+    - cron: '0 17,23,4,10 * * *' 
+  workflow_dispatch: 
+
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository (no history)
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1  # 仅克隆最新提交，减少耗时
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install requests lxml pytz
+      - name: Run EPG grabber script
+        run: |
+         python epg/tvmao.py 
+
+     
