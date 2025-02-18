@@ -215,6 +215,7 @@ urls = [
     'https://iptv.crestekk.cn/epgphp/t.xml.gz',
     'https://iptv.crestekk.cn/epgphp/t.xml.gz','https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz',
     'https://raw.githubusercontent.com/lxxcp/live/main/guide.xml.gz',
+    https://epg.pw/api/epg.xml.gz
     'https://epg.pw/xmltv/epg_CN.xml.gz',
     'https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz',
     'https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz',
