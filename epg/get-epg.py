@@ -98,14 +98,14 @@ def get_channel_programs(fhandle, channel_id, all_epg_data):
  
 def main(): 
     """ 
-    主函数，包含整个流程的调度 
+    主函数，包含整个流程的调度  + sat_channel 
     """ 
     with gzip.open('guide.xml.gz',  'wt', encoding='utf-8') as fhandle: 
         fhandle.write('<?xml  version="1.0" encoding="utf-8"?>\n') 
         fhandle.write('<tv  generator-info-name="lxxcp" generator-info-url="https://github.com/lxxcp/epg">\n')  
  
         session = requests.Session() 
-        all_channels = cctv_channel + sat_channel 
+        all_channels = cctv_channel
         today = datetime.now(tz)  
         dates = [today + timedelta(days=i) for i in range(4)] 
         epg_dates = [date.strftime('%Y%m%d') for date in dates] 
