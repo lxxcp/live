@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install requests lxml pytz bs4
+          python -m pip install requests lxml pytz bs4 beautifulsoup4 gzip
 
       - name: Run EPG grabber script
         run: |
