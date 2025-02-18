@@ -2,7 +2,7 @@ name: EPG更新CNTV
  
 on: 
   schedule: 
-    - cron: "0 17,23,4,10 * * *"  # 定时触发 
+    - cron: '0 17,23,4,10 * * *'  # 定时触发 
   workflow_dispatch:  # 允许手动触发 
  
 jobs: 
@@ -10,60 +10,80 @@ jobs:
     runs-on: ubuntu-latest 
  
     steps: 
-      - name: Checkout repository 
+      - name: 签出仓库 
         uses: actions/checkout@v2 
         with: 
-          fetch-depth: 0  # 获取完整的Git历史记录，以便可以正确地进行版本控制操作 
+          fetch-depth: 0  # 获取完整的Git历史记录，以便可以正确地进行版本控制 
  
-      - name: Set up Python 3.8 
+      - name: 设置Python 3.8 
         uses: actions/setup-python@v2 
         with: 
           python-version: 3.8 
  
-      - name: Cache dependencies 
-        uses: actions/cache@v4 
+      - name: 缓存依赖项 
         if: startsWith(runner.os,  'Linux') 
+        uses: actions/cache@v4 
         with: 
           path: ~/.cache/pip 
           key: ${{ runner.os  }}-pip-${{ hashFiles('**/requirements.txt')  }} 
           restore-keys: | 
             ${{ runner.os  }}-pip- 
  
-      - name: Install dependencies 
+      - name: 安装依赖项 
         run: | 
-          python -m pip install --upgrade pip
-          pip install pytz requests lxml  # 显式安装所需模块
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
-      - name: Set Timezone
-        run: sudo timedatectl set-timezone 'Asia/Shanghai'
-
-      - name: Update guide
-        run: |
-          pwd
-          ls -la  # 列出当前目录的文件
-          python epg/get-epg.py || { echo "Failed to update guide"; exit 1; }  # 添加错误处理机制
-          ls -la  # 再次列出当前目录的文件，检查 guide.xml 是否生成
-
-      - name: Commit changes
-        run: |
-          git config --local user.email "github-actions-bot@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add -A
-          # 使用条件语句来避免在没有更改时创建空提交
-          if git diff-index --quiet HEAD --; then
-            echo "No changes to commit"
-          else
-            git commit -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
-          fi
-
-      - name: Pull changes
-        run: |
-          # 使用rebase而不是merge来拉取更改，以避免合并提交
-          git pull --rebase origin ${GITHUB_REF#refs/heads/}
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref == 'refs/heads/main' && 'main' || github.ref_name }}  # 根据触发的分支推送更改
+          python -m pip install --upgrade pip 
+          pip install pytz requests lxml  # 显式安装所需模块 
+          if [ -f requirements.txt  ]; then 
+            pip install -r requirements.txt;  
+          fi 
+ 
+      - name: 设置时区 
+        run: sudo timedatectl set-timezone 'Asia/Shanghai' 
+ 
+      - name: 更新指南 
+        run: | 
+          pwd 
+          ls -la  # 列出当前目录的文件 
+          python epg/get-epg.py  || { echo "更新指南失败"; exit 1; }  # 添加错误处理机制 
+          ls -la  # 再次列出当前目录的文件，检查guide.xml 是否生成 
+ 
+      - name: 提交更改 
+        run: | 
+          git config --local user.email  "github-actions-bot@users.noreply.github.com"  
+          git config --local user.name  "github-actions[bot]" 
+          git add -A 
+          # 使用条件语句来避免在没有更改时创建空提交 
+          if git diff-index --quiet HEAD --; then 
+            echo "No changes to commit" 
+          else 
+            git commit -m "🚀 在 $(date '+%Y-%m-%d %H:%M:%S') 更新 tv-guide" 
+          fi 
+ 
+      - name: 拉取更改并处理冲突 
+        run: | 
+          # 保存当前分支名称 
+          current_branch="${GITHUB_REF#refs/heads/}" 
+          # 拉取最新更改 
+          git fetch origin $current_branch 
+          # 尝试进行变基操作 
+          if! git rebase origin/$current_branch; then 
+            # 处理合并冲突 
+            if git ls-files --unmerged | grep -q guide.xml.gz;  then 
+              echo "检测到 guide.xml.gz  合并冲突，尝试使用本地版本解决..." 
+              # 用本地版本覆盖冲突文件 
+              git checkout --ours guide.xml.gz  
+              git add guide.xml.gz  
+            fi 
+            # 尝试继续变基操作 
+            if! git rebase --continue; then 
+              echo "变基操作仍然失败，请手动解决冲突。" 
+              git rebase --abort 
+              exit 1 
+            fi 
+          fi 
+ 
+      - name: 推送更改 
+        uses: ad-m/github-push-action@master 
+        with: 
+          github_token: ${{ secrets.GITHUB_TOKEN }} 
+          branch: ${{ github.ref  == 'refs/heads/main' && 'main' || github.ref_name  }}  # 根据触发的分支推送更改 
