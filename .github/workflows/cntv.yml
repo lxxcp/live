@@ -3,65 +3,43 @@ on:
   schedule: 
     - cron: '0 17,23,4,10 * * *' 
   workflow_dispatch: 
-jobs: 
-  build: 
-    runs-on: ubuntu-latest 
-    steps: 
-      - name: 签出仓库 
-        uses: actions/checkout@v2 
-        with: 
-          fetch-depth: 0 
- 
-      - name: 设置Python 3.8 
-        uses: actions/setup-python@v2 
-        with: 
-          python-version: 3.8 
- 
-      - name: 缓存依赖项 
-        if: startsWith(runner.os,  'Linux') 
-        uses: actions/cache@v4 
-        with: 
-          path: ~/.cache/pip 
-          key: ${{ runner.os  }}-pip-${{ hashFiles('**/requirements.txt')  }} 
-          restore-keys: | 
-            ${{ runner.os  }}-pip- 
- 
-      - name: 安装依赖项 
-        run: | 
-          python -m pip install --upgrade pip 
-          pip install pytz requests lxml 
-          if [ -f requirements.txt  ]; then 
-            pip install -r requirements.txt;  
-          fi 
- 
-      - name: 设置时区 
-        run: sudo timedatectl set-timezone 'Asia/Shanghai' 
- 
-      - name: 删除旧的指南文件 
-        run: | 
-          if [ -f guide.xml.gz  ]; then 
-            rm guide.xml.gz  
-            echo "已删除旧的 guide.xml.gz  文件" 
-          else 
-            echo "旧的 guide.xml.gz  文件不存在，无需删除" 
-          fi 
- 
-      - name: 更新指南 
-        run: | 
-          pwd 
-          ls -la 
-          python epg/get-epg.py  || { echo "更新指南失败"; exit 1; } 
-          ls -la 
- 
-      - name: 提交更改 
-        run: | 
-          git config --local user.email  "github-actions-bot@users.noreply.github.com"  
-          git config --local user.name  "github-actions[bot]" 
-          git add -A 
-          if git diff-index --quiet HEAD --; then 
-            echo "No changes to commit" 
-          else 
-            git commit -m "🚀 在 $(date '+%Y-%m-%d %H:%M:%S') 更新 tv-guide" 
-          fi 
- 
-    
+
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository (no history)
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1  # 仅克隆最新提交，减少耗时
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install requests pytz
+      - name: Run EPG grabber script
+        run: |
+         python epg/get-epg.py  || { echo "更新指南失败"; exit 1; } 
+
+      - name: Check for changes
+        id: check-changes
+        run: |
+          git add guide.xml.gz
+          if git diff-index --quiet HEAD --; then
+            echo "No changes detected."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected."
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+      - name: Commit and push changes (if any)
+        if: steps.check-changes.outputs.has_changes == 'true'
+        run: |
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+          git commit -m "EPG更新CNTV "
+          git push --force
