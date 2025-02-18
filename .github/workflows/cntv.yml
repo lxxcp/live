@@ -64,18 +64,4 @@ jobs:
             git commit -m "🚀 在 $(date '+%Y-%m-%d %H:%M:%S') 更新 tv-guide" 
           fi 
  
-      - name: 拉取更改并处理冲突（简化） 
-        run: | 
-          current_branch="${GITHUB_REF#refs/heads/}" 
-          git fetch origin $current_branch 
-          if! git rebase origin/$current_branch; then 
-            echo "变基操作仍然失败，请手动解决冲突。" 
-            git rebase --abort 
-            exit 1 
-          fi 
- 
-      - name: 推送更改 
-        uses: ad-m/github-push-action@master 
-        with: 
-          github_token: ${{ secrets.GITHUB_TOKEN }} 
-          branch: ${{ github.ref  == 'refs/heads/main' && 'main' || github.ref_name  }} 
+    
