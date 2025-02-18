@@ -226,6 +226,7 @@ urls = [
     'https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz',
     'https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz',
     'https://github.com/mou-min/EPG/blob/main/pp.xml.gz',
+    'https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml',
 ]
 
 if __name__ == "__main__":
