@@ -10,7 +10,9 @@ tz = pytz.timezone('Asia/Shanghai')
  
 cctv_channel = ['cctv1', 'cctv2', 'cctv3', 'cctv4', 'cctv5', 'cctv5plus', 'cctv6', 
                 'cctv7', 'cctv8', 'cctvjilu', 'cctv10', 'cctv11', 'cctv12', 'cctvchild', 
-                'cctv15', 'cctv16', 'cctv17', 'cctveurope','cctvamerica','cctv4k'] 
+                'cctv15', 'cctv16', 'cctv17', 'cctveurope','cctvamerica','cctvxiyu','cctv4k',
+               'cctvarabic','cctvfrench','cctvrussian','shijiedili','dianshigouwu','taiqiu',
+              'jingpin','shishang','hjjc',zhinan','diyijuchang','fyjc','cctvfyzq','fyyy','cctvgaowang','fyjc'] 
 cctv_channel_tvsou = ['cctv-1', 'cctv-2', 'cctv-3', 'cctv-4', 'cctv-5', 'cctv5+', 'cctv-6', 
                       'cctv-7', 'cctv-8', 'cctv-9', 'cctv-10', 'cctv-11', 'cctv-12'] 
  
@@ -19,7 +21,8 @@ sat_channel = ['cetv1', 'cetv2', 'cetv3', 'cetv4', 'btv1', 'btvjishi', 'dongfang
                'gansu', 'liaoning', 'travel', 'neimenggu', 'ningxia', 'qinghai', 'xiamen', 
                'yunnan', 'chongqing', 'jiangxi', 'shan1xi', 'shan3xi', 'shenzhen', 'sichuan', 'tianjin', 
                'guangxi', 'guizhou', 'hebei', 'henan', 'heilongjiang', 'hubei', 'jilin', 
-               'yanbian', 'xizang', 'xinjiang', 'bingtuan', 'btvchild', 'gaoerfu', 'sdetv'] 
+               'yanbian', 'xizang', 'xinjiang', 'bingtuan', 'btvchild', 'gaoerfu', 'sdetv', 'xianggangweishi',
+ 'shuhua', 'kuailechuidiao', 'cctvliyuan', 'wushushijie', 'cctvqimo', 'huanqiuqiguan', 'cctvzhengquanzixun', 'btvchild', 'youxijingji'] 
 sat_channel_tvsou = ['hubei', 'hunan', 'zhejiang', 'jiangsu', 'dongfang', 'btv1', 'guangdong', 
                       'shenzhen', 'heilongjiang', 'tianjin', 'shandong', 'anhui', 'liaoning'] 
  
