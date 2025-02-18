@@ -1,5 +1,4 @@
-#!/usr/bin/python 
-# coding: utf-8 
+#!/usr/bin/python  # coding: utf-8  
 import urllib3 
 import requests 
 import datetime 
@@ -12,7 +11,6 @@ import os
 import xml.etree.ElementTree  as ET 
 import gzip 
  
- 
 def is_valid_date(strdate): 
     """检查字符串是否为有效的时间格式（HH:MM）""" 
     try: 
@@ -22,7 +20,6 @@ def is_valid_date(strdate):
         return False 
     except: 
         return False 
- 
  
 def sub_req(a, q, id): 
     """生成请求参数""" 
@@ -36,7 +33,6 @@ def sub_req(a, q, id):
     F = _keyStr[wday * wday] 
     return F + str(w, 'utf-8') + str(v, 'utf-8') 
  
- 
 def get_program_info(link, sublink, week_day): 
     """获取节目信息""" 
     date_str = time.strftime("%Y%m%d",  time.localtime(time.time()  + (week_day - int(time.strftime("%w")))  * 24 * 3600)) 
@@ -46,11 +42,9 @@ def get_program_info(link, sublink, week_day):
         'Cache-Control': 'no-cache' 
     } 
     website = f'{link}{sublink}' 
- 
     try: 
         r = requests.get(website,  headers=headers) 
         soup = BeautifulSoup(r.text,  'lxml') 
- 
         # 获取节目列表 
         list_program_div = soup.find(name='div',  attrs={"class": "epg"}).find_all(name='span') 
         programs = [] 
@@ -85,11 +79,9 @@ def get_program_info(link, sublink, week_day):
         print(f"Error getting program info: {e}") 
         return [], "" 
  
- 
 def get_program(link, sublink, week_day): 
     """调用获取节目信息的函数""" 
     return get_program_info(link, sublink, week_day) 
- 
  
 def generate_xml(link): 
     # 中央电视台 
@@ -98,7 +90,6 @@ def generate_xml(link):
     province_prog = ['AHTV1', 'BTV1', 'CCQTV1', 'FJTV2', 'XMTV5', 'HUNANTV1'] 
     # 创建 XML 根元素 
     tv = ET.Element('tv') 
- 
     for prog_list in [CCTV_prog, province_prog]: 
         for prog in prog_list: 
             channel = ET.SubElement(tv, 'channel', id=prog) 
@@ -111,29 +102,27 @@ def generate_xml(link):
                     sublink = f"/program_satellite/{prog}-w{num}.html" 
                 programs, date_str = get_program(link, sublink, num) 
                 for time_str, program_title in programs: 
-                    start_time = f"{date_str}{time_str.replace(':',  '')} +0800" 
-                    end_hour = int(time_str.split(':')[0])  + 1 
-                    if end_hour >= 24: 
-                        end_date = (datetime.datetime.strptime(date_str,  "%Y%m%d") + datetime.timedelta(days=1)).strftime(  
-                            "%Y%m%d") 
-                        end_hour = end_hour - 24 
-                    else: 
-                        end_date = date_str 
-                    end_time = f"{end_date}{str(end_hour).zfill(2)}{time_str.split(':')[1]}  +0800" 
-                    program = ET.SubElement(tv, 'programme', start=start_time, stop=end_time, channel=prog) 
-                    title = ET.SubElement(program, 'title', lang='zh') 
-                    title.text  = program_title 
+                    if is_valid_date(time_str):  # 增加有效性检查 
+                        start_time = f"{date_str}{time_str.replace(':',  '')} +0800" 
+                        end_hour = int(time_str.split(':')[0])  + 1 
+                        if end_hour >= 24: 
+                            end_date = (datetime.datetime.strptime(date_str,  "%Y%m%d") + datetime.timedelta(days=1)).strftime(  
+                                "%Y%m%d") 
+                            end_hour = end_hour - 24 
+                        else: 
+                            end_date = date_str 
+                        end_time = f"{end_date}{str(end_hour).zfill(2)}{time_str.split(':')[1]}  +0800" 
+                        program = ET.SubElement(tv, 'programme', start=start_time, stop=end_time, channel=prog) 
+                        title = ET.SubElement(program, 'title', lang='zh') 
+                        title.text  = program_title 
  
     xml_str = ET.tostring(tv,  encoding='utf-8') 
     with gzip.open('tvmao.xml.gz',  'wb') as f: 
         f.write(xml_str)  
  
- 
 def main(): 
     link = "https://www.tvmao.com"  
     generate_xml(link) 
  
- 
 if __name__ == "__main__": 
     main() 
- 
