@@ -15,7 +15,7 @@ cctv_channel = ['cctv1', 'cctv2', 'cctv3', 'cctv4', 'cctv5', 'cctv5plus', 'cctv6
                 'cctv7', 'cctv8', 'cctvjilu', 'cctv10', 'cctv11', 'cctv12', 'cctvchild', 
                 'cctv15', 'cctv16', 'cctv17', 'cctveurope', 'cctvamerica', 'cctvxiyu', 'cctv4k', 'cctvarabic', 
                 'cctvfrench', 'cctvrussian', 'shijiedili', 'dianshigouwu', 'taiqiu', 'jingpin', 'shishang', 'hjjc', 
-                'zhinan', 'diyijuchang', 'fyjc', 'cctvfyzq', 'fyyy', 'cctvgaowang', 'xianfengjilu'] 
+                'zhinan', 'diyijuchang', 'fyjc', 'cctvfyzq', 'fyyy', 'cctvgaowang'] 
  
 # 定义上星卫视频道列表 
 sat_channel = ['cetv1', 'cetv2', 'cetv3', 'cetv4', 'btv1', 'btvjishi', 'dongfang', 
@@ -23,10 +23,10 @@ sat_channel = ['cetv1', 'cetv2', 'cetv3', 'cetv4', 'btv1', 'btvjishi', 'dongfang
                'gansu', 'liaoning', 'travel', 'neimenggu', 'ningxia', 'qinghai', 'xiamen', 
                'yunnan', 'chongqing', 'jiangxi', 'shan1xi', 'shan3xi', 'shenzhen', 'sichuan', 'tianjin', 
                'guangxi', 'guizhou', 'hebei', 'henan', 'heilongjiang', 'hubei', 'jilin', 
-               'yanbian', 'xizang', 'xinjiang', 'bingtuan', 'btvchild', 'gaoerfu', 'sdetv', 'xianggangweishi', 
-               'shuhua', 'kuailechuidiao', 'cctvliyuan', 'wushushijie', 'cctvqimo', 'huanqiuqiguan', 
-               'cctvzhengquanzixun', 'btvchild', 'youxijingji'] 
- 
+               'yanbian', 'xizang', 'xinjiang', 'bingtuan', 'sdetv', 'xianggangweishi'] 
+
+#'xianfengjilu', 'btvchild', 'shuhua', 'kuailechuidiao', 'cctvliyuan', 'wushushijie', 'cctvqimo', 'huanqiuqiguan', 
+               'cctvzhengquanzixun', 'youxijingji'
 # 模拟不同浏览器的请求头 
 user_agents = [ 
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 
