@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install requests lxml
+          python -m pip install requests lxml pytz
       - name: Run EPG grabber script
         run: |
          python epg/get-epg.py  || { echo "更新指南失败"; exit 1; } 
