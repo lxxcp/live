@@ -1,90 +1,168 @@
-# -*- coding: utf-8 -*-
 import requests
 import time
 import datetime
 import re
 import gzip
-import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup as bs
-from datetime import timedelta
 
 headers = {
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 }
 
-NS = {'xmltv': 'http://xmltv.c-coding.co.uk/xmltv'}
-
-def generate_xmltv(output_path='tvmao.xml.gz', days=7):
-    """生成XMLTV格式的EPG数据并压缩为gz文件"""
-    start_time = time.time()
-    
-    # 创建XML根节点
-    root = ET.Element('tv')
-    root.set('generator-info-name', 'TVmao EPG Generator')
-    root.set('generator-info-url', 'https://tvmao.com')
-    
-    # 获取所有频道
-    channels = get_channels_tvmao()
-    print(f"共获取到{len(channels)}个频道")
-    
-    # 处理每个频道
-    for idx, channel in enumerate(channels, 1):
-        channel_id = channel['id'][0]
-        print(f"处理频道 {idx}/{len(channels)}: {channel['name']} ({channel_id})")
-        
-        # 添加频道信息到XML
-        channel_elem = ET.SubElement(root, 'channel', id=channel_id)
-        ET.SubElement(channel_elem, 'display-name').text = channel['name']
-        if channel.get('logo'):
-            ET.SubElement(channel_elem, 'icon', src=channel['logo'])
-        
-        # 获取多天节目表
-        for day in range(days):
-            current_date = datetime.date.today() + timedelta(days=day)
-            print(f"  获取 {current_date} 节目表...")
-            
-            # 获取节目数据
-            epg_data = get_epgs_tvmao2(channel, channel_id, current_date, None)
-            if not epg_data['success']:
-                print(f"  获取失败: {epg_data['msg']}")
-                continue
-                
-            # 添加节目信息到XML
-            for program in epg_data['epgs']:
-                programme_elem = ET.SubElement(
-                    root, 
-                    'programme',
-                    start=format_time(program['starttime']),
-                    stop=format_time(program.get('endtime')),  # 需要补充结束时间逻辑
-                    channel=channel_id
-                )
-                ET.SubElement(programme_elem, 'title').text = program['title']
-                if program['desc']:
-                    ET.SubElement(programme_elem, 'desc').text = program['desc']
-
-    # 生成XML文件
-    tree = ET.ElementTree(root)
-    
-    # 压缩为gz文件
-    with gzip.open(output_path, 'wb') as f:
-        tree.write(f, encoding='utf-8', xml_declaration=True)
-    
-    print(f"生成完成！耗时 {time.time()-start_time:.2f} 秒")
-    print(f"文件已保存至：{output_path}")
-
-def format_time(dt):
-    """格式化时间为XMLTV标准格式"""
-    return dt.strftime('%Y%m%d%H%M%S +0800') if dt else ''
-
-# 原有获取频道和节目数据的函数（保持原样）
 def get_channels_tvmao():
-    # 原有实现...
-    pass
+    url_sort = "https://www.tvmao.com/program/playing/"
+    res = requests.get(url_sort, headers=headers, timeout=5)
+    res.encoding = "utf-8"
+    soup = bs(res.text, "html.parser")
+    provinces = {}
+    big_sorts = {}
+    channels = []
+    provinces_more = soup.select("div.province > ul.province-list > li")
+    big_sorts_more = soup.select("dl.chntypetab > dd")
+    for province_more in provinces_more:
+        province = province_more.text.strip().replace("黑龙", "黑龙江")
+        province_id = (
+            province_more.a["href"].replace("/program/playing/", "").replace("/", "")
+        )
+        province = {
+            province: province_id,
+        }
+        provinces.update(province)
+    for big_sort_more in big_sorts_more:
+        sort_name = big_sort_more.text.strip()
+        url = big_sort_more.a["href"]
+        sort_id = url.replace("/program/playing/", "").replace("/", "")
+        if sort_name in provinces or sort_name == "收藏":
+            continue
+        big_sorts.update({sort_name: sort_id})
+    provinces.update(big_sorts)
+    sorts = provinces
+    n = 0
+    for sort_name in sorts:
+        url = "https://www.tvmao.com/program/playing/%s" % sorts[sort_name]
+        time.sleep(0.5)
+        res = requests.get(url, headers=headers, timeout=5)
+        res.encoding = "utf-8"
+        soup = bs(res.text, "html.parser")
+        channel_trs = soup.select("table.timetable > tr")
+        n += 1
+        for tr in channel_trs:
+            tr1 = tr.td.a
+            name = tr1["title"]
+            href = tr1["href"]
+            id = (
+                href.replace("/program/", "")
+                .replace("/", "-")
+                .replace(".html", "")
+                .replace("-program_", "")
+            )
+            id = re.sub("-w\d$", "", id)
+            res1 = tr1["res"]
+            channel = {
+                "name": name,
+                "id": [id],
+                "url": "https://m.tvmao.com/program/%s.html" % id,
+                "source": "tvmao",
+                "logo": "",
+                "desc": "",
+                "sort": sort_name,
+                "res": res1,
+            }
+            channels.append(channel)
+        print(
+            "%s,%s,id:%s,共有频道：%s"
+            % (n, sort_name, sorts[sort_name], len(channel_trs))
+        )
+
+    return channels
 
 def get_epgs_tvmao2(channel, channel_id, dt, func_arg):
-    # 原有实现...
-    pass
+    epgs = []
+    desc = ""
+    msg = ""
+    success = 1
+    ban = 0  # 标识是否被BAN掉了,此接口不确定是否有反爬机制
+    now_date = datetime.datetime.now().date()
+    need_date = dt
+    delta = need_date - now_date
+    now_weekday = now_date.weekday()
+    need_weekday = now_weekday + delta.days + 1
+    id_split = channel_id.split("-")
+    if len(id_split) == 2:
+        id = id_split[1]
+    elif len(id_split) == 3:
+        id = "-".join(id_split[1:3])
+    else:
+        id = channel_id
+    url = (
+        "https://lighttv.tvmao.com/qa/qachannelschedule?epgCode=%s&op=getProgramByChnid&epgName=&isNew=on&day=%s"
+        % (id, need_weekday)
+    )
+    try:
+        res = requests.get(url, headers=headers)
+        res_j = res.json()
+        datas = res_j[2]["pro"]
+        for data in datas:
+            title = data["name"]
+            starttime_str = data["time"]
+            starttime = datetime.datetime.combine(
+                dt, datetime.time(int(starttime_str[:2]), int(starttime_str[-2:]))
+            )
+            epg = {
+                "channel_id": channel.id,
+                "starttime": starttime,
+                "endtime": None,
+                "title": title,
+                "desc": desc,
+                "program_date": dt,
+            }
+            epgs.append(epg)
+    except Exception as e:
+        success = 0
+        msg = "spider-tvmao-%s" % e
+    ret = {
+        "success": success,
+        "epgs": epgs,
+        "msg": msg,
+        "last_program_date": dt,
+        "ban": 0,
+        "source": "tvmao",
+    }
+    return ret
 
-if __name__ == '__main__':
-    generate_xmltv(days=3)  # 生成3天节目表
+def generate_xml(channels, epgs):
+    xml = '<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n'
+    for channel in channels:
+        xml += '  <channel id="{}">\n'.format(channel["id"][0])
+        xml += '    <display-name>{}</display-name>\n'.format(channel["name"])
+        xml += '    <url>{}</url>\n'.format(channel["url"])
+        xml += '    <sort>{}</sort>\n'.format(channel["sort"])
+        xml += '  </channel>\n'
+    for epg in epgs:
+        xml += '  <programme channel="{}" start="{}" stop="{}">\n'.format(
+            epg["channel_id"], epg["starttime"].strftime("%Y%m%d%H%M%S"), epg["endtime"].strftime("%Y%m%d%H%M%S") if epg["endtime"] else ""
+        )
+        xml += '    <title>{}</title>\n'.format(epg["title"])
+        xml += '    <desc>{}</desc>\n'.format(epg["desc"])
+        xml += '  </programme>\n'
+    xml += '</tv>'
+    return xml
+
+def save_xml_gz(xml, filename):
+    with gzip.open(filename, 'wt', encoding='utf-8') as f:
+        f.write(xml)
+
+def main():
+    channels = get_channels_tvmao()
+    epgs = []
+    for channel in channels:
+        dt = datetime.datetime.now().date()
+        epg_data = get_epgs_tvmao2(channel, channel["id"][0], dt, None)
+        if epg_data["success"]:
+            epgs.extend(epg_data["epgs"])
+    xml = generate_xml(channels, epgs)
+    save_xml_gz(xml, "tvmao.xml.gz")
+
+if __name__ == "__main__":
+    main()
