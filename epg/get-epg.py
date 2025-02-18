@@ -30,22 +30,26 @@ sat_channel_tvsou = ['hubei', 'hunan', 'zhejiang', 'jiangsu', 'dongfang', 'btv1'
  
 def get_epg_data(session, cids, epgdate): 
     try: 
+        # 修正API地址格式化 
         api = f"http://api.cntv.cn/epg/epginfo?c={cids}&d={epgdate}"  
         response = session.get(api)  
         epgdata = response.json()  
+        # 修正打印格式化 
         print(f"API response for {cids} on {epgdate}: {epgdata}") 
         return epgdata 
     except requests.RequestException as e: 
+        # 修正打印格式化 
         print(f"Request error: {e}") 
         return {} 
     except ValueError as e: 
+        # 修正打印格式化 
         print(f"JSON decoding error: {e}") 
         return {} 
  
  
 def getChannelCNTV(fhandle, channelID): 
     ''' 
-    通过央视cntv接口，获取央视，和上星卫视的节目单，写入同目录下 guide.xml    文件，文件格式符合xmltv标准 
+    通过央视cntv接口，获取央视，和上星卫视的节目单，写入同目录下 guide.xml  文件，文件格式符合xmltv标准 
     接口返回的json转换成dict后类似如下 
     {'cctv1': {'isLive': '九九第1集', 'liveSt': 1535264130, 'channelName': 'CCTV-1 综合', 'program': [ 
         {'t': '生活提示2018-187', 'st': 1535215320, 'et': 1535215680, 'showTime': '00:42', 'eventType': '', 
@@ -60,7 +64,6 @@ def getChannelCNTV(fhandle, channelID):
     ''' 
     cids = ','.join(channelID) 
     epgdate = datetime.now(tz).strftime('%Y%m%d')  
- 
     session = requests.Session() 
     epgdata = get_epg_data(session, cids, epgdate) 
  
@@ -76,7 +79,6 @@ def getChannelEPG(fhandle, channelID):
     cids = ','.join(channelID) 
     session = requests.Session() 
     today = datetime.now(tz)  
- 
     dates = [today + timedelta(days=i) for i in range(4)] 
     epgdates = [date.strftime('%Y%m%d') for date in dates] 
  
@@ -88,11 +90,11 @@ def getChannelEPG(fhandle, channelID):
                 program = epgdata_current[channel]['program'] 
                 for detail in program: 
                     # 处理 start 和 stop 时间戳 
-                    st = datetime.fromtimestamp(detail['st']).astimezone(tz).strftime('%Y%m%d%H%M%S   %z') 
-                    et = datetime.fromtimestamp(detail['et']).astimezone(tz).strftime('%Y%m%d%H%M%S   %z') 
+                    st = datetime.fromtimestamp(detail['st']).astimezone(tz).strftime('%Y%m%d%H%M%S  %z') 
+                    et = datetime.fromtimestamp(detail['et']).astimezone(tz).strftime('%Y%m%d%H%M%S  %z') 
                     # 写入 programme 
-                    fhandle.write(f'    <programme  channel="{channel}" start="{st}" stop="{et}" >\n') 
-                    fhandle.write(f'        <title lang="zh">{detail["t"]}</title>\n') 
+                    fhandle.write(f'     <programme  channel="{channel}" start="{st}" stop="{et}" >\n') 
+                    fhandle.write(f'         <title lang="zh">{detail["t"]}</title>\n') 
                     fhandle.write('    </programme>\n') 
  
  
