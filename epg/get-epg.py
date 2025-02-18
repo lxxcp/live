@@ -25,8 +25,7 @@ sat_channel = ['cetv1', 'cetv2', 'cetv3', 'cetv4', 'btv1', 'btvjishi', 'dongfang
                'guangxi', 'guizhou', 'hebei', 'henan', 'heilongjiang', 'hubei', 'jilin', 
                'yanbian', 'xizang', 'xinjiang', 'bingtuan', 'sdetv', 'xianggangweishi'] 
 
-#'xianfengjilu', 'btvchild', 'shuhua', 'kuailechuidiao', 'cctvliyuan', 'wushushijie', 'cctvqimo', 'huanqiuqiguan', 
-               'cctvzhengquanzixun', 'youxijingji'
+#'xianfengjilu', 'btvchild', 'shuhua', 'kuailechuidiao', 'cctvliyuan', 'wushushijie', 'cctvqimo', 'huanqiuqiguan', 'cctvzhengquanzixun', 'youxijingji'
 # 模拟不同浏览器的请求头 
 user_agents = [ 
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 
