@@ -6,13 +6,14 @@ import gzip
 from bs4 import BeautifulSoup as bs
 
 headers = {
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,/;q=0.8,application/signed-exchange;v=b3;q=0.9",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 }
 
 def get_channels_tvmao():
     url_sort = "https://www.tvmao.com/program/playing/"
     res = requests.get(url_sort, headers=headers, timeout=5)
+    res.raise_for_status()
     res.encoding = "utf-8"
     soup = bs(res.text, "html.parser")
     provinces = {}
@@ -20,49 +21,42 @@ def get_channels_tvmao():
     channels = []
     provinces_more = soup.select("div.province > ul.province-list > li")
     big_sorts_more = soup.select("dl.chntypetab > dd")
+    
     for province_more in provinces_more:
         province = province_more.text.strip().replace("黑龙", "黑龙江")
-        province_id = (
-            province_more.a["href"].replace("/program/playing/", "").replace("/", "")
-        )
-        province = {
-            province: province_id,
-        }
-        provinces.update(province)
+        province_id = province_more.a["href"].replace("/program/playing/", "").replace("/", "")
+        provinces[province] = province_id
+    
     for big_sort_more in big_sorts_more:
         sort_name = big_sort_more.text.strip()
         url = big_sort_more.a["href"]
         sort_id = url.replace("/program/playing/", "").replace("/", "")
         if sort_name in provinces or sort_name == "收藏":
             continue
-        big_sorts.update({sort_name: sort_id})
-    provinces.update(big_sorts)
-    sorts = provinces
-    n = 0
+        big_sorts[sort_name] = sort_id
+    
+    sorts = {**provinces, **big_sorts}
+    
     for sort_name in sorts:
-        url = "https://www.tvmao.com/program/playing/%s" % sorts[sort_name]
+        url = f"https://www.tvmao.com/program/playing/{sorts[sort_name]}"
         time.sleep(0.5)
         res = requests.get(url, headers=headers, timeout=5)
+        res.raise_for_status()
         res.encoding = "utf-8"
         soup = bs(res.text, "html.parser")
         channel_trs = soup.select("table.timetable > tr")
-        n += 1
+        
         for tr in channel_trs:
             tr1 = tr.td.a
             name = tr1["title"]
             href = tr1["href"]
-            id = (
-                href.replace("/program/", "")
-                .replace("/", "-")
-                .replace(".html", "")
-                .replace("-program_", "")
-            )
+            id = href.replace("/program/", "").replace("/", "-").replace(".html", "").replace("-program_", "")
             id = re.sub("-w\d$", "", id)
             res1 = tr1["res"]
             channel = {
                 "name": name,
                 "id": [id],
-                "url": "https://m.tvmao.com/program/%s.html" % id,
+                "url": f"https://m.tvmao.com/program/{id}.html",
                 "source": "tvmao",
                 "logo": "",
                 "desc": "",
@@ -70,11 +64,8 @@ def get_channels_tvmao():
                 "res": res1,
             }
             channels.append(channel)
-        print(
-            "%s,%s,id:%s,共有频道：%s"
-            % (n, sort_name, sorts[sort_name], len(channel_trs))
-        )
-
+    
+    print(f"共有频道：{len(channels)}")
     return channels
 
 def get_epgs_tvmao2(channel, channel_id, dt, func_arg):
@@ -95,12 +86,11 @@ def get_epgs_tvmao2(channel, channel_id, dt, func_arg):
         id = "-".join(id_split[1:3])
     else:
         id = channel_id
-    url = (
-        "https://lighttv.tvmao.com/qa/qachannelschedule?epgCode=%s&op=getProgramByChnid&epgName=&isNew=on&day=%s"
-        % (id, need_weekday)
-    )
+    url = f"https://lighttv.tvmao.com/qa/qachannelschedule?epgCode={id}&op=getProgramByChnid&epgName=&isNew=on&day={need_weekday}"
+    
     try:
         res = requests.get(url, headers=headers)
+        res.raise_for_status()
         res_j = res.json()
         datas = res_j[2]["pro"]
         for data in datas:
