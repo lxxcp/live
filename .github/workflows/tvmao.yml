@@ -25,4 +25,21 @@ jobs:
         run: |
          python epg/tvmao.py 
 
-     
+     - name: Check for changes
+        id: check-changes
+        run: |
+          git add tvmao.xml.gz
+          if git diff-index --quiet HEAD --; then
+            echo "No changes detected."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected."
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+      - name: Commit and push changes (if any)
+        if: steps.check-changes.outputs.has_changes == 'true'
+        run: |
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+          git commit -m "EPGTVMAO"
+          git push --force
