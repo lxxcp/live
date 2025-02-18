@@ -19,6 +19,7 @@ def get_channels_tvmao():
         # 打印返回的 HTML 内容，检查结构和格式 
         print(res.text)  
         soup = bs(res.text,  "html.parser")  
+ 
         provinces = {} 
         big_sorts = {} 
         channels = [] 
@@ -28,7 +29,7 @@ def get_channels_tvmao():
         big_sorts_more = soup.find_all("dl",  class_="chntypetab")[0].find_all("dd") 
  
         for province_more in provinces_more: 
-            province = province_more.text.strip().replace("  黑龙", "黑龙江") 
+            province = province_more.text.strip().replace("   黑龙", "黑龙江") 
             province_id = province_more.a["href"].replace("/program/playing/", "").replace("/", "") 
             provinces[province] = province_id 
  
@@ -52,7 +53,10 @@ def get_channels_tvmao():
             channel_trs = soup.find_all("table",  class_="timetable")[0].find_all("tr") 
  
             for tr in channel_trs: 
-                tr1 = tr.find("td").find("a")  
+                td = tr.find("td")  
+                if td is None: 
+                    continue 
+                tr1 = td.find("a")  
                 if tr1: 
                     name = tr1["title"] 
                     href = tr1["href"] 
@@ -153,6 +157,12 @@ def save_xml_gz(xml, filename):
     except OSError as e: 
         print(f"保存文件出错: {e}") 
  
- if __name__ == "__main__": 
-    main() 
+def main(): 
+    channels = get_channels_tvmao() 
+    # 这里需要补充调用 get_epgs_tvmao2 的逻辑 
+    # epgs =... 
+    # xml = generate_xml(channels, epgs) 
+    # save_xml_gz(xml, 'output.xml.gz')  
  
+if __name__ == "__main__": 
+    main() 
