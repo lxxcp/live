@@ -24,7 +24,7 @@ sat_channel = ['cetv1', 'cetv2', 'cetv3', 'cetv4', 'btv1', 'btvjishi', 'dongfang
 sat_channel_tvsou = ['hubei', 'hunan', 'zhejiang', 'jiangsu', 'dongfang', 'btv1', 'guangdong', 
                       'shenzhen', 'heilongjiang', 'tianjin', 'shandong', 'anhui', 'liaoning'] 
  
- 
+   ''' 
 def get_epg_data(session, cids, epgdate): 
     try: 
         api = f"http://api.cntv.cn/epg/epginfo?c={cids}&d={epgdate}"   
@@ -35,7 +35,20 @@ def get_epg_data(session, cids, epgdate):
     except ValueError as e: 
         print(f"JSON decoding error: {e}") 
         return {} 
- 
+          '''  
+ def get_epg_data(session, cids, epgdate): 
+    try: 
+        api = f"http://api.cntv.cn/epg/epginfo?c={cids}&d={epgdate}"  
+        response = session.get(api)  
+        epgdata = response.json()  
+        print(f"API response for {cids} on {epgdate}: {epgdata}") 
+        return epgdata 
+    except requests.RequestException as e: 
+        print(f"Request error: {e}") 
+        return {} 
+    except ValueError as e: 
+        print(f"JSON decoding error: {e}") 
+        return {} 
  
 def getChannelCNTV(fhandle, channelID): 
     ''' 
