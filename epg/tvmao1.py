@@ -5,7 +5,6 @@ import datetime
 import re
 import gzip
 import xml.etree.ElementTree as ET
-from utils.general import headers
 from bs4 import BeautifulSoup as bs
 from datetime import timedelta
 
