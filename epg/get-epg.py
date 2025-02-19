@@ -1,58 +1,30 @@
 import re 
 import pytz 
 import requests 
-import gzip 
+import gzip  # 导入 gzip 模块 
 from lxml import html 
 from datetime import datetime, timezone, timedelta 
-import random 
-import time 
- 
-# 设置时区为亚洲上海 
-tz = pytz.timezone('Asia/Shanghai')  
 
-# 定义央视频道列表 
+tz = pytz.timezone('Asia/Shanghai')   
+ 
 cctv_channel = ['cctv1', 'cctv2', 'cctv3', 'cctv4', 'cctv5', 'cctv5plus', 'cctv6', 
                 'cctv7', 'cctv8', 'cctvjilu', 'cctv10', 'cctv11', 'cctv12','cctv13', 'cctvchild', 
-                'cctv15', 'cctv16', 'cctv17', 'cctveurope', 'cctvamerica', 'cctv4k'] 
+                'cctv15', 'cctv16', 'cctv17', 'cctv4k'] 
+cctv_channel_tvsou = ['cctv-1', 'cctv-2', 'cctv-3', 'cctv-4', 'cctv-5', 'cctv5+', 'cctv-6', 
+                      'cctv-7', 'cctv-8', 'cctv-9', 'cctv-10', 'cctv-11', 'cctv-12'] 
  
-# 定义上星卫视频道列表 
-sat_channel = ['cetv1', 'cetv2', 'cetv4','btv1', 'btvjishi', 'dongfang', 'hunan', 'shandong', 'zhejiang', 'jiangsu', 'guangdong', 'dongnan', 'anhui', 
+sat_channel = ['cetv1', 'cetv2', 'cetv3', 'cetv4', 'btv1', 'btvjishi', 'dongfang', 
+               'hunan', 'shandong', 'zhejiang', 'jiangsu', 'guangdong', 'dongnan', 'anhui', 
                'gansu', 'liaoning', 'travel', 'neimenggu', 'ningxia', 'qinghai', 'xiamen', 
-               'yunnan', 'chongqing', 'jiangxi', 'shan1xi', 'shan3xi', 'shenzhen', 'sichuan', 'tianjin', 
-               'guangxi', 'guizhou', 'hebei', 'henan', 'heilongjiang', 'hubei', 'jilin', 
-               'yanbian', 'xizang', 'xinjiang', 'bingtuan', 'sdetv'] 
-
-#'xianfengjilu', 'btvchild', 'cetv1', 'cetv2', 'cetv4','shuhua', 'kuailechuidiao', 'cctvliyuan', 'wushushijie', 'cctvqimo', 'huanqiuqiguan', 'cctvzhengquanzixun', 'youxijingji', 'cetv3', 'xianggangweishi''cctvarabic', 'cctvxiyu', 'cctvfrench', 'cctvrussian', 
-#, 'shijiedili', 'dianshigouwu', 'taiqiu', 'jingpin', 'shishang', 'hjjc','zhinan', 'diyijuchang', 'fyjc', 'cctvfyzq', 'fyyy', 'cctvgaowang'
-# 模拟不同浏览器的请求头 
-user_agents = [ 
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15' 
-] 
+               'yanbian', 'xizang', 'xinjiang', 'bingtuan', 'btvchild', 'gaoerfu', 'sdetv'] 
+sat_channel_tvsou = ['hubei', 'hunan', 'zhejiang', 'jiangsu', 'dongfang', 'btv1', 'guangdong', 
+                      'shenzhen', 'heilongjiang', 'tianjin', 'shandong', 'anhui', 'liaoning'] 
  
  
 def get_epg_data(session, cids, epgdate): 
-    """ 
-    向API发送请求获取节目单数据 
-    :param session: requests会话对象 
-    :param cids: 频道ID列表，用逗号连接 
-    :param epgdate: 日期，格式为YYYYMMDD 
-    :return: 解析后的JSON数据或空字典 
-    """ 
     try: 
-        # 正确格式化API地址 
-        api = f"http://api.cntv.cn/epg/epginfo?c={cids}&d={epgdate}"  
-        # 随机选择一个请求头 
-        headers = { 
-            'User-Agent': random.choice(user_agents)  
-        } 
-        response = session.get(api,  headers=headers) 
-        response.raise_for_status()   # 检查请求是否成功 
-        epgdata = response.json()  
-        print(f"API response for {cids} on {epgdate}: {epgdata}") 
-        return epgdata 
+        api = f"http://api.cntv.cn/epg/epginfo?c={cids}&d={epgdate}"   
+        return session.get(api).json()   
     except requests.RequestException as e: 
         print(f"Request error: {e}") 
         return {} 
@@ -61,73 +33,61 @@ def get_epg_data(session, cids, epgdate):
         return {} 
  
  
-def get_channel_info(fhandle, channel_id, epg_data): 
-    """ 
-    将频道信息写入XML文件 
-    :param fhandle: 文件处理对象 
-    :param channel_id: 频道ID 
-    :param epg_data: 节目单数据 
-    """ 
-    if channel_id in epg_data: 
-        channel_name = epg_data[channel_id].get("channelName", channel_id) 
-        fhandle.write(f'     <channel id="{channel_id}">\n') 
-        fhandle.write(f'         <display-name lang="cn">{channel_name}</display-name>\n') 
-        fhandle.write('     </channel>\n') 
+def getChannelCNTV(fhandle, channelID): 
+    ''' 
+    通过央视cntv接口，获取央视，和上星卫视的节目单，写入同目录下 guide.xml   文件，文件格式符合xmltv标准 
+    接口返回的json转换成dict后类似如下 
+    {'cctv1': {'isLive': '九九第1集', 'liveSt': 1535264130, 'channelName': 'CCTV-1 综合', 'program': [{'t': '生活提示2018-187', 'st': 1535215320, 'et': 1535215680, 'showTime': '00:42', 'eventType': '', 'eventId': '', 'duration': 360}]}} 
+ 
+    Args: 
+        fhandle,文件处理对象，用于后续调用，直接写入xml文件 
+        channelID,电视台列表，list格式，可以批量一次性获取多个节目单 
+ 
+    Return: 
+        None,直接写入xml文件 
+    ''' 
+    cids = ','.join(channelID) 
+    epgdate = datetime.now(tz).strftime('%Y%m%d')   
+    session = requests.Session() 
+    epgdata = get_epg_data(session, cids, epgdate) 
+ 
+    for channel in channelID: 
+        if channel in epgdata: 
+            # write channel id info 
+            fhandle.write(f'      <channel id="{channel}">\n') 
+            fhandle.write(f'          <display-name lang="cn">{epgdata[channel]["channelName"]}</display-name>\n') 
+            fhandle.write('      </channel>\n') 
  
  
-def get_channel_programs(fhandle, channel_id, all_epg_data): 
-    """ 
-    将节目信息写入XML文件 
-    :param fhandle: 文件处理对象 
-    :param channel_id: 频道ID 
-    :param all_epg_data: 多日的节目单数据列表 
-    """ 
-    for epg_data in all_epg_data: 
-        if channel_id in epg_data: 
-            programs = epg_data[channel_id].get('program', []) 
-            for program in programs: 
-                start_time = datetime.fromtimestamp(program['st']).astimezone(tz).strftime('%Y%m%d%H%M%S  %z') 
-                end_time = datetime.fromtimestamp(program['et']).astimezone(tz).strftime('%Y%m%d%H%M%S  %z') 
-                title = program.get('t',  "Unknown Program") 
-                fhandle.write(f'     <programme channel="{channel_id}" start="{start_time}" stop="{end_time}">\n') 
-                fhandle.write(f'         <title lang="zh">{title}</title>\n') 
-                fhandle.write('     </programme>\n') 
+def getChannelEPG(fhandle, channelID): 
+    cids = ','.join(channelID) 
+    session = requests.Session() 
+    today = datetime.now(tz)   
+    dates = [today + timedelta(days=i) for i in range(4)] 
+    epgdates = [date.strftime('%Y%m%d') for date in dates] 
+ 
+    all_epg_data = [get_epg_data(session, cids, epgdate) for epgdate in epgdates] 
+ 
+    for channel in channelID: 
+        for epgdata_current in all_epg_data: 
+            if channel in epgdata_current: 
+                program = epgdata_current[channel]['program'] 
+                for detail in program: 
+                    # 处理 start 和 stop 时间戳 
+                    st = datetime.fromtimestamp(detail['st']).astimezone(tz).strftime('%Y%m%d%H%M%S  %z') 
+                    et = datetime.fromtimestamp(detail['et']).astimezone(tz).strftime('%Y%m%d%H%M%S  %z') 
+                    # 写入 programme 
+                    fhandle.write(f'       <programme  channel="{channel}" start="{st}" stop="{et}" >\n') 
+                    fhandle.write(f'           <title lang="zh">{detail["t"]}</title>\n') 
+                    fhandle.write('       </programme>\n') 
  
  
-def main(): 
-    """ 
-    主函数，包含整个流程的调度  
-    """ 
-    with gzip.open('guide.xml.gz',  'wt', encoding='utf-8') as fhandle: 
-        fhandle.write('<?xml  version="1.0" encoding="utf-8"?>\n') 
-        fhandle.write('<tv  generator-info-name="lxxcp" generator-info-url="https://github.com/lxxcp/epg">\n')  
- 
-        session = requests.Session() 
-        all_channels = cctv_channel+ sat_channel 
-        today = datetime.now(tz)  
-        dates = [today + timedelta(days=i) for i in range(4)] 
-        epg_dates = [date.strftime('%Y%m%d') for date in dates] 
- 
-        all_channel_epg_data = [] 
-        # 为所有频道获取多日的节目单数据 
-        for epg_date in epg_dates: 
-            cids = ','.join(all_channels) 
-            epg_data = get_epg_data(session, cids, epg_date) 
-            all_channel_epg_data.append(epg_data)  
-            # 随机设置请求间隔 
-            time.sleep(random.uniform(1,  3)) 
- 
-        # 写入频道信息 
-        for channel in all_channels: 
-            get_channel_info(fhandle, channel, all_channel_epg_data[0]) 
- 
-        # 写入节目信息 
-        for channel in all_channels: 
-            get_channel_programs(fhandle, channel, all_channel_epg_data) 
- 
-        fhandle.write('</tv>')  
- 
- 
-if __name__ == "__main__": 
-    main() 
- 
+# 使用 gzip 打开文件进行压缩写入 
+with gzip.open('guide.xml.gz',  'wt', encoding='utf-8') as fhandle: 
+    fhandle.write('<?xml   version="1.0" encoding="utf-8"?>\n') 
+    fhandle.write('<tv   generator-info-name="lxxcp" generator-info-url="https://github.com/lxxcp/epg">\n')   
+    getChannelCNTV(fhandle, cctv_channel) 
+    getChannelCNTV(fhandle, sat_channel) 
+    getChannelEPG(fhandle, cctv_channel) 
+    getChannelEPG(fhandle, sat_channel) 
+    fhandle.write('</tv>')  
