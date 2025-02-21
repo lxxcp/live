@@ -77,7 +77,7 @@ def getChannelEPG(fhandle, channelID):
 
 
 # 使用 gzip 打开文件进行压缩写入 
-with gzip.open('seishi.xml.gz',  'wt', encoding='utf-8') as fhandle: 
+with gzip.open('weishi.xml.gz',  'wt', encoding='utf-8') as fhandle: 
     fhandle.write('<?xml   version="1.0" encoding="utf-8"?>\n') 
     fhandle.write('<tv   generator-info-name="lxxcp" generator-info-url="https://github.com/lxxcp/epg">\n')   
     #getChannelCNTV(fhandle, cctv_channel) 
