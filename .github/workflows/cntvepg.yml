@@ -23,11 +23,11 @@ jobs:
           python -m pip install requests lxml pytz
 
       - name: Ensure script is executable
-        run: chmod +x cntvepg.py
+        run: chmod +x epg/cntvepg.py
 
       - name: Run EPG grabber script
         run: |
-          python cntvepg.py || { echo "更新指南失败了"; exit 1; }
+          python epg/cntvepg.py || { echo "更新指南失败"; exit 1; }
 
       - name: Check for changes
         id: check-changes
