@@ -9,7 +9,7 @@ from datetime import datetime, timezone, timedelta
 tz = pytz.timezone('Asia/Shanghai')
 
 cctv_channel = ['cctv1', 'cctv2', 'cctv3', 'cctv4', 'cctv5', 'cctv5plus', 'cctv6', 
-                'cctv7', 'cctv8', 'cctvjilu', 'cctv10', 'cctv11', 'cctv12', 'cctvchild', 
+                'cctv7', 'cctv8', 'cctvjilu', 'cctv10', 'cctv11', 'cctv12','cctv13', 'cctvchild', 
                 'cctv15', 'cctv16', 'cctv17', 'cctveurope', 'cctvamerica', 'cctvxiyu', 'cctv4k', 'cctvarabic', 
                 'cctvfrench', 'cctvrussian', 'shijiedili', 'dianshigouwu', 'taiqiu', 'jingpin', 'shishang', 'hjjc', 
                 'zhinan', 'diyijuchang', 'fyjc', 'cctvfyzq', 'fyyy', 'cctvgaowang', 'xianfengjilu','cetv1', 'cetv2', 'cetv3', 'cetv4'] 
@@ -55,10 +55,10 @@ def getChannelEPG(fhandle, channelID):
             program = epgdata[channelID[n]]['program']
             for detail in program:
                 # write programme
-                st = datetime.fromtimestamp(detail['st']).strftime('%Y%m%d%H%M') + '00'
-                et = datetime.fromtimestamp(detail['et']).strftime('%Y%m%d%H%M') + '00'
+                st = datetime.fromtimestamp(detail['st'] / 1000).strftime('%Y%m%d%H%M') + '00'
+                et = datetime.fromtimestamp(detail['et'] / 1000).strftime('%Y%m%d%H%M') + '00'
 
-                fhandle.write(f'\t<programme start="{st} +0800" stop="{et} +0800" channel="{channelID[n]}">\n')
+                fhandle.write(f'\t<programme  channel="{channelID[n]}" start="{st} +0800" stop="{et} +0800">\n')
                 fhandle.write(f'\t\t<title lang="zh">{detail["t"]}</title>\n')
                 fhandle.write(f'\t\t<desc lang="zh"></desc>\n')
                 fhandle.write('\t</programme>\n')
