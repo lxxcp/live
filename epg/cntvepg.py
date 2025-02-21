@@ -8,8 +8,11 @@ from datetime import datetime, timezone, timedelta
 
 tz = pytz.timezone('Asia/Shanghai')
 
-cctv_channel = ['cctv1', 'cctv2', 'cctv3', 'cctv4', 'cctv5', 'cctv5plus', 'cctv6','cctv7', 'cctv8', 'cctvjilu', 'cctv10', 'cctv11', 'cctv12', 'cctvchild','cctv15', 'cctv16', 'cctv17', 'cctv4k']
-sat_channel = ['cetv1', 'cetv2', 'cetv3', 'cetv4', 'btv1', 'btvjishi', 'dongfang','hunan', 'shandong', 'zhejiang', 'jiangsu', 'guangdong', 'dongnan', 'anhui','gansu', 'liaoning', 'travel', 'neimenggu', 'ningxia', 'qinghai', 'xiamen','yunnan', 'chongqing', 'jiangxi', 'shan1xi', 'shan3xi', 'shenzhen', 'sichuan', 'tianjin','guangxi', 'guizhou', 'hebei', 'henan', 'heilongjiang', 'hubei', 'jilin','yanbian', 'xizang', 'xinjiang', 'bingtuan', 'btvchild', 'gaoerfu', 'sdetv']
+cctv_channel = ['cctv1', 'cctv2', 'cctv3', 'cctv4', 'cctv5', 'cctv5plus', 'cctv6', 
+                'cctv7', 'cctv8', 'cctvjilu', 'cctv10', 'cctv11', 'cctv12', 'cctvchild', 
+                'cctv15', 'cctv16', 'cctv17', 'cctveurope', 'cctvamerica', 'cctvxiyu', 'cctv4k', 'cctvarabic', 
+                'cctvfrench', 'cctvrussian', 'shijiedili', 'dianshigouwu', 'taiqiu', 'jingpin', 'shishang', 'hjjc', 
+                'zhinan', 'diyijuchang', 'fyjc', 'cctvfyzq', 'fyyy', 'cctvgaowang', 'xianfengjilu','cetv1', 'cetv2', 'cetv3', 'cetv4'] 
 
 def getChannelCNTV(fhandle, channelID):
     # change channelID list to str cids
@@ -32,13 +35,12 @@ def getChannelCNTV(fhandle, channelID):
 def getChannelEPG(fhandle, channelID):
     date = '%Y%m%d'
     epgdate = [
-        
-        (datetime.now(tz) + timedelta(days=-2)).strftime(date),
-        (datetime.now(tz) + timedelta(days=-1)).strftime(date),
-        datetime.now(tz).strftime(date),
-        (datetime.now(tz) + timedelta(days=1)).strftime(date),
-        (datetime.now(tz) + timedelta(days=2)).strftime(date),
-    ];
+        datetime.now(tz).strftime(date),                         # 当天
+        (datetime.now(tz) + timedelta(days=1)).strftime(date),   # 后一天
+        (datetime.now(tz) + timedelta(days=2)).strftime(date),   # 后两天
+        (datetime.now(tz) + timedelta(days=3)).strftime(date),   # 后三天
+        (datetime.now(tz) + timedelta(days=4)).strftime(date),   # 后四天
+    ]
 
     cids = ''
     for x in channelID:
@@ -52,7 +54,7 @@ def getChannelEPG(fhandle, channelID):
             name = epgdata[channelID[n]]['channelName']
             program = epgdata[channelID[n]]['program']
             for detail in program:
-                # write programe
+                # write programme
                 st = datetime.fromtimestamp(detail['st']).strftime('%Y%m%d%H%M') + '00'
                 et = datetime.fromtimestamp(detail['et']).strftime('%Y%m%d%H%M') + '00'
 
@@ -67,9 +69,9 @@ def getsave():
         fhandle.write('<?xml version="1.0" encoding="utf-8" ?>\n')
         fhandle.write('<tv generator-info-name="xiaoluoxxx" generator-info-url="https://github.com/xiaoluoxxx/iptv-one">\n')
         getChannelCNTV(fhandle, cctv_channel)
-        getChannelCNTV(fhandle, sat_channel)
+       # getChannelCNTV(fhandle, sat_channel)
         getChannelEPG(fhandle, cctv_channel)
-        getChannelEPG(fhandle, sat_channel)
+       # getChannelEPG(fhandle, sat_channel)
         fhandle.write('</tv>')
 
 if __name__ == '__main__':
