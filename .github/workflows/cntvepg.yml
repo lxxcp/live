@@ -1,0 +1,45 @@
+name: 更新CNTVEPG 
+on: 
+  schedule: 
+    - cron: '0 17 * * *' 
+  workflow_dispatch: 
+
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository (no history)
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1  # 仅克隆最新提交，减少耗时
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install requests lxml pytz
+      - name: Run EPG grabber script
+        run: |
+         python epg/cntvepg.py  || { echo "更新指南失败了"; exit 1; } 
+
+      - name: Check for changes
+        id: check-changes
+        run: |
+          git add guide.xml.gz
+          if git diff-index --quiet HEAD --; then
+            echo "No changes detected."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected."
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+      - name: Commit and push changes (if any)
+        if: steps.check-changes.outputs.has_changes == 'true'
+        run: |
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+          git commit -m "CNTVEPG更新 "
+          git push --force
