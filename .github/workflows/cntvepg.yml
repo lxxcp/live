@@ -28,7 +28,7 @@ jobs:
       - name: Check for changes
         id: check-changes
         run: |
-          git add guide.xml.gz
+          git add cntvepg.xml.gz
           if git diff-index --quiet HEAD --; then
             echo "No changes detected."
             echo "has_changes=false" >> $GITHUB_OUTPUT
