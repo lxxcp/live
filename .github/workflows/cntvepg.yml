@@ -21,9 +21,13 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install requests lxml pytz
+
+      - name: Ensure script is executable
+        run: chmod +x cntvepg.py
+
       - name: Run EPG grabber script
         run: |
-         python epg/cntvepg.py  || { echo "更新指南失败了"; exit 1; } 
+          python cntvepg.py || { echo "更新指南失败了"; exit 1; }
 
       - name: Check for changes
         id: check-changes
@@ -36,10 +40,11 @@ jobs:
             echo "Changes detected."
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
+
       - name: Commit and push changes (if any)
         if: steps.check-changes.outputs.has_changes == 'true'
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
-          git commit -m "CNTVEPG更新 "
+          git commit -m "CNTVEPG更新"
           git push --force
