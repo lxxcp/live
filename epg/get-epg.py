@@ -57,7 +57,7 @@ def getChannelEPG(fhandle, channelID):
     cids = ','.join(channelID) 
     session = requests.Session() 
     today = datetime.now(tz)   
-    dates = [today + timedelta(days=i) for i in range(4)] 
+    dates = [today + timedelta(days=i) for i in range(5)] 
     epgdates = [date.strftime('%Y%m%d') for date in dates] 
 
     all_epg_data = [get_epg_data(session, cids, epgdate) for epgdate in epgdates] 
