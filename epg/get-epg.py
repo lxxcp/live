@@ -9,11 +9,9 @@ from datetime import datetime, timezone, timedelta
 tz = pytz.timezone('Asia/Shanghai')   
 
 
-sat_channel = ['cetv1', 'cetv2', 'cetv3', 'cetv4', 'btv1', 'btvjishi', 'dongfang', 
-               'hunan', 'shandong', 'zhejiang', 'jiangsu', 'guangdong', 'dongnan', 'anhui', 
-               'gansu', 'liaoning', 'travel', 'neimenggu', 'ningxia', 'qinghai', 'xiamen', 
-               'yunnan', 'chongqing', 'jiangxi', 'shan1xi', 'shan3xi', 'shenzhen', 'sichuan', 'tianjin', 
-               'guangxi', 'guizhou', 'hebei', 'henan', 'heilongjiang', 'hubei', 'jilin', 
+sat_channel = ['btv1', 'btvjishi', 'dongfang', 'hunan', 'shandong', 'zhejiang', 'jiangsu', 'guangdong', 'dongnan', 'anhui', 
+               'gansu', 'liaoning', 'travel', 'neimenggu', 'ningxia', 'qinghai', 'xiamen', 'yunnan', 'chongqing', 'jiangxi', 'shan1xi', 
+               'shan3xi', 'shenzhen', 'sichuan', 'tianjin', 'guangxi', 'guizhou', 'hebei', 'henan', 'heilongjiang', 'hubei', 'jilin', 
                'yanbian', 'xizang', 'xinjiang', 'bingtuan', 'btvchild', 'gaoerfu', 'sdetv'] 
 
 
@@ -79,7 +77,7 @@ def getChannelEPG(fhandle, channelID):
 
 
 # 使用 gzip 打开文件进行压缩写入 
-with gzip.open('guide.xml.gz',  'wt', encoding='utf-8') as fhandle: 
+with gzip.open('seishi.xml.gz',  'wt', encoding='utf-8') as fhandle: 
     fhandle.write('<?xml   version="1.0" encoding="utf-8"?>\n') 
     fhandle.write('<tv   generator-info-name="lxxcp" generator-info-url="https://github.com/lxxcp/epg">\n')   
     #getChannelCNTV(fhandle, cctv_channel) 
