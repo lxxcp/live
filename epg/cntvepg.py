@@ -54,11 +54,15 @@ def getChannelEPG(fhandle, channelID):
             name = epgdata[channelID[n]]['channelName']
             program = epgdata[channelID[n]]['program']
             for detail in program:
-                # write programme
+                # 检查时间戳是否有效
+                if detail['st'] == 0 or detail['et'] == 0:
+                    continue  # 跳过无效时间戳的节目
+
+                # 确保时间戳的单位是秒
                 st = datetime.fromtimestamp(detail['st'] / 1000).strftime('%Y%m%d%H%M') + '00'
                 et = datetime.fromtimestamp(detail['et'] / 1000).strftime('%Y%m%d%H%M') + '00'
 
-                fhandle.write(f'\t<programme  channel="{channelID[n]}" start="{st} +0800" stop="{et} +0800">\n')
+                fhandle.write(f'\t<programme start="{st} +0800" stop="{et} +0800" channel="{channelID[n]}">\n')
                 fhandle.write(f'\t\t<title lang="zh">{detail["t"]}</title>\n')
                 fhandle.write(f'\t\t<desc lang="zh"></desc>\n')
                 fhandle.write('\t</programme>\n')
@@ -69,9 +73,7 @@ def getsave():
         fhandle.write('<?xml version="1.0" encoding="utf-8" ?>\n')
         fhandle.write('<tv generator-info-name="xiaoluoxxx" generator-info-url="https://github.com/xiaoluoxxx/iptv-one">\n')
         getChannelCNTV(fhandle, cctv_channel)
-       # getChannelCNTV(fhandle, sat_channel)
         getChannelEPG(fhandle, cctv_channel)
-       # getChannelEPG(fhandle, sat_channel)
         fhandle.write('</tv>')
 
 if __name__ == '__main__':
