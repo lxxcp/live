@@ -1,12 +1,13 @@
-# -*- coding: utf-8 -*-
-import re
-import pytz
-import requests
-import gzip
-from lxml import html
-from datetime import datetime, timezone, timedelta
+# -*- coding: utf-8 -*- 
+import re 
+import pytz 
+import requests 
+import gzip  # 导入 gzip 模块 
+from lxml import html 
+from datetime import datetime, timezone, timedelta 
 
-tz = pytz.timezone('Asia/Shanghai')
+tz = pytz.timezone('Asia/Shanghai')   
+
 
 cctv_channel = ['cctv1', 'cctv2', 'cctv3', 'cctv4', 'cctv5', 'cctv5plus', 'cctv6', 
                 'cctv7', 'cctv8', 'cctvjilu', 'cctv10', 'cctv11', 'cctv12','cctv13', 'cctvchild', 
@@ -14,68 +15,73 @@ cctv_channel = ['cctv1', 'cctv2', 'cctv3', 'cctv4', 'cctv5', 'cctv5plus', 'cctv6
                 'cctvfrench', 'cctvrussian', 'shijiedili', 'dianshigouwu', 'taiqiu', 'jingpin', 'shishang', 'hjjc', 
                 'zhinan', 'diyijuchang', 'fyjc', 'cctvfyzq', 'fyyy', 'cctvgaowang', 'xianfengjilu','cetv1', 'cetv2', 'cetv3', 'cetv4'] 
 
-def getChannelCNTV(fhandle, channelID):
-    # change channelID list to str cids
-    cids = ''
-    for x in channelID:
-        cids = cids + x + ','
-    date = '%Y%m%d'
-    epgdate = datetime.now(tz).strftime(date)
-    session = requests.Session()
-    api = f"http://api.cntv.cn/epg/epginfo?c={cids}&d={epgdate}"
-    epgdata = session.get(api).json()
-
-    for n in range(len(channelID)):
-        # channelName = epgdata[channelID[n]]['channelName']
-        fhandle.write(f'\t<channel id="{channelID[n]}">\n')
-        fhandle.write(f'\t\t <display-name lang="cn">{epgdata[channelID[n]]["channelName"]}</display-name>\n')
-        fhandle.write('\t</channel>\n')
+def get_epg_data(session, cids, epgdate): 
+    try: 
+        api = f"http://api.cntv.cn/epg/epginfo?c={cids}&d={epgdate}"   
+        return session.get(api).json()   
+    except requests.RequestException as e: 
+        print(f"Request error: {e}") 
+        return {} 
+    except ValueError as e: 
+        print(f"JSON decoding error: {e}") 
+        return {} 
 
 
-def getChannelEPG(fhandle, channelID):
-    date = '%Y%m%d'
-    epgdate = [
-        datetime.now(tz).strftime(date),                         # 当天
-        (datetime.now(tz) + timedelta(days=1)).strftime(date),   # 后一天
-        (datetime.now(tz) + timedelta(days=2)).strftime(date),   # 后两天
-        (datetime.now(tz) + timedelta(days=3)).strftime(date),   # 后三天
-        (datetime.now(tz) + timedelta(days=4)).strftime(date),   # 后四天
-    ]
+def getChannelCNTV(fhandle, channelID): 
+    ''' 
+    通过央视cntv接口，获取央视，和上星卫视的节目单，写入同目录下 guide.xml   文件，文件格式符合xmltv标准 
+    接口返回的json转换成dict后类似如下 
+    {'cctv1': {'isLive': '九九第1集', 'liveSt': 1535264130, 'channelName': 'CCTV-1 综合', 'program': [{'t': '生活提示2018-187', 'st': 1535215320, 'et': 1535215680, 'showTime': '00:42', 'eventType': '', 'eventId': '', 'duration': 360}]}} 
+ 
+    Args: 
+        fhandle,文件处理对象，用于后续调用，直接写入xml文件 
+        channelID,电视台列表，list格式，可以批量一次性获取多个节目单 
+ 
+    Return: 
+        None,直接写入xml文件 
+    ''' 
+    cids = ','.join(channelID) 
+    epgdate = datetime.now(tz).strftime('%Y%m%d')   
+    session = requests.Session() 
+    epgdata = get_epg_data(session, cids, epgdate) 
 
-    cids = ''
-    for x in channelID:
-        cids = cids + x + ','
+    for channel in channelID: 
+        if channel in epgdata: 
+            # write channel id info 
+            fhandle.write(f'      <channel id="{channel}">\n') 
+            fhandle.write(f'          <display-name lang="cn">{epgdata[channel]["channelName"]}</display-name>\n') 
+            fhandle.write('      </channel>\n') 
 
-    for k in epgdate:
-        session = requests.Session()
-        api = f"http://api.cntv.cn/epg/epginfo?c={cids}&d={k}"
-        epgdata = session.get(api).json()
-        for n in range(len(channelID)):
-            name = epgdata[channelID[n]]['channelName']
-            program = epgdata[channelID[n]]['program']
-            for detail in program:
-                # 检查时间戳是否有效
-                if detail['st'] == 0 or detail['et'] == 0:
-                    continue  # 跳过无效时间戳的节目
 
-                # 确保时间戳的单位是秒
-                st = datetime.fromtimestamp(detail['st'] / 1000).strftime('%Y%m%d%H%M') + '00'
-                et = datetime.fromtimestamp(detail['et'] / 1000).strftime('%Y%m%d%H%M') + '00'
+def getChannelEPG(fhandle, channelID): 
+    cids = ','.join(channelID) 
+    session = requests.Session() 
+    today = datetime.now(tz)   
+    dates = [today + timedelta(days=i) for i in range(5)] 
+    epgdates = [date.strftime('%Y%m%d') for date in dates] 
 
-                fhandle.write(f'\t<programme start="{st} +0800" stop="{et} +0800" channel="{channelID[n]}">\n')
-                fhandle.write(f'\t\t<title lang="zh">{detail["t"]}</title>\n')
-                fhandle.write(f'\t\t<desc lang="zh"></desc>\n')
-                fhandle.write('\t</programme>\n')
+    all_epg_data = [get_epg_data(session, cids, epgdate) for epgdate in epgdates] 
 
-def getsave():
-    # 使用 gzip 打开文件进行压缩
-    with gzip.open('cntvepg.xml.gz', 'wt', encoding='utf-8') as fhandle:
-        fhandle.write('<?xml version="1.0" encoding="utf-8" ?>\n')
-        fhandle.write('<tv generator-info-name="xiaoluoxxx" generator-info-url="https://github.com/xiaoluoxxx/iptv-one">\n')
-        getChannelCNTV(fhandle, cctv_channel)
-        getChannelEPG(fhandle, cctv_channel)
-        fhandle.write('</tv>')
+    for channel in channelID: 
+        for epgdata_current in all_epg_data: 
+            if channel in epgdata_current: 
+                program = epgdata_current[channel]['program'] 
+                for detail in program: 
+                    # 处理 start 和 stop 时间戳 
+                    st = datetime.fromtimestamp(detail['st']).astimezone(tz).strftime('%Y%m%d%H%M%S  %z') 
+                    et = datetime.fromtimestamp(detail['et']).astimezone(tz).strftime('%Y%m%d%H%M%S  %z') 
+                    # 写入 programme 
+                    fhandle.write(f'       <programme  channel="{channel}" start="{st}" stop="{et}" >\n') 
+                    fhandle.write(f'           <title lang="zh">{detail["t"]}</title>\n') 
+                    fhandle.write('       </programme>\n') 
 
-if __name__ == '__main__':
-    getsave()
-    print('获取完成！')
+
+# 使用 gzip 打开文件进行压缩写入 
+with gzip.open('weishi.xml.gz',  'wt', encoding='utf-8') as fhandle: 
+    fhandle.write('<?xml   version="1.0" encoding="utf-8"?>\n') 
+    fhandle.write('<tv   generator-info-name="lxxcp" generator-info-url="https://github.com/lxxcp/epg">\n')   
+    #getChannelCNTV(fhandle, cctv_channel) 
+    getChannelCNTV(fhandle, sat_channel) 
+    #getChannelEPG(fhandle, cctv_channel) 
+    getChannelEPG(fhandle, sat_channel) 
+    fhandle.write('</tv>')  
