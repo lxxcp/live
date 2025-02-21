@@ -1,4 +1,4 @@
-name: EPG更新CNTV 
+name: WEISHI更新CNTV 
 on: 
   schedule: 
     - cron: '0 17 * * *' 
