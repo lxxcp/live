@@ -80,8 +80,8 @@ def getChannelEPG(fhandle, channelID):
 with gzip.open('weishi.xml.gz',  'wt', encoding='utf-8') as fhandle: 
     fhandle.write('<?xml   version="1.0" encoding="utf-8"?>\n') 
     fhandle.write('<tv   generator-info-name="lxxcp" generator-info-url="https://github.com/lxxcp/epg">\n')   
-    #getChannelCNTV(fhandle, cctv_channel) 
-    getChannelCNTV(fhandle, sat_channel) 
-    #getChannelEPG(fhandle, cctv_channel) 
-    getChannelEPG(fhandle, sat_channel) 
+    getChannelCNTV(fhandle, cctv_channel) 
+    #getChannelCNTV(fhandle, sat_channel) 
+    getChannelEPG(fhandle, cctv_channel) 
+    #getChannelEPG(fhandle, sat_channel) 
     fhandle.write('</tv>')  
