@@ -1,124 +1,285 @@
 <?xml version="1.0"?>
 <epgs>
- <epg>
+   <epg>
     <tvid>1</tvid>
-    <epgid>CCTV-4 中文国际</epgid>
-    <name>CCTV-4 (亚洲)</name>
+    <epgid>CCTV-1 综合</epgid>
+    <name>CCTV-1 综合,cctv1,央视综合,CCTV-1综合,CCTV-1,CCTV1,CCTV1综合,CCTV-1HD,CCTV-1綜合,CCTV1綜合,央眎綜合</name>
     <status>1</status>
-    <note>央视国际</note>
+    <note>央视综合</note>
 </epg>
+
 <epg>
     <tvid>2</tvid>
-    <epgid>CCTV-4 中文国际欧洲</epgid>
-    <name>CCTV-4 (欧洲)</name>
+    <epgid>CCTV-2 财经</epgid>
+    <name>CCTV-2财经,cctv2,央视财经,CCTV-2,CCTV2,CCTV2财经,CCTV-2財經,CCTV2財經,央眎財經</name>
     <status>1</status>
-    <note>央视国际</note>
+    <note>央视财经</note>
 </epg>
+
 <epg>
     <tvid>3</tvid>
-    <epgid>CCTV-4 中文国际美洲</epgid>
-    <name>CCTV-4 (美洲)</name>
+    <epgid>CCTV-3 综艺</epgid>
+    <name>CCTV-3综艺,cctv3,央视综艺,CCTV-3,CCTV3,CCTV3综艺,CCTV-3綜藝,CCTV3綜藝,央眎綜藝</name>
+    <status>1</status>
+    <note>央视综艺</note>
+</epg>
+
+<epg>
+    <tvid>4</tvid>
+    <epgid>CCTV-4 中文国际</epgid>
+    <name>CCTV-4 (亚洲),cctv4,CCTV4,央视国际,CCTV-4 国际,CCTV-4,CCTV4,CCTV4国际,CCTV-4中文国际,CCTV4 中文国际,CCTV-4国际亚洲</name>
     <status>1</status>
     <note>央视国际</note>
 </epg>
 <epg>
-    <tvid>4</tvid>
+    <tvid>5</tvid>
+    <epgid>CCTV-5 体育</epgid>
+    <name>CCTV-5 体育,cctv5,央视体育,CCTV-5体育,CCTV-5,CCTV5,CCTV5体育</name>
+    <status>1</status>
+    <note>央视体育</note>
+</epg>
+
+<epg>
+    <tvid>6</tvid>
+    <epgid>CCTV-5+ 体育赛事</epgid>
+    <name>CCTV-5+ 体育赛事,cctv5+,央视体育赛事,CCTV5+体育赛事,CCTV5+,CCTV-5+,CCTV-5+ 体育赛事,CCTV-体育赛事,CCTV5 体育赛事,CCTV-5+赛事,CCTV5+赛事,CCTV5PLUS,CCTV5Plus,CCTV5加</name>
+    <status>1</status>
+    <note>央视体育赛事</note>
+</epg>
+
+<epg>
+    <tvid>7</tvid>
+    <epgid>CCTV-6 电影</epgid>
+    <name>CCTV-6 电影,cctv6,央视电影,CCTV-6电影,CCTV-6,CCTV6,CCTV6电影</name>
+    <status>1</status>
+    <note>央视电影</note>
+</epg>
+<epg>
+    <tvid>8</tvid>
+    <epgid>CCTV-7 国防军事</epgid>
+    <name>CCTV-7 国防军事,cctv7,央视军事农业,CCTV-7国防军事,CCTV-7,CCTV7,CCTV7国防军事,CCTV-7国防,CCTV7国防,CCTV7-国防军事</name>
+    <status>1</status>
+    <note>央视军事农业</note>
+</epg>
+<epg>
+    <tvid>9</tvid>
+    <epgid>CCTV-8 电视剧</epgid>
+    <name>CCTV-8 电视剧,cctv8,央视电视剧,CCTV-8电视剧,CCTV-8,CCTV8,CCTV8电视剧,CCTV-8电视,CCTV8电视,CCTV8-电视剧</name>
+    <status>1</status>
+    <note>央视电视剧</note>
+</epg>
+<epg>
+    <tvid>10</tvid>
+    <epgid>CCTV-9 纪录</epgid>
+    <name>CCTV-9 纪录,cctv9,央视纪录,CCTV-9纪录,CCTV-9,CCTV9,CCTV9纪录,CCTV9-纪录</name>
+    <status>1</status>
+    <note>央视纪录</note>
+</epg>
+<epg>
+    <tvid>11</tvid>
+    <epgid>CCTV-10 科教</epgid>
+    <name>CCTV-10 科教,cctv10,央视科教,CCTV-10科教,CCTV-10,CCTV10,CCTV10科教</name>
+    <status>1</status>
+    <note>央视科教</note>
+</epg>
+
+<epg>
+    <tvid>12</tvid>
+    <epgid>CCTV-11 戏曲</epgid>
+    <name>CCTV-11 戏曲,cctv11,央视戏曲,CCTV-11戏曲,CCTV-11,CCTV11,CCTV11戏曲</name>
+    <status>1</status>
+    <note>央视戏曲</note>
+</epg>
+<epg>
+    <tvid>13</tvid>
+    <epgid>CCTV-12 社会与法</epgid>
+    <name>CCTV-12 社会与法,cctv12,央视社会与法,CCTV-12 法制,CCTV-12,CCTV12,CCTV12法制,CCTV-12社会与法,CCTV12社会与法</name>
+    <status>1</status>
+    <note>央视社会与法</note>
+</epg>
+<epg>
+    <tvid>14</tvid>
+    <epgid>CCTV-13 新闻</epgid>
+    <name>CCTV-13 新闻,cctv13,央视新闻,CCTV-13新闻,CCTV-13,CCTV13,CCTV13新闻</name>
+    <status>1</status>
+    <note>央视新闻</note>
+</epg>
+<epg>
+    <tvid>15</tvid>
+    <epgid>CCTV-14 少儿</epgid>
+    <name>CCTV-14 少儿,cctv14,央视少儿,CCTV-14少儿,CCTV-14,CCTV14,CCTV14少儿</name>
+    <status>1</status>
+    <note>央视少儿</note>
+</epg>
+<epg>
+    <tvid>16</tvid>
+    <epgid>CCTV-15 音乐</epgid>
+    <name>CCTV-15 音乐,cctv15,央视音乐,CCTV-15音乐,CCTV-15,CCTV15,CCTV15音乐</name>
+    <status>1</status>
+    <note>央视音乐</note>
+</epg>
+<epg>
+    <tvid>17</tvid>
+    <epgid>CCTV-16 奥林匹克</epgid>
+    <name>CCTV-16奥林匹克,cctv16,CCTV-16奥林匹克,奥林匹克,CCTV-16,CCTV16,CCTV-16,cctv16 奥林匹克</name>
+    <status>1</status>
+    <note>央视奥林匹克</note>
+</epg>
+<epg>
+    <tvid>18</tvid>
+    <epgid>CCTV-17 农业农村</epgid>
+    <name>CCTV-17农业农村,CCTV-17农村农业,农村农业,CCTV17,CCTV-17,cctv17,农业农村,cctv17农业农村,cctv-17,CCTV 农业农村</name>
+    <status>1</status>
+    <note>农业农村</note>
+</epg>
+<epg>
+    <tvid>19</tvid>
+    <epgid>CCTV-4 中文国际欧洲</epgid>
+    <name>CCTV-4 (欧洲),CCTV4欧洲,cctv4 欧洲,cctv,CCTV4EUO</name>
+    <status>1</status>
+    <note>央视国际</note>
+</epg>
+<epg>
+    <tvid>20</tvid>
+    <epgid>CCTV-4 中文国际美洲</epgid>
+    <name>CCTV-4 (美洲),CCTV4美洲,cctv4 美洲,CCTV4AME</name>
+    <status>1</status>
+    <note>央视国际</note>
+</epg>
+<epg>
+    <tvid>21</tvid>
+    <epgid>CCTV世界地理</epgid>
+    <name>CCTV世界地理,</name>
+    <status>1</status>
+    <note>世界地理</note>
+</epg>
+<epg>
+    <tvid>22</tvid>
     <epgid>CCTV兵器科技</epgid>
     <name>兵器科技,CCTV-兵器科技,CCTV兵器科技</name>
     <status>1</status>
     <note>兵器科技</note>
 </epg>
 <epg>
-    <tvid>5</tvid>
+    <tvid>23</tvid>
+    <epgid>CCTV女性时尚</epgid>
+    <name>CCTV女性时尚</name>
+    <status>1</status>
+    <note>女性时尚</note>
+</epg>
+<epg>
+    <tvid>24</tvid>
+    <epgid>CCTV怀旧剧场</epgid>
+    <name>CCTV怀旧剧场</name>
+    <status>1</status>
+    <note>怀旧剧场</note>
+</epg>
+<epg>
+    <tvid>25</tvid>
     <epgid>CCTV文化精品</epgid>
     <name>CCTV央视文化精品</name>
     <status>1</status>
     <note>文化精品</note>
 </epg>
 <epg>
-    <tvid>6</tvid>
+    <tvid>26</tvid>
+    <epgid>CCTV电视指南</epgid>
+    <name>CCTV电视指南</name>
+    <status>1</status>
+    <note>电视指南</note>
+</epg>
+<epg>
+    <tvid>27</tvid>
+    <epgid>CCTV第一剧场</epgid>
+    <name>CCTV第一剧场</name>
+    <status>1</status>
+    <note>第一剧场</note>
+</epg>
+<epg>
+    <tvid>28</tvid>
+    <epgid>CCTV风云剧场</epgid>
+    <name>CCTV风云剧场</name>
+    <status>1</status>
+    <note>风云剧场</note>
+</epg>
+<epg>
+    <tvid>29</tvid>
+    <epgid>CCTV风云足球</epgid>
+    <name>CCTV风云足球</name>
+    <status>1</status>
+    <note>风云足球</note>
+</epg>
+<epg>
+    <tvid>30</tvid>
+    <epgid>CCTV风云音乐</epgid>
+    <name>CCTV风云音乐</name>
+    <status>1</status>
+    <note>风云音乐</note>
+</epg>
+<epg>
+    <tvid>31</tvid>
+    <epgid>CCTV高尔夫网球</epgid>
+    <name>CCTV高尔夫网球</name>
+    <status>1</status>
+    <note>高尔夫网球</note>
+</epg>
+<epg>
+    <tvid>32</tvid>
+    <epgid>CCTV央视台球</epgid>
+    <name>CCTV央视台球</name>
+    <status>1</status>
+    <note>央视台球</note>
+</epg>
+<epg>
+    <tvid>33</tvid>
     <epgid>CCTV4K 超高清</epgid>
-    <name>CCTV-4K,CCTV4K超高清,cctv4k</name>
+    <name>CCTV-4K,CCTV4K,CCTV4K超高清,cctv4k</name>
     <status>1</status>
     <note>CCTV4K</note>
 </epg>
 
 <epg>
-    <tvid>7</tvid>
+    <tvid>34</tvid>
     <epgid>CETV-1 综合教育</epgid>
-    <name>CETV-1</name>
+    <name>CETV-1,中国教育1台,中国教育一套,CETV1,cetv1,CETV-1 综合教育</name>
     <status>1</status>
     <note>教育一套</note>
 </epg>
 <epg>
-    <tvid>8</tvid>
+    <tvid>35</tvid>
     <epgid>CETV-2 空中课堂</epgid>
-    <name>CETV-2</name>
+    <name>CETV-2,中国教育2台中国教育二套,CETV2,,空中课堂,cetv2,CETV-2 空中课堂</name>
     <status>1</status>
     <note>教育二套</note>
 </epg>
 <epg>
-    <tvid>9</tvid>
+    <tvid>36</tvid>
     <epgid>CETV-3 教育服务</epgid>
-    <name>CETV-3</name>
+    <name>CETV-3,中国教育3台,中国教育三套,CETV3,cetv3,CETV-3 教育服务</name>
     <status>1</status>
     <note>教育三套</note>
 </epg>
 <epg>
-    <tvid>10</tvid>
+    <tvid>37</tvid>
     <epgid>CETV-4 职业教育</epgid>
-    <name>CETV-4</name>
+    <name>CETV-4,中国教育4台,中国教育四套,CETV4,cetv4,CETV-4 职业教育</name>
     <status>1</status>
     <note>CETV-4 职业教育</note>
 </epg>
 <epg>
-    <tvid>11</tvid>
+    <tvid>38</tvid>
     <epgid>北京纪实科教</epgid>
     <name>纪实科教,北京纪实科教,北京纪实,BTV纪实,BTV纪实科教,BTV纪,BTV科教</name>
     <status>1</status>
     <note>北京纪实科教</note>
 </epg>
+
 <epg>
-    <tvid>12</tvid>
+    <tvid>39</tvid>
     <epgid>KAKU少儿</epgid>
-    <name>BRTV卡酷少儿</name>
+    <name>BRTV卡酷少儿,卡酷少儿,卡酷,KAKU-少儿,btv卡酷,btv卡酷少,北京卡酷,BTV科教,卡酷动画</name>
     <status>1</status>
     <note>北京卡酷</note>
-</epg>
-<epg>
-    <tvid>13</tvid>
-    <epgid>CGTN俄语</epgid>
-    <name>CCTV-Русский</name>
-    <status>1</status>
-    <note>CGTN俄语</note>
-</epg>
-<epg>
-    <tvid>14</tvid>
-    <epgid>CGTN法语</epgid>
-    <name>CCTV-Français</name>
-    <status>1</status>
-    <note>CGTN法语</note>
-</epg>
-<epg>
-    <tvid>15</tvid>
-    <epgid>CGTN西语</epgid>
-    <name>CCTV-Español</name>
-    <status>1</status>
-    <note>CGTN西语</note>
-</epg>
-<epg>
-    <tvid>16</tvid>
-    <epgid>CGTN阿语</epgid>
-    <name>CCTV-العربية</name>
-    <status>1</status>
-    <note>CGTN阿语</note>
-</epg>
-<epg>
-    <tvid>17</tvid>
-    <epgid>梨园频道</epgid>
-    <name>梨园</name>
-    <status>1</status>
-    <note>梨园频道</note>
 </epg>
 <epg>
     <tvid>41</tvid>
@@ -227,10 +388,10 @@
 </epg>
 <epg>
     <tvid>56</tvid>
-    <epgid>中视购物</epgid>
-    <name>CCTV中视购物</name>
+    <epgid>风尚购物</epgid>
+    <name>江西风尚购物,JXTV-FSTVGO,风尚购物,风尚购物频道,江西风尚购物频道,风尚</name>
     <status>1</status>
-    <note>中视购物</note>
+    <note>风尚购物</note>
 </epg>
 <epg>
     <tvid>57</tvid>
