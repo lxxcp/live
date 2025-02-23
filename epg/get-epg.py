@@ -12,7 +12,8 @@ tz = pytz.timezone('Asia/Shanghai')
 sat_channel = ['btv1', 'btvjishi', 'dongfang', 'hunan', 'shandong', 'zhejiang', 'jiangsu', 'guangdong', 'dongnan', 'anhui', 
                'gansu', 'liaoning', 'travel', 'neimenggu', 'ningxia', 'qinghai', 'xiamen', 'yunnan', 'chongqing', 'jiangxi', 'shan1xi', 
                'shan3xi', 'shenzhen', 'sichuan', 'tianjin', 'guangxi', 'guizhou', 'hebei', 'henan', 'heilongjiang', 'hubei', 'jilin', 
-               'yanbian', 'xizang', 'xinjiang', 'bingtuan', 'btvchild', 'gaoerfu', 'sdetv'] 
+               'yanbian', 'xizang', 'xinjiang', 'bingtuan', 'btvchild', 'sdetv', 'shuowenjiezi', 'kuailechuidiao', 'wenwubaoku', 
+               'cctvliyuan', 'wushushijie', 'cctvqimo', 'huanqiuqiguan'] 
 
 
 def get_epg_data(session, cids, epgdate): 
