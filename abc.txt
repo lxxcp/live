@@ -29,8 +29,8 @@ Star Sports,https://tv.bfsu.edu.cn/hls/starsports.m3u8
 凤凰中文,https://tv.bfsu.edu.cn/hls/fhzw.m3u8
 凤凰电影,https://tv.bfsu.edu.cn/hls/fhdy.m3u8
 凤凰资讯,https://tv.bfsu.edu.cn/hls/fhzx.m3u8
-北京休闲影视,http://tv.bfsu.edu.cn/hls/btv4hd.m3u8
-北京体育,https://tv.bfsu.edu.cn/hls/btv11hd.m3u8
+北京影视,http://tv.bfsu.edu.cn/hls/btv4hd.m3u8
+北京体育休闲,https://tv.bfsu.edu.cn/hls/btv11hd.m3u8
 北京卫视,http://tv.bfsu.edu.cn/hls/btv1hd.m3u8
 北京文艺,http://tv.bfsu.edu.cn/hls/btv2hd.m3u8
 北京新闻,http://tv.bfsu.edu.cn/hls/btv9hd.m3u8
@@ -98,8 +98,8 @@ Channel V,http://iptv.huuc.edu.cn/hls/channelv.m3u8
 凤凰中文,http://iptv.huuc.edu.cn/hls/fhzw.m3u8
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8
-北京休闲影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
-北京体育,http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
+北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+北京体育休闲,http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
 北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
