@@ -16,7 +16,7 @@
         {
             "name":"JXYDIPTV",
             "type":0,
-            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxydiptv.txt"
+            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/abc.txt"
         },
         {
             "name":"JXDXIPTV",
@@ -30,7 +30,7 @@
             "epg": "https://gh.tryxd.cn/https://github.com/lxxcp/live/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "playerType": 2,
-           "timeout": 10
+            "timeout": 10
         },
         {
             "name":"hljydiptv",
