@@ -5034,7 +5034,6 @@ CGTN,http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 国家地理,http://iptv.huuc.edu.cn/hls/natlgeo.m3u8
-卫视体育台,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 Channel V,http://iptv.huuc.edu.cn/hls/channelv.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
@@ -10512,7 +10511,6 @@ CGTN,http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 国家地理,http://iptv.huuc.edu.cn/hls/natlgeo.m3u8
-卫视体育台,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 Channel V,http://iptv.huuc.edu.cn/hls/channelv.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
