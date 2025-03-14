@@ -14,9 +14,9 @@
     ],
     "lives":[
         {
-            "name":"other",
+            "name":"jxydiptv",
             "type":0,
-            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/abc.txt"
+            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxydiptv.txt"
         },
         {
             "name":"gsdxIPTV",
@@ -27,10 +27,6 @@
             "name":"jxiptv",
             "type":0,
             "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxiptv.txt",
-            "epg": "https://gh.tryxd.cn/https://github.com/lxxcp/live/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
         },
         {
             "name":"hljydiptv",
