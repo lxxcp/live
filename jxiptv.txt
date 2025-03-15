@@ -4794,8 +4794,8 @@ CCTV-8 电视剧,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/322122563
 广东卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225742/index.m3u8
 广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225742/2/index.m3u8
 广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225742/index.m3u8
-广东卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/877949953.smil/index.m3u8?
 广东卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225742/index.m3u8
+江苏卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/877949953.smil/index.m3u8?
 江苏卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 江苏卫视,http://117.169.30.5:6610/PLTV/88888888/224/3221225743/1/index.m3u8
 江苏卫视,http://117.169.30.5:6610/PLTV/88888888/224/3221225743/2/index.m3u8
@@ -5052,6 +5052,8 @@ CCTV-9 纪录,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32212
 CCTV-9 纪录,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225920/index.m3u8
 CCTV-9 纪录,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225920/index.m3u8?fmt=ts2hls
 CCTV-9 纪录,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/877949953.smil/index.m3u8?
+CCTV-9 纪录,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225920/877949953.smil/index.m3u8?
+
 CCTV-9 纪录,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225920/index.m3u8
 CCTV-10 科教,http://117.169.30.5:6610/PLTV/88888888/224/3221225569/1/index.m3u8
 CCTV-10 科教,http://117.169.30.5:6610/PLTV/88888888/224/3221225569/2/index.m3u8
@@ -5227,7 +5229,6 @@ CETV-1 综合教育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224
 CETV-1 综合教育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225563/index.m3u8?fmt=ts2hls
 CETV-1 综合教育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225563/877949953.smil/index.m3u8?
 CETV-1 综合教育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225661/877949953.smil/index.m3u8?
-CETV-1 综合教育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225920/877949953.smil/index.m3u8?
 CETV-1 综合教育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225563/index.m3u8
 CETV-1 综合教育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225661/index.m3u8
 CETV-2 空中课堂,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
@@ -10395,7 +10396,7 @@ CCTV-14 少儿,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 BRTV文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
 BRTV新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
-BRTV纪实科教,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+BRTV体育休闲,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
