@@ -178,7 +178,7 @@ BRTV纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/322122567
 BRTV纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225676/index.m3u8
 BRTV纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226365/index.m3u8
 东北热剧,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226202/index.m3u8
-海外剧场,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225716/index.m3u8
+明星大片,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225716/index.m3u8
 精品体育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225709/index.m3u8
 精品大剧,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225714/index.m3u8
 精品萌宠,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226245/index.m3u8
@@ -216,7 +216,7 @@ BRTV纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/322122636
 品质大剧,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226266/index.m3u8
 哒啵电竞,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226265/index.m3u8
 哒啵赛事,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225653/index.m3u8
-电影轮播,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225712/index.m3u8
+海外剧场,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225712/index.m3u8
 睛彩广场舞,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226238/index.m3u8
 睛彩广场舞,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226391/index.m3u8
 睛彩竞技,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226243/index.m3u8
@@ -495,7 +495,7 @@ CHC影迷电影,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/322
 浙江卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225703/index.m3u8
 海南卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225722/index.m3u8
 海南卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226212/index.m3u8
-海外剧场,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225716/index.m3u8
+明星大片,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225716/index.m3u8
 深圳卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225598/index.m3u8
 深圳卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225700/index.m3u8
 湖北卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225596/index.m3u8
@@ -556,7 +556,7 @@ CHC影迷电影,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/322
 武术世界,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225508/index.m3u8
 潮妈辣婆,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225708/index.m3u8
 炫舞未来,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225707/index.m3u8
-电影轮播,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225712/index.m3u8
+海外剧场,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225712/index.m3u8
 畅享影院,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226300/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226238/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226391/index.m3u8
@@ -876,10 +876,10 @@ CCTV-5+ 体育赛事,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212
 潮妈辣婆,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/877949953.smil/index.m3u8?
 精品体育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/877949953.smil/index.m3u8?
 金牌综艺,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/877949953.smil/index.m3u8?
-电影轮播,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/877949953.smil/index.m3u8?
+海外剧场,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/877949953.smil/index.m3u8?
 家庭剧场,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/877949953.smil/index.m3u8?
 精品大剧,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/877949953.smil/index.m3u8?
-海外剧场,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/877949953.smil/index.m3u8?
+明星大片,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/877949953.smil/index.m3u8?
 山东教育台,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/877949953.smil/index.m3u8?
 哈哈炫动,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225720/877949953.smil/index.m3u8?
 金鹰卡通,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225721/877949953.smil/index.m3u8?
