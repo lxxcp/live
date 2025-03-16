@@ -1,4 +1,3 @@
-江西移动,#genre#
 江西移动频道,#genre#
 #3840x2160   一号源
 4KUHD,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
