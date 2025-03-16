@@ -177,6 +177,7 @@ BRTV卡酷少儿,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/322122636
 BRTV纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225675/index.m3u8
 BRTV纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225676/index.m3u8
 BRTV纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226365/index.m3u8
+东北热剧,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226202/index.m3u8
 电影轮播,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225712/index.m3u8
 海外剧场,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225716/index.m3u8
 睛彩广场舞,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226238/index.m3u8
@@ -189,7 +190,6 @@ BRTV纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/322122636
 精品体育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225709/index.m3u8
 精品大剧,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225714/index.m3u8
 精品萌宠,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226245/index.m3u8
-茶频道,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225781/index.m3u8
 超级体育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225622/index.m3u8
 超级体育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225767/index.m3u8
 超级电影,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225623/index.m3u8
@@ -214,9 +214,6 @@ BRTV纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/322122636
 动画世界,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226272/index.m3u8
 怡伴健康,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225666/index.m3u8
 文物宝库,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226328/index.m3u8
-快乐垂钓,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225780/index.m3u8
-东北热剧,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226202/index.m3u8
-梨园,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225581/index.m3u8
 欢乐剧场,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226210/index.m3u8
 武搏世界,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225656/index.m3u8
 武术世界,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225508/index.m3u8
@@ -228,9 +225,12 @@ BRTV纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/322122636
 哒啵赛事,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225653/index.m3u8
 潮妈辣婆,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225708/index.m3u8
 炫舞未来,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225707/index.m3u8
+快乐垂钓,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225780/index.m3u8
+茶频道,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225781/index.m3u8
+梨园,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225581/index.m3u8
 新华全球连线,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226298/index.m3u8
 新华社,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226297/index.m3u8
-中视购物,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225976/index.m3u8
+CCTV中视购物,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225976/index.m3u8
 优购物,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225973/index.m3u8
 优购物,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226219/index.m3u8
 快乐购,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226190/index.m3u8
