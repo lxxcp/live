@@ -7133,5 +7133,12 @@ CGTN西语,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/32212263
 南昌都市,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226385/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226391/index.m3u8
 
-
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1742302810&sign=4a4b225cd6ab40b00b944cb8088017cc
+BRTV新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1742302814&sign=ccac581f9b228c415849e98a34d81634
+BRTV影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1742302812&sign=12c6d9f091431cf867628b30c068a468
+BRTV生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1742302813&sign=2fe9db555ca40f55f4441dd0b029df5c
+BRTV文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1742302810&sign=f5d15ee5f7c2498fafba6b92e8231f30
+BRTV财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1742302812&sign=0d7385251266b5114eb6b755772e4e6c
+BRTV纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1742302811&sign=08a7d75dc818e5595c375edfe74c114d
+BRTV卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1742302814&sign=f5076438c90da77014d893c6530eb7d0
 
