@@ -13,20 +13,20 @@
         }
     ],
     "lives":[
-        {
-            "name":"jxydiptv",
+         {
+            "name":"jxiptv",
             "type":0,
-            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxydiptv.txt"
+            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
+        },
+        {
+            "name":"tv",
+            "type":0,
+            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/tv.txt"
         },
         {
             "name":"gsdxIPTV",
             "type":0,
             "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/gsdx.txt"
-        },
-        {
-            "name":"jxiptv",
-            "type":0,
-            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
         },
         {
             "name":"hljydiptv",
