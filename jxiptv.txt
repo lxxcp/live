@@ -1203,33 +1203,6 @@ BRTV文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3
 BRTV财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1742302812&sign=0d7385251266b5114eb6b755772e4e6c
 BRTV纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1742302811&sign=08a7d75dc818e5595c375edfe74c114d
 BRTV卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1742302814&sign=f5076438c90da77014d893c6530eb7d0
-深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
-CCTV-1 综合,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV-2 财经,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV-4 中文国际,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-CCTV-5+ 体育赛事,http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
-CCTV-5 体育,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV-6 电影,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV-7 国防军事,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV-8 电视剧,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV-10 科教,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV-12 社会与法,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-CCTV-13 新闻,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV-14 少儿,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-BRTV文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
-BRTV新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
-BRTV纪实科教,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
-四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
-安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
-重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-国家地理,http://iptv.huuc.edu.cn/hls/natlgeo.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
@@ -4463,33 +4436,6 @@ BRTV文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3
 BRTV财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1742302812&sign=0d7385251266b5114eb6b755772e4e6c
 BRTV纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1742302811&sign=08a7d75dc818e5595c375edfe74c114d
 BRTV卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1742302814&sign=f5076438c90da77014d893c6530eb7d0
-深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
-CCTV-1 综合,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV-2 财经,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV-4 中文国际,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-CCTV-5+ 体育赛事,http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
-CCTV-5 体育,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV-6 电影,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV-7 国防军事,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV-8 电视剧,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV-10 科教,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV-12 社会与法,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-CCTV-13 新闻,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV-14 少儿,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-BRTV文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
-BRTV新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
-BRTV纪实科教,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
-四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
-安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
-重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-国家地理,http://iptv.huuc.edu.cn/hls/natlgeo.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
