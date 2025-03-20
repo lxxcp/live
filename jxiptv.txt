@@ -1,7 +1,6 @@
 江西移动频道,#genre#
 #3840x2160   一号源
 4KUHD,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
-
 #1920x1080
 CCTV-1 综合,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225501/index.m3u8
 CCTV-1 综合,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225618/index.m3u8
@@ -74,13 +73,13 @@ CCTV世界地理,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/322122629
 CCTV兵器科技,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226321/index.m3u8
 CCTV央视台球,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226339/index.m3u8
 CCTV怀旧剧场,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226318/index.m3u8
+CCTV女性时尚,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226293/index.m3u8
 CCTV央视文化精品,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226296/index.m3u8
 CCTV电视指南,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226359/index.m3u8
 CCTV第一剧场,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226284/index.m3u8
 CCTV风云剧场,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226315/index.m3u8
 CCTV风云足球,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226302/index.m3u8
 CCTV风云音乐,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226287/index.m3u8
-CCTV女性时尚,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226293/index.m3u8
 CCTV高尔夫网球,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226299/index.m3u8
 CETV-1 综合教育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225917/index.m3u8
 CGTN,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226369/index.m3u8
@@ -95,19 +94,12 @@ CHC影迷电影,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226305
 江西IPTV1,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226376/index.m3u8
 江西IPTV2,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226381/index.m3u8
 江西都市,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225584/index.m3u8
-江西都市,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/10000100000000060000000000000162_0.smil/index.m3u8?
 江西经济生活,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226206/index.m3u8
-江西经济生活,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/10000100000000060000000005219195_0.smil/index.m3u8?
 江西影视旅游,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226291/index.m3u8
-江西影视旅游,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226291/877949953.smil/index.m3u8?
 江西公共农业,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225578/index.m3u8
-江西公共农业,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/10000100000000060000000000000030_0.smil/index.m3u8?
 江西少儿,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226194/index.m3u8
-江西少儿,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/10000100000000060000000004716224_0.smil/index.m3u8?
 江西新闻,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225615/index.m3u8
-江西新闻,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/10000100000000060000000000230385_0.smil/index.m3u8?
 江西教育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226197/index.m3u8
-江西教育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/10000100000000060000000004898209_0.smil/index.m3u8?
 江西陶瓷,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226304/index.m3u8
 南昌新闻综合,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226382/index.m3u8
 南昌资讯,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226374/index.m3u8
@@ -230,6 +222,7 @@ BRTV纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/322122636
 新华全球连线,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226298/index.m3u8
 新华社,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226297/index.m3u8
 CCTV中视购物,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225976/index.m3u8
+风尚购物,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225972/index.m3u8
 优购物,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225973/index.m3u8
 优购物,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226219/index.m3u8
 快乐购,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226190/index.m3u8
@@ -255,7 +248,6 @@ CCTV-8 电视剧,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/322122563
 湖南卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225745/index.m3u8
 黑龙江卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225736/index.m3u8
 深圳卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225741/index.m3u8
-
 #720x576
 CCTV-1 综合,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225573/index.m3u8
 CCTV-2 财经,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225572/index.m3u8
@@ -287,7 +279,6 @@ CGTN阿语,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226279/inde
 东南卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225552/index.m3u8
 东方卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225561/index.m3u8
 云南卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225538/index.m3u8
-兵团卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225530/10000100000000060000000000000079_0.smil/index.m3u8?
 兵团卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225530/index.m3u8
 兵团卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226200/index.m3u8
 内蒙古卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225533/index.m3u8
