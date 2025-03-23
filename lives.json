@@ -6,7 +6,7 @@
             "key":"TV直播",
             "name":"TV直播",
             "type":3,
-            "api":"http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+            "api":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
             "searchable":1,
             "quicksearch":1,
             "filterable":1
