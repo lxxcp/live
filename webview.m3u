@@ -468,6 +468,20 @@ webview://https://www.czgd.tv/Article/des?infoid=32770&modelid=3
 
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="江西",江西卫视
 webview://https://www.jxntv.cn/live/#/
+#EXTINF:-1,tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://epg.v1.mk/logo/江西都市.png" group-title="江西",江西都市
+webview://https://www.jxntv.cn/live/#/jxtv2
+#EXTINF:-1,tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://epg.v1.mk/logo/江西经济生活.png" group-title="江西",江西经济生活
+webview://https://www.jxntv.cn/live/#/jxtv3
+#EXTINF:-1,tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://epg.v1.mk/logo/江西影视旅游.png" group-title="江西",江西影视旅游
+webview://https://www.jxntv.cn/live/#/jxtv4
+#EXTINF:-1,tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://epg.v1.mk/logo/江西公共农业.png" group-title="江西",江西公共农业
+webview://https://www.jxntv.cn/live/#/jxtv5
+#EXTINF:-1,tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://epg.v1.mk/logo/江西少儿.png" group-title="江西",江西少儿
+webview://https://www.jxntv.cn/live/#/jxtv6
+#EXTINF:-1,tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://epg.v1.mk/logo/江西新闻.png" group-title="江西",江西新闻
+webview://https://www.jxntv.cn/live/#/jxtv7
+#EXTINF:-1,tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://epg.v1.mk/logo/江西移动.png" group-title="江西",江西移动
+webview://https://www.jxntv.cn/live/#/jxtv8
 #EXTINF:-1,tvg-id="cctv-南昌新闻综合" tvg-name="cctv-南昌新闻综合" tvg-logo="https://epg.v1.mk/logo/南昌新闻综合.png" group-title="江西",南昌新闻综合
 webview://https://www.nctv.net.cn/live?channel=1
 #EXTINF:-1,tvg-id="cctv-南昌文旅" tvg-name="cctv-南昌文旅" tvg-logo="https://epg.v1.mk/logo/南昌文旅.png" group-title="江西",南昌文旅
@@ -659,10 +673,6 @@ webview://https://www.0515yc.cn/folder147/folder148/folder156/
 webview://https://www.tcsrm.cn/tvradio/tczhpd.html
 #EXTINF:-1,tvg-id="铜川公共" tvg-name="铜川公共" tvg-logo="https://epg.v1.mk/logo/铜川公共.png" group-title="江苏",铜川公共
 webview://https://www.tcsrm.cn/tvradio/tcggpd.html
-#EXTINF:-1,tvg-id="铜川综合" tvg-name="铜川综合" tvg-logo="https://epg.v1.mk/logo/铜川综合.png" group-title="江苏",铜川综合
-webview://http://ews.joyhua.cn/tvradio/tczh.html
-#EXTINF:-1,tvg-id="铜川公共" tvg-name="铜川公共" tvg-logo="https://epg.v1.mk/logo/铜川公共.png" group-title="江苏",铜川公共
-webview://http://ews.joyhua.cn/tvradio/tcgg.html
 #EXTINF:-1,tvg-id="无锡移动" tvg-name="无锡移动" tvg-logo="https://epg.v1.mk/logo/无锡移动.png" group-title="江苏",无锡移动
 webview://https://live.wifiwx.com/m2/?page=live&id=494#/pkgA/pages/live/live?id=494
 #EXTINF:-1,tvg-id="张家港1" tvg-name="张家港1" tvg-logo="https://epg.v1.mk/logo/张家港1.png" group-title="江苏",张家港1
@@ -823,8 +833,6 @@ webview://http://www.lcxw.cn/kands/
 webview://http://www.taianxinwen.com/tatv/contents/113/1.html
 #EXTINF:-1,tvg-id="泰安2" tvg-name="泰安2" tvg-logo="https://epg.v1.mk/logo/泰安2.png" group-title="山东",泰安2
 webview://http://live.1545ts.net/zhibotatv2.html
-#EXTINF:-1,tvg-id="枣庄公共" tvg-name="枣庄公共" tvg-logo="https://epg.v1.mk/logo/枣庄公共.png" group-title="山东",枣庄公共
-webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/#/?id=7
 
 
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="甘肃",甘肃卫视
