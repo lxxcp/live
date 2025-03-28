@@ -584,8 +584,8 @@ bestv全球大片,webview://https://www.dtradio.com.cn/local/folder25
 海峡卫视,webview://https://www.fjtv.net/folder526/folder536/
 三明电视台,webview://http://stream.smntv.cn/smtv1/sd/live.m3u8
 三明公共,webview://http://stream.smntv.cn/smtv2/playlist.m3u8
-泉州新闻综合,webview://https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKowoHCoQ/stream_name/news.html
-泉州闽南语,webview://https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKofcKh/stream_name/mny.html
+泉州一套,webview://https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKowoHCoQ/stream_name/news.html
+泉州四套,webview://https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKofcKh/stream_name/mny.html
 漳州1套,webview://http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 龙岩综合,webview://http://stream.lytv.net.cn/2/playlist.m3u8
 晋江电视台,webview://http://www.jinjiang.tv/live/
