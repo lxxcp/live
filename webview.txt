@@ -592,11 +592,11 @@ bestv全球大片,webview://https://www.dtradio.com.cn/local/folder25
 宁德新闻综合,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=41
 宁德新闻综合,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=42
 宁夏,#genre#
-宁夏卫视,webview://https://www.nxtv.com.cn/tv/ws/
-宁夏公共,webview://https://www.nxtv.com.cn/tv/gg/
-宁夏经济,webview://https://www.nxtv.com.cn/tv/jj/
-宁夏少儿,webview://https://www.nxtv.com.cn/tv/se/
-宁夏文旅,webview://https://www.nxtv.com.cn/tv/ys/
+宁夏卫视,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxws/
+宁夏公共,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxgg/
+宁夏经济,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxjj/
+宁夏少儿,webview://http://web.ningxiahuangheyun.com/app/nxtv-tv/nxse
+宁夏文旅,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxwl/
 银川公共,webview://https://www.ycen.com.cn/zzgn/zhibo/
 银川公共,webview://https://www.qukanvideo.com/cloud/h5/1731639141671136
 银川生活,webview://https://www.qukanvideo.com/cloud/h5/1731638744888001
