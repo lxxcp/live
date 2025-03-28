@@ -409,13 +409,13 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 兰州文旅,webview://https://www.lzr.com.cn/folder25/folder26/folder30/
 内蒙古,#genre#
 内蒙古卫视,http://52zb.work/nmg.php?id=nmws
-内蒙古蒙古语卫视,http://52zb.work/nmg.php?id=nmmyws
+内蒙古蒙语卫视,http://52zb.work/nmg.php?id=nmmyws
 内蒙古新闻综合,http://52zb.work/nmg.php?id=nmxwzh
 内蒙古经济生活,http://52zb.work/nmg.php?id=nmjjsh
 内蒙古少儿,http://52zb.work/nmg.php?id=nmse
 内蒙古文体娱乐,http://52zb.work/nmg.php?id=nmwtyl
 内蒙古农牧,http://52zb.work/nmg.php?id=nmnm
-内蒙古蒙古语文化,http://52zb.work/nmg.php?id=nmwh
+内蒙古蒙语文化,http://52zb.work/nmg.php?id=nmwh
 呼和浩特新闻综合,http://52zb.work/nmg.php?id=hhht1
 锡林郭勒,http://52zb.work/nmg.php?id=xlgl1
 阿拉善新闻综合,http://52zb.work/nmg.php?id=als1
