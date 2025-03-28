@@ -148,7 +148,7 @@ BRTV文艺,webview://https://www.btime.com/btv/btvsy_index?tag=2
 BRTV纪实科教,webview://https://www.btime.com/btv/btvsy_index?tag=3
 BRTV影视,webview://https://www.btime.com/btv/btvsy_index?tag=4
 BRTV财经,webview://https://www.btime.com/btv/btvsy_index?tag=5
-BRTV休闲体育,webview://https://www.btime.com/btv/btvsy_index?tag=6
+BRTV体育休闲,webview://https://www.btime.com/btv/btvsy_index?tag=6
 BRTV生活,webview://https://www.btime.com/btv/btvsy_index?tag=7
 BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 上海,#genre#
