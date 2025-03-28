@@ -215,7 +215,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 江西新闻,webview://https://www.jxntv.cn/live/#/jxtv7
 江西移动,webview://https://www.jxntv.cn/live/#/jxtv8
 南昌新闻综合,webview://https://www.nctv.net.cn/live?channel=1
-南昌文旅,webview://https://www.nctv.net.cn/live?channel=2
+南昌都市,webview://https://www.nctv.net.cn/live?channel=2
 南昌资讯,webview://https://www.nctv.net.cn/live?channel=3
 南昌新闻综合,webview://https://www.nctv.net.cn/live
 吉安综合,webview://http://www.ijatv.com/live/jatv1/
