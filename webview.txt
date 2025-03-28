@@ -129,7 +129,7 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 大湾区卫视,webview://https://www.gdtv.cn/tvChannelDetail/51
 大湾区卫视（海外版）,webview://https://www.gdtv.cn/tvChannelDetail/46
 广东影视,webview://https://www.gdtv.cn/tvChannelDetail/53
-4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
+广东4K,webview://https://www.gdtv.cn/tvChannelDetail/16
 广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
 嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
 南方购物,webview://https://www.gdtv.cn/tvChannelDetail/42
