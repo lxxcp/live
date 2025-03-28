@@ -172,7 +172,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 金鹰纪实,webview://https://live.mgtv.com/?channelld=316
 先锋乒羽,webview://https://live.mgtv.com/?channelld=329
 快乐垂钓,webview://https://live.mgtv.com/?channelld=218
-茶,webview://https://live.mgtv.com/?channelld=578
+茶频道,webview://https://live.mgtv.com/?channelld=578
 长沙新闻,webview://https://live.mgtv.com/?channelId=269
 长沙政法,webview://https://live.mgtv.com/?channelId=254
 湘潭,webview://http://www.hnxttv.com/live/ivideo/index.html
