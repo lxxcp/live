@@ -526,7 +526,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 北海2,webview://https://play-a2.quklive.com:443/live/1727311690820146.m3u8
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
-太原1,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
+太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
 bestv全球大片,webview://https://www.dtradio.com.cn/local/folder25
 阳泉电视台,webview://https://www.yqrtv.com/folder74/folder139?id=10
 阳泉电视台,webview://https://www.yqrtv.com/folder74/folder139?id=11
@@ -603,6 +603,8 @@ bestv全球大片,webview://https://www.dtradio.com.cn/local/folder25
 银川文体,webview://https://www.qukanvideo.com/cloud/h5/1728443786945132
 青海,#genre#
 青海卫视,webview://https://www.qhbtv.com/new_index/live/folder2646/
+青海经视,webview://https://www.qhbtv.com/new_index/live/folder2647/
+青海都市,webview://https://www.qhbtv.com/new_index/live/folder2648/
 青海经视,webview://http://share.qhbtv.com/?_hgOutLink=live/livedetail&channel_id=2
 青海都市,webview://http://share.qhbtv.com/?_hgOutLink=live/livedetail&channel_id=4
 西宁新闻综合,webview://https://www.xntv.tv/xnxwpd
