@@ -678,7 +678,7 @@ bestv全球大片,webview://https://www.dtradio.com.cn/local/folder25
 西藏,#genre#
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏藏语,http://php.jdshipin.com:8880/xztv.php?id=zy
-西藏文化影视,http://php.jdshipin.com:8880/xztv.php?id=ys
+西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
 新疆,#genre#
 新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 新疆2套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=3
