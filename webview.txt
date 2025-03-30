@@ -597,7 +597,7 @@ bestv全球大片,webview://https://www.dtradio.com.cn/local/folder25
 龙岩综合,webview://http://stream.lytv.net.cn/2/playlist.m3u8
 晋江电视台,webview://http://www.jinjiang.tv/live/
 宁德新闻综合,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=41
-宁德新闻综合,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=42
+宁德文化旅游,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=42
 宁夏,#genre#
 宁夏卫视,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxws/
 宁夏公共,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxgg/
