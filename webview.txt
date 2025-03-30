@@ -569,7 +569,7 @@ bestv全球大片,webview://https://www.dtradio.com.cn/local/folder25
 西安新闻综合,webview://https://v.xiancity.cn/folder8/folder39/folder29/
 西安都市,webview://https://v.xiancity.cn/folder8/folder39/folder30/
 西安商务资讯,webview://https://v.xiancity.cn/folder8/folder39/folder31/
-西安影视戏曲,webview://https://v.xiancity.cn/folder8/folder39/folder32/
+西安影视戏剧,webview://https://v.xiancity.cn/folder8/folder39/folder32/
 西安丝路,webview://https://v.xiancity.cn/folder8/folder39/folder33/
 榆林综合,webview://https://v.ylrb.com/2/2tsp/zb/dszb/336843.shtml
 榆林公共,webview://https://v.ylrb.com/2/2tsp/zb/dszb/336842.shtml
