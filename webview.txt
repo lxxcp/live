@@ -286,7 +286,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 十堰经济旅游,webview://https://www.syiptv.com/tv?station_id=3
 十堰新闻,webview://http://52zb.online/xzb/sytv.php?id=1
 十堰经济旅游,webview://http://52zb.online/xzb/sytv.php?id=3
-荆门新闻综合,webview://https://www.jmtv.com.cn/folder48/folder50/folder62
+荆门新闻,webview://https://www.jmtv.com.cn/folder48/folder50/folder62
 孝感综合,webview://https://share.xgrb.cn/live_detail?newsid=25009136_xgrb
 孝感生活,webview://https://share.xgrb.cn/live_detail?newsid=25009684_xgrb
 黄冈广播电视,webview://http://m-huanggang.cjyun.org/zhibo?2022
@@ -393,10 +393,10 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 东营电视台,webview://https://www.dongyingnews.cn/v/tv/?id=0
 东营2,webview://https://www.dongyingnews.cn/v/tv/?id=1
 东营3,webview://https://www.dongyingnews.cn/v/tv/?id=2
-潍坊1,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
-潍坊2,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
-潍坊3,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
-潍坊4,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
+潍坊新闻综合,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
+潍坊经济生活,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
+潍坊影视综艺,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
+潍坊科教文化,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
 威海1,webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0x.html
 威海2,webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0z.html
 威海3,webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0xMg.html
@@ -470,7 +470,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 合肥新闻,webview://https://app.hfbtc.cn/shows/2/1.html
 合肥生活,webview://https://app.hfbtc.cn/shows/2/2.html
 合肥科创,webview://https://app.hfbtc.cn/shows/2/3.html
-合肥教育法治,webview://https://app.hfbtc.cn/shows/2/4.html
+合肥教育法制,webview://https://app.hfbtc.cn/shows/2/4.html
 池州综合,webview://https://www.chiznews.com/radio-television
 铜陵新闻综合,webview://http://wxfx.tlbts.com/mag/livevideo/v1/video/wapVideoView?id=56
 铜陵教育科技,webview://http://wxfx.tlbts.com/mag/livevideo/v1/video/wapVideoView?id=58
@@ -536,7 +536,7 @@ bestv全球大片,webview://https://www.dtradio.com.cn/local/folder25
 临汾科教,webview://http://live.lfgdw.cn/lfj3/lfj3.m3u8?auth_key=1737526481-0-0-be06f75904e895e6e6e956a60a61476d
 临汾公共,webview://http://live2.lfgdw.cn/lfj2/lfj2.m3u8?auth_key=1737100315-0-0-d9f305436c8d56cd2015d6935d9bb6e0
 太原1,webview://https://web.wx.sztv.com.cn/cms/rmt2018/23/23mbdszb/index.shtml
-晋城电视台,webview://http://share.jinnews.com.cn/?_hgOutLink=live/livedetail&channel_id=5
+晋城新闻综合,webview://http://share.jinnews.com.cn/?_hgOutLink=live/livedetail&channel_id=5
 晋城文化生活,webview://http://share.jinnews.com.cn/?_hgOutLink=live/livedetail&channel_id=6
 晋中电视台,webview://https://www.jztvnews.com/
 长治1,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=21
@@ -559,7 +559,7 @@ bestv全球大片,webview://https://www.dtradio.com.cn/local/folder25
 陕西银龄,webview://http://live.snrtv.com/3
 陕西秦腔,webview://http://live.snrtv.com/5
 陕西体育休闲,webview://http://live.snrtv.com/7
-陕西农林,webview://http://live.snrtv.com/nl
+农林卫视,webview://http://live.snrtv.com/nl
 陕西移动,webview://http://www.sxtvs.com/sxtvs_ydpd/index.html
 西安新闻综合,webview://https://v.xiancity.cn/folder8/folder39/folder29/
 西安都市,webview://https://v.xiancity.cn/folder8/folder39/folder30/
@@ -616,7 +616,7 @@ bestv全球大片,webview://https://www.dtradio.com.cn/local/folder25
 云南,#genre#
 云南卫视,webview://https://www.yntv.cn/live.html
 昆明教育电视台,webview://https://www.kmetv.com/fccommon/Home/detail?site_id=75&detail_type=7&cid=1
-丽江广播电视,webview://https://www.lijiang.cn/live/
+丽江新闻综合,webview://https://www.lijiang.cn/live/
 红河1,webview://https://www.hh.cn/ynhhzMini/site/tv
 临沧综合,webview://https://mtydazzle.yntv.net/live/?companyId=lincang&_id=5f51fa40e4b04f16d0288832
 临沧公共,webview://https://mtydazzle.yntv.net/live/?companyId=lincang&_id=5f51f80ee4b04f16d0288801
@@ -662,7 +662,7 @@ bestv全球大片,webview://https://www.dtradio.com.cn/local/folder25
 成都蓉城先锋,webview://https://www.cditv.cn/show/4845-592.html
 绵阳1,webview://http://www.myntv.cn/html/zb/mytv1.asp
 绵阳科教生活,webview://http://www.myntv.cn/html/zb/mytv2.asp
-乐山1,webview://http://www.lstv.org.cn/cms/tv/28
+乐山新闻综合,webview://http://www.lstv.org.cn/cms/tv/28
 乐山文旅生活,webview://http://www.lstv.org.cn/cms/tv/44
 广安1,webview://https://www.gatv.com.cn/Tv/details?id=10
 广安文旅乡村,webview://https://www.gatv.com.cn/Tv/details?id=9
