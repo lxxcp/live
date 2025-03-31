@@ -266,8 +266,6 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 长春综合,webview://https://chinactv.com/live/1442880654565093377.html
 长春文旅体育,webview://https://chinactv.com/live/1442880767035355137.html
 长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
-长春经济,webview://https://chinactv.com/live/1442880940893450241.html
-长春汽车,webview://https://chinactv.com/live/1442881026868293634.html
 吉林市综合,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
 四平综合,webview://http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
 湖北,#genre#
