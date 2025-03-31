@@ -542,7 +542,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 临汾公共,webview://http://live2.lfgdw.cn/lfj2/lfj2.m3u8?auth_key=1737100315-0-0-d9f305436c8d56cd2015d6935d9bb6e0
 晋城新闻综合,webview://http://share.jinnews.com.cn/?_hgOutLink=live/livedetail&channel_id=5
 晋城文化生活,webview://http://share.jinnews.com.cn/?_hgOutLink=live/livedetail&channel_id=6
-晋中电视台,webview://https://www.jztvnews.com/
+晋中新闻综合,webview://https://www.jztvnews.com/
 长治新闻综合,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=21
 长治公共,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=22
 长治科教法治,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=23
