@@ -368,9 +368,9 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 山东农科,webview://https://v.iqilu.com/live/nkpd/
 山东少儿,webview://https://v.iqilu.com/live/sepd/
 山东体育,webview://https://v.iqilu.com/live/typd/
-有线影视,webview://https://v.iqilu.com/live/yspd/
-有线生活,webview://https://v.iqilu.com/live/shpd/
-有线综艺,webview://https://v.iqilu.com/live/zypd/
+山东文旅,webview://https://v.iqilu.com/live/yspd/
+山东生活,webview://https://v.iqilu.com/live/shpd/
+山东综艺,webview://https://v.iqilu.com/live/zypd/
 青岛-1,webview://http://www.qtv.com.cn/live/tv/index.shtml
 青岛-2,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
 青岛-3,webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
