@@ -172,7 +172,6 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 GRTN健康,webview://https://www.gdtv.cn/tvChannelDetail/99
 GRTN文化,webview://https://www.gdtv.cn/tvChannelDetail/75
 GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
-GRTN教育,webview://https://www.gdtv.cn/tvChannelDetail/104
 
 北京,#genre#
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
