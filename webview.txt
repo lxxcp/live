@@ -258,12 +258,11 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 宜春综合,webview://https://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=610897459610271744
 宜春公共,webview://http://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=636127231831396352
 辽宁,#genre#
-丹东1,webview://https://app.ddrtv.cn/application/tvradio/h5/detail.html?type=tv
+丹东新闻综合,webview://https://app.ddrtv.cn/application/tvradio/h5/detail.html?type=tv
 重庆,#genre#
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 河南,#genre#
 河南都市,webview://https://www.hntv2.net/index.html#/pages/tv/index
-郑州教育,webview://http://web.chinamcloud.com/yszh32/wz/zb/index.shtml
 洛阳综合,webview://http://www.lytv.com.cn/dist/phone_new_file.html
 开封新闻综合,webview://https://www.kftv.net.cn/info/944
 开封文化旅游,webview://https://www.kftv.net.cn/info/943
@@ -289,7 +288,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 周口公共,webview://http://wxyszk.yszkapp.cn/share/views/share/index_share.html?contentType=tvlive&channelId=2&mmsurl=http%3A%2F%2Fmms.yszkapp.cn%3A18080%2Fmms4.6.3&token=pmqhukcpyipvqmoz&tencentShare=1
 周口教育,webview://http://wxyszk.yszkapp.cn/share/views/share/index_share.html?contentType=tvlive&channelId=3&mmsurl=http%3A%2F%2Fmms.yszkapp.cn%3A18080%2Fmms4.6.3&token=pmqhukcpyipvqmoz&tencentShare=1
 周口川汇,webview://http://wxyszk.yszkapp.cn/share/views/share/index_share.html?contentType=tvlive&channelId=4&mmsurl=http%3A%2F%2Fmms.yszkapp.cn%3A18080%2Fmms4.6.3&token=pmqhukcpyipvqmoz&tencentShare=1
-信阳,webview://https://wap.xytv.cn/share/page/tvLive/?tvid=1&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=4f6012673a674a07ba7380a6bfd99ee9
+信阳综合,webview://https://wap.xytv.cn/share/page/tvLive/?tvid=1&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=4f6012673a674a07ba7380a6bfd99ee9
 信阳文旅,webview://https://wap.xytv.cn/share/page/tvLive?tvid=3&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=39afabf7e90b4e708f7583ec223ea541
 信阳浉河,webview://https://wap.xytv.cn/share/page/tvLive?tvid=5&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=e61a40bfa9414965984a6dcea76b3c60
 信阳平桥,webview://https://wap.xytv.cn/share/page/tvLive?tvid=4&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=26c2c106d4b34cbcade8fb115eb5e51e
@@ -359,7 +358,6 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 盐城新闻综合,https://live1yc.0515yc.cn/ycyt01/sd/live.m3u8
 盐城城市公共,https://live1yc.0515yc.cn/ycet02/sd/live.m3u8
 盐城法制生活,https://live1yc.0515yc.cn/ycst03/sd/live.m3u8
-
 山东,#genre#
 山东卫视,webview://https://v.iqilu.com/live/sdtv/
 山东齐鲁,webview://https://v.iqilu.com/live/qlpd/
@@ -383,10 +381,10 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 威海都市生活,webview://http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
 威海海洋,webview://http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
 山东教育台,webview://https://www.sdetv.com.cn/edu/pc/live/index.html
-济宁电视台,webview://https://www.jnnews.tv/app/tv/76
+济宁新闻综合,webview://https://www.jnnews.tv/app/tv/76
 济宁2,webview://https://www.jnnews.tv/app/tv/152
 济宁3,webview://https://www.jnnews.tv/app/tv/74
-东营电视台,webview://https://www.dongyingnews.cn/v/tv/?id=0
+东营新闻综合,webview://https://www.dongyingnews.cn/v/tv/?id=0
 东营2,webview://https://www.dongyingnews.cn/v/tv/?id=1
 东营3,webview://https://www.dongyingnews.cn/v/tv/?id=2
 潍坊新闻综合,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
