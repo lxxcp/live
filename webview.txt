@@ -252,7 +252,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 吉安综合,webview://http://www.ijatv.com/live/jatv1/
 吉安公共,webview://http://www.ijatv.com/live/jatv2/
 赣州新闻综合,webview://https://www.newskj.net/html/rft/live.html?channelId=722b4fa2b7fa4cf9b01347414b4fbc1a&type=1&siteId=ee5e92ed238644368bd76f8adfe34401&shareAppId=ee5e92ed238644368bd76f8adfe34401
-九台新闻综合,webview://https://www.jjntv.cn/live?spm=0.0.0.0.JHNB6X&id=jjtv1
+九江新闻综合,webview://https://www.jjntv.cn/live?spm=0.0.0.0.JHNB6X&id=jjtv1
 九江公共,webview://https://www.jjntv.cn/live?id=jjtv2
 九江教育,webview://https://www.jjntv.cn/live?id=jjfz
 宜春综合,webview://https://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=610897459610271744
