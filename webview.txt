@@ -124,7 +124,7 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 深圳电视剧,webview://https://www.sztv.com.cn/dianshi.shtml?id=7880
 深圳财经,webview://https://www.sztv.com.cn/dianshi.shtml?id=7871
 深圳少儿,webview://https://www.sztv.com.cn/dianshi.shtml?id=7881
-深圳移动,webview://https://www.sztv.com.cn/dianshi.shtml?id=7869
+深圳移动电视,webview://https://www.sztv.com.cn/dianshi.shtml?id=7869
 深圳宜和购物,webview://https://www.sztv.com.cn/dianshi.shtml?id=7878
 深圳国际,webview://https://www.sztv.com.cn/dianshi.shtml?id=7944
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
@@ -147,9 +147,9 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 河源公共,webview://https://www.hyrtv.cn/itv/ggds/
 清远新闻综合,webview://https://h5.qyrb.cn/h5/nfzmy-television-and-radio/#/?channelId=1
 清远文旅生活,webview://https://h5.qyrb.cn/h5/nfzmy-television-and-radio/#/?channelId=3
-韶关,webview://https://www.sgmsw.cn/v/tv?spm=0.0.0.0.nRYAvk&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
+韶关新闻综合,webview://https://www.sgmsw.cn/v/tv?spm=0.0.0.0.nRYAvk&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 肇庆综合,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=33
-肇庆生活,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=34
+肇庆生活服务,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=34
 云浮综合,webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=8
 云浮文旅,webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=9
 #荔枝网,#genre#
