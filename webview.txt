@@ -318,8 +318,8 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 孝感综合,webview://https://share.xgrb.cn/live_detail?newsid=25009136_xgrb
 孝感生活,webview://https://share.xgrb.cn/live_detail?newsid=25009684_xgrb
 黄冈广播电视,webview://http://m-huanggang.cjyun.org/zhibo?2022
-鄂州1,webview://https://app.iezhou.cn/application/tvradio/h5/detail.html?type=tv&id=37
-鄂州2,webview://https://app.iezhou.cn/application/tvradio/h5/detail.html?type=tv&id=36
+鄂州新闻综合,webview://https://app.iezhou.cn/application/tvradio/h5/detail.html?type=tv&id=37
+鄂州鄂州文旅生活,webview://https://app.iezhou.cn/application/tvradio/h5/detail.html?type=tv&id=36
 荆州新闻综合,webview://http://m-jingzhou.cjyun.org/dszb
 咸宁新闻综合,webview://https://app.cjyun.org.cn/video/videojs/index?site_id=10140&id=91&page=canvas&live_type=1
 咸宁经济生活,webview://https://app.cjyun.org.cn/video/videojs/index?site_id=10140&id=80&page=canvas&live_type=1
