@@ -207,7 +207,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 长沙新闻,webview://https://live.mgtv.com/?channelId=269
 长沙政法,webview://https://live.mgtv.com/?channelId=254
 湘潭新闻综合,webview://http://www.hnxttv.com/live/ivideo/index.html
-常德新闻,webview://http://zzwxht.changdejia.com/zhibo_xwzh.php
+常德新闻综合,webview://http://zzwxht.changdejia.com/zhibo_xwzh.php
 常德公共,webview://http://zzwxht.changdejia.com/zhibo_ggpd.php
 邵阳新闻综合,webview://http://www.sytv.net.cn/folder2188/folder2190
 邵阳文旅民生,webview://http://share.sytv.net.cn/?_hgOutLink=live/livedetail&channel_id=34
