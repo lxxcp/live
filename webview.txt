@@ -339,7 +339,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 南京文旅纪录,webview://https://www.nbs.cn/live/?id=110093
 南京少儿,webview://https://www.nbs.cn/live/?id=110095
 江宁电视台,webview://http://tv.haoqu99.com/3/jiangsu/jiangning.html
-盐城一套,webview://https://www.0515yc.cn/folder147/folder148/folder156/
+盐城新闻综合,webview://https://www.0515yc.cn/folder147/folder148/folder156/
 铜川综合,webview://https://www.tcsrm.cn/tvradio/tczhpd.html
 铜川公共,webview://https://www.tcsrm.cn/tvradio/tcggpd.html
 无锡移动,webview://https://live.wifiwx.com/m2/?page=live&id=494#/pkgA/pages/live/live?id=494
