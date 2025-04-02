@@ -317,7 +317,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 荆门新闻,webview://https://www.jmtv.com.cn/folder48/folder50/folder62
 孝感综合,webview://https://share.xgrb.cn/live_detail?newsid=25009136_xgrb
 孝感生活,webview://https://share.xgrb.cn/live_detail?newsid=25009684_xgrb
-黄冈广播电视,webview://http://m-huanggang.cjyun.org/zhibo?2022
+黄冈新闻综合,webview://http://m-huanggang.cjyun.org/zhibo?2022
 鄂州新闻综合,webview://https://app.iezhou.cn/application/tvradio/h5/detail.html?type=tv&id=37
 鄂州鄂州文旅生活,webview://https://app.iezhou.cn/application/tvradio/h5/detail.html?type=tv&id=36
 荆州新闻综合,webview://http://m-jingzhou.cjyun.org/dszb
