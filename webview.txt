@@ -510,6 +510,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 广西影视,webview://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
 广西新闻,webview://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 广西国际,webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
+广西国际,webview://https://www.bbrtv.com/guangxi_tv_international.html
 广西移动电视,webview://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
 北海新闻综合,webview://http://www.bhtv.cc/index?path=live
 北海经济科教,webview://https://play-a2.quklive.com:443/live/1727311690820146.m3u8
