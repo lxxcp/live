@@ -315,11 +315,11 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 十堰新闻,webview://http://52zb.online/xzb/sytv.php?id=1
 十堰经济旅游,webview://http://52zb.online/xzb/sytv.php?id=3
 荆门新闻,webview://https://www.jmtv.com.cn/folder48/folder50/folder62
-孝感综合,webview://https://share.xgrb.cn/live_detail?newsid=25009136_xgrb
+孝感新闻综合,webview://https://share.xgrb.cn/live_detail?newsid=25009136_xgrb
 孝感生活,webview://https://share.xgrb.cn/live_detail?newsid=25009684_xgrb
 黄冈新闻综合,webview://http://m-huanggang.cjyun.org/zhibo?2022
 鄂州新闻综合,webview://https://app.iezhou.cn/application/tvradio/h5/detail.html?type=tv&id=37
-鄂州鄂州文旅生活,webview://https://app.iezhou.cn/application/tvradio/h5/detail.html?type=tv&id=36
+鄂州文旅生活,webview://https://app.iezhou.cn/application/tvradio/h5/detail.html?type=tv&id=36
 荆州新闻综合,webview://http://m-jingzhou.cjyun.org/dszb
 咸宁新闻综合,webview://https://app.cjyun.org.cn/video/videojs/index?site_id=10140&id=91&page=canvas&live_type=1
 咸宁经济生活,webview://https://app.cjyun.org.cn/video/videojs/index?site_id=10140&id=80&page=canvas&live_type=1
