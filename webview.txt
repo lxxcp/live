@@ -486,7 +486,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 贵阳新闻综合,webview://https://movement.gzstv.com/streams/videolive/76
 遵义新闻综合,webview://https://movement.gzstv.com/streams/videolive/78
 安顺新闻综合,webview://https://movement.gzstv.com/streams/videolive/79
-六盘水卫视,webview://https://movement.gzstv.com/streams/videolive/77
+六盘水新闻综合,webview://https://movement.gzstv.com/streams/videolive/77
 毕节新闻综合,webview://https://movement.gzstv.com/streams/videolive/80
 黔东南综合,webview://https://movement.gzstv.com/streams/videolive/81
 黔南综合,webview://https://movement.gzstv.com/streams/videolive/82
