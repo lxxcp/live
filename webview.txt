@@ -263,12 +263,12 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 河南,#genre#
 河南都市,webview://https://www.hntv2.net/index.html#/pages/tv/index
-洛阳综合,webview://http://www.lytv.com.cn/dist/phone_new_file.html
+洛阳新闻综合,webview://http://www.lytv.com.cn/dist/phone_new_file.html
 开封新闻综合,webview://https://www.kftv.net.cn/info/944
 开封文化旅游,webview://https://www.kftv.net.cn/info/943
 兰考新闻,webview://https://www.kftv.net.cn/info/942
 杞县新闻综合,webview://https://www.kftv.net.cn/info/941
-尉氏新闻,webview://https://www.kftv.net.cn/info/940
+尉氏新闻综合,webview://https://www.kftv.net.cn/info/940
 通许综合,webview://https://www.kftv.net.cn/info/939
 焦作综合,webview://http://www.jzrt.com/list-zhpd.html
 焦作公共,webview://http://www.jzrt.com/list-ggpd.html
