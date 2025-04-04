@@ -687,14 +687,14 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 新疆10套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=21
 新疆11套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=22
 新疆12套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
-日喀则1,webview://https://www.rkzrm.cn/2/2zb/index.shtml
-乌鲁木齐1,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=6&page=canvas&live_type=1
-乌鲁木齐2,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=5&page=canvas&live_type=1
+日喀则,webview://https://www.rkzrm.cn/2/2zb/index.shtml
+乌鲁木齐综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=6&page=canvas&live_type=1
+乌鲁木齐都市时尚,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=5&page=canvas&live_type=1
 克拉玛依1,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10143&id=7&page=canvas&live_type=1
 克拉玛依2,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10143&id=6&page=canvas&live_type=1
 克拉玛依3,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10143&id=5&page=canvas&live_type=1
-昌吉1,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=12&page=canvas&live_type=1
-昌吉2,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=13&page=canvas&live_type=1
+昌吉综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=12&page=canvas&live_type=1
+昌吉城市生活,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=13&page=canvas&live_type=1
 哈密1,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10104&id=22&page=canvas&live_type=1
 哈密2,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10104&id=21&page=canvas&live_type=1
 哈密3,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10104&id=20&page=canvas&live_type=1
@@ -709,5 +709,3 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 阿克苏3,webview://https://web.guangdianyun.tv/tv/2234?uin=3643
 和田1,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=12&page=canvas&live_type=1
 和田,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=11&page=canvas&live_type=1
-和田,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=10&page=canvas&live_type=1
-和田,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=9&page=canvas&live_type=1
