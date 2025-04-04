@@ -616,9 +616,9 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 西宁新闻综合,webview://https://www.xntv.tv/jtgb
 云南,#genre#
 云南卫视,webview://https://www.yntv.cn/live.html
-昆明教育电视台,webview://https://www.kmetv.com/fccommon/Home/detail?site_id=75&detail_type=7&cid=1
+昆明教育电视台,webview://https://kmjy.kmetv.com/application/tenma01ds_tvradio/view/web/#/
 丽江新闻综合,webview://https://www.lijiang.cn/live/
-红河1,webview://https://www.hh.cn/ynhhzMini/site/tv
+红河新闻综合,webview://https://www.hh.cn/ynhhzMini/site/tv
 临沧综合,webview://https://mtydazzle.yntv.net/live/?companyId=lincang&_id=5f51fa40e4b04f16d0288832
 临沧公共,webview://https://mtydazzle.yntv.net/live/?companyId=lincang&_id=5f51f80ee4b04f16d0288801
 西双版纳综合,webview://http://m.xsbnrtv.cn/cms-tv?column=100116
