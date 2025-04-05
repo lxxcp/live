@@ -651,7 +651,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 锦江电视台,webview://https://www.cditv.cn/show/4844-590.html
 高新电视台,webview://https://www.cditv.cn/show/4844-591.html
 泸州新闻综合,webview://https://www.luzhoubs.com/lztv1/index.html
-泸州科技教育,webview://https://www.luzhoubs.com/lztv3/index.html
+泸州科教生活,webview://https://www.luzhoubs.com/lztv3/index.html
 绵阳新闻综合,webview://http://www.myntv.cn/html/zb/mytv1.asp
 绵阳科教生活,webview://http://www.myntv.cn/html/zb/mytv2.asp
 乐山新闻综合,webview://http://www.lstv.org.cn/cms/tv/28
