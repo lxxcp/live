@@ -660,12 +660,11 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 广安文旅乡村,webview://https://www.gatv.com.cn/Tv/details?id=9
 遂宁综合,webview://http://www.snxw.com/wldst/xwzh/
 遂宁文化生活,webview://http://www.snxw.com/wldst/gggyzb/
-广元广播电视,webview://https://www.dzsm.com/live.asp
 德阳新闻综合,webview://http://zb.scdytv.com/?name=xwpd
 德阳文旅科教,webview://http://zb.scdytv.com/?name=ggpd
 攀枝花新闻综合,webview://https://h5.pzhkai.com/front-cloudlive-manage-h5/index.html?id=536937329516896257
 攀枝花文旅生活,webview://https://h5.pzhkai.com/front-cloudlive-manage-h5/index.html?id=536937486832656384
-内江新闻综合,webview://https://www.scnj.tv/bencandy.php?fid=43&id=972
+内江综合,webview://https://www.scnj.tv/bencandy.php?fid=43&id=972
 眉山综合,webview://https://www.scmstv.cn/web/folder88/folder89/folder91/
 眉山文旅乡村,webview://https://www.scmstv.cn/web/folder88/folder89/folder92/
 资阳新闻综合,webview://https://www.zyrb.com.cn/#/bD074b747F
