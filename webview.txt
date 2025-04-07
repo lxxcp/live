@@ -324,7 +324,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 郑州登封综合,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
 郑州登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
 郑州巩义综合,http://live.dxhmt.cn:9081/tv/10181-1.m3u8
-洛阳综合,https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
+洛阳新闻综合,https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
 洛阳偃师新闻,http://live.dxhmt.cn:9081/tv/10381-1.m3u8
@@ -337,12 +337,12 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 洛阳新安综合,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
 洛阳栾川综合,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
 洛阳嵩县综合,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
-开封兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
-开封兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-开封杞县新闻综合,http://live.dxhmt.cn:9081/tv/10221-1.m3u8
-开封通许新闻综合,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
-开封尉氏新闻综合,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
-焦作新闻综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
+兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
+杞县新闻综合,http://live.dxhmt.cn:9081/tv/10221-1.m3u8
+通许综合,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
+尉氏新闻综合,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
+焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
 焦作孟州综合,http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
 焦作孟州综合,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
