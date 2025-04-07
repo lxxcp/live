@@ -19,6 +19,7 @@ CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
 CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
 CCTV-4 中文国际欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
 CCTV-4 中文国际美洲,webview://https://tv.cctv.com/live/cctvamerica/
+CCTV4K 超高清,webview://https://item.btime.com/5755n511tbk8flo40l4c71l0sdf
 CCTV4K 超高清,webview://https://yangshipin.cn/tv/home?pid=600002264
 CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800
@@ -40,11 +41,11 @@ CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637
 CCTV-16 奥林匹克-4K,webview://https://yangshipin.cn/tv/home?pid=600099502
 CCTV-17 农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810
 CGTN,webview://https://yangshipin.cn/tv/home?pid=600014550
-CGTN法语,webview://https://yangshipin.cn/tv/home?pid=600084704
-CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
-CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
-CGTN西语,webview://https://yangshipin.cn/tv/home?pid=600084744
 CGTN纪录,webview://https://yangshipin.cn/tv/home?pid=600084781
+CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
+CGTN法语,webview://https://yangshipin.cn/tv/home?pid=600084704
+CGTN西语,webview://https://yangshipin.cn/tv/home?pid=600084744
+CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
@@ -175,13 +176,17 @@ GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 
 北京,#genre#
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
-BRTV文艺,webview://https://www.btime.com/btv/btvsy_index?tag=2
-BRTV纪实科教,webview://https://www.btime.com/btv/btvsy_index?tag=3
-BRTV影视,webview://https://www.btime.com/btv/btvsy_index?tag=4
-BRTV财经,webview://https://www.btime.com/btv/btvsy_index?tag=5
-BRTV体育休闲,webview://https://www.btime.com/btv/btvsy_index?tag=6
-BRTV生活,webview://https://www.btime.com/btv/btvsy_index?tag=7
-BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
+北京卫视,http://124.222.114.206/bjtv.php?id=bjws
+北京卫视,http://124.222.114.206/bjtv.php?id=bjws4k
+BRTV文艺,http://124.222.114.206/bjtv.php?id=bjwy
+BRTV纪实科教,http://124.222.114.206/bjtv.php?id=bjjs
+BRTV影视,http://124.222.114.206/bjtv.php?id=bjys
+BRTV财经,http://124.222.114.206/bjtv.php?id=bjcj
+BRTV体育休闲,http://124.222.114.206/bjtv.php?id=bjty
+BRTV生活,http://124.222.114.206/bjtv.php?id=bjsh
+BRTV新闻,http://124.222.114.206/bjtv.php?id=bjxw
+BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
+
 上海,#genre#
 东方卫视,webview://https://live.kankanews.com/huikan?id=1
 上海新闻综合,webview://https://live.kankanews.com/huikan?id=2
@@ -291,6 +296,7 @@ BRTV新闻,webview://https://www.btime.com/btv/btvsy_index?tag=8
 信阳综合,webview://https://wap.xytv.cn/share/page/tvLive/?tvid=1&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=4f6012673a674a07ba7380a6bfd99ee9
 信阳文旅,webview://https://wap.xytv.cn/share/page/tvLive?tvid=3&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=39afabf7e90b4e708f7583ec223ea541
 吉林,#genre#
+吉林卫视,webview://https://www.jlntv.cn/tv?id=104
 长春综合,webview://https://chinactv.com/live/1442880654565093377.html
 长春文旅体育,webview://https://chinactv.com/live/1442880767035355137.html
 长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
