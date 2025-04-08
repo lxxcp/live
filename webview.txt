@@ -750,16 +750,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 长治新闻综合,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=21
 长治公共,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=22
 长治科教法治,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=23
-太原新闻综合,webview://https://apphhpluswebview://https.sxrtv.com//a/b/a/live_wap_811850.html
-朔州新闻综合,webview://https://apphhpluswebview://https.sxrtv.com//a/b/a/live_wap_811845.html
-忻州新闻综合,webview://https://apphhpluswebview://https.sxrtv.com//a/b/a/live_wap_811842.html
-阳泉新闻综合,webview://https://apphhpluswebview://https.sxrtv.com//a/b/a/live_wap_811848.html
-吕梁新闻综合,webview://https://apphhpluswebview://https.sxrtv.com//a/b/a/live_wap_811840.html
-晋中新闻综合,webview://https://apphhpluswebview://https.sxrtv.com//a/b/a/live_wap_811844.html
-长治新闻综合,webview://https://apphhpluswebview://https.sxrtv.com//a/b/a/live_wap_811847.html
-晋城新闻综合,webview://https://apphhpluswebview://https.sxrtv.com//a/b/a/live_wap_811846.html
-临汾新闻综合,webview://https://apphhpluswebview://https.sxrtv.com//a/b/a/live_wap_811841.html
-运城新闻综合,webview://https://apphhpluswebview://https.sxrtv.com//a/b/a/live_wap_811843.html
 陕西,#genre#
 陕西卫视,webview://http://live.snrtv.com/star
 陕西新闻资讯,webview://http://live.snrtv.com/1
