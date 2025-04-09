@@ -727,7 +727,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 桂林公共,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=34
 桂林科教旅游,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=35
 北海经济科教,webview://https://play-a2.quklive.com:443/live/1727311690820146.m3u8
-梧州新闻综合,webview://https://www.wzrtv.cn/dist/index.html#/live
+梧州新闻综合,webview://https://www.wzrtv.cn/dist/index.html#/live#webview://https://www.wzrtv.cn/dist/index.html#/liveTvDetail/22/%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 梧州新闻综合,webview://https://www.wzrtv.cn/dist/index.html#/liveTvDetail/22/%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 梧州公共,webview://https://www.wzrtv.cn/dist/index.html#/liveTvDetail/23/%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93
 梧州教育生活,webview://https://www.wzrtv.cn/dist/index.html#/liveTvDetail/15/%E6%95%99%E8%82%B2%E7%94%9F%E6%B4%BB
