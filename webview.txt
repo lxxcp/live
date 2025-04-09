@@ -19,7 +19,6 @@ CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
 CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
 CCTV-4 中文国际欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
 CCTV-4 中文国际美洲,webview://https://tv.cctv.com/live/cctvamerica/
-CCTV4K 超高清,webview://https://item.btime.com/5755n511tbk8flo40l4c71l0sdf
 CCTV4K 超高清,webview://https://yangshipin.cn/tv/home?pid=600002264
 CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800
@@ -196,6 +195,7 @@ GRTN文化,webview://https://www.gdtv.cn/tvChannelDetail/75
 GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 
 北京,#genre#
+北京卫视,webview://https://item.btime.com/5755n511tbk8flo40l4c71l0sdf
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
 北京卫视,http://124.222.114.206/bjtv.php?id=bjws
 北京卫视,http://124.222.114.206/bjtv.php?id=bjws4k
