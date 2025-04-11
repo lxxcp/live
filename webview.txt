@@ -154,7 +154,7 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 云浮文旅,webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=9
 广州综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88889
 佛山综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88888
-东莞综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88887
+东莞新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88887
 潮州综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88886
 河源综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88890
 惠州综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88891
@@ -162,10 +162,10 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 揭阳综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88893
 茂名综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88894
 梅州综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88895
-清远综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88896
+清远新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88896
 汕头综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88897
 汕尾综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88898
-韶关综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88899
+韶关新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88899
 阳江综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88901
 云浮综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88902
 湛江综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88903
