@@ -602,6 +602,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 兰州新闻综合,webview://https://www.lzr.com.cn/folder25/folder26/
 兰州文旅,webview://https://www.lzr.com.cn/folder25/folder26/folder30/
 内蒙古,#genre#
+内蒙古卫视,webview://https://www.nmtv.cn/liveTv
 内蒙古卫视,http://52zb.work/nmg.php?id=nmws
 内蒙古蒙语卫视,http://52zb.work/nmg.php?id=nmmyws
 内蒙古新闻综合,http://52zb.work/nmg.php?id=nmxwzh
