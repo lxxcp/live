@@ -527,7 +527,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
 无锡教育,https://tv.wxjy.com.cn:9001/tvwebstream/tv_channel_1359/index.m3u8
-无锡江阴新闻,http://221.228.70.101:8080/live/xinwen.m3u8
 无锡宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 无锡宜兴紫砂,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
 常州金坛综合,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
@@ -552,8 +551,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 宿迁泗阳资讯,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
 宿迁沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
+淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
-淮安淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8
 淮安涟水综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
 
