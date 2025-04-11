@@ -530,9 +530,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 无锡江阴新闻,http://221.228.70.101:8080/live/xinwen.m3u8
 无锡宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 无锡宜兴紫砂,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
-常州都市,http://8.138.7.223/tv/cztv.php?id=2
-常州生活,http://8.138.7.223/tv/cztv.php?id=3
-常州公共,http://8.138.7.223/tv/cztv.php?id=4
 常州金坛综合,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 扬州综合,http://cm-wshls.homecdn.com/live/8bb.m3u8
 扬州城市,http://cm-wshls.homecdn.com/live/8bd.m3u8
