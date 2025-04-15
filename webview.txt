@@ -132,11 +132,16 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+广州综合,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3000
+广州新闻,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3002
+广州影视,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3006
+广州法治,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3004
+广州南国都市,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3003
 佛山顺德,webview://http://xiubo.net/tv/gd/fssd.html
 佛山公共,webview://http://xiubo.net/tv/gd/fsgg.html
 佛山影视,webview://http://xiubo.net/tv/gd/fsys.html
-佛山公共,webview://http://xiubo.net/tv/gd/fsgm.html
-佛山公共,webview://http://xiubo.net/tv/gd/fsss.html
+佛山高明,webview://http://xiubo.net/tv/gd/fsgm.html
+佛山三水,webview://http://xiubo.net/tv/gd/fsss.html
 佛山综合,webview://http://xiubo.net/tv/gd/fszh.html
 佛山南海,webview://http://xiubo.net/tv/gd/fsnh.html
 江门综合,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=2
@@ -152,6 +157,8 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 肇庆生活服务,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=34
 云浮综合,webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=8
 云浮文旅,webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=9
+揭阳综合,webview://https://www.jyrtv.tv/fccommon/Home/detail?site_id=75&detail_type=7&cid=11
+揭阳公共,webview://https://www.jyrtv.tv/fccommon/Home/detail?site_id=75&detail_type=7&cid=12
 广州综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88889
 佛山综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88888
 东莞新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88887
