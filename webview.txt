@@ -137,7 +137,7 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 广州影视,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3006
 广州法治,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3004
 广州南国都市,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3003
-佛山顺德,webview://http://xiubo.net/tv/gd/fssd.html
+佛山顺德,webview://http://p.123tv.cn/p/gdfs.php?id=fssd
 佛山公共,webview://http://xiubo.net/tv/gd/fsgg.html
 佛山影视,webview://http://xiubo.net/tv/gd/fsys.html
 佛山高明,webview://http://xiubo.net/tv/gd/fsgm.html
