@@ -140,6 +140,7 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 佛山综合,webview://http://xiubo.net/tv/gd/fszh.html
 佛山南海,webview://http://xiubo.net/tv/gd/fsnh.html
 江门综合,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=2
+江门综合,http://tideweblive.jmtv.cn/lsdream/4x3T0dO/993/u334500.m3u8
 江门侨乡生活,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
 东莞新闻综合,webview://https://dgrtv.sun0769.com/index.php/online2/4
 东莞生活资讯,webview://https://dgrtv.sun0769.com/index.php/online2/5
