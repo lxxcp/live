@@ -331,6 +331,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
 河南收藏,http://www.cdnstv.com:6398/hls/1118/index.m3u8
 河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
+河南法治,http://www.cdnstv.com:6398/hls/1112/index.m3u8
+河南都市,http://zzssw01.55555.io:9901/tsfile/live/1002_1.m3u8
 河南都市,webview://https://www.hntv2.net/index.html#/pages/tv/index
 洛阳新闻综合,webview://http://www.lytv.com.cn/dist/phone_new_file.html
 开封新闻综合,webview://https://www.kftv.net.cn/info/944
@@ -492,6 +494,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 四平综合,webview://http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
 延边卫视2,https://live.ybtvyun.com/video/s10006-1c8f0ebfee9f/index.m3u8
 延边卫视,https://live.ybtvyun.com/video/s10006-9ccd00054351/index.m3u8
+珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild&quot;
 
 湖北,#genre#
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
@@ -608,7 +611,9 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 泰州综合,http://stream1.mytaizhou.net/xwzh/sd/live.m3u8?_upt=f97c80491706200828
 泰州靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 泰州姜堰新闻综合,https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
+宿迁泗阳综合,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
 宿迁泗阳资讯,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+宿迁泗洪新闻综合,http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8
 宿迁沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8
@@ -618,7 +623,9 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 句容新闻综合,http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
-
+句容新闻综合,http://jrlive.jrntv.com:80/live/shenghuo/playlist.m3u8
+句容生活,http://jrlive.jrntv.com:80/live/jrxwzh/playlist.m3u8
+句容影院,http://jrlive.jrntv.com:80/live/yingshi/playlist.m3u8
 山东,#genre#
 山东卫视,webview://https://v.iqilu.com/live/sdtv/
 山东齐鲁,webview://https://v.iqilu.com/live/qlpd/
@@ -663,6 +670,14 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8
 枣庄教育,http://stream.zztvzd.com/2/sd/live.m3u8
 枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8
+青州新闻综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
+青州台生活,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
+青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
+济宁新闻综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 
 甘肃,#genre#
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml#
@@ -735,7 +750,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -783,6 +797,12 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 衢州衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
+湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&fbl=
+湖州新闻综合,https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
+舟山新闻综合,http://play-sh13.quklive.com/live/1699001836208185.m3u8?auth_key=2027429324-c77bb6a7063c4cdea57f09ca22f9ef12-0-39c19a21f73b823db2150ea45b147eb2
+舟山公共,http://play-sh13.quklive.com/live/1699002430299200.m3u8?auth_key=2027429366-f4515e585a0347f780a01c73ae293945-0-b3699e931cf04290680745e989c63d86
+嘉兴公共,http://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=2028730429-9ab7f7f0267946e880ec46ce3d57ec9e-0-eb04d7f7e549054293604b04150cefa1
 
 安徽,#genre#
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
@@ -808,6 +828,10 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 铜陵教育科技,webview://http://wxfx.tlbts.com/mag/livevideo/v1/video/wapVideoView?id=58
 黄山新闻综合,webview://http://www.hsnewsnet.com/web/tvnews/
 黄山文旅频道,webview://http://www.hsnewsnet.com/web/tvlife/
+滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd#http://live.cztv.cc:85/live/ggpd.m3u8
+滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8
+滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
+
 贵州,#genre#
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
 贵州公共,webview://https://www.gzstv.com/tv/ch02
@@ -983,6 +1007,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 临沧公共,webview://https://mtydazzle.yntv.net/live/?companyId=lincang&_id=5f51f80ee4b04f16d0288801
 西双版纳综合,webview://http://m.xsbnrtv.cn/cms-tv?column=100116
 怒江综合,webview://https://www.nujiang.cn/html/video/tv/
+西双版纳综合,http://m3u8channel.xsbnrtv.cn/nmip-media/channellive/channel106885/playlist.m3u8
 四川,#genre#
 四川科教,webview://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
 四川乡村,webview://https://scxc.sctv.com/html/c0111/2024/04/09/1777534112104497154_share.html
@@ -1040,6 +1065,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 金川乡村,https://m3u8channel-yc.yunxya.com/nmip-media/channellive/channel100103/playlist.m3u8
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
+文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
 
 西藏,#genre#
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
