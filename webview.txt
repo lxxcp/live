@@ -113,7 +113,7 @@ CCTV-13 新闻,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 河南都市,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=13
 河南卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
 河南民生,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=15
-河南梨园,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=16
+河南戏曲,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=16
 CCTV-1 综合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV-2 财经,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
 CCTV-4 中文国际,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
@@ -329,7 +329,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 河南电视剧,http://www.cdnstv.com:6398/hls/1113/index.m3u8
 河南新闻,http://www.cdnstv.com:6398/hls/1114/index.m3u8
 河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
-收藏天下,http://www.cdnstv.com:6398/hls/1118/index.m3u8
+河南收藏,http://www.cdnstv.com:6398/hls/1118/index.m3u8
 河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
 河南都市,webview://https://www.hntv2.net/index.html#/pages/tv/index
 洛阳新闻综合,webview://http://www.lytv.com.cn/dist/phone_new_file.html
