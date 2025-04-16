@@ -158,7 +158,7 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 云浮综合,webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=8
 云浮文旅,webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=9
 揭阳综合,webview://https://www.jyrtv.tv/fccommon/Home/detail?site_id=75&detail_type=7&cid=11
-揭阳公共,webview://https://www.jyrtv.tv/fccommon/Home/detail?site_id=75&detail_type=7&cid=12
+揭阳生活,webview://https://www.jyrtv.tv/fccommon/Home/detail?site_id=75&detail_type=7&cid=12
 广州综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88889
 佛山综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88888
 东莞新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88887
