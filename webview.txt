@@ -265,6 +265,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 石家庄都市,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=7
 衡水新闻综合,webview://http://app.hsrtv.cn/web/teletv/tv_content_1.html
 衡水公共,webview://http://app.hsrtv.cn/web/teletv/tv_content_4.html
+邢台综合,webview://https://www.xttv.com.cn/index/channel/index/id/62.html
 邢台城市生活,webview://https://www.xttv.com.cn/index/channel/index/id/64.html
 沧州新闻综合,webview://https://www.czgd.tv/Article/des?infoid=32768&modelid=3
 沧州公共频道,webview://https://www.czgd.tv/Article/des?infoid=32769&modelid=3
