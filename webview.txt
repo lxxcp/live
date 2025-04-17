@@ -97,7 +97,7 @@ CETV-1 综合教育,webview://https://yangshipin.cn/tv/home?pid=600171827
 CETV-1 综合教育,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
 CETV-2 空中课堂,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV-4 职业教育,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
-CETV-4 职业教育,https://edu.cctv.com/cetv/
+CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
 河南党建,#genre#
 CCTV-1 综合,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV-3 综艺,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
