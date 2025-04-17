@@ -479,8 +479,14 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
 吉林市综合,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
 四平综合,webview://http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
-延边卫视2,https://live.ybtvyun.com/video/s10006-1c8f0ebfee9f/index.m3u8
-延边卫视,https://live.ybtvyun.com/video/s10006-9ccd00054351/index.m3u8
+延边卫视,webview://https://www.yb983.com/5f5d38ae-6870-48b8-839d-20fad19be310
+延边卫视,https://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
+延边汉语,webview://https://www.yb983.com/f47d1fdc-8f90-4837-8a83-a339b772b4e2
+延边汉语,https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
+延边朝语,webview://https://www.yb983.com/293a613e-e860-42a7-8848-57fc2de08bbb
+延边朝语,https://live.ybtvyun.com/video/s10006-4fe8b057eb3b/index.m3u8
+延边汉语,https://live.ybtvyun.com/video/s10006-9ccd00054351/index.m3u8
+延边朝语,https://live.ybtvyun.com/video/s10006-1c8f0ebfee9f/index.m3u8
 珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild&quot;
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
 辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
