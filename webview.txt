@@ -97,7 +97,7 @@ CETV-1 综合教育,webview://https://yangshipin.cn/tv/home?pid=600171827
 CETV-1 综合教育,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
 CETV-2 空中课堂,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV-4 职业教育,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
-
+CETV-4 职业教育,https://edu.cctv.com/cetv/
 河南党建,#genre#
 CCTV-1 综合,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV-3 综艺,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
@@ -235,20 +235,20 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 魔都眼,webview://https://live.kankanews.com/huikan?id=11
 新纪实,webview://https://live.kankanews.com/huikan?id=12
 湖南,#genre#
-湖南经视,webview://https://live.mgtv.com/?channelid=280
-湖南电影,webview://https://live.mgtv.com/?channelid=221
-湖南娱乐,webview://https://live.mgtv.com/?channelid=334
-湖南都市,webview://https://live.mgtv.com/?channelid=346
-湖南电视剧,webview://https://live.mgtv.com/?channelid=484
-湖南国际,webview://https://live.mgtv.com/?channelid=229
-湖南爱晚,webview://https://live.mgtv.com/?channelid=261
-金鹰卡通,webview://https://live.mgtv.com/?channelid=287
-金鹰纪实,webview://https://live.mgtv.com/?channelid=316
-先锋乒羽,webview://https://live.mgtv.com/?channelid=329
-快乐垂钓,webview://https://live.mgtv.com/?channelid=218
-茶频道,webview://https://live.mgtv.com/?channelid=578
-长沙新闻,webview://https://live.mgtv.com/?channelId=269
-长沙政法,webview://https://live.mgtv.com/?channelId=254
+湖南经视,https://live.mgtv.com/?channelId=280
+湖南电影,https://live.mgtv.com/?channelId=221
+湖南娱乐,https://live.mgtv.com/?channelId=344
+湖南都市,https://live.mgtv.com/?channelId=346
+湖南电视剧,https://live.mgtv.com/?channelId=484
+湖南国际,https://live.mgtv.com/?channelId=229
+金鹰卡通,https://live.mgtv.com/?channelId=287
+金鹰纪实,https://live.mgtv.com/?channelId=316
+湖南爱晚,https://live.mgtv.com/?channelId=261
+先锋乒羽,https://live.mgtv.com/?channelId=329
+快乐垂钓,https://live.mgtv.com/?channelId=218
+茶频道,https://live.mgtv.com/?channelId=578
+长沙新闻综合,https://live.mgtv.com/?channelId=269
+长沙政法,https://live.mgtv.com/?channelId=254
 湘潭新闻综合,webview://http://www.hnxttv.com/live/ivideo/index.html
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 常德新闻综合,webview://http://zzwxht.changdejia.com/zhibo_xwzh.php
@@ -529,6 +529,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 
 江苏,#genre#
+江苏卫视,https://live.jstv.com/?channelId=534
 江苏城市,webview://https://live.jstv.com/?channelId=535
 江苏综艺,webview://https://live.jstv.com/?channelId=556
 江苏影视,webview://https://live.jstv.com/?channelId=542
