@@ -144,6 +144,13 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 佛山三水,webview://http://p.123tv.cn/p/gdfs.php?id=fsss
 佛山综合,webview://http://p.123tv.cn/p/gdfs.php?id=fszh
 佛山南海,webview://http://p.123tv.cn/p/gdfs.php?id=fsnh
+佛山顺德,webview://http://xiubo.net/tv/gd/fssd.html
+佛山公共,webview://http://xiubo.net/tv/gd/fsgg.html
+佛山影视,webview://http://xiubo.net/tv/gd/fsys.html
+佛山高明,webview://http://xiubo.net/tv/gd/fsgm.html
+佛山三水,webview://http://xiubo.net/tv/gd/fsss.html
+佛山综合,webview://http://xiubo.net/tv/gd/fszh.html
+佛山南海,webview://http://xiubo.net/tv/gd/fsnh.html
 江门综合,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=2
 江门侨乡生活,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
 东莞新闻综合,webview://https://dgrtv.sun0769.com/index.php/online2/4
