@@ -991,6 +991,9 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 银川公共,webview://https://www.qukanvideo.com/cloud/h5/1731639141671136
 银川生活,webview://https://www.qukanvideo.com/cloud/h5/1731638744888001
 银川文体,webview://https://www.qukanvideo.com/cloud/h5/1728443786945132
+银川公共,webview://https://www.qukanvideo.com/cloud/h5/1731639141671136.m3u8
+银川生活,webview://https://www.qukanvideo.com/cloud/h5/1731638744888001.m3u8
+银川文体,webview://https://www.qukanvideo.com/cloud/h5/1728443786945132.m3u8
 青海,#genre#
 青海卫视,webview://https://www.qhbtv.com/new_index/live/folder2646/
 青海经视,webview://https://www.qhbtv.com/new_index/live/folder2647/
