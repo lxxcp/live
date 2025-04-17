@@ -20,6 +20,7 @@ CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
 CCTV-4 中文国际欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
 CCTV-4 中文国际美洲,webview://https://tv.cctv.com/live/cctvamerica/
 CCTV4K 超高清,webview://https://yangshipin.cn/tv/home?pid=600002264
+CCTV8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816
 CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV-3 综艺,webview://https://yangshipin.cn/tv/home?pid=600001801
@@ -249,8 +250,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 长沙新闻,webview://https://live.mgtv.com/?channelId=269
 长沙政法,webview://https://live.mgtv.com/?channelId=254
 湘潭新闻综合,webview://http://www.hnxttv.com/live/ivideo/index.html
-湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
-
+湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 常德新闻综合,webview://http://zzwxht.changdejia.com/zhibo_xwzh.php
 常德公共,webview://http://zzwxht.changdejia.com/zhibo_ggpd.php
 邵阳新闻综合,webview://http://www.sytv.net.cn/folder2188/folder2190
