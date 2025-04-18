@@ -542,7 +542,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 南京教科,webview://https://www.nbs.cn/live/?id=109153
 南京文旅纪录,webview://https://www.nbs.cn/live/?id=110093
 南京少儿,webview://https://www.nbs.cn/live/?id=110095
-徐洲-1,webview://http://http://www.wifixz.com/tv/
+徐洲-1,webview://http://www.wifixz.com/tv/
 盐城新闻综合,webview://https://www.0515yc.cn/folder147/folder148/folder156/
 盐城新闻综合,https://live1yc.0515yc.cn/ycyt01/sd/live.m3u8
 盐城城市公共,https://live1yc.0515yc.cn/ycet02/sd/live.m3u8
