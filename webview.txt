@@ -609,12 +609,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 徐州睢宁综合,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
 徐州睢宁三农,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
 泰州姜堰新闻综合,https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
-宿迁新闻综合,webview://http://tv.haoqu99.com/3/jiangsu/siyangzh.html
-宿迁沭阳综合,webview://http://tv.haoqu99.com/3/jiangsu/shuyangzh.html
-宿迁泗阳综合,webview://http://tv.haoqu99.com/3/jiangsu/siyangzh.html
-宿迁泗阳资讯,webview://http://tv.haoqu99.com/3/jiangsu/siyangzx.html
-宿迁泗洪新闻综合,webview://http://tv.haoqu99.com/3/jiangsu/sihongzh.html   
-宿迁泗洪新闻综合,webview://http://tv.haoqu99.com/e/extend/tv.php?id=35551
 宿迁泗阳综合,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
 宿迁泗阳资讯,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
 宿迁泗洪新闻综合,http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8
