@@ -542,7 +542,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 南京教科,webview://https://www.nbs.cn/live/?id=109153
 南京文旅纪录,webview://https://www.nbs.cn/live/?id=110093
 南京少儿,webview://https://www.nbs.cn/live/?id=110095
-徐洲新闻综合,webview://http://www.wifixz.com/tv/
+徐州新闻综合,webview://http://www.wifixz.com/tv/
 盐城新闻综合,webview://https://www.0515yc.cn/folder147/folder148/folder156/
 盐城新闻综合,https://live1yc.0515yc.cn/ycyt01/sd/live.m3u8
 盐城城市公共,https://live1yc.0515yc.cn/ycet02/sd/live.m3u8
@@ -1018,6 +1018,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 云南,#genre#
 云南卫视,webview://https://www.yntv.cn/live.html
 昆明教育电视台,webview://https://kmjy.kmetv.com/application/tenma01ds_tvradio/view/web/#/
+昆明教育电视台,webview://https://kmjy.kmetv.com/application/tvradio/h5detail.html?type=tv&id=1
 丽江新闻综合,webview://https://www.lijiang.cn/live/
 红河新闻综合,webview://https://www.hh.cn/ynhhzMini/site/tv
 临沧综合,webview://https://mtydazzle.yntv.net/live/?companyId=lincang&_id=5f51fa40e4b04f16d0288832
@@ -1111,6 +1112,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 西藏藏语,http://php.jdshipin.com:8880/xztv.php?id=zy
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
 日喀则,webview://https://www.rkzrm.cn/2/2zb/index.shtml
+
 新疆,#genre#
 新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 新疆2套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=3
