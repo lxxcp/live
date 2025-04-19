@@ -921,6 +921,15 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/x1sqkR0.m3u8
+黄河卫视,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/w1tlke0.m3u8
+山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/o614k00.m3u8
+山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/76iMk50.m3u8
+山西社会与法,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/c1dpky0.m3u8
+山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/1oakm0y.m3u8
+太原新闻综合,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/1oakm0y.m3u8
+太原新闻综合,https://citymlive.sxrtv.com/live/sxtymlive.m3u8?hwSecret=c4c15ea92e83b70f56ff354f4d8fbc4bdf306c374e090de7d8d6bb6624fd9572&hwTime=680391cf
+朔州新闻综合,https://citymlive.sxrtv.com/live/sxszmlive.m3u8?hwSecret=0c452041299c70ca58e5d8e97cec9d87525b4f14ca0b9b1b757b1174d0ff70d1&hwTime=68039197
 太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
 大同新闻综合,webview://https://www.dtradio.com.cn/local/folder25
 阳泉新闻综合,webview://https://www.yqrtv.com/folder74/folder139?id=10
