@@ -930,6 +930,14 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 太原新闻综合,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/1oakm0y.m3u8
 太原新闻综合,https://citymlive.sxrtv.com/live/sxtymlive.m3u8?hwSecret=c4c15ea92e83b70f56ff354f4d8fbc4bdf306c374e090de7d8d6bb6624fd9572&hwTime=680391cf
 朔州新闻综合,https://citymlive.sxrtv.com/live/sxszmlive.m3u8?hwSecret=0c452041299c70ca58e5d8e97cec9d87525b4f14ca0b9b1b757b1174d0ff70d1&hwTime=68039197
+忻州综合,https://citymlive.sxrtv.com/live/sxxzmlive.m3u8?hwSecret=6cc75aa572941a7778df1c3ecc3f810041970e98c16135090f062b3976428af2&hwTime=680392fa
+阳泉新闻综合,https://citymlive.sxrtv.com/live/sxyqmlive.m3u8?hwSecret=341a6a46bb6b5a6446d4764c1e8c3f33aac114794f76dd58d5be9a52cff0b950&hwTime=68039326
+吕梁综合,https://citymlive.sxrtv.com/live/sxllmlive.m3u8?hwSecret=0422d8a111d95e967f16f90eb6b1ddb721c68996659836934e49bb5106e49197&hwTime=68039356
+晋中新闻综合,https://citymlive.sxrtv.com/live/sxjzmlive.m3u8?hwSecret=9918cc557b27f22757ee6cc49fba7653bdb7e0493765673ffc5cebc9ce0b4f09&hwTime=68039389
+长治新闻综合,https://citymlive.sxrtv.com/live/sxczmlive.m3u8?hwSecret=63c777d00647fb0fe9c1a145d4949a3d787ca5701a20a8afde9862d0becd2e81&hwTime=680393ab
+晋城新闻综合,https://citymlive.sxrtv.com/live/sxjcmlive.m3u8?hwSecret=2feea71e5dd1bef767867fc868869412091e92b1ce385a73623a06e68dfc6a19&hwTime=680393da
+临汾新闻综合,https://citymlive.sxrtv.com/live/sxlfmlive.m3u8?hwSecret=cd20c4046ca84ba4c0bf20b42f07237ecc1cb90b46f7e0c2fac136facb80ae19&hwTime=6803940d
+
 太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
 大同新闻综合,webview://https://www.dtradio.com.cn/local/folder25
 阳泉新闻综合,webview://https://www.yqrtv.com/folder74/folder139?id=10
