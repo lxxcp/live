@@ -921,13 +921,13 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
-山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/d1sqfR0.m3u8
-黄河卫视,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/c1tlfe0.m3u8
-山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/461of00.m3u8
-山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/n5iMf50.m3u8
-山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/sdpfy00.m3u8
-山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/joafm0y.m3u8
-太原新闻综合,https://citymlive.sxrtv.com/live/sxtymlive.m3u8?hwSecret=d1cec83ff667642ca2ada52d370cb04383aa4d2296f011401e1b6e48b22327c5&hwTime=680430bc
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/psh8sVm.m3u8
+黄河卫视,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/othcs1m.m3u8
+山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/g51djs0.m3u8
+山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/z4idms7.m3u8
+山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/4di4s5m.m3u8
+山西文体生活,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/psh8sVm.m3u8
+太原新闻综合,https://citymlive.sxrtv.com/live/sxtymlive.m3u8?hwSecret=b952d199ef4442bb511b6ac0e2dab83011526a884260378350ea04bac296a88d&hwTime=6805970a
 
 太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
 大同新闻综合,webview://https://www.dtradio.com.cn/local/folder25
