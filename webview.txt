@@ -323,6 +323,13 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 辽宁,#genre#
 丹东新闻综合,webview://https://app.ddrtv.cn/application/tvradio/h5/detail.html?type=tv
 滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
+辽宁北方,http://120.76.248.139/live/bfgd/4200000071.m3u8
+辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
+辽宁教育青少,http://120.76.248.139/live/bfgd/4200000075.m3u8
+辽宁生活,http://120.76.248.139/live/bfgd/4200000073.m3u8
+辽宁经济,http://120.76.248.139/live/bfgd/4200000076.m3u8
+辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
+辽宁都市,http://120.76.248.139/live/bfgd/4200000068.m3u8
 
 重庆,#genre#
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
@@ -498,6 +505,25 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
+吉林乡村,http://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+吉林乡村,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+靖宇综合,http://stream9.jlntv.cn:80/aac_jygb/playlist.m3u8
+龙井综合,http://stream9.jlntv.cn:80/aac_longjinggb/playlist.m3u8
+梅河口综合,http://stream3.jlntv.cn:80/aac_mhkgb/playlist.m3u8
+桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+桦甸综合,http://stream9.jlntv.cn:80/aac_huadiangb/playlist.m3u8
+磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8?_upt=e05f429d1702757565
+磐石综合,http://stream3.jlntv.cn:80/aac_psgb/sd/live.m3u8
+东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+东丰综合,http://stream3.jlntv.cn:80/aac_dfgb/playlist.m3u8
+双辽综合,http://stream3.jlntv.cn:80/aac_slgb/playlist.m3u8
+辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8?_upt=db16d5e41702758050
+柳河综合,http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8
+通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+通化县综合,http://stream3.jlntv.cn:80/aac_thxgb/playlist.m3u8
+汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?_upt=eb80947d1699080781
 
 湖北,#genre#
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
@@ -681,6 +707,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 兰州文旅,webview://https://www.lzr.com.cn/folder25/folder26/folder30/
 甘南综合,https://rmplive.hljtv.com/live/gannan.m3u8
 武威凉州,http://lishiwan.xicp.net:8563/udp/239.255.36.106:8231
+甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
+甘肃都市,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
 
 内蒙古,#genre#
 内蒙古卫视,webview://https://www.nmtv.cn/liveTv
@@ -925,7 +953,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
-山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/psh8sVm.m3u8
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/5sq4R0W.m3u8
 黄河卫视,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/othcs1m.m3u8
 山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/g51djs0.m3u8
 山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/z4idms7.m3u8
@@ -953,6 +981,20 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 长子综合,http://live.njgdmm.com/changzhi/cztv2.m3u8
 柳林综合,http://pili-live-rtmp.212.i2863.com/i2863-212/live_212_336940.m3u8?zshanxd
+万荣综合,http://60.222.246.220:19433/hls1.m3u8
+五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd&amp;quot;
+太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
+山西影视,http://60.223.224.176:8888/newlive/live/hls/54/live.m3u8
+平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
+怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
+怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
+武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
+汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
+祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
+闻喜综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
+阳曲综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
+黎城综合,http://111.53.96.67:8081/live/1/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+
 陕西,#genre#
 陕西卫视,webview://http://live.snrtv.com/star
 陕西新闻资讯,webview://http://live.snrtv.com/1
