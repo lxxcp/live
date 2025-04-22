@@ -59,6 +59,7 @@ CCTV央视文化精品,webview://https://yangshipin.cn/tv/home?pid=600099653
 CCTV央视台球,webview://https://yangshipin.cn/tv/home?pid=600099652
 CCTV电视指南,webview://https://yangshipin.cn/tv/home?pid=600099656
 CCTV卫生健康,webview://https://yangshipin.cn/tv/home?pid=600099651
+
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
@@ -223,20 +224,6 @@ BRTV体育休闲,http://124.222.114.206/bjtv.php?id=bjty
 BRTV生活,http://124.222.114.206/bjtv.php?id=bjsh
 BRTV新闻,http://124.222.114.206/bjtv.php?id=bjxw
 BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
-BRTV新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
-北京卫视,webview://https://www.btime.com//btv//btvws_index
-BRTV文艺,webview://https://www.btime.com//btv//btvwy_index
-BRTV纪实科教,webview://https://www.btime.com//btv//btvkj_index
-BRTV体育休闲,webview://https://www.btime.com//btv//btvdajs_index
-BRTV影视,webview://https://www.btime.com//btv//btvys_index
-BRTV财经,webview://https://www.btime.com//btv//btvcj_index
-BRTV生活,webview://https://www.btime.com//btv//btvsh_index
-BRTV新闻,webview://https://www.btime.com//btv//btvxw_index
-BRTV卡酷少儿,webview://https://www.btime.com//btv//btvse_index
-云南卫视,https://tvlive.yntv.cn/live/yunnanweishi/chunks_dvr_range-1745301900-3780.m3u8?wsSecret=6c9e719a8e8b19934069bc37b520e6dc&wsTime=1745304766
-云南都市,https://tvlive.yntv.cn/live/yunnandushi/chunks_dvr_range-1745303520-6180.m3u8?wsSecret=c1d6596805aa231f35300618c24e93b9&wsTime=1745304824
 
 上海,#genre#
 东方卫视,webview://https://live.kankanews.com/huikan?id=1
