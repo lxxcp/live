@@ -972,11 +972,11 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/5sq4R0W.m3u8
-黄河卫视,http://tv.haoqu99.com/3/shan-xi/huanghxw.html
-山西经济与科技,http://tv.haoqu99.com/3/shan-xi/shanxijj.html
-山西影视,http://tv.haoqu99.com/3/shan-xi/shanxiys.html
-山西社会与法治,http://tv.haoqu99.com/3/shan-xi/shanxikejiao.html
-山西文体生活,http://tv.haoqu99.com/3/shan-xi/shanxigg.html
+黄河卫视,webview://http://tv.haoqu99.com/3/shan-xi/huanghxw.html
+山西经济与科技,webview://http://tv.haoqu99.com/3/shan-xi/shanxijj.html
+山西影视,webview://http://tv.haoqu99.com/3/shan-xi/shanxiys.html
+山西社会与法治,webview://http://tv.haoqu99.com/3/shan-xi/shanxikejiao.html
+山西文体生活,webview://http://tv.haoqu99.com/3/shan-xi/shanxigg.html
 太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
 大同新闻综合,webview://https://www.dtradio.com.cn/local/folder25
 阳泉新闻综合,webview://https://www.yqrtv.com/folder74/folder139?id=10
