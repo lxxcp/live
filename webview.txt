@@ -1064,8 +1064,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 福建公共,webview://https://live.fjtv.net/ggpd/
 福建经济,webview://https://live.fjtv.net/jspd/
 海峡卫视,webview://https://www.fjtv.net/folder526/folder536/
-夏门1套,webview://https://https://live1b.kxm.xmtv.cn/xm1bf/tvzb/live.m3u8
-夏门2套,webview://https://live1b.kxm.xmtv.cn/xm2bf/playlist.m3u8
+厦门1套,webview://https://https://live1b.kxm.xmtv.cn/xm1bf/tvzb/live.m3u8
+厦门2套,webview://https://live1b.kxm.xmtv.cn/xm2bf/playlist.m3u8
 福州新闻综合,https://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州生活,webview://https://www.zohi.tv/app/tv/804
 福州少儿,https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
