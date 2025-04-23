@@ -723,8 +723,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 兰州文旅,webview://https://www.lzr.com.cn/folder25/folder26/folder30/
 甘南综合,https://rmplive.hljtv.com/live/gannan.m3u8
 武威凉州,http://lishiwan.xicp.net:8563/udp/239.255.36.106:8231
-甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
-甘肃都市,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
 
 内蒙古,#genre#
 内蒙古卫视,webview://https://www.nmtv.cn/liveTv
@@ -982,13 +980,14 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
-山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/5sq4R0W.m3u8
-黄河卫视,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/4tl4e0m.m3u8
-山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/w419400.m3u8
-山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/f4iM450.m3u8
-山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/gdp4y00.m3u8
-山西文体生活,https://livehhhttps.sxrtv.com/lsdream/Y00Xezi/800/o19Y400.m3u8
-
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/m2sh84V.m3u8
+黄河卫视,webview://https://www.sxrtv.com/ac83955e-65bf-46d0-92e2-a808e319674b
+黄河卫视,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/l2thc41.m3u8
+山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/d71dj40.m3u8
+山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/w6idm47.m3u8
+山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/12dis45.m3u8
+山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/qojg4pm.m3u8
+太原新闻综合,https://citymlive.sxrtv.com/live/sxtymlive.m3u8
 太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
 大同新闻综合,webview://https://www.dtradio.com.cn/local/folder25
 阳泉新闻综合,webview://https://www.yqrtv.com/folder74/folder139?id=10
@@ -1191,9 +1190,9 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 阿坝州新闻综合,webview://http://www.aba-news.com.cn/#/dashboard
 达州新闻综合,webview://https://www.dzrm.cn/cms/tv
 达州文化生活,webview://https://www.dzrm.cn/cms/tv/13560089?
-达州新闻综合,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel104234/playlist.m3u8?_t=1745321098370
-达州文化生活,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel104727/playlist.m3u8?_t=1745321070158
-达州通州,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel105011/playlist.m3u8?_t=1745320974977
+达州新闻综合,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel104234/playlist.m3u8
+达州文化生活,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel104727/playlist.m3u8
+达州通州,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel105011/playlist.m3u8
 
 广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 广元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
@@ -1231,7 +1230,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 达州新闻综合,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
 达州文化生活,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
-达州通川,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
+达州通州,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
 南部新闻综合,http://pili-live-rtmp.148.i2863.com/i2863-148/live_148_811389.m3u8
 黑水新闻综合,http://live.schstv.com:90/live/xwzh.m3u8
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
