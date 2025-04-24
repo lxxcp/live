@@ -1118,6 +1118,11 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 
 云南,#genre#
 云南卫视,webview://https://www.yntv.cn/live.html
+云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
+云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
+云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
+云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
+康旅频道,https://hwapi.yntv.net/62hdvf/227q43.m3u8
 昆明教育电视台,webview://https://kmjy.kmetv.com/application/tenma01ds_tvradio/view/web/#/
 丽江新闻综合,webview://https://www.lijiang.cn/live/
 红河新闻综合,webview://https://www.hh.cn/ynhhzMini/site/tv
