@@ -735,10 +735,18 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 泰安综合,webview://http://www.1545ts.com/tatv/contents/113/1.html
 泰安经济生活,webview://http://www.1545ts.com/tatv/contents/113/2.html
 菏泽新闻综合,webview://http://www.hznet.tv/live/
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 枣庄新闻综合,webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/#/tv
 枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8
 济宁新闻综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
+临沂综合,webview://https://www.ilinyi.net/cms/tv/1020403
+临沂公共,webview://https://www.ilinyi.net/cms/tv/1020769
+临沂经济,webview://https://www.ilinyi.net/cms/tv/36417907
+临沂综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
+临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+临沂经济,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
+
 甘肃,#genre#
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml#
 甘肃卫视,https://hls.gstv.com.cn/skt649/479u8o.m3u8
@@ -1234,8 +1242,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 甘孜新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
-临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
-临沂经济,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 金川乡村,https://m3u8channel-yc.yunxya.com/nmip-media/channellive/channel100103/playlist.m3u8
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
