@@ -1228,8 +1228,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 达州文化生活,webview://https://www.dzrm.cn/cms/tv/13560089?
 达州新闻综合,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel104234/playlist.m3u8
 达州文化生活,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel104727/playlist.m3u8
-达州通州,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel105011/playlist.m3u8
-
+达州通川,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel105011/playlist.m3u8
 广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 广元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
@@ -1266,7 +1265,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 达州新闻综合,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
 达州文化生活,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
-达州通州,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
+达州通川,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
 南部新闻综合,http://pili-live-rtmp.148.i2863.com/i2863-148/live_148_811389.m3u8
 黑水新闻综合,http://live.schstv.com:90/live/xwzh.m3u8
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
