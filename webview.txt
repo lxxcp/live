@@ -559,7 +559,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 荆州新闻综合,webview://http://m-jingzhou.cjyun.org/dszb
 咸宁新闻综合,webview://https://app.cjyun.org.cn/video/videojs/index?site_id=10140&id=91&page=canvas&live_type=1
 咸宁经济生活,webview://https://app.cjyun.org.cn/video/videojs/index?site_id=10140&id=80&page=canvas&live_type=1
-荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 荆门科教文旅,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰经济旅游,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
@@ -579,7 +579,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 孝感孝昌综合,http://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1735660799-0-0-886396e7a9ce6f90ecdbfdf669624539
 孝感应城综合,http://yingcheng-live21.cjyun.org/10135/s10135-YCZH.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-683be43745bd3709006be7b43135de61
 孝感应城综合,http://yingcheng-live21.cjyun.org/10135/s10135-YCZH.m3u8?auth_key=1735660799-0-0-b43106dd66cd5d9c827699f0b0204306
-荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-2bb0015980b1b3742cea1d78f13eb6ca
+荆州新闻综合,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-2bb0015980b1b3742cea1d78f13eb6ca
 荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-7dff02969ff316d795ac73c86747fd05
 荆州松滋综合,http://songzi-live21.cjyun.org/10194/s10194-songzi-tv1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-388ba0519fa8a2846925a78282f2aa1f
 襄阳谷城综合,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-b8eee5fa844d684da58e16386fdc88c8
