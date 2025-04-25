@@ -311,13 +311,13 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 
 江西,#genre#
 江西卫视,webview://https://www.jxntv.cn/live/#/
-江西都市,webview://https://www.jxntv.cn/live/#/jxtv2
-江西经济生活,webview://https://www.jxntv.cn/live/#/jxtv3
-江西影视旅游,webview://https://www.jxntv.cn/live/#/jxtv4
-江西公共农业,webview://https://www.jxntv.cn/live/#/jxtv5
-江西少儿,webview://https://www.jxntv.cn/live/#/jxtv6
-江西新闻,webview://https://www.jxntv.cn/live/#/jxtv7
-江西移动,webview://https://www.jxntv.cn/live/#/jxtv8
+江西都市,webview://http://tv.haoqu99.com/3/jiangxi/jiangxtv2.html
+江西经济生活,webview://http://tv.haoqu99.com/3/jiangxi/jiangxtv3.html
+江西影视旅游,webview://http://tv.haoqu99.com/3/jiangxi/jiangxtv4.html
+江西公共农业,webview://http://tv.haoqu99.com/3/jiangxi/jiangxtv5.html
+江西少儿,webview://http://tv.haoqu99.com/3/jiangxi/jiangxtv6.html
+江西新闻,webview://http://tv.haoqu99.com/3/jiangxi/jiangxtv7.html
+江西移动,webview://http://tv.haoqu99.com/3/jiangxi/jiangxtv8.html
 南昌新闻综合,webview://https://www.nctv.net.cn/live?channel=1
 南昌都市,webview://https://www.nctv.net.cn/live?channel=2
 南昌资讯,webview://https://www.nctv.net.cn/live?channel=3
