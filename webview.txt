@@ -1069,6 +1069,17 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8?zshanxd
 壶关电视台,http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8?zshanxd
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
+太原新闻综合,https://tytv-hls.sxtygdy.com/49VAfrw/500/o6oe9gA.m3u8
+太原经济生活,https://tytv-hls.sxtygdy.com/u8BmT6h/500/l4rg8gm.m3u8
+太原社会法制,https://tytv-hls.sxtygdy.com/phsry3e/500/319khgr.m3u8
+太原影视,https://tytv-hls.sxtygdy.com/J4EX72D/500/i8uc4gX.m3u8,
+太原文体,https://tytv-hls.sxtygdy.com/rk8Z088/500/359gkgZ.m3u8
+太原城市生活,https://tytv-hls.sxtygdy.com/i88rmGU/500/844h8gr.m3u8
+太原佰乐购物,https://tytv-hls.sxtygdy.com/iancgyD/500/skkagcm.m3u8
+太原教育,https://tytv-hls.sxtygdy.com/g4XtSCF/500/c40h4gt.m3u8
+大同新闻综合,https://live.dtradio.com.cn/xwzh/sd/live.m3u8?_upt=e29f14181745559083
+大同公共,https://live.dtradio.com.cn/ggpd/sd/live.m3u8?_upt=56c7d8d61745559052
+大同生活,https://live.dtradio.com.cn/mdsh/sd/live.m3u8?_upt=724fa3591745558974
 
 陕西,#genre#
 陕西卫视,webview://http://live.snrtv.com/star
