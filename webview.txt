@@ -337,8 +337,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 九江教育,webview://https://www.jjntv.cn/live?id=jjfz
 宜春综合,webview://https://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=610897459610271744
 宜春公共,webview://http://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=636127231831396352
-抚州综合,webview://https://www.zgfznews.com/fzzt/zt23/Fzsp/#t6
-抚州公共,webview://https://www.zgfznews.com/fzzt/zt23/Fzsp/#t6
+
 抚州综合,https://api.zgfznews.com/fztv/zonghe.m3u8
 抚州公共,https://api.zgfznews.com/fztv/gonggong.m3u8
 
