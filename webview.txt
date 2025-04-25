@@ -558,7 +558,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 十堰经济旅游,webview://https://www.syiptv.com/tv?station_id=3
 十堰新闻,webview://http://52zb.online/xzb/sytv.php?id=1
 十堰经济旅游,webview://http://52zb.online/xzb/sytv.php?id=3
-荆门新闻,webview://https://www.jmtv.com.cn/folder48/folder50/folder62
+荆门新闻综合,webview://https://www.jmtv.com.cn/folder48/folder50/folder62
 孝感新闻综合,webview://https://share.xgrb.cn/live_detail?newsid=25009136_xgrb
 孝感生活,webview://https://share.xgrb.cn/live_detail?newsid=25009684_xgrb
 黄冈新闻综合,webview://http://m-huanggang.cjyun.org/zhibo?2022
