@@ -1333,11 +1333,11 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 哈密2,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 哈密1,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
 哈密3,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
-可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 兵团十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd
 兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
-巴音郭楞州综合,http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
+巴音郭楞综合,http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
+巴音郭楞维语,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 兵团卫视,webview://https://www.btzx.com.cn/special/bofang/btzxjmd/index.shtml
 兵团卫视,webview://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
 
