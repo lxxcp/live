@@ -741,6 +741,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 潍坊影视综艺,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
 潍坊科教文化,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
 聊城综合,webview://http://www.lcxw.cn/kands/
+聊城综合,http://file.lcxw.cn/nmip-media/channellive/channel101173/playlist.m3u8
+聊城民生,http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8
 泰安综合,webview://http://live.1545ts.net/zhibotatv1.html
 泰安经济生活,webview://http://live.1545ts.net/zhibotatv2.html
 泰安综合,webview://http://www.1545ts.com/tatv/contents/113/1.html
@@ -1028,14 +1030,12 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
-山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/k3sh8gV.m3u8
-黄河卫视,webview://http://tv.haoqu99.com/3/shan-xi/huanghxw.html
-黄河卫视,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/j3thcg1.m3u8
-山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/b81djg0.m3u8
-山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/u7idmg7.m3u8
-山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/z2di4g5.m3u8
-山西文体生活,https://livehhhttps.sxrtv.com/lsdream/Y00Xezi/800/359g0gX.m3u8
-
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/usqjR0W.m3u8
+黄河卫视,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/ttlje0m.m3u8
+山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/l51wj00.m3u8
+山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/45iMj50.m3u8
+山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/9dpjy00.m3u8
+山西文体生活,https://livehhhttps.sxrtv.com/lsdream/Y00Xezi/800/d29Yj00.m3u8
 太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
 太原新闻综合,webview://https://web.wx.sztv.com.cn/cms/rmt2018/23/23mbdszb/index.shtml
 大同新闻综合,webview://https://www.dtradio.com.cn/local/folder25
@@ -1074,7 +1074,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 壶关电视台,http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8?zshanxd
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 太原新闻综合,https://tytv-hls.sxtygdy.com/49VAfrw/500/o6oe9gA.m3u8
-太原经济生活,https://tytv-hls.sxtygdy.com/u8BmT6h/500/l4rg8gm.m3u8
+太原经济生活,https://tytv-hls.sxtygdy.com/u8BmT6h/500/q4rg84m.m3u8
 太原社会法制,https://tytv-hls.sxtygdy.com/phsry3e/500/319khgr.m3u8
 太原影视,https://tytv-hls.sxtygdy.com/J4EX72D/500/i8uc4gX.m3u8,
 太原文体,https://tytv-hls.sxtygdy.com/rk8Z088/500/359gkgZ.m3u8
@@ -1082,8 +1082,12 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 太原佰乐购物,https://tytv-hls.sxtygdy.com/iancgyD/500/skkagcm.m3u8
 太原教育,https://tytv-hls.sxtygdy.com/g4XtSCF/500/c40h4gt.m3u8
 大同新闻综合,https://live.dtradio.com.cn/xwzh/sd/live.m3u8?_upt=e29f14181745559083
+大同新闻综合,https://live.dtradio.com.cn/xwzh/playlist.m3u8
 大同公共,https://live.dtradio.com.cn/ggpd/sd/live.m3u8?_upt=56c7d8d61745559052
-大同生活,https://live.dtradio.com.cn/mdsh/sd/live.m3u8?_upt=724fa3591745558974
+大同公共,https://live.dtradio.com.cn/ggpd/playlist.m3u8
+大同生活,https://live.dtradio.com.cn/mdsh/sd/live.m3u8?_upt=5429b24e1745650816
+大同生活,https://live.dtradio.com.cn/mdsh/playlist.m3u8
+
 
 陕西,#genre#
 陕西卫视,webview://http://live.snrtv.com/star
@@ -1307,6 +1311,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 
 西藏,#genre#
+
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=683d557347365c484e459c2c5dcbc28e&time=680b43fc
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏藏语,https://tv.vtibet.cn/live/r31M7Qa5hm7wrP.m3u8?secret=faf80f47ff456b6e85d7628dc693377f&time=680b4425
