@@ -192,7 +192,7 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 肇庆综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88904
 中山综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88905
 珠海综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88906
-
+东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #荔枝网,#genre#
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
@@ -248,6 +248,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 五星体育,webview://https://m.kankanews.com/huikan/10
 上海教育,webview://https://www.setv.sh.cn/#/tvshow
 湖南,#genre#
+湖南卫视,webview://http://m.345iptv.com/?act=play&token=23c14885b87d5c033ebbd1b7f20fde52&tid=ws&id=1
 湖南经视,webview://https://live.mgtv.com/?channelId=280
 湖南电影,webview://https://live.mgtv.com/?channelId=221
 湖南娱乐,webview://https://live.mgtv.com/?channelId=344
@@ -1176,6 +1177,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 西宁新闻综合,webview://https://www.xntv.tv/xnxwpd
 西宁生活服务,webview://https://www.xntv.tv/xnshpd
 安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 青神综合,http://lmt.scqstv.com/live1/live1.m3u8
 青神综合,http://lmt.scqstv.com:80/live1/live1.m3u8
 化隆综合,https://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
@@ -1364,6 +1366,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 巴音郭楞维语,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 兵团卫视,webview://https://www.btzx.com.cn/special/bofang/btzxjmd/index.shtml
 兵团卫视,webview://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
+兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 天津,#genre#
 天津卫视,webview://https://yangshipin.cn/tv/home?pid=600152137
