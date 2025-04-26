@@ -1238,12 +1238,12 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 四川,#genre#
 四川科教,webview://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
 四川乡村,webview://https://scxc.sctv.com/html/c0111/2024/04/09/1777534112104497154_share.html
-四川影视,webview://http://m.345iptv.com/?act=play&token=87621a1f0cfb032bbee2575144541f9a&tid=itv&id=287
+四川影视文艺,webview://http://m.345iptv.com/?act=play&token=87621a1f0cfb032bbee2575144541f9a&tid=itv&id=287
 四川新闻,http://m.345iptv.com/?act=play&token=a52cc2bd779a6e71330dfc44641ff66c&tid=itv&id=288
-四川旅游,http://m.345iptv.com/?act=play&token=b3b49299666bdd2045800cc27a59d86d&tid=itv&id=289
+四川文化旅游,http://m.345iptv.com/?act=play&token=b3b49299666bdd2045800cc27a59d86d&tid=itv&id=289
 四川经济,http://m.345iptv.com/?act=play&token=32d9851f37bc4159fd5c07c18b9dea56&tid=itv&id=290
 四川乡村,http://m.345iptv.com/?act=play&token=f575832141f77be791c23e93c05e976b&tid=itv&id=291
-四川老少,http://m.345iptv.com/?act=play&token=ebf5c625a12c74fa2f41950d60696657&tid=itv&id=292
+四川妇女儿童,http://m.345iptv.com/?act=play&token=ebf5c625a12c74fa2f41950d60696657&tid=itv&id=292
 康巴卫视,webview://https://www.kangbatv.com/zb_22587/
 成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html
 成都新闻综合,webview://https://cando.cditv.cn/show-192-1-1.html
