@@ -531,7 +531,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 商丘永城新闻,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 安阳内黄综合,http://live.dxhmt.cn:9081/tv/10527-1.m3u8
 安阳内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
-安阳新闻,http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
+安阳新闻综合,http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
 安阳林州综合,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
 安阳林州综合,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
 安阳汤阴综合,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
@@ -579,11 +579,11 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 洛阳新安综合,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
 洛阳新安综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
 洛阳新闻综合,https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
+洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 洛阳栾川综合,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
 洛阳栾川综合,http://tvpull.dxhmt.cn:9081/tv/10324-1.m3u8
 洛阳汝阳综合,http://live.dxhmt.cn:9081/tv/10326-1.m3u8
 洛阳汝阳综合,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
-洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 济源一套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 济源一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 渑池新闻综合,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
@@ -650,8 +650,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 吉林图们,http://stream6.jlntv.cn/tm/playlist.m3u8
 吉林大安新闻,http://stream6.jlntv.cn/da/playlist.m3u8
 吉林市综合,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
+吉林市综合,https://stream2.jlntv.cn/jilin1/sd/live.m3u8
 吉林德惠综合,http://stream11.jlntv.cn/dehuitv/playlist.m3u8
-吉林新闻综合,https://stream2.jlntv.cn/jilin1/sd/live.m3u8
 吉林松原扶余,http://stream6.jlntv.cn/fy/playlist.m3u8
 吉林柳河综合,http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8
 吉林柳河综合,http://stream5.jlntv.cn/lh/playlist.m3u8
@@ -673,7 +673,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 吉林靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
 吉林龙井综合,http://stream8.jlntv.cn/ljtv/playlist.m3u8
 吉林龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8
-四平新闻综合,https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=2ea51c5c1743066817
+四平综合,https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=2ea51c5c1743066817
 四平综合,webview://http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
 延边卫视,https://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
 延边卫视,https://stream2.jlntv.cn/jlyb/sd/live.m3u8?_upt=c270566b1743067014
