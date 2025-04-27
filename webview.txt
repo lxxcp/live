@@ -1254,9 +1254,9 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 七台河新闻综合,https://rmplive.hljtv.com/live/qitaihe.m3u8
 七台河新闻综合,rtmp://masterpull.hljtv.com/live/9FZ7k2XF
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
-七台河民生,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
-佳木斯新闻,https://masterpull.hljtv.com/live/l9wQtsVs.m3u8
+七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
+佳木斯新闻综合,https://masterpull.hljtv.com/live/l9wQtsVs.m3u8
 勃利综合,https://masterpull.hljtv.com/live/6rx9bifO.m3u8
 勃利综合,https://rmplive.hljtv.com/live/boli.m3u8
 呼玛综合,https://masterpull.hljtv.com/live/yN3vDovm.m3u8
@@ -1280,9 +1280,9 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
 哈尔滨通河综合,https://masterpull.hljtv.com/live/b71kCDir.m3u8
 哈尔滨通河综合,https://rmplive.hljtv.com/live/tonghe.m3u8
-大兴安岭新闻,https://masterpull.hljtv.com/live/H2kVyS15.m3u8
-大兴安岭新闻,https://rmplive.hljtv.com/live/daxinganling.m3u8
-大兴安岭新闻,rtmp://masterpull.hljtv.com/live/H2kVyS15
+大兴安岭新闻综合,https://masterpull.hljtv.com/live/H2kVyS15.m3u8
+大兴安岭新闻综合,https://rmplive.hljtv.com/live/daxinganling.m3u8
+大兴安岭新闻综合,rtmp://masterpull.hljtv.com/live/H2kVyS15
 嫩江综合,https://masterpull.hljtv.com/live/hrSfaA6T.m3u8
 宁安综合,https://masterpull.hljtv.com/live/BV2wr0vH.m3u8
 宁安综合,https://rmplive.hljtv.com/live/ningan.m3u8
@@ -1301,14 +1301,14 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 漠河综合,https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
 漠河综合,https://rmplive.hljtv.com/live/mohe.m3u8
 漠河综合,rtmp://masterpull.hljtv.com/live/rlVvbTZN
-牡丹江新闻,https://masterpull.hljtv.com/live/newLqQS9Lcp.m3u8
-牡丹江新闻,rtmp://masterpull.hljtv.com/live/newLqQS9Lcp
+牡丹江新闻综合,https://masterpull.hljtv.com/live/newLqQS9Lcp.m3u8
+牡丹江新闻综合,rtmp://masterpull.hljtv.com/live/newLqQS9Lcp
 穆棱综合,https://masterpull.hljtv.com/live/5c9Mi3FV.m3u8
 穆棱综合,https://rmplive.hljtv.com/live/muleng.m3u8
 穆棱综合,rtmp://masterpull.hljtv.com/live/5c9Mi3FV
-绥化新闻,https://masterpull.hljtv.com/live/v4o2g1hs.m3u8
-绥化新闻,https://rmplive.hljtv.com/live/suihua.m3u8
-绥化新闻,rtmp://masterpull.hljtv.com/live/v4o2g1hs
+绥化新闻综合,https://masterpull.hljtv.com/live/v4o2g1hs.m3u8
+绥化新闻综合,https://rmplive.hljtv.com/live/suihua.m3u8
+绥化新闻综合,rtmp://masterpull.hljtv.com/live/v4o2g1hs
 绥芬河综合,https://masterpull.hljtv.com/live/pXxFNIbi.m3u8
 绥芬河综合,https://rmplive.hljtv.com/live/suifenhe.m3u8
 绥芬河综合,rtmp://masterpull.hljtv.com/live/pXxFNIbi
@@ -1319,14 +1319,14 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 铁力综合,https://masterpull.hljtv.com/live/iUtbDFud.m3u8
 铁力综合,https://rmplive.hljtv.com/live/tieli.m3u8
 铁力综合,rtmp://masterpull.hljtv.com/live/iUtbDFud
-鸡西新闻,https://masterpull.hljtv.com/live/uqFwlQDH.m3u8
+鸡西新闻综合,https://masterpull.hljtv.com/live/uqFwlQDH.m3u8
 鹤岗新闻综合,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 鹤岗新闻综合,https://masterpull.hljtv.com/live/rApKWXbX.m3u8
 鹤岗新闻综合,https://rmplive.hljtv.com/live/hegang.m3u8
 鹤岗新闻综合,rtmp://masterpull.hljtv.com/live/rApKWXbX
-黑河新闻,https://masterpull.hljtv.com/live/iyoENgSP.m3u8
-黑河新闻,https://rmplive.hljtv.com/live/heihe.m3u8
-黑河新闻,rtmp://masterpull.hljtv.com/live/iyoENgSP
+黑河新闻综合,https://masterpull.hljtv.com/live/iyoENgSP.m3u8
+黑河新闻综合,https://rmplive.hljtv.com/live/heihe.m3u8
+黑河新闻综合,rtmp://masterpull.hljtv.com/live/iyoENgSP
 黑龙江东宁综合,https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
 黑龙江东宁综合,https://rmplive.hljtv.com/live/dongning.m3u8
 黑龙江东宁综合,rtmp://masterpull.hljtv.com/live/UQdxnsw8
@@ -1355,10 +1355,10 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 黑龙江嘉荫综合,https://rmplive.hljtv.com/live/jiayin.m3u8
 黑龙江塔河综合,https://masterpull.hljtv.com/live/qXrATpGj.m3u8
 黑龙江塔河综合,https://rmplive.hljtv.com/live/tahe.m3u8
-黑龙江大庆新闻,rtmp://masterpull.hljtv.com/live/4WdrZLCq
-黑龙江大庆新闻,https://masterpull.hljtv.com/live/4WdrZLCq.m3u8
-黑龙江大庆新闻,https://stream.hrbtv.net/zxpd/sd/live.m3u8
-黑龙江大庆新闻,rtmp://masterpull.hljtv.com/live/4WdrZLCq
+大庆新闻综合,rtmp://masterpull.hljtv.com/live/4WdrZLCq
+大庆新闻综合,https://masterpull.hljtv.com/live/4WdrZLCq.m3u8
+大庆新闻综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
+大庆新闻综合,rtmp://masterpull.hljtv.com/live/4WdrZLCq
 黑龙江孙吴综合,https://masterpull.hljtv.com/live/eXFjvNaf.m3u8
 黑龙江孙吴综合,https://rmplive.hljtv.com/live/sunwu.m3u8
 黑龙江孙吴综合,rtmp://masterpull.hljtv.com/live/eXFjvNaf
@@ -1403,8 +1403,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 黑龙江龙江综合,https://masterpull.hljtv.com/live/vRSdDMSR.m3u8
 黑龙江龙江综合,https://rmplive.hljtv.com/live/longjiang.m3u8
 黑龙江龙江综合,rtmp://masterpull.hljtv.com/live/vRSdDMSR
-齐齐哈尔新闻,https://rmplive.hljtv.com/live/qiqihaer.m3u8
-齐齐哈尔新闻,rtmp://masterpull.hljtv.com/live/dUi8b96l
+齐齐哈尔新闻综合,https://rmplive.hljtv.com/live/qiqihaer.m3u8
+齐齐哈尔新闻综合,rtmp://masterpull.hljtv.com/live/dUi8b96l
 
 广西,#genre#
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
@@ -1416,7 +1416,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 广西国际,webview://https://www.bbrtv.com/guangxi_tv_international.html
 广西移动电视,webview://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
 南宁新闻综合,webview://https://www.nntv.cn/live/nntv_xw/
-南宁文旅生活,webview://https://www.nntv.cn/live/nntv_ds/
+南宁都市文旅生活,webview://https://www.nntv.cn/live/nntv_ds/
 南宁影视娱乐,webview://https://www.nntv.cn/live/nntv_ys/
 南宁公共,webview://https://www.nntv.cn/live/nntv_gg/
 桂林新闻综合,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=33
@@ -1496,7 +1496,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 大同公共,https://live.dtradio.com.cn/ggpd/sd/live.m3u8?_upt=56c7d8d61745559052
 大同新闻综合,https://live.dtradio.com.cn/xwzh/sd/live.m3u8?_upt=e29f14181745559083
 大同生活,https://live.dtradio.com.cn/mdsh/sd/live.m3u8?_upt=5429b24e1745650816
-太原佰乐购物,https://tytv-hls.sxtygdy.com/iancgyD/500/skkagcm.m3u8
+太原佰乐购,https://tytv-hls.sxtygdy.com/iancgyD/500/skkagcm.m3u8
 太原城市生活,https://tytv-hls.sxtygdy.com/i88rmGU/500/844h8gr.m3u8
 太原影视,https://tytv-hls.sxtygdy.com/J4EX72D/500/i8uc4gX.m3u8,
 太原教育,https://tytv-hls.sxtygdy.com/g4XtSCF/500/c40h4gt.m3u8
@@ -1561,13 +1561,13 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 西安商务资讯,https://xatv-yt.xiancity.cn/live/3/index.m3u8
 西安丝路,http://xatv-yt.xiancity.cn/live/5/index.m3u8
 西安丝路,https://xatv-yt.xiancity.cn/live/5/index.m3u8
-西安戏剧,http://xatv-yt.xiancity.cn/live/4/index.m3u8
+西安戏剧戏剧,http://xatv-yt.xiancity.cn/live/4/index.m3u8
+西安影视戏剧,https://xatv-yt.xiancity.cn/live/4/index.m3u8
 西安新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8
 西安新闻综合,http://xatv-yt.xiancity.cn/live/1/index.m3u8
 西安新闻综合,https://xatv-yt.xiancity.cn/live/1/index.m3u8
 西安移动,http://xatv-yt.xiancity.cn/live/7/index.m3u8
 西安移动,https://xatv-yt.xiancity.cn/live/7/index.m3u8
-西安影视戏剧,https://xatv-yt.xiancity.cn/live/4/index.m3u8
 
 海南,#genre#
 海南卫视,webview://http://tc.hnntv.cn/
@@ -1669,6 +1669,9 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 怒江综合,webview://https://www.nujiang.cn/html/video/tv/
 西双版纳综合,http://m3u8channel.xsbnrtv.cn/nmip-media/channellive/channel106885/playlist.m3u8
 文山州新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv?zyund
+文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+文山新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
 云南陇川综合,https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
 易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
 云南麻栗坡电视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
@@ -1679,9 +1682,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 怒江综合,https://stream1.freetv.fun/55330bb71b81fc445e69cc1884a984dad2db2831b43df385c4a99d67258e0212.m3u8
 曲靖综合,http://channel.qjrb.cn/nmip-media/channellive/channel124906/playlist.m3u8
 瑞丽综合,http://channel.rlrmtzx.com/nmip-media/channellive/channel100728/playlist.m3u8
-文山公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
-文山新闻,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
-文山新闻,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 
 四川,#genre#
 四川科教,webview://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
@@ -1777,7 +1777,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 德阳罗江新闻,http://pull.luojiangrongmei.com/ljds/ljtv.m3u8
 攀枝花文旅生活,https://live.pzhkai.com/wlshtl/sd/live.m3u8
 攀枝花新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8
-文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
@@ -1868,6 +1867,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 和田,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=11&page=canvas&live_type=1
 兵团卫视,webview://https://www.btzx.com.cn/special/bofang/btzxjmd/index.shtml
 兵团卫视,webview://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
+石河子新闻综合,webview://https://www.shznews.com/TV.html
 五家渠综合,https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
 伊犁阿勒泰新闻,https://play-a2.quklive.com/live/1640945211435051.m3u8
 克拉玛依1,http://klmysjtzb.rcsxzx.com/hls/klmy1.m3u8
@@ -1898,10 +1898,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 巴音郭楞维语,rtmp://tv.loulannews.cn/channellive/ch3
 巴音郭楞教育,rtmp://tv.loulannews.cn/channellive/ch4
 巴音郭楞教育,http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
-石河子影视,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
-石河子影视,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
-石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
-石河子新闻,http://124.88.144.73:1935/live/xwzh/chunklist_w1510433093.m3u8
+石河子新闻综合,http://124.88.144.73:1935/live/xwzh/chunklist_w1510433093.m3u8
+石河子新闻综合,https://www.shznews.com/ds/xwzh/chunklist_w1134579999.m3u8
 天津,#genre#
 天津卫视,webview://https://yangshipin.cn/tv/home?pid=600152137
 滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
