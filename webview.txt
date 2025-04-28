@@ -100,6 +100,7 @@ CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CCTV6,webview://https://www.1905.com/cctv6/live/
 每经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
+重温经典,webview://http://tv.zimtv.cn/8009.html?ch=hot
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://ali.hlspull.yximgs.com:80/live/awei_cwjd.flv
