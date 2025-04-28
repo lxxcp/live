@@ -100,7 +100,7 @@ CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CCTV6,webview://https://www.1905.com/cctv6/live/
 每经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
-重温经典,webview://http://tv.zimtv.cn/8009.html?ch=hot
+重温经典,https://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://ali.hlspull.yximgs.com:80/live/awei_cwjd.flv
@@ -1464,7 +1464,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/usqjR0W.m3u8
-黄河卫视,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/ttlje0m.m3u8
+黄河卫视,webview://http://tv.zimtv.cn/1302.html?ch=sx
+黄河卫视,https://tv.zimtv.cn/tvplayer4.php?id=1302
 山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/l51wj00.m3u8
 山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/45iMj50.m3u8
 山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/9dpjy00.m3u8
@@ -1684,7 +1685,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 四川新闻,http://m.345iptv.com/?act=play&token=a52cc2bd779a6e71330dfc44641ff66c&tid=itv&id=288
 四川文化旅游,http://m.345iptv.com/?act=play&token=b3b49299666bdd2045800cc27a59d86d&tid=itv&id=289
 四川经济,http://m.345iptv.com/?act=play&token=32d9851f37bc4159fd5c07c18b9dea56&tid=itv&id=290
-四川乡村,http://m.345iptv.com/?act=play&token=f575832141f77be791c23e93c05e976b&tid=itv&id=291
+四川乡村,http://scxclivepull.sctvcloud.com/live/c0b8c1c3018e1000e51198d100000000/playlist.m3u8?wsSecret=d7fe3c032dfeb8716b018da595d34a4a&wsTime=1745806576
 四川妇女儿童,http://m.345iptv.com/?act=play&token=ebf5c625a12c74fa2f41950d60696657&tid=itv&id=292
 康巴卫视,webview://https://www.kangbatv.com/zb_22587/
 成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html
