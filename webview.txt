@@ -1465,7 +1465,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/usqjR0W.m3u8
 黄河卫视,webview://http://tv.zimtv.cn/1302.html?ch=sx
-黄河卫视,https://tv.zimtv.cn/tvplayer4.php?id=1302
+黄河卫视,https://tv.zimtv.cn/tvplayer4.php?id="1302"
 山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/l51wj00.m3u8
 山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/45iMj50.m3u8
 山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/9dpjy00.m3u8
