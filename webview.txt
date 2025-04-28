@@ -1464,11 +1464,11 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
 山西卫视,http://tv.zimtv.cn/tv/player.php?id=1301
-黄河卫视,webview://http://tv.zimtv.cn/1302.html
-山西经济与科技,webview://http://tv.zimtv.cn/sx-1303.html
-山西影视,webview://http://tv.zimtv.cn/sx-1305.html
-山西社会与法治,webview://http://tv.zimtv.cn/sx-1304.html
-山西文体生活,webview://http://tv.zimtv.cn/sx-1306.html
+黄河卫视,http://tv.zimtv.cn/tv/player.php?id=1302
+山西经济与科技,http://tv.zimtv.cn/tv/player.php?id=1303
+山西影视,http://tv.zimtv.cn/tv/player.php?id=1305
+山西社会与法治,http://tv.zimtv.cn/tv/player.php?id=1304
+山西文体生活,http://tv.zimtv.cn/tv/player.php?id=1306
 太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
 太原新闻综合,webview://https://web.wx.sztv.com.cn/cms/rmt2018/23/23mbdszb/index.shtml
 大同新闻综合,webview://https://www.dtradio.com.cn/local/folder25
