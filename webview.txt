@@ -412,6 +412,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 江西新闻,https://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?source=pc&t=&token=
 江西陶瓷,https://local-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8?source=pc&t=&token=
 风尚购物,https://local-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8?source=pc&t=&token=
+江西教育,webview://https://live.jxeduyun.com/lives/XlaoRd
 南昌新闻综合,webview://https://www.nctv.net.cn/live?channel=1
 南昌都市,webview://https://www.nctv.net.cn/live?channel=2
 南昌资讯,webview://https://www.nctv.net.cn/live?channel=3
@@ -456,6 +457,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 
 河南,#genre#
 河南卫视,webview://https://static.hntv.tv/kds/#/
+河南卫视,webview:// https://static.hntv.tv/total/television/?id=145
+河南都市,webview:// https://static.hntv.tv/total/television/?id=141
 河南电视剧,http://www.cdnstv.com:6398/hls/1113/index.m3u8
 河南新闻,http://www.cdnstv.com:6398/hls/1114/index.m3u8
 河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
