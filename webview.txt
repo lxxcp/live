@@ -632,13 +632,14 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 鹤壁淇县综合,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
 吉林,#genre#
 吉林卫视,webview://https://www.jlntv.cn/tv?id=104
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=162b3a30f0c5f3aea29ad6dacff3a652&txTime=6811A05E
 吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8?txSecret=1d6f4ef86e02e4f313a827ac96e5501b&txTime=680D04F7
-吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8?txSecret=1d6f4ef86e02e4f313a827ac96e5501b&txTime=680D04F7
-吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8?txSecret=1d6f4ef86e02e4f313a827ac96e5501b&txTime=680D04F7
-吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8?txSecret=1d6f4ef86e02e4f313a827ac96e5501b&txTime=680D04F7
-吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8?txSecret=1d6f4ef86e02e4f313a827ac96e5501b&txTime=680D04F7
-吉林综艺文化,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8?txSecret=1d6f4ef86e02e4f313a827ac96e5501b&txTime=680D04F7
+吉林都市,webview://blob:https://www.jlntv.cn/a3f6abb9-0aaf-463a-9c7e-144970076cf3
+吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8?txSecret=0fa0a576d1a7fae24042b27f3c9b2831&txTime=6811A6DB
+吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8?txSecret=0fa0a576d1a7fae24042b27f3c9b2831&txTime=6811A6DB
+吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8?txSecret=0fa0a576d1a7fae24042b27f3c9b2831&txTime=6811A6DB
+吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8?txSecret=0fa0a576d1a7fae24042b27f3c9b2831&txTime=6811A6DB
+吉林综艺文化,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/index.m3u8?txSecret=0fa0a576d1a7fae24042b27f3c9b2831&txTime=6811A6DB
 东丰综合,http://stream3.jlntv.cn:80/aac_dfgb/playlist.m3u8
 东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 吉林东丰综合,http://stream5.jlntv.cn/df/playlist.m3u8
@@ -704,7 +705,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8?_upt=e05f429d1702757565
 荆州石首综合,http://p8.vzan.com/slowlive/622923977748489779/live.m3u8
 辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-辽源新闻综合,http://tvbox6.icu/tv/jlntv.php?id=lyxwzh
 辽源新闻综合,https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 通化新闻综合,https://live-master.jlntv.cn/thhd/sd/live.m3u8?_upt=d47e1e2a1743418704
 长春市民生活,https://p2bj.vzan.com/slowlive/317775187203351257/live.m3u8
@@ -715,6 +715,9 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 长春综合,https://stream2.jlntv.cn/jlcc/sd/live.m3u8?_upt=5f130ed71743082723
 长春综合,webview://https://chinactv.com/live/1442880654565093377.html
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
+吉林新闻综合,https://stream2.jlntv.cn/jilin1/sd/live.m3u8
+松源新闻综合,https://stream2.jlntv.cn/sytv/sd/live.m3u8
+
 
 湖北,#genre#
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
