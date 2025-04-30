@@ -907,6 +907,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 山东,#genre#
 山东卫视,webview://https://v.iqilu.com/live/sdtv/
 山东齐鲁,webview://https://v.iqilu.com/live/qlpd/
+山东齐鲁,https://240excfx8000x1001x0x0x0x91-streamlive302iqilucom.wslivehls.com/streamlive302.iqilu.com/21/767eca75005048169bcfa9a081d1636a/playlist.m3u8?n=667edbe1a83803b237b2e0b4e37cd580&m=1745986653&wsSession=23932dd026dbfc119cb1c3d3-174598665351311&wsIPSercert=9feee685d4a2e91fd98400956cfc62b9&wsiphost=local&wsBindIP=1
 山东新闻,webview://https://v.iqilu.com/live/ggpd/
 山东农科,webview://https://v.iqilu.com/live/nkpd/
 山东少儿,webview://https://v.iqilu.com/live/sepd/
