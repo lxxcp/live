@@ -1,3 +1,4 @@
+# catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 央视卫视,#genre#
 CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
 CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
@@ -627,6 +628,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 鹤壁淇县综合,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
 吉林,#genre#
 吉林卫视,webview://https://www.jlntv.cn/tv?id=104
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=926971a0733868eb59cbcc7230802262&txTime=6818B6F0
 吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=993a8b81690cddbb450b27578bca030f&txTime=6811AE28
 吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8?txSecret=0fa0a576d1a7fae24042b27f3c9b2831&txTime=6811A6DB
 吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8?txSecret=0fa0a576d1a7fae24042b27f3c9b2831&txTime=6811A6DB
@@ -782,7 +784,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 南京少儿,webview://https://www.nbs.cn/live/?id=110095
 徐州新闻综合,webview://http://www.wifixz.com/tv/
 盐城新闻综合,webview://https://www.0515yc.cn/folder147/folder148/folder156/
-盐城新闻综合,https://live1yc.0515yc.cn/ycyt01/sd/live.m3u8
 常州新闻综合,webview://https://www.zhong5.cn/channel.html
 铜川综合,webview://https://www.tcsrm.cn/tvradio/tczhpd.html
 铜川公共,webview://https://www.tcsrm.cn/tvradio/tcggpd.html
@@ -822,7 +823,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 徐州睢宁三农,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.flv
 徐州睢宁三农,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
 徐州睢宁三农,rtmp://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn
-徐州睢宁综合,http://3739115311.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=TwMAAPjPskOkJ6kX&secondToken=secondToken%3AjegfwzYXwUE9HzG7kRfhCd81WMU&streamid=suining-tv%3Asuining-tv%2Fsuiningzh&v3=1&zjiangsd=
 徐州睢宁综合,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
 徐州睢宁综合,http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8
 徐州睢宁综合,rtmp://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh
@@ -837,7 +837,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
 无锡移动,webview://https://live.wifiwx.com/m2/?page=live&id=494#/pkgA/pages/live/live?id=494
-无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
@@ -864,10 +863,11 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 盐城东台,http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8
 盐城东台,rtmp://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe
 盐城响水综合,http://xiangshui-tv-hls.cm.jstv.com/xiangshui-tv/xiangshuizh.m3u8
+盐城新闻综合,https://live1yc.0515yc.cn/ycyt01/sd/live.m3u8
 盐城城市公共,https://live1yc.0515yc.cn/ycet02/sd/live.m3u8
+盐城法制生活,https://live1yc.0515yc.cn/ycst03/sd/live.m3u8
 盐城大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 盐城大丰新闻,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
-盐城法制生活,https://live1yc.0515yc.cn/ycst03/sd/live.m3u8
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 苏州吴江新闻综合,https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
@@ -890,7 +890,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 山东,#genre#
 山东卫视,webview://https://v.iqilu.com/live/sdtv/
 山东齐鲁,webview://https://v.iqilu.com/live/qlpd/
-山东齐鲁,https://240excfx8000x1001x0x0x0x91-streamlive302iqilucom.wslivehls.com/streamlive302.iqilu.com/21/767eca75005048169bcfa9a081d1636a/playlist.m3u8?n=667edbe1a83803b237b2e0b4e37cd580&m=1745986653&wsSession=23932dd026dbfc119cb1c3d3-174598665351311&wsIPSercert=9feee685d4a2e91fd98400956cfc62b9&wsiphost=local&wsBindIP=1
 山东新闻,webview://https://v.iqilu.com/live/ggpd/
 山东农科,webview://https://v.iqilu.com/live/nkpd/
 山东少儿,webview://https://v.iqilu.com/live/sepd/
@@ -1425,7 +1424,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 贺州综合,rtmp://zhz.gxhzxw.com:2935/live/HZXW-HD
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
-黄河卫视,webview://http://tv.zimtv.cn/1302.html?ch=sx
+黄河卫视,webview://http://tv.zimtv.cn/1302.html
 山西经济与科技,webview://http://tv.zimtv.cn/1303.html?ch=sx
 山西影视,webview://http://tv.zimtv.cn/1305.html?ch=sx
 山西社会与法治,webview://http://tv.zimtv.cn/1304.html?ch=sx
@@ -1444,7 +1443,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 长治新闻综合,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=21
 长治公共,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=22
 长治科教法治,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=23
-万荣综合,http://60.222.246.220:19433/hls1.m3u8
 五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd&amp;quot;
 古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 壶关电视台,http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8?zshanxd
@@ -1592,7 +1590,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 西宁生活服务,webview://https://www.xntv.tv/xnshpd
 安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
 安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 青海化隆综合,https://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
 青海化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
 大通电视台,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8?_upt=02a2775a1622806317
