@@ -162,13 +162,6 @@ GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 广州影视,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3006
 广州法治,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3004
 广州南国都市,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3003
-佛山顺德,webview://http://p.123tv.cn/p/gdfs.php?id=fssd
-佛山公共,webview://http://p.123tv.cn/p/gdfs.php?id=fsgg
-佛山影视,webview://http://p.123tv.cn/p/gdfs.php?id=fsys
-佛山高明,webview://http://p.123tv.cn/p/gdfs.php?id=fsgm
-佛山三水,webview://http://p.123tv.cn/p/gdfs.php?id=fsss
-佛山综合,webview://http://p.123tv.cn/p/gdfs.php?id=fszh
-佛山南海,webview://http://p.123tv.cn/p/gdfs.php?id=fsnh
 江门综合,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=2
 江门侨乡生活,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
 东莞新闻综合,webview://https://dgrtv.sun0769.com/index.php/online2/4
@@ -215,6 +208,13 @@ GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
+佛山顺德,http://p.123tv.cn/p/gdfs.php?id=fssd
+佛山公共,http://p.123tv.cn/p/gdfs.php?id=fsgg
+佛山影视,http://p.123tv.cn/p/gdfs.php?id=fsys
+佛山高明,http://p.123tv.cn/p/gdfs.php?id=fsgm
+佛山三水,http://p.123tv.cn/p/gdfs.php?id=fsss
+佛山综合,http://p.123tv.cn/p/gdfs.php?id=fszh
+佛山南海,http://p.123tv.cn/p/gdfs.php?id=fsnh
 佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
 佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
 佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
