@@ -1694,6 +1694,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 眉山综合,webview://https://www.scmstv.cn/web/folder88/folder89/folder91/
 眉山文旅乡村,webview://https://www.scmstv.cn/web/folder88/folder89/folder92/
 资阳新闻综合,webview://https://www.zyrb.com.cn/#/bD074b747F
+资阳新闻综合,webview://https://www.zyrb.com.cn/#/bD074b747F?pkey=bD074b747F
 甘孜新闻综合,webview://https://www.ganzitv.com/cms/tv/1027139
 阿坝州新闻综合,webview://http://www.aba-news.com.cn/#/dashboard
 达州新闻综合,webview://https://www.dzrm.cn/cms/tv
