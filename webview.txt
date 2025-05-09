@@ -1447,7 +1447,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 山西经济与科技,webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxijj
 山西影视,webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxiys
 山西社会与法治,webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxifz
-山西文体生活,webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxwt
+山西文体生活,webview://http://p.ytelc.com/1691/shanxi/shanxi.php?id=shanxwt
 黄河卫视,webview://http://p.ytelc.com/1691/shanxi/shanxi.php?id=huanghe
 
 黄河卫视,webview://http://tv.zimtv.cn/1302.html
