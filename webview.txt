@@ -454,6 +454,20 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 垫江综合,http://play-sh.quklive.com/live/1672366847646284.m3u8
 
 河南,#genre#
+河南卫视,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv1
+河南都市,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv2
+河南民生,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv3
+河南法治,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv4
+河南电视剧,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv5
+河南新闻,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv6
+河南欢腾购物,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv7
+河南公共,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv8
+河南乡村,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv9
+武术世界,webview://http://p.ytelc.com/1691/henan/henan.php?id=wssj
+河南睛彩中原,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv11
+梨园频道,webview://http://p.ytelc.com/1691/henan/henan.php?id=liyuan
+文物宝库,webview://http://p.ytelc.com/1691/henan/henan.php?id=wwbk
+河南移动戏曲,webview://http://p.ytelc.com/1691/henan/henan.php?id=ydxq
 河南卫视,webview://https://static.hntv.tv/kds/#/
 河南卫视,webview:// https://static.hntv.tv/total/television/?id=145
 河南电视剧,http://www.cdnstv.com:6398/hls/1113/index.m3u8
@@ -611,14 +625,17 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 郑州登封综合,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
 郑州登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
 驻马店上蔡一套,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
+驻马店新闻综合,webview://https://kgkfpvvzb.vzan.com/live/page/1085533011?v=1745480237000
 驻马店公共,webview://https://kgkfpvvzb.vzan.com/live/page/1835926220?v=1745480323000
+驻马店科教,webview://https://kgkfpvvzb.vzan.com/live/page/1245953367?v=1745480345000
+驻马店新闻综合,http://tvlive.zmdtvw.cn/live/106770611978226682/index.m3u8
+驻马店公共,http://tvlive.zmdtvw.cn/live/8395198981051753732/index.m3u8
+驻马店科教,http://tvlive.zmdtvw.cn/live/5927138998607870056/index.m3u8
 驻马店平舆综合,http://live.dxhmt.cn:9081/tv/11723-1.m3u8
 驻马店新蔡综合,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
 驻马店新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
-驻马店新闻综合,webview://https://kgkfpvvzb.vzan.com/live/page/1085533011?v=1745480237000
 驻马店泌阳综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
 驻马店确山综合,http://live.dxhmt.cn:9081/tv/11725-1.m3u8
-驻马店科教,webview://https://kgkfpvvzb.vzan.com/live/page/1245953367?v=1745480345000
 驻马店西平综合,http://live.dxhmt.cn:9081/tv/11721-1.m3u8
 驻马店遂平综合,http://live.dxhmt.cn:9081/tv/11728-1.m3u8
 驻马店遂平综合,http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
@@ -626,6 +643,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 鹤壁浚县一套,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
 鹤壁淇县综合,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
 鹤壁淇县综合,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
+浉河广电中心,webview://https://wap.xytv.cn/share/page/tvLive?tvid=5&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=e61a40bfa9414965984a6dcea76b3c60
+平桥广电中心,webview://https://wap.xytv.cn/share/page/tvLive?tvid=4&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=26c2c106d4b34cbcade8fb115eb5e51e
 吉林,#genre#
 吉林卫视,webview://https://www.jlntv.cn/tv?id=104
 吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=26dc615e2ea54cfe6838f3752a5b7170&txTime=6819A1B3
@@ -1424,6 +1443,13 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 贺州综合,rtmp://zhz.gxhzxw.com:2935/live/HZXW-HD
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
+山西卫视,webview://http://p.ytelc.com/1691/shanxi/shanxi.php?id=shanxi
+山西经济,webview://http://p.ytelc.com/1691/shanxi/shanxi.php?id=shanxijj
+山西影视,webview://http://p.ytelc.com/1691/shanxi/shanxi.php?id=shanxiys
+山西社会与法制,webview://http://p.ytelc.com/1691/shanxi/shanxi.php?id=shanxifz
+山西文体生活,webview://http://p.ytelc.com/1691/shanxi/shanxi.php?id=shanxiwt
+黄河卫视,webview://http://p.ytelc.com/1691/shanxi/shanxi.php?id=huanghe
+
 黄河卫视,webview://http://tv.zimtv.cn/1302.html
 山西经济与科技,webview://http://tv.zimtv.cn/1303.html?ch=sx
 山西影视,webview://http://tv.zimtv.cn/1305.html?ch=sx
