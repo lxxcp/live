@@ -454,20 +454,20 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 垫江综合,http://play-sh.quklive.com/live/1672366847646284.m3u8
 
 河南,#genre#
-河南卫视,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv1
-河南都市,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv2
-河南民生,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv3
-河南法治,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv4
-河南电视剧,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv5
-河南新闻,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv6
-河南欢腾购物,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv7
-河南公共,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv8
-河南乡村,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv9
-武术世界,webview://http://p.ytelc.com/1691/henan/henan.php?id=wssj
-河南睛彩中原,webview://http://p.ytelc.com/1691/henan/henan.php?id=hntv11
-梨园频道,webview://http://p.ytelc.com/1691/henan/henan.php?id=liyuan
-文物宝库,webview://http://p.ytelc.com/1691/henan/henan.php?id=wwbk
-河南移动戏曲,webview://http://p.ytelc.com/1691/henan/henan.php?id=ydxq
+河南卫视,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv1
+河南都市,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv2
+河南民生,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv3
+河南法治,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv4
+河南电视剧,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv5
+河南新闻,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv6
+河南欢腾购物,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv7
+河南公共,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv8
+河南乡村,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv9
+武术世界,webview://http://p.ytelc.com/169l/henan/henan.php?id=wssj
+河南睛彩中原,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv11
+梨园频道,webview://http://p.ytelc.com/169l/henan/henan.php?id=liyuan
+文物宝库,webview://http://p.ytelc.com/169l/henan/henan.php?id=wwbk
+河南移动戏曲,webview://http://p.ytelc.com/169l/henan/henan.php?id=ydxq
 河南卫视,webview://https://static.hntv.tv/kds/#/
 河南卫视,webview:// https://static.hntv.tv/total/television/?id=145
 河南电视剧,http://www.cdnstv.com:6398/hls/1113/index.m3u8
@@ -1443,9 +1443,9 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 贺州综合,rtmp://zhz.gxhzxw.com:2935/live/HZXW-HD
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
-山西卫视,webview://http://p.ytelc.com/1691/shanxi/shanxi.php?id=shanxi
-山西经济,webview://http://p.ytelc.com/1691/shanxi/shanxi.php?id=shanxijj
-山西影视,webview://http://p.ytelc.com/1691/shanxi/shanxi.php?id=shanxiys
+山西卫视,webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxi
+山西经济与科技,webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxijj
+山西影视,webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxiys
 山西社会与法制,webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxifz
 山西文体生活,webview://http://p.ytelc.com/1691/shanxi/shanxi.php?id=shanxiwt
 黄河卫视,webview://http://p.ytelc.com/1691/shanxi/shanxi.php?id=huanghe
