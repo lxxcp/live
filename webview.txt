@@ -1,25 +1,5 @@
 # catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 央视卫视,#genre#
-CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
-CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
-CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/
-CCTV-4 中文国际,webview://https://tv.cctv.com/live/cctv4/
-CCTV-5 体育,webview://https://tv.cctv.com/live/cctv5/
-CCTV-5+ 体育赛事,webview://https://tv.cctv.com/live/cctv5plus/
-CCTV-6 电影,webview://https://tv.cctv.com/live/cctv6/
-CCTV-7 国防军事,webview://https://tv.cctv.com/live/cctv7/
-CCTV-8 电视剧,webview://https://tv.cctv.com/live/cctv8/
-CCTV-9 纪录,webview://https://tv.cctv.com/live/cctvjilu/
-CCTV-10 科教,webview://https://tv.cctv.com/live/cctv10/
-CCTV-11 戏曲,webview://https://tv.cctv.com/live/cctv11/
-CCTV-12 社会与法,webview://https://tv.cctv.com/live/cctv12/
-CCTV-13 新闻,webview://https://tv.cctv.com/live/cctv13/
-CCTV-14 少儿,webview://https://tv.cctv.com/live/cctvchild/
-CCTV-15 音乐,webview://https://tv.cctv.com/live/cctv15/
-CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
-CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
-CCTV-4 中文国际欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
-CCTV-4 中文国际美洲,webview://https://tv.cctv.com/live/cctvamerica/
 CCTV4K 超高清,webview://https://yangshipin.cn/tv/home?pid=600002264
 CCTV8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816
 CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859
@@ -41,6 +21,26 @@ CCTV-15 音乐,webview://https://yangshipin.cn/tv/home?pid=600001815
 CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637
 CCTV-16 奥林匹克-4K,webview://https://yangshipin.cn/tv/home?pid=600099502
 CCTV-17 农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810
+CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
+CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
+CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/
+CCTV-4 中文国际,webview://https://tv.cctv.com/live/cctv4/
+CCTV-5 体育,webview://https://tv.cctv.com/live/cctv5/
+CCTV-5+ 体育赛事,webview://https://tv.cctv.com/live/cctv5plus/
+CCTV-6 电影,webview://https://tv.cctv.com/live/cctv6/
+CCTV-7 国防军事,webview://https://tv.cctv.com/live/cctv7/
+CCTV-8 电视剧,webview://https://tv.cctv.com/live/cctv8/
+CCTV-9 纪录,webview://https://tv.cctv.com/live/cctvjilu/
+CCTV-10 科教,webview://https://tv.cctv.com/live/cctv10/
+CCTV-11 戏曲,webview://https://tv.cctv.com/live/cctv11/
+CCTV-12 社会与法,webview://https://tv.cctv.com/live/cctv12/
+CCTV-13 新闻,webview://https://tv.cctv.com/live/cctv13/
+CCTV-14 少儿,webview://https://tv.cctv.com/live/cctvchild/
+CCTV-15 音乐,webview://https://tv.cctv.com/live/cctv15/
+CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
+CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
+CCTV-4 中文国际欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
+CCTV-4 中文国际美洲,webview://https://tv.cctv.com/live/cctvamerica/
 CGTN,webview://https://yangshipin.cn/tv/home?pid=600014550
 CGTN纪录,webview://https://yangshipin.cn/tv/home?pid=600084781
 CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
@@ -99,10 +99,10 @@ CETV-2 空中课堂,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb4
 CETV-4 职业教育,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-CCTV6,webview://https://www.1905.com/cctv6/live/
+CCTV-6 电影,webview://https://www.1905.com/cctv6/live/
 每经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
+每经AI电视,webview://https://www.nbd.com.cn/corp/nbd_live/dist/index.html#/PC?id=3645
 重温经典,https://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://ali.hlspull.yximgs.com:80/live/awei_cwjd.flv
 
@@ -806,8 +806,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 徐州新闻综合,webview://http://www.wifixz.com/tv/
 盐城新闻综合,webview://https://www.0515yc.cn/folder147/folder148/folder156/
 常州新闻综合,webview://https://www.zhong5.cn/channel.html
-铜川综合,webview://https://www.tcsrm.cn/tvradio/tczhpd.html
-铜川公共,webview://https://www.tcsrm.cn/tvradio/tcggpd.html
 张家港新闻综合,webview://http://jrwx.zjgonline.com.cn/ysz_share/share/index_share.html?contentType=tvlive&channelId=1&mmsurl=http://mms.zjgonline.com.cn:8080/mms4.5&token=lgijnojhrspoywsk
 张家港民生,webview://http://jrwx.zjgonline.com.cn/ysz_share/share/index_share.html?contentType=tvlive&channelId=2&mmsurl=http://mms.zjgonline.com.cn:8080/mms4.5&token=lgijnojhrspoywsk
 淮安综合,webview://https://glive.habctv.com/tv/803?uin=1610
