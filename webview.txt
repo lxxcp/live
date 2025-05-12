@@ -981,8 +981,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 武威天祝,rtmp://play.kankanlive.com/live/1656487214793905
 武威综合,https://play.kankanlive.com/live/1693539781636986.m3u8
 甘南汉语,webview://http://gnrtv.cn/display.php?id=96
-甘南藏语,webview://http://gnrtv.cn/display.php?id=14950
-甘南文化,http://play.kankanlive.com/live/1720408280309109.m3u8
 甘南综合,https://masterpull.hljtv.com/live/YbFyF4Jb.m3u8
 甘南综合,https://rmplive.hljtv.com/live/gannan.m3u8
 甘南综合,rtmp://masterpull.hljtv.com/live/YbFyF4Jb
@@ -1000,8 +998,10 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 白银文化教育,https://play.kankanlive.com/live/1720408280309109.m3u8
-陇南公共,https://play.kankanlive.com/live/1709171893138901.m3u8
+白银文化教育,http://play.kankanlive.com/live/1720408280309109.m3u8
 陇南综合,https://play.kankanlive.com/live/1709171819929902.m3u8
+陇南公共,https://play.kankanlive.com/live/1709171893138901.m3u8
+
 内蒙古,#genre#
 内蒙古卫视,webview://https://www.nmtv.cn/liveTv
 内蒙古卫视,http://52zb.work/nmg.php?id=nmws
