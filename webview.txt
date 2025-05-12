@@ -980,6 +980,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 武威天祝,https://play.kankanlive.com/live/1656487214793905.m3u8
 武威天祝,rtmp://play.kankanlive.com/live/1656487214793905
 武威综合,https://play.kankanlive.com/live/1693539781636986.m3u8
+甘南汉语,webview://http://gnrtv.cn/display.php?id=96
+甘南藏语,webview://http://gnrtv.cn/display.php?id=14950
 甘南文化,http://play.kankanlive.com/live/1720408280309109.m3u8
 甘南综合,https://masterpull.hljtv.com/live/YbFyF4Jb.m3u8
 甘南综合,https://rmplive.hljtv.com/live/gannan.m3u8
@@ -993,7 +995,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 甘肃渭源综合,https://play.kankanlive.com/live/1701943385631927.m3u8
 甘肃西峰电视台,http://play.kankanlive.com/live/1683944827526991.m3u8
 白银会宁综合,https://play.kankanlive.com/live/1721783897283302.m3u8
-白银景泰,http://play.kankanlive.com/live/1624439143745981.flv
 白银景泰,http://play.kankanlive.com/live/1624439143745981.m3u8
 白银景泰,https://play.kankanlive.com/live/1624439143745981.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
