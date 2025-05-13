@@ -361,7 +361,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 娄底综合,webview://http://www.ldntv.cn/folder51/folder154/folder171
 郴州新闻综合,webview://https://www.ngcz.tv/folder83/folder86
 郴州公共,webview://http://share.ngcz.tv/?_hgOutLink=live/livedetail&channel_id=30
-湖南南县综合,http://hnstnx.chinashadt.com:2037/live/10001.stream/playlist.m3u8
+
 
 河北,#genre#
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
