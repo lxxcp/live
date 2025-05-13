@@ -813,6 +813,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 南京江宁综合,http://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.flv
 南京江宁综合,http://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 南京江宁综合,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
+南通如东新闻,webview://https://www.rdxmt.com/pc.html?topid=54172
 南通如东新闻,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 南通都市生活,https://cm-live.ntjoy.com/live/4f3.m3u8
 句容新闻综合,http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
@@ -875,7 +876,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 溧水新闻综合,http://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 盐城东台,http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8
 盐城东台,rtmp://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe
-盐城响水综合,http://xiangshui-tv-hls.cm.jstv.com/xiangshui-tv/xiangshuizh.m3u8
 盐城新闻综合,https://live1yc.0515yc.cn/ycyt01/sd/live.m3u8
 盐城城市公共,https://live1yc.0515yc.cn/ycet02/sd/live.m3u8
 盐城法制生活,https://live1yc.0515yc.cn/ycst03/sd/live.m3u8
@@ -1925,7 +1925,6 @@ TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
 
 澳门,#genre#
 澳门Macau,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
