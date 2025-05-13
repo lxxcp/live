@@ -1913,13 +1913,11 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 凤凰资讯,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-翡翠台,https://cdn3.163189.xyz/live/j1/stream.m3u8
+TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
-翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-翡翠台,http://cdn.163189.xyz/live/fct4k/stream.m3u8
-华丽翡翠,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
+翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
 华视,rtmp://9hv9.mine.nu/sat/tv111
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,rtmp://60.248.77.83/sat/tv111
