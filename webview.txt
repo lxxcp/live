@@ -846,12 +846,12 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 扬州高邮综合,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 扬州江都综合,http://cm-wshls.homecdn.com/live/8c1.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
-无锡宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
-无锡宜兴紫砂,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
 无锡移动,webview://https://live.wifiwx.com/m2/?page=live&id=494#/pkgA/pages/live/live?id=494
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
+无锡宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+无锡宜兴紫砂,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
@@ -881,7 +881,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 盐城法制生活,https://live1yc.0515yc.cn/ycst03/sd/live.m3u8
 盐城大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 盐城大丰新闻,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
-苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 苏州吴江新闻综合,https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
