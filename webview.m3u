@@ -1746,23 +1746,23 @@ http://zjtv-wshls.homecdn.com/live/2aa58.m3u8
 http://cm-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 group-title="江苏" tvg-name="镇江社会民生" tvg-logo="https://epg.112114.xyz/logo/镇江社会民生.png" epg-url="https://epg.112114.xyz/pp.xml",镇江社会民生
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-#EXTINF:-1 group-title="山东" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" epg-url="https://epg.112114.xyz/pp.xml" httpreferrer="https://v.iqilu.com/",山东卫视
+#EXTINF:-1 group-title="山东" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" epg-url="https://epg.112114.xyz/pp.xml" http-referrer="https://v.iqilu.com/",山东卫视
 webview://https://v.iqilu.com/live/sdtv/
-#EXTINF:-1 group-title="山东" tvg-name="山东齐鲁" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png" epg-url="https://epg.112114.xyz/pp.xml" httpreferrer="https://v.iqilu.com/",山东齐鲁
+#EXTINF:-1 group-title="山东" tvg-name="山东齐鲁" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png" epg-url="https://epg.112114.xyz/pp.xml" http-referrer="https://v.iqilu.com/",山东齐鲁
 webview://https://v.iqilu.com/live/qlpd/
-#EXTINF:-1 group-title="山东" tvg-name="山东新闻" tvg-logo="https://epg.112114.xyz/logo/山东新闻.png" epg-url="https://epg.112114.xyz/pp.xml" httpreferrer="https://v.iqilu.com/",山东新闻
+#EXTINF:-1 group-title="山东" tvg-name="山东新闻" tvg-logo="https://epg.112114.xyz/logo/山东新闻.png" epg-url="https://epg.112114.xyz/pp.xml" http-referrer="https://v.iqilu.com/",山东新闻
 webview://https://v.iqilu.com/live/ggpd/
-#EXTINF:-1 group-title="山东" tvg-name="山东农科" tvg-logo="https://epg.112114.xyz/logo/山东农科.png" epg-url="https://epg.112114.xyz/pp.xml" httpreferrer="https://v.iqilu.com/",山东农科
+#EXTINF:-1 group-title="山东" tvg-name="山东农科" tvg-logo="https://epg.112114.xyz/logo/山东农科.png" epg-url="https://epg.112114.xyz/pp.xml" http-referrer="https://v.iqilu.com/",山东农科
 webview://https://v.iqilu.com/live/nkpd/
-#EXTINF:-1 group-title="山东" tvg-name="山东少儿" tvg-logo="https://epg.112114.xyz/logo/山东少儿.png" epg-url="https://epg.112114.xyz/pp.xml" httpreferrer="https://v.iqilu.com/",山东少儿
+#EXTINF:-1 group-title="山东" tvg-name="山东少儿" tvg-logo="https://epg.112114.xyz/logo/山东少儿.png" epg-url="https://epg.112114.xyz/pp.xml" http-referrer="https://v.iqilu.com/",山东少儿
 webview://https://v.iqilu.com/live/sepd/
-#EXTINF:-1 group-title="山东" tvg-name="山东体育" tvg-logo="https://epg.112114.xyz/logo/山东体育.png" epg-url="https://epg.112114.xyz/pp.xml" httpreferrer="https://v.iqilu.com/",山东体育
+#EXTINF:-1 group-title="山东" tvg-name="山东体育" tvg-logo="https://epg.112114.xyz/logo/山东体育.png" epg-url="https://epg.112114.xyz/pp.xml" http-referrer="https://v.iqilu.com/",山东体育
 webview://https://v.iqilu.com/live/typd/
-#EXTINF:-1 group-title="山东" tvg-name="山东文旅" tvg-logo="https://epg.112114.xyz/logo/山东文旅.png" epg-url="https://epg.112114.xyz/pp.xml" httpreferrer="https://v.iqilu.com/",山东文旅
+#EXTINF:-1 group-title="山东" tvg-name="山东文旅" tvg-logo="https://epg.112114.xyz/logo/山东文旅.png" epg-url="https://epg.112114.xyz/pp.xml" http-referrer="https://v.iqilu.com/",山东文旅
 webview://https://v.iqilu.com/live/yspd/
-#EXTINF:-1 group-title="山东" tvg-name="山东生活" tvg-logo="https://epg.112114.xyz/logo/山东生活.png" epg-url="https://epg.112114.xyz/pp.xml" httpreferrer="https://v.iqilu.com/",山东生活
+#EXTINF:-1 group-title="山东" tvg-name="山东生活" tvg-logo="https://epg.112114.xyz/logo/山东生活.png" epg-url="https://epg.112114.xyz/pp.xml" http-referrer="https://v.iqilu.com/",山东生活
 webview://https://v.iqilu.com/live/shpd/
-#EXTINF:-1 group-title="山东" tvg-name="山东综艺" tvg-logo="https://epg.112114.xyz/logo/山东综艺.png" epg-url="https://epg.112114.xyz/pp.xml" httpreferrer="https://v.iqilu.com/",山东综艺
+#EXTINF:-1 group-title="山东" tvg-name="山东综艺" tvg-logo="https://epg.112114.xyz/logo/山东综艺.png" epg-url="https://epg.112114.xyz/pp.xml" http-referrer="https://v.iqilu.com/",山东综艺
 webview://https://v.iqilu.com/live/zypd/
 #EXTINF:-1 group-title="山东" tvg-name="青岛-1" tvg-logo="https://epg.112114.xyz/logo/青岛-1.png" epg-url="https://epg.112114.xyz/pp.xml",青岛-1
 webview://http://www.qtv.com.cn/live/tv/index.shtml
@@ -3088,11 +3088,11 @@ webview://http://web.ningxiahuangheyun.com/app/nxtv-tv/nxse
 webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxwl/
 #EXTINF:-1 group-title="宁夏" tvg-name="银川公共" tvg-logo="https://epg.112114.xyz/logo/银川公共.png" epg-url="https://epg.112114.xyz/pp.xml",银川公共
 webview://https://www.ycen.com.cn/zzgn/zhibo/
-#EXTINF:-1 group-title="宁夏" tvg-name="银川公共" tvg-logo="https://epg.112114.xyz/logo/银川公共.png" epg-url="https://epg.112114.xyz/pp.xml" htttpreferrer="https://www.qukanvideo.com/",银川公共
+#EXTINF:-1 group-title="宁夏" tvg-name="银川公共" tvg-logo="https://epg.112114.xyz/logo/银川公共.png" epg-url="https://epg.112114.xyz/pp.xml" http-referrer="https://www.qukanvideo.com/",银川公共
 webview://https://www.qukanvideo.com/cloud/h5/1731639141671136
-#EXTINF:-1 group-title="宁夏" tvg-name="银川生活" tvg-logo="https://epg.112114.xyz/logo/银川生活.png" epg-url="https://epg.112114.xyz/pp.xml" htttpreferrer="https://www.qukanvideo.com/",银川生活
+#EXTINF:-1 group-title="宁夏" tvg-name="银川生活" tvg-logo="https://epg.112114.xyz/logo/银川生活.png" epg-url="https://epg.112114.xyz/pp.xml" http-referrer="https://www.qukanvideo.com/",银川生活
 webview://https://www.qukanvideo.com/cloud/h5/1731638744888001
-#EXTINF:-1 group-title="宁夏" tvg-name="银川文体" tvg-logo="https://epg.112114.xyz/logo/银川文体.png" epg-url="https://epg.112114.xyz/pp.xml" htttpreferrer="https://www.qukanvideo.com/",银川文体
+#EXTINF:-1 group-title="宁夏" tvg-name="银川文体" tvg-logo="https://epg.112114.xyz/logo/银川文体.png" epg-url="https://epg.112114.xyz/pp.xml" http-referrer="https://www.qukanvideo.com/",银川文体
 webview://https://www.qukanvideo.com/cloud/h5/1728443786945132
 #EXTINF:-1 group-title="青海" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" epg-url="https://epg.112114.xyz/pp.xml",青海卫视
 webview://https://www.qhbtv.com/new_index/live/folder2646/
