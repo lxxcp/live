@@ -157,6 +157,7 @@ GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 深圳移动电视,webview://https://www.sztv.com.cn/pindao/index.html?id=7869
 深圳宜和购物,webview://https://www.sztv.com.cn/pindao/index.html?id=7878
 深圳国际,webview://https://www.sztv.com.cn/pindao/index.html?id=7944
+广州综合,webview://https://www.gztv.com/#/channel
 广州综合,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3000
 广州新闻,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3002
 广州影视,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3006
@@ -222,10 +223,7 @@ GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
 佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
 佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
-广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州影视,http://php.jdshipin.com:8880/iptv.php?id=gzys
 广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
-广州影视,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZHouYingShi
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=88ad17e0518f41980b392744d8ecbfc7&txTime=190def6e358
@@ -234,7 +232,6 @@ GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=d3dad1fd1a965ff59d3db3990b923267&txTime=18ee6e4efc1
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
 广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=074974bc25835d38fda6936ae40aabe9&txTime=193108637cb
-广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=0901a0ee80ee6b60f0731399e0de6c5d&txTime=191825f0639
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
@@ -245,7 +242,6 @@ GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=dd1b312cc1b5cbe9fad85bf5ddce4b10&txTime=190723b940c
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=f80e5b7654c57c7571a314d94befe320&txTime=19019c051d5
 广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=c53d0e4d014632321a8e0efd6abecda4&txTime=193108637cb
-广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6
@@ -257,10 +253,8 @@ GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=c846fc57afef4d1bf0b9146c81b1c4ef&txTime=18df7f0f64c
 广州竞赛,https://tencentplaywebsite.gztv.com/live/jingsai.m3u8?txSecret=cd5eb475078e689b230ada7df792e4de&txTime=193108637cb
-广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
-广州综合,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouZongHe
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=5d7708684007fcea395caff98369084c&txTime=19019c37743
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=6d9c0311929fc12857f6b810fab0188b&txTime=1913a3ed516
@@ -1535,7 +1529,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 西安商务资讯,https://xatv-yt.xiancity.cn/live/3/index.m3u8
 西安丝路,http://xatv-yt.xiancity.cn/live/5/index.m3u8
 西安丝路,https://xatv-yt.xiancity.cn/live/5/index.m3u8
-西安戏剧戏剧,http://xatv-yt.xiancity.cn/live/4/index.m3u8
+西安影视戏剧,http://xatv-yt.xiancity.cn/live/4/index.m3u8
 西安影视戏剧,https://xatv-yt.xiancity.cn/live/4/index.m3u8
 西安新闻综合,http://xatv-yt.xiancity.cn/live/1/index.m3u8
 西安新闻综合,https://xatv-yt.xiancity.cn/live/1/index.m3u8
@@ -1604,7 +1598,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 银川公共,https://play-sh13.quklive.com/live/1731639141671136.m3u8?auth_key=1747293172-2d85c2fd5a6c4ae980e425daf56d168b-0-9661aef30773dbd4cf47c6f75e794072
 银川生活,https://play-sh13.quklive.com/live/1731638744888001.m3u8?auth_key=1747293284-289902b5b6c84644b4eb700f7d52bc15-0-0547c28f0d30a36c0c92834895a9d203
 银川文体,https://play-sh13.quklive.com/live/1728443786945132.m3u8?auth_key=1747293253-b596b99e157748d08ce5ca47e0e65319-0-b9ce6aada66eeb2ff3b6fe69d6624276
-
 青海,#genre#
 青海卫视,webview://https://www.qhbtv.com/new_index/live/folder2646/
 青海经视,webview://https://www.qhbtv.com/new_index/live/folder2647/
