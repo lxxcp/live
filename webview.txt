@@ -937,8 +937,9 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 泰安经济生活,webview://http://live.1545ts.net/zhibotatv2.html
 泰安综合,webview://http://www.1545ts.com/tatv/contents/113/1.html
 泰安经济生活,webview://http://www.1545ts.com/tatv/contents/113/2.html
-菏泽新闻综合,webview://http://www.hznet.tv/live/
-菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+菏泽一套,webview://http://www.hznet.tv/live/hztv1_index.shtml
+菏泽一套,webview://http://wap.hznet.tv//hezeyitao.shtml
+菏泽一套,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 枣庄新闻综合,webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/#/tv
 枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8
 济宁新闻综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
