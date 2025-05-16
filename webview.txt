@@ -769,6 +769,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 荆州新闻综合,webview://http://m-jingzhou.cjyun.org/dszb
 咸宁新闻综合,webview://https://app.cjyun.org.cn/video/videojs/index?site_id=10140&id=91&page=canvas&live_type=1
 咸宁经济生活,webview://https://app.cjyun.org.cn/video/videojs/index?site_id=10140&id=80&page=canvas&live_type=1
+黄石新闻综合,webview://https://web.guangdianyun.tv/tv/3031?uin=3065
+黄石都市,webview://https://web.guangdianyun.tv/tv/3032?uin=3065
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰经济旅游,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
 咸宁新闻综合,http://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-fea9ed9b2105c8e66da382be47a0acae
@@ -799,6 +801,9 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 鄂州新闻综合,http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-0f99f7df9fd0d3fca9beca6bafa6b043
 黄石新闻综合,http://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-e22af05072c6fa8bc1fc35e042e97467
 黄石阳新新闻,http://yangxin-live21.cjyun.org/10104/s10104-yangxin-tv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-a27d99b67d0e39445f1df5ea6ad088ec
+襄阳综合,https://xiangyang-live21.cjyun.org/10125/s10125-education_hd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-58b7c654574766341cdd7ea5f4c8bc39
+襄阳公共,https://xiangyang-live21.cjyun.org/10125/s10125-education_hd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-58b7c654574766341cdd7ea5f4c8bc39
+襄阳经济生活,https://xiangyang-live21.cjyun.org/10125/s10125-society_hd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-f938b2a5f3375b9a43f5fa2ee62d484f
 
 江苏,#genre#
 江苏卫视,webview://https://live.jstv.com/?channelId=534
@@ -1573,6 +1578,12 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 银川公共,https://play-sh13.quklive.com/live/1731639141671136.m3u8?auth_key=1747293172-2d85c2fd5a6c4ae980e425daf56d168b-0-9661aef30773dbd4cf47c6f75e794072
 银川生活,https://play-sh13.quklive.com/live/1731638744888001.m3u8?auth_key=1747293284-289902b5b6c84644b4eb700f7d52bc15-0-0547c28f0d30a36c0c92834895a9d203
 银川文体,https://play-sh13.quklive.com/live/1728443786945132.m3u8?auth_key=1747293253-b596b99e157748d08ce5ca47e0e65319-0-b9ce6aada66eeb2ff3b6fe69d6624276
+宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
+宁夏经济,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxjj.m3u8
+宁夏少儿,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxse.m3u8
+宁夏卫视,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
+宁夏文旅,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxwl.m3u8
+
 青海,#genre#
 青海卫视,webview://https://www.qhbtv.com/new_index/live/folder2646/
 青海经视,webview://https://www.qhbtv.com/new_index/live/folder2647/
