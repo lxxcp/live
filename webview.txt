@@ -1,5 +1,25 @@
 # catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 央视卫视,#genre#
+CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
+CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
+CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/
+CCTV-4 中文国际,webview://https://tv.cctv.com/live/cctv4/
+CCTV-5 体育,webview://https://tv.cctv.com/live/cctv5/
+CCTV-5+ 体育赛事,webview://https://tv.cctv.com/live/cctv5plus/
+CCTV-6 电影,webview://https://tv.cctv.com/live/cctv6/
+CCTV-7 国防军事,webview://https://tv.cctv.com/live/cctv7/
+CCTV-8 电视剧,webview://https://tv.cctv.com/live/cctv8/
+CCTV-9 纪录,webview://https://tv.cctv.com/live/cctvjilu/
+CCTV-10 科教,webview://https://tv.cctv.com/live/cctv10/
+CCTV-11 戏曲,webview://https://tv.cctv.com/live/cctv11/
+CCTV-12 社会与法,webview://https://tv.cctv.com/live/cctv12/
+CCTV-13 新闻,webview://https://tv.cctv.com/live/cctv13/
+CCTV-14 少儿,webview://https://tv.cctv.com/live/cctvchild/
+CCTV-15 音乐,webview://https://tv.cctv.com/live/cctv15/
+CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
+CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
+CCTV-4 中文国际欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
+CCTV-4 中文国际美洲,webview://https://tv.cctv.com/live/cctvamerica/
 CCTV4K 超高清,webview://https://yangshipin.cn/tv/home?pid=600002264
 CCTV8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816
 CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859
@@ -21,26 +41,6 @@ CCTV-15 音乐,webview://https://yangshipin.cn/tv/home?pid=600001815
 CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637
 CCTV-16 奥林匹克-4K,webview://https://yangshipin.cn/tv/home?pid=600099502
 CCTV-17 农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810
-CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
-CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
-CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/
-CCTV-4 中文国际,webview://https://tv.cctv.com/live/cctv4/
-CCTV-5 体育,webview://https://tv.cctv.com/live/cctv5/
-CCTV-5+ 体育赛事,webview://https://tv.cctv.com/live/cctv5plus/
-CCTV-6 电影,webview://https://tv.cctv.com/live/cctv6/
-CCTV-7 国防军事,webview://https://tv.cctv.com/live/cctv7/
-CCTV-8 电视剧,webview://https://tv.cctv.com/live/cctv8/
-CCTV-9 纪录,webview://https://tv.cctv.com/live/cctvjilu/
-CCTV-10 科教,webview://https://tv.cctv.com/live/cctv10/
-CCTV-11 戏曲,webview://https://tv.cctv.com/live/cctv11/
-CCTV-12 社会与法,webview://https://tv.cctv.com/live/cctv12/
-CCTV-13 新闻,webview://https://tv.cctv.com/live/cctv13/
-CCTV-14 少儿,webview://https://tv.cctv.com/live/cctvchild/
-CCTV-15 音乐,webview://https://tv.cctv.com/live/cctv15/
-CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
-CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
-CCTV-4 中文国际欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
-CCTV-4 中文国际美洲,webview://https://tv.cctv.com/live/cctvamerica/
 CGTN,webview://https://yangshipin.cn/tv/home?pid=600014550
 CGTN纪录,webview://https://yangshipin.cn/tv/home?pid=600084781
 CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
@@ -248,11 +248,6 @@ GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=491c40d07978ba7046704a7844042ff6&txTime=19019f3714e
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=6d133e82b12055c11f9d50dab61aeb9d&txTime=19182c08de9
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=c180b67d43e34b97c970524c05ef3b4e&txTime=18ee6e4efc1
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=59f483a17f5bf8f0cfba52b845141caa&txTime=19182c077bb
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=c846fc57afef4d1bf0b9146c81b1c4ef&txTime=18df7f0f64c
-广州竞赛,https://tencentplaywebsite.gztv.com/live/jingsai.m3u8?txSecret=cd5eb475078e689b230ada7df792e4de&txTime=193108637cb
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
@@ -310,7 +305,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 上海嘉定,rtmp://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b
 上海嘉定,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 上海金山,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
-上海长宁,http://cnpull.sccnfb.com/live/123456.flv
 上海长宁,rtmp://cnpull.sccnfb.com/live/123456
 上海长宁,http://cnpull.sccnfb.com/live/123456.m3u8
 上海长宁,http://cnpull.sccnfb.com:80/live/123456.m3u8
@@ -999,7 +993,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 
 内蒙古,#genre#
 内蒙古卫视,webview://https://www.nmtv.cn/liveTv
-内蒙古卫视,http://52zb.work/nmg.php?id=nmws
 内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
@@ -1007,39 +1000,25 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
 内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
-内蒙古蒙语卫视,http://52zb.work/nmg.php?id=nmmyws
-内蒙古新闻综合,http://52zb.work/nmg.php?id=nmxwzh
-内蒙古经济生活,http://52zb.work/nmg.php?id=nmjjsh
-内蒙古少儿,http://52zb.work/nmg.php?id=nmse
-内蒙古文体娱乐,http://52zb.work/nmg.php?id=nmwtyl
-内蒙古农牧,http://52zb.work/nmg.php?id=nmnm
-内蒙古蒙语文化,http://52zb.work/nmg.php?id=nmwh
-乌海新闻综合,webview://http://h5.wuhainews.org.cn/front-cloudlive-manage-h5/index.html?id=656153032177844225
-乌海都市生活,webview://http://h5.wuhainews.org.cn/front-cloudlive-manage-h5/index.html?id=656154004388151296
+呼和浩特新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
+包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
+乌海新闻综合,https://livestream-bt.nmtv.cn/nmtv/2355general.m3u8?txSecret=c623c5c66e83e43b566ebe90f49c4b06&txTime=771E8800
+赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
+呼伦贝尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2356general.m3u8?txSecret=ff186bf3aac1022cd17068bcc0c78414&txTime=771E8800
+兴安盟新闻综合,https://livestream-bt.nmtv.cn/nmtv/2357general.m3u8?txSecret=9fa7524fa6e7380395e4a7a91bd3bcc8&txTime=771E8800
+通辽新闻综合,https://livestream-bt.nmtv.cn/nmtv/2353general.m3u8?txSecret=96a2008eff039ef4ad07179e367b838b&txTime=771E8800
+锡林郭勒新闻综合,https://livestream-bt.nmtv.cn/nmtv/2346general.m3u8?txSecret=4917fb7aee368c8f4d8099847182a791&txTime=771E8800
+乌兰察布新闻综合,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
+鄂尔多斯新闻综合,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
+巴彦淖尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
+阿拉善新闻综合,https://livestream-bt.nmtv.cn/nmtv/2347general.m3u8?txSecret=7516318a05754a7c1513eb01e1c66b77&txTime=771E8800
+乌海新闻综合,webview://http://h5.wuhainews.org.cn/front-cloudlive-manage-h5/index.html?id=656153032177844225#/
+乌海都市生活,webview://http://h5.wuhainews.org.cn/front-cloudlive-manage-h5/index.html?id=656154004388151296#/
 通辽新闻综合,webview://https://api.tongliaowang.com/jhxtapi/jhxt/Live/newsShow/id/22/nid/100009
 通辽城市服务,webview://https://api.tongliaowang.com/jhxtapi/jhxt/Live/newsShow/id/23/nid/100010
-通辽3,webview://https://api.tongliaowang.com/jhxtapi/jhxt/Live/newsShow/id/25/nid/100011
-98390a77c143a68f0fd64bfe6e181dcb&txTime=
-乌兰察布新闻综合,http://52zb.work/nmg.php?id=wlcb1
-乌兰察布新闻综合,http://pluslive.wrbtv.cn/xwzh/sd/live.m3u8
-乌兰察布新闻综合,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
-乌兰察布经济生活,http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
-乌兰察布经济生活,http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8
+通辽蒙语,webview://https://api.tongliaowang.com/jhxtapi/jhxt/Live/newsShow/id/25/nid/100011
 乌海新闻综合,http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
 乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
-兴安新闻综合,http://52zb.work/nmg.php?id=xa1
-包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
-呼和浩特新闻综合,http://52zb.work/nmg.php?id=hhht1
-呼和浩特新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
-巴彦淖尔新闻综合,http://52zb.work/nmg.php?id=byle1
-巴彦淖尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
-赤峰新闻综合,http://52zb.work/nmg.php?id=cf1
-赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-通辽新闻综合,http://52zb.work/nmg.php?id=tl1
-鄂尔多斯新闻综合,http://52zb.work/nmg.php?id=erds1
-鄂尔多斯新闻综合,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
-锡林郭勒新闻综合,http://52zb.work/nmg.php?id=xlgl1
-阿拉善新闻综合,http://52zb.work/nmg.php?id=als1
 
 浙江,#genre#
 浙江卫视,webview://https://www.cztv.com/liveTV/101
@@ -1455,7 +1434,7 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 临汾公共,webview://http://live2.lfgdw.cn/lfj2/lfj2.m3u8?auth_key=1737100315-0-0-d9f305436c8d56cd2015d6935d9bb6e0
 晋城新闻综合,webview://http://share.jinnews.com.cn/?_hgOutLink=live/livedetail&channel_id=5
 晋城文化生活,webview://http://share.jinnews.com.cn/?_hgOutLink=live/livedetail&channel_id=6
-晋中新闻综合,webview://https://www.jztvnews.com/
+晋中综合,webview://https://www.jztvnews.com/
 长治新闻综合,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=21
 长治公共,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=22
 长治科教法治,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=23
@@ -1467,12 +1446,16 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 大同生活,https://live.dtradio.com.cn/mdsh/sd/live.m3u8?_upt=5429b24e1745650816
 太原佰乐购,https://tytv-hls.sxtygdy.com/iancgyD/500/skkagcm.m3u8
 太原城市生活,https://tytv-hls.sxtygdy.com/i88rmGU/500/844h8gr.m3u8
+太原城市生活,https://api.wx.sztv.com.cn/cmsback/all/stat/dataCollect?s=RXZlbnQ9S2VlcEFsaXZlJlNpdGVJRD0y
+太原城市生活,https://tytv-hls.sxtygdy.com/i88rmGU/500/934h8gr.m3u8
+太原经济生活,webview://blob:https://www.sxtygdy.com/80bcaa6e-e140-4df7-84af-c833c00793a8
 太原影视,https://tytv-hls.sxtygdy.com/J4EX72D/500/i8uc4gX.m3u8,
 太原教育,https://tytv-hls.sxtygdy.com/g4XtSCF/500/c40h4gt.m3u8
 太原文体,https://tytv-hls.sxtygdy.com/rk8Z088/500/359gkgZ.m3u8
 太原新闻综合,https://tytv-hls.sxtygdy.com/49VAfrw/500/o6oe9gA.m3u8
 太原社会法制,https://tytv-hls.sxtygdy.com/phsry3e/500/319khgr.m3u8
 太原经济生活,https://tytv-hls.sxtygdy.com/u8BmT6h/500/q4rg84m.m3u8
+太原经济生活,https://tytv-hls.sxtygdy.com/49VAfrw/500/p5oe9gA.m3u8
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 山西吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 山西影视,http://60.223.224.176:8888/newlive/live/hls/54/live.m3u8
@@ -1534,8 +1517,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 西安影视戏剧,https://xatv-yt.xiancity.cn/live/4/index.m3u8
 西安新闻综合,http://xatv-yt.xiancity.cn/live/1/index.m3u8
 西安新闻综合,https://xatv-yt.xiancity.cn/live/1/index.m3u8
-西安移动,http://xatv-yt.xiancity.cn/live/7/index.m3u8
-西安移动,https://xatv-yt.xiancity.cn/live/7/index.m3u8
+西安移动电视,http://xatv-yt.xiancity.cn/live/7/index.m3u8
+西安移动电视,https://xatv-yt.xiancity.cn/live/7/index.m3u8
 
 海南,#genre#
 海南卫视,webview://http://tc.hnntv.cn/
@@ -1861,15 +1844,11 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 哈密3,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44.flv
 哈密3,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 巴音郭楞综合,http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
-巴音郭楞综合,rtmp://tv.loulannews.cn/channellive/ch1
 巴音郭楞蒙语,http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
-巴音郭楞蒙语,rtmp://tv.loulannews.cn/channellive/ch2
 巴音郭楞维语,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
-巴音郭楞维语,rtmp://tv.loulannews.cn/channellive/ch3
-巴音郭楞教育,rtmp://tv.loulannews.cn/channellive/ch4
 巴音郭楞教育,http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
 石河子新闻综合,http://124.88.144.73:1935/live/xwzh/chunklist_w1510433093.m3u8
-石河子新闻综合,https://www.shznews.com/ds/xwzh/chunklist_w1134579999.m3u8
+石河子新闻综合,https://www.shznews.com/ds/xwzh/chunklist_w1305953202.m3u8
 天津,#genre#
 天津卫视,webview://https://yangshipin.cn/tv/home?pid=600152137
 滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
