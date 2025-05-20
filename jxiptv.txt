@@ -1499,6 +1499,7 @@ CGTN俄语,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/888888
 CCTV-13 新闻,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227041/1.m3u8?
 湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227044/1.m3u8?
 延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?
+CETV-3 北京地面,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
 江西电信频道,#genre#
 #3840x2160  南昌青山湖2、景德镇2、宜春、九江、鹰潭、赣州、吉安
 CCTV4K 超高清,http://115.153.212.72/PLTV/88888888/224/3221227073/106537394.smil/index.m3u8?fmt=ts2hls
