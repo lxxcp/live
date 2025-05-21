@@ -978,13 +978,13 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 日照公共,https://live.rzw.com.cn/kzpd/sd/live.m3u8?_upt=6601c3901747049012
 泰安综合,https://play.kankanlive.com/live/1680577080200944.m3u8
 烟台新闻综合,http://live.yantaitv.cn/live/212803c257394d429606a0815d20e3ce/710c510f5a5441cb8fc062e2dd3e1a76-1.m3u8
-烟台新闻综合,http://p.123tv.cn/p/sd.php?id=ytzh
+烟台新闻综合,webview://http://p.123tv.cn/p/sd.php?id=ytzh
 烟台经济科教,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261.m3u8
-烟台经济科教,http://p.123tv.cn/p/sd.php?id=ytjj
+烟台经济科教,webview://http://p.123tv.cn/p/sd.php?id=ytjj
 烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
-烟台影视,http://p.123tv.cn/p/sd.php?id=ytys
+烟台影视,webview://http://p.123tv.cn/p/sd.php?id=ytys
 烟台公共,http://live.yantaitv.cn/live/412a6764092149faa58f80a0fd8004e9/22bbe85c960145dc95fc25e699d0fb3a-1.m3u8
-烟台公共,http://p.123tv.cn/p/sd.php?id=ytgg
+烟台公共,webview://http://p.123tv.cn/p/sd.php?id=ytgg
 潍坊新闻综合,webview://https://www.wfcmw.cn/330865/
 CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 山东卫视,https://wfrtv-live-tz.wfcmw.cn:5443/live/sdtv0306.m3u8
