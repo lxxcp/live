@@ -961,6 +961,9 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 菏泽一套,webview://http://www.hznet.tv/live/hztv1_index.shtml
 菏泽一套,webview://http://wap.hznet.tv//hezeyitao.shtml
 菏泽一套,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+菏泽二套,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+菏泽二套,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+菏泽三套,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 枣庄新闻综合,webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/#/tv
 枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8
 济宁新闻综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
@@ -977,14 +980,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 日照公共,webview://https://www.rzw.com.cn/folder247/folder2217
 日照公共,https://live.rzw.com.cn/kzpd/sd/live.m3u8?_upt=6601c3901747049012
 泰安综合,https://play.kankanlive.com/live/1680577080200944.m3u8
-烟台新闻综合,https://240excdxef00x104x0x0x0x44-alivealone302litenewscn.100ycdn.com/alivealone302.litenews.cn/635/695bc19784f6441e83c9eaee148e1f75/playlist.m3u8?k=8b9e6bf2140510a3427dc0f8d5180447&t=1747873773&wsSession=dd54e85e13e0e76eb42613b1-174787390409119&wsIPSercert=c3ca1c6fd7588d4a3c4a2668aad5970c&wsiphost=local&wsBindIP=1
-烟台新闻综合,webview://http://p.123tv.cn/p/sd.php?id=ytzh
-烟台经济科教,https://240excdxef00x104x0x0x0x41-alivealone302litenewscn.100ycdn.com/alivealone302.litenews.cn/635/1f97fc0633d747ed9689741218e0a057/playlist.m3u8?k=90f6706b3d79314a18bfea3c8b2f14a9&t=1747874056&wsSession=1737276162d331511fd86d09-174787406793244&wsIPSercert=c3ca1c6fd7588d4a3c4a2668aad5970c&wsiphost=local&wsBindIP=1
-烟台经济科教,webview://http://p.123tv.cn/p/sd.php?id=ytjj
-烟台影视,https://240excdxef00x104x0x0x0x45-alivealone302litenewscn.100ycdn.com/alivealone302.litenews.cn/635/1ebcf529cada4d448a48f73b216cd1ac/playlist.m3u8?k=6c7bbecc7696f57b5178dd1210dbb918&t=1747873773&wsSession=0f15f2eecb51d8afe7a9ac0a-174787395507745&wsIPSercert=c3ca1c6fd7588d4a3c4a2668aad5970c&wsiphost=local&wsBindIP=1
-烟台影视,webview://http://p.123tv.cn/p/sd.php?id=ytys
-烟台公共,https://240excdxef00x104x0x0x0x42-alivealone302litenewscn.100ycdn.com/alivealone302.litenews.cn/635/09ddcc111dda41d2b3abed4a8f2efdb0/playlist.m3u8?k=5fee8941dee3147d1d3c04b3bbc8667d&t=1747873773&wsSession=7bef9d7f3671c119cfc83ac2-174787398192713&wsIPSercert=c3ca1c6fd7588d4a3c4a2668aad5970c&wsiphost=local&wsBindIP=1
-烟台公共,webview://http://p.123tv.cn/p/sd.php?id=ytgg
 潍坊新闻综合,webview://https://www.wfcmw.cn/330865/
 CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 山东卫视,https://wfrtv-live-tz.wfcmw.cn:5443/live/sdtv0306.m3u8
@@ -1645,6 +1640,8 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 怒江综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
 曲靖综合,http://channel.qjrb.cn/nmip-media/channellive/channel124906/playlist.m3u8
 瑞丽综合,http://channel.rlrmtzx.com/nmip-media/channellive/channel100728/playlist.m3u8
+通海电视台,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
+陇川综合,https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
 
 四川,#genre#
 四川科教,webview://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
