@@ -125,14 +125,6 @@ CCTV-16 奥林匹克,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/
 CCTV-17 农业农村,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv17/
 CCTV-4 中文国际欧洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctveurope/
 CCTV-4 中文国际美洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvamerica/
-CECTV-1 汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CECTV-2 国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CECTV-3 国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CECTV-4 国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-CECTV-1 汉语文化,http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CECTV-2 国际旅游,http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CECTV-3 国际教育,http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CECTV-4 国际健康,http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CGTN,webview://https://www.cgtn.com/tv
 CGTN纪录,webview://https://www.cgtn.com/channel/documentary
 CGTN俄语,webview://https://russian.cgtn.com/channel
