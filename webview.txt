@@ -854,6 +854,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 南京江宁综合,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 南通如东新闻,webview://https://www.rdxmt.com/pc.html?topid=54172
 南通如东新闻,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+南通新闻综合,https://www.ntjoy.com/ntw/broadcastTvs.html?menuCode=ntw005
+南通新闻综合,https://nt-hls.ntjoy.com/live/4f1.m3u8?t=1747961727&k=d235ba77bfbfd4d030f57621b55b65a7
 南通都市生活,https://cm-live.ntjoy.com/live/4f3.m3u8
 句容新闻综合,http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
 句容新闻综合,http://jrlive.jrntv.com:80/live/jrxwzh/playlist.m3u8
@@ -931,7 +933,8 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 镇江城市资讯,http://zjtv-wshls.homecdn.com/live/2aa58.m3u8
 镇江社会民生,http://cm-wshls.homecdn.com/live/2aa16.m3u8
 镇江社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-
+邳州综合,webview://https://www.pznews.com/live/
+邳州综合,https://liveplus.pznews.com/pzzhpd/sd/live.m3u8?auth_key=1708254455-0-0-2d5f9cd2b8992a946b0ba5d7b0f19613
 山东,#genre#
 山东卫视,webview://https://v.iqilu.com/live/sdtv/
 山东齐鲁,webview://https://v.iqilu.com/live/qlpd/
@@ -1010,6 +1013,8 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 甘肃移动,https://hls.gstv.com.cn/skt649/47uw77.m3u8
 兰州新闻综合,webview://https://www.lzr.com.cn/folder25/folder26/
 兰州文旅,webview://https://www.lzr.com.cn/folder25/folder26/folder30/
+兰州新闻综合,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+兰州文旅,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 庆阳综合,https://play.kankanlive.com/live/1700643403411931.m3u8
 张掖新闻,http://play.kankanlive.com/live/1720583434627241.m3u8
 武威凉州,http://lishiwan.xicp.net:8563/udp/239.255.36.106:8231
@@ -1214,7 +1219,8 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 淮北矿业,http://xcblive.hbcoal.com/3/sd/live.m3u8
 淮北矿业,http://xcblive.hbcoal.com/3/playlist.m3u8
 铜陵新闻综合,https://gnhls.qingmei.tv/live/tlxw.m3u8?volcTime=1753081509&volcSecret=10999ac48fb965e95cd8ac9bbbf625ef
-
+芜湖新闻综合,https://live3.wuhunews.cn/channel3/sd/live.m3u8?auth_key=1747969505-d9c242ebdf2b4fd69e146d79f54af88d-0-749f6cd495141850ff50e96eb3cb0125
+芜湖生活,https://live3.wuhunews.cn/news/sd/live.m3u8?auth_key=1747969511-64b8cb4caf494df99c17c6cba078a48a-0-71581079662652cce588cdbd450b5fd7
 贵州,#genre#
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
 贵州公共,webview://https://www.gzstv.com/tv/ch02
