@@ -13,13 +13,12 @@
         }
     ],
     "lives":[
-         {
-    "name":"jxiptv",
-    "type":0,
-    "playerType":1,
-    "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxiptv.txt",
-         },
-         {
+        {
+            "name":"jxiptv",
+            "type":0,
+            "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
+        },
+        {
             "name":"jxydiptv",
             "type":0,
             "url":"https://gh.tryxd.cn/https://github.com/lxxcp/live/blob/main/jxydiptv.txt"
