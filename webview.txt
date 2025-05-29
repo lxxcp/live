@@ -320,7 +320,7 @@ BRTV纪实科教,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV纪�
 BRTV影视,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV影视
 BRTV财经,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV财经
 BRTV体育休闲,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV体育休闲
-BRTV i生活,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV i生活
+BRTV生活,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV i生活
 BRTV新闻,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
 BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少儿
 北京卫视,webview://https://item.btime.com/5755n511tbk8flo40l4c71l0sdf
@@ -689,7 +689,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 吉林,#genre#
 吉林卫视,webview://https://www.jlntv.cn/tv?id=104
 吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=2e85ece384b1470475e59cdb01f77b5a&txTime=6837E35C
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8
 吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8?txSecret=2e85ece384b1470475e59cdb01f77b5a&txTime=6837E35C
 吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8?txSecret=2e85ece384b1470475e59cdb01f77b5a&txTime=6837E35C
 吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8?txSecret=2e85ece384b1470475e59cdb01f77b5a&txTime=6837E35C
@@ -1029,7 +1028,7 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml#
 甘肃卫视,https://hls.gstv.com.cn/skt649/tmttss.m3u8
 甘肃文化影视,https://hls.gstv.com.cn/skt649/004ypi.m3u8
-甘肃公共应急,https://hls.gstv.com.cn/skt649/05v00b-1748478656000.ts
+甘肃公共应急,https://hls.gstv.com.cn/skt649/05v00b.m3u8
 甘肃少儿,https://hls.gstv.com.cn/skt649/ok36o6.m3u8
 甘肃科教,https://hls.gstv.com.cn/skt649/s2rp5w.m3u8
 甘肃移动,https://hls.gstv.com.cn/skt649/47uw77.m3u8
