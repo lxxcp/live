@@ -688,7 +688,13 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 平桥广电中心,webview://https://wap.xytv.cn/share/page/tvLive?tvid=4&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=26c2c106d4b34cbcade8fb115eb5e51e
 吉林,#genre#
 吉林卫视,webview://https://www.jlntv.cn/tv?id=104
-
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=2e85ece384b1470475e59cdb01f77b5a&txTime=6837E35C
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8
+吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8?txSecret=2e85ece384b1470475e59cdb01f77b5a&txTime=6837E35C
+吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8?txSecret=2e85ece384b1470475e59cdb01f77b5a&txTime=6837E35C
+吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8?txSecret=2e85ece384b1470475e59cdb01f77b5a&txTime=6837E35C
+吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8?txSecret=2e85ece384b1470475e59cdb01f77b5a&txTime=6837E35C
+吉林综艺文化,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/index.m3u8?txSecret=2e85ece384b1470475e59cdb01f77b5a&txTime=6837E35C
 吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=7e1a325b5c0c5bac535eda42a50382f6&txTime=683548C2
 吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8?txSecret=7e1a325b5c0c5bac535eda42a50382f6&txTime=683548C2
 吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8?txSecret=7e1a325b5c0c5bac535eda42a50382f6&txTime=683548C2
@@ -1023,7 +1029,7 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml#
 甘肃卫视,https://hls.gstv.com.cn/skt649/tmttss.m3u8
 甘肃文化影视,https://hls.gstv.com.cn/skt649/004ypi.m3u8
-甘肃公共应急,https://hls.gstv.com.cn/skt649/05v00b.m3u8
+甘肃公共应急,https://hls.gstv.com.cn/skt649/05v00b-1748478656000.ts
 甘肃少儿,https://hls.gstv.com.cn/skt649/ok36o6.m3u8
 甘肃科教,https://hls.gstv.com.cn/skt649/s2rp5w.m3u8
 甘肃移动,https://hls.gstv.com.cn/skt649/47uw77.m3u8
