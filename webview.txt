@@ -1609,12 +1609,10 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 厦门2套,https://live1b.kxm.xmtv.cn/xm2bf/tvzb/live.m3u8
 厦门移动电视,https://live1b.kxm.xmtv.cn/xmyidongbf_1b/playlist.m3u8
 厦门移动电视,https://live1b.kxm.xmtv.cn/xmyidongbf_1b/tvzb/live.m3u8
+福州新闻综合,webview://https://www.zohi.tv/app/tv/804
 福州新闻综合,https://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-福州生活,webview://https://www.zohi.tv/app/tv/804
 福州少儿,https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福州生活,https://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
-三明公共,http://stream.smntv.cn/smtv2/playlist.m3u8
 泉州一套,webview://https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKowoHCoQ/stream_name/news.html
 泉州四套,webview://https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKofcKh/stream_name/mny.html
 晋江电视台,webview://http://www.jinjiang.tv/live/
@@ -1623,7 +1621,6 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 莆田1套,webview://https://www.ptbtv.com/live/pt1t/
 莆田2套,webview://https://www.ptbtv.com/live/pt2t/
 莆田仙游,webview://https://www.ptbtv.com/live/xyds/
-晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8
 厦门鼓浪屿,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
 
 宁夏,#genre#
@@ -1634,13 +1631,9 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 宁夏少儿,webview://http://web.ningxiahuangheyun.com/app/nxtv-tv/nxse
 宁夏文旅,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxwl/
 银川公共,webview://https://www.ycen.com.cn/zzgn/zhibo/
-银川公共,webview://https://www.qukanvideo.com/cloud/h5/1731639141671136
-银川生活,webview://https://www.qukanvideo.com/cloud/h5/1731638744888001
-银川文体,webview://https://www.qukanvideo.com/cloud/h5/1728443786945132
-银川公共,https://play-sh13.quklive.com/live/1731639141671136.m3u8?auth_key=1747293073-5564cfa5fea54f3b8f5b2d20879cc4c8-0-008f3b76fa0196cdab2ed2bb70b12268
-银川公共,https://play-sh13.quklive.com/live/1731639141671136.m3u8?auth_key=1747293172-2d85c2fd5a6c4ae980e425daf56d168b-0-9661aef30773dbd4cf47c6f75e794072
-银川生活,https://play-sh13.quklive.com/live/1731638744888001.m3u8?auth_key=1747293284-289902b5b6c84644b4eb700f7d52bc15-0-0547c28f0d30a36c0c92834895a9d203
-银川文体,https://play-sh13.quklive.com/live/1728443786945132.m3u8?auth_key=1747293253-b596b99e157748d08ce5ca47e0e65319-0-b9ce6aada66eeb2ff3b6fe69d6624276
+银川公共,https://www.qukanvideo.com/cloud/h5/1731639141671136
+银川生活,https://www.qukanvideo.com/cloud/h5/1731638744888001
+银川文体,https://www.qukanvideo.com/cloud/h5/1728443786945132
 宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
 宁夏经济,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxjj.m3u8
 宁夏少儿,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxse.m3u8
