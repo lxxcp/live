@@ -1664,7 +1664,12 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
 云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
+云南卫视,webview://https://www.yntv.cn/live.html?name=yunnanweishi
 云南都市,webview://https://www.yntv.cn/live.html?name=yunnandushi
+云南娱乐,webview://https://www.yntv.cn/live.html?name=yunnanyule
+云南康旅,webview://https://www.yntv.cn/live.html?name=yunnangonggong
+云南澜湄国际,webview://https://www.yntv.cn/live.html?name=yunnanguoji
+云南少儿,webview://https://www.yntv.cn/live.html?name=yunnanshaoer
 昆明教育电视台,webview://https://kmjy.kmetv.com/application/tenma01ds_tvradio/view/web/#/
 丽江新闻综合,webview://https://www.lijiang.cn/live/
 红河新闻综合,webview://https://www.hh.cn/ynhhzMini/site/tv
