@@ -131,7 +131,6 @@ CGTN俄语,webview://https://russian.cgtn.com/channel
 CGTN西语,webview://https://espanol.cgtn.com/en-directo
 CGTN法语,webview://https://francais.cgtn.com/channel
 CGTN阿语,webview://https://arabic.cgtn.com/channel
-
 河南党建,#genre#
 CCTV-1 综合,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV-3 综艺,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
@@ -303,15 +302,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 韶关新闻综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 
 北京,#genre#
-北京卫视,webview://https://www.brtn.cn/btv/btvsy_index?channel=北京卫视
-BRTV文艺,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV文艺
-BRTV纪实科教,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV纪实科教
-BRTV影视,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV影视
-BRTV财经,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV财经
-BRTV体育休闲,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV体育休闲
-BRTV生活,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV i生活
-BRTV新闻,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
-BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少儿
 北京卫视,webview://https://item.btime.com/5755n511tbk8flo40l4c71l0sdf
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
 北京卫视,http://124.222.114.206/bjtv.php?id=bjws
@@ -325,7 +315,15 @@ BRTV生活,http://124.222.114.206/bjtv.php?id=bjsh
 BRTV新闻,http://124.222.114.206/bjtv.php?id=bjxw
 BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 顺义综合,https://livebjsy.chinamcache.com/live/zb02.m3u8
-
+北京卫视,webview://https://www.brtn.cn/btv/btvsy_index?channel=北京卫视
+BRTV文艺,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV文艺
+BRTV纪实科教,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV纪实科教
+BRTV影视,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV影视
+BRTV财经,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV财经
+BRTV体育休闲,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV体育休闲
+BRTV生活,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV i生活
+BRTV新闻,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
+BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少儿
 上海,#genre#
 东方卫视,webview://https://live.kankanews.com/huikan?id=1
 上海新闻综合,webview://https://live.kankanews.com/huikan?id=2
@@ -380,7 +378,6 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 娄底综合,webview://http://www.ldntv.cn/folder51/folder154/folder171
 郴州新闻综合,webview://https://www.ngcz.tv/folder83/folder86
 郴州公共,webview://http://share.ngcz.tv/?_hgOutLink=live/livedetail&channel_id=30
-
 
 河北,#genre#
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
@@ -667,14 +664,15 @@ BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 鹤壁淇县综合,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
 浉河广电中心,webview://https://wap.xytv.cn/share/page/tvLive?tvid=5&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=e61a40bfa9414965984a6dcea76b3c60
 平桥广电中心,webview://https://wap.xytv.cn/share/page/tvLive?tvid=4&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=26c2c106d4b34cbcade8fb115eb5e51e
+
 吉林,#genre#
 吉林卫视,webview://https://www.jlntv.cn/tv?id=104
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=6a7473ebc28501da01f6e809f56d40ca&txTime=68398E25
-吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8?txSecret=6a7473ebc28501da01f6e809f56d40ca&txTime=68398E25
-吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8?txSecret=6a7473ebc28501da01f6e809f56d40ca&txTime=68398E25
-吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8?txSecret=6a7473ebc28501da01f6e809f56d40ca&txTime=68398E25
-吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8?txSecret=6a7473ebc28501da01f6e809f56d40ca&txTime=68398E25
-吉林综艺文化,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/index.m3u8?txSecret=6a7473ebc28501da01f6e809f56d40ca&txTime=68398E25
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=eafbf44a04730bc3dcd78c4a22488171&txTime=683BD932
+吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8?txSecret=eafbf44a04730bc3dcd78c4a22488171&txTime=683BD932
+吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8?txSecret=eafbf44a04730bc3dcd78c4a22488171&txTime=683BD932
+吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8?txSecret=eafbf44a04730bc3dcd78c4a22488171&txTime=683BD932
+吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8?txSecret=eafbf44a04730bc3dcd78c4a22488171&txTime=683BD932
+吉林综艺文化,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/index.m3u8?txSecret=eafbf44a04730bc3dcd78c4a22488171&txTime=683BD932
 长春综合,webview://https://chinactv.com/live/1442880654565093377.html
 长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
 长春文旅体育,webview://https://chinactv.com/live/1442880767035355137.html
@@ -1174,7 +1172,6 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 金华武义新闻,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 金华兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 金华兰溪新闻综合,https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
-
 湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&amp;fbl=
 湖州新闻综合,https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
@@ -1498,7 +1495,6 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
 长子综合,http://live.njgdmm.com/changzhi/cztv2.m3u8
-
 
 陕西,#genre#
 陕西卫视,webview://http://live.snrtv.com/star
