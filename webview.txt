@@ -1512,6 +1512,7 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 陕西移动,webview://http://www.sxtvs.com/sxtvs_ydpd/index.html
 榆林综合,webview://https://v.ylrb.com/2/2tsp/zb/dszb/336843.shtml
 榆林公共,webview://https://v.ylrb.com/2/2tsp/zb/dszb/336842.shtml
+商洛综合,webview://http://sltvs.cn/#live
 铜川综合,webview://https://www.tcsrm.cn/tvradio/tczhpd.html
 铜川公共,webview://https://www.tcsrm.cn/tvradio/tcggpd.html
 咸阳综合,webview://http://www.xybtv.com/station/xyyt/
@@ -1521,6 +1522,8 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 西安商务资讯,webview://https://v.xiancity.cn/folder8/folder39/folder31/
 西安影视戏剧,webview://https://v.xiancity.cn/folder8/folder39/folder32/
 西安丝路,webview://https://v.xiancity.cn/folder8/folder39/folder33/
+西安新闻综合,http://xatv-yt.xiancity.cn/live/1/index.m3u8
+西安新闻综合,https://xatv-yt.xiancity.cn/live/1/index.m3u8
 西安都市,http://xatv-yt.xiancity.cn/live/2/index.m3u8
 西安都市,https://xatv-yt.xiancity.cn/live/2/index.m3u8
 西安商务资讯,http://xatv-yt.xiancity.cn/live/3/index.m3u8
@@ -1529,10 +1532,12 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 西安丝路,https://xatv-yt.xiancity.cn/live/5/index.m3u8
 西安影视戏剧,http://xatv-yt.xiancity.cn/live/4/index.m3u8
 西安影视戏剧,https://xatv-yt.xiancity.cn/live/4/index.m3u8
-西安新闻综合,http://xatv-yt.xiancity.cn/live/1/index.m3u8
-西安新闻综合,https://xatv-yt.xiancity.cn/live/1/index.m3u8
 西安移动电视,http://xatv-yt.xiancity.cn/live/7/index.m3u8
 西安移动电视,https://xatv-yt.xiancity.cn/live/7/index.m3u8
+榆林综合,http://hplayer1.juyun.tv/camera/140908134.m3u8
+榆林文化旅游,http://hplayer1.juyun.tv/camera/140909190.m3u8
+商洛综合,http://player4.juyun.tv/camera/171844138.m3u8
+商洛公共,http://player4.juyun.tv/camera/167348174.m3u8
 
 海南,#genre#
 海南卫视,webview://http://tc.hnntv.cn/
