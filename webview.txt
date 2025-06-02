@@ -1511,8 +1511,7 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 陕西移动,webview://http://live.snrtv.com/11
 陕西移动,webview://http://www.sxtvs.com/sxtvs_ydpd/index.html
 榆林综合,webview://https://v.ylrb.com/2/2tsp/zb/dszb/336843.shtml
-榆林公共,webview://https://v.ylrb.com/2/2tsp/zb/dszb/336842.shtml
-商洛综合,webview://http://sltvs.cn/#live
+榆林文化旅游,webview://https://v.ylrb.com/2/2tsp/zb/dszb/336842.shtml
 铜川综合,webview://https://www.tcsrm.cn/tvradio/tczhpd.html
 铜川公共,webview://https://www.tcsrm.cn/tvradio/tcggpd.html
 咸阳综合,webview://http://www.xybtv.com/station/xyyt/
@@ -1536,6 +1535,7 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 西安移动电视,https://xatv-yt.xiancity.cn/live/7/index.m3u8
 榆林综合,http://hplayer1.juyun.tv/camera/140908134.m3u8
 榆林文化旅游,http://hplayer1.juyun.tv/camera/140909190.m3u8
+商洛综合,webview://http://sltvs.cn/#live
 商洛综合,http://player4.juyun.tv/camera/171844138.m3u8
 商洛公共,http://player4.juyun.tv/camera/167348174.m3u8
 
