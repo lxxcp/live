@@ -1891,6 +1891,14 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
 
 香港,#genre#
+凤凰中文,webview://http://iptv.huuc.edu.cn/player.html?channel=fhzw
+凤凰资讯,webview://http://iptv.huuc.edu.cn/player.html?channel=fhzx
+凤凰电影,webview://http://iptv.huuc.edu.cn/player.html?channel=fhdy
+探索频道,webview://http://iptv.huuc.edu.cn/player.html?channel=discovery
+国家地理,webview://http://iptv.huuc.edu.cn/player.html?channel=natlgeo
+星空卫视,webview://http://iptv.huuc.edu.cn/player.html?channel=startv
+channelv,webview://http://iptv.huuc.edu.cn/player.html?channel=channelv
+卫视体育台,webview://http://iptv.huuc.edu.cn/player.html?channel=starsports
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
@@ -1931,6 +1939,7 @@ TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+国家地理,http://198.16.100.186:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
 
 澳门,#genre#
 澳门Macau,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
@@ -2005,7 +2014,6 @@ TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 LoveNarure,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-国家地理,http://198.16.100.186:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
 美亚电影台,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
 中国电影频道,https://live.tvfix.org/live/cmc/index.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
