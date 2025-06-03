@@ -96,6 +96,7 @@ CCTV卫生健康,webview://https://yangshipin.cn/tv/home?pid=600099651
 CETV-1 综合教育,webview://https://yangshipin.cn/tv/home?pid=600171827
 CETV-1 综合教育,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
 CETV-2 空中课堂,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
+CETV-3 教育服务,webview://http://iptv.huuc.edu.cn/player.html?channel=cetv3
 CETV-4 职业教育,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
@@ -131,6 +132,8 @@ CGTN俄语,webview://https://russian.cgtn.com/channel
 CGTN西语,webview://https://espanol.cgtn.com/en-directo
 CGTN法语,webview://https://francais.cgtn.com/channel
 CGTN阿语,webview://https://arabic.cgtn.com/channel
+CHC动作电影,webview://http://iptv.huuc.edu.cn/player.html?channel=chcatv
+CHC家庭影院,webview://http://iptv.huuc.edu.cn/player.html?channel=chctv
 河南党建,#genre#
 CCTV-1 综合,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV-3 综艺,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
@@ -251,10 +254,16 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
-东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
-东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
-东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=5d7708684007fcea395caff98369084c&txTime=19019c37743
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=6d9c0311929fc12857f6b810fab0188b&txTime=1913a3ed516
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=aae0358e06f64d4db4d663321a3fa964&txTime=190def4db74
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
 广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
@@ -280,18 +289,11 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=491c40d07978ba7046704a7844042ff6&txTime=19019f3714e
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=6d133e82b12055c11f9d50dab61aeb9d&txTime=19182c08de9
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=c180b67d43e34b97c970524c05ef3b4e&txTime=18ee6e4efc1
-广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=5d7708684007fcea395caff98369084c&txTime=19019c37743
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=6d9c0311929fc12857f6b810fab0188b&txTime=1913a3ed516
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=aae0358e06f64d4db4d663321a3fa964&txTime=190def4db74
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
-广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
+东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
+东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
+东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 清远文旅生活,https://zmylivestream.nfnews.com/zmy_slive/25321.m3u8
 清远新闻综合,https://zmylivestream.nfnews.com/zmy_slive/25319.m3u8
 湛江公共,http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
@@ -315,6 +317,12 @@ BRTV生活,http://124.222.114.206/bjtv.php?id=bjsh
 BRTV新闻,http://124.222.114.206/bjtv.php?id=bjxw
 BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 顺义综合,https://livebjsy.chinamcache.com/live/zb02.m3u8
+北京卫视,webview://http://iptv.huuc.edu.cn/player.html?channel=btv1hd
+BRTV文艺,webview://http://iptv.huuc.edu.cn/player.html?channel=btv2hd
+BRTV纪实科教,webview://http://iptv.huuc.edu.cn/player.html?channel=btv11hd
+BRTV影视,webview://http://iptv.huuc.edu.cn/player.html?channel=btv4hd
+BRTV体育休闲,webview://http://iptv.huuc.edu.cn/player.html?channel=btv11hd
+BRTV新闻,webview://http://iptv.huuc.edu.cn/player.html?channel=btv9hd
 北京卫视,webview://https://www.brtn.cn/btv/btvsy_index?channel=北京卫视
 BRTV文艺,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV文艺
 BRTV纪实科教,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV纪实科教
