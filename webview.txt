@@ -1897,7 +1897,7 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 探索频道,webview://http://iptv.huuc.edu.cn/player.html?channel=discovery
 国家地理,webview://http://iptv.huuc.edu.cn/player.html?channel=natlgeo
 星空卫视,webview://http://iptv.huuc.edu.cn/player.html?channel=startv
-channelv,webview://http://iptv.huuc.edu.cn/player.html?channel=channelv
+ChannelV,webview://http://iptv.huuc.edu.cn/player.html?channel=channelv
 卫视体育台,webview://http://iptv.huuc.edu.cn/player.html?channel=starsports
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
