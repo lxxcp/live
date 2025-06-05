@@ -298,8 +298,8 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 清远新闻综合,https://zmylivestream.nfnews.com/zmy_slive/25319.m3u8
 湛江公共,http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
 湛江公共,https://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
-湛江综合,http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
-湛江综合,https://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
+湛江新闻综合,http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
+湛江新闻综合,https://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
 珠海新闻综合,http://publive.zhrct.com/zhtv1/zhtv1.m3u8?auth_key=1697183630-0-0-237458bc86c8bc697f92b9525a090953
 韶关新闻综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 
@@ -380,7 +380,7 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 湘潭新闻综合,webview://http://www.hnxttv.com/live/ivideo/index.html
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 常德新闻综合,webview://http://zzwxht.changdejia.com/zhibo_xwzh.php
-常德文旅,webview://http://zzwxht.changdejia.com/zhibo_ggpd.php
+常德公共,webview://http://zzwxht.changdejia.com/zhibo_ggpd.php
 邵阳新闻综合,webview://http://www.sytv.net.cn/folder2188/folder2190
 邵阳文旅民生,webview://http://share.sytv.net.cn/?_hgOutLink=live/livedetail&channel_id=34
 娄底综合,webview://http://www.ldntv.cn/folder51/folder154/folder171
@@ -402,7 +402,7 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 石家庄新闻综合,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=4
 石家庄城市服务,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=5
 石家庄文化娱乐,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=6
-石家庄都市,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=7
+石家庄移动电视,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=7
 衡水新闻综合,webview://http://app.hsrtv.cn/web/teletv/tv_content_1.html
 衡水公共,webview://http://app.hsrtv.cn/web/teletv/tv_content_4.html
 邢台综合,webview://https://www.xttv.com.cn/index/channel/index/id/62.html
@@ -526,7 +526,7 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 郑州教育,webview://http://web.chinamcloud.com/yszh32/wz/zb/index.shtml
 洛阳新闻综合,webview://http://www.lytv.com.cn/dist/phone_new_file.html
 焦作综合,webview://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=a15a6b9e3e1f435584f903641e85a975
-焦作文旅,webview://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=6a8a51398cf44ad28bb7808afdc94f4d
+焦作公共,webview://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=6a8a51398cf44ad28bb7808afdc94f4d
 开封新闻综合,webview://https://kaifeng.dxhmt.cn/api/page/shiroVideo?tvId=53507dea8e7f4c3c8a37e0bdf7bd055c
 开封文化旅游,webview://https://kaifeng.dxhmt.cn/api/page/shiroVideo?tvId=ceffc903779f4f14ad119c4520d87c1d
 周口新闻综合,webview://http://wxyszk.yszkapp.cn/share/views/share/index_share.html?contentType=tvlive&channelId=1&mmsurl=http://mms.yszkapp.cn:18080/mms4.6.3&token=pmqhukcpyipvqmoz
@@ -579,13 +579,13 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 永城新闻,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 内黄综合,http://live.dxhmt.cn:9081/tv/10527-1.m3u8
 内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
-安阳新闻综合,http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
 林州综合,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
 林州综合,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
 汤阴综合,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
 汤阴综合,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
 滑县综合,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
-安阳综合,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
+安阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
+安阳新闻综合,http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
 安阳文旅,http://zhpull.dxhmt.cn:80/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
 尉氏新闻综合,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
 叶县综合,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
