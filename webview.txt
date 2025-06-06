@@ -1101,7 +1101,7 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 绍兴公共,webview://https://www.shaoxing.com.cn/app/tv/78
 绍兴文化影视,webview://http://www.shaoxing.com.cn/app/tv/75
 温岭综合,webview://https://web.guangdianyun.tv/tv/?id=911&uin=1639&newsList_ImgLocation=1
-新闻综合,webview://https://web.guangdianyun.tv/tv/?id=1499&uin=1253
+安吉综合,webview://https://web.guangdianyun.tv/tv/?id=1499&uin=1253
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
