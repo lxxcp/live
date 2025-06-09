@@ -667,12 +667,13 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 登封综合,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
 登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
 上蔡综合,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
+驻马店新闻综合,webview://http://p.ytelc.com/169l/henan/henan.php?id=zmd1
+驻马店新闻综合,webview:/http://tv.zimtv.cn/1031.html?ch=hen
+驻马店公共,webview://http://p.ytelc.com/169l/henan/henan.php?id=zmd2
+驻马店科教,webview://http://p.ytelc.com/169l/henan/henan.php?id=zmd3
 驻马店新闻综合,webview://https://kgkfpvvzb.vzan.com/live/page/1085533011?v=1745480237000
 驻马店公共,webview://https://kgkfpvvzb.vzan.com/live/page/1835926220?v=1745480323000
 驻马店科教,webview://https://kgkfpvvzb.vzan.com/live/page/1245953367?v=1745480345000
-驻马店新闻综合,http://tvlive.zmdtvw.cn/live/106770611978226682/index.m3u8
-驻马店公共,http://tvlive.zmdtvw.cn/live/8395198981051753732/index.m3u8
-驻马店科教,http://tvlive.zmdtvw.cn/live/5927138998607870056/index.m3u8
 平舆综合,http://live.dxhmt.cn:9081/tv/11723-1.m3u8
 新蔡综合,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
 新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
