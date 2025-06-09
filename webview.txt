@@ -1006,7 +1006,7 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8
 枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 枣庄教育,http://stream.zztvzd.com/2/sd/live.m3u8
-济宁新闻综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 临沂综合,webview://https://www.ilinyi.net/cms/tv/1020403
 临沂公共,webview://https://www.ilinyi.net/cms/tv/1020769
