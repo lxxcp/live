@@ -299,7 +299,9 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 湛江新闻综合,https://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
 珠海新闻综合,http://publive.zhrct.com/zhtv1/zhtv1.m3u8?auth_key=1697183630-0-0-237458bc86c8bc697f92b9525a090953
 韶关新闻综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 五华综合,http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
+丰顺综合,http://1b6467f415.iok.la:9931/tsfile/live/1100_1.m3u8
 
 北京,#genre#
 北京卫视,webview://https://item.btime.com/5755n511tbk8flo40l4c71l0sdf
@@ -461,6 +463,7 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 萍乡新闻综合,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
 萍乡公共,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
 上饶新闻综合,rtmp://play-live-hls.jxtvcn.com.cn/live/tv_shangrao
+万载综合,http://ls.qingting.fm/live/273.m3u8
 
 辽宁,#genre#
 丹东新闻综合,webview://https://app.ddrtv.cn/application/tvradio/h5/detail.html?type=tv
@@ -485,6 +488,11 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 重庆,#genre#
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 垫江综合,http://play-sh.quklive.com/live/1672366847646284.m3u8
+垫江综合,rtmp://play-sh.quklive.com/live/1672366847646284
+璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
+荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
+铜梁综合,https://tlpc01.cqliving.com/ch1.m3u8
+潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 
 河南,#genre#
 河南卫视,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv1
@@ -682,12 +690,12 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 
 吉林,#genre#
 吉林卫视,webview://https://www.jlntv.cn/tv?id=104
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=eafbf44a04730bc3dcd78c4a22488171&txTime=683BD932
-吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8?txSecret=eafbf44a04730bc3dcd78c4a22488171&txTime=683BD932
-吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8?txSecret=eafbf44a04730bc3dcd78c4a22488171&txTime=683BD932
-吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8?txSecret=eafbf44a04730bc3dcd78c4a22488171&txTime=683BD932
-吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8?txSecret=eafbf44a04730bc3dcd78c4a22488171&txTime=683BD932
-吉林综艺文化,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/index.m3u8?txSecret=eafbf44a04730bc3dcd78c4a22488171&txTime=683BD932
+吉林卫视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
+吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
+吉林生活,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
+吉林影视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
+吉林乡村,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
+吉林综艺文化,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8
 长春综合,webview://https://chinactv.com/live/1442880654565093377.html
 长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
 长春文旅体育,webview://https://chinactv.com/live/1442880767035355137.html
@@ -718,7 +726,6 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 东辽综合,http://stream5.jlntv.cn/dl/playlist.m3u8
 临江综合,http://stream8.jlntv.cn/linjiang/playlist.m3u8
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
-九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 乾安综合,http://stream6.jlntv.cn/qa/playlist.m3u8
 伊通综合,http://stream6.jlntv.cn/yt/playlist.m3u8
 双辽综合,http://stream5.jlntv.cn/sl/playlist.m3u8
