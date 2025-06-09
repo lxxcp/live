@@ -668,7 +668,7 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
 上蔡综合,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
 驻马店新闻综合,webview://http://p.ytelc.com/169l/henan/henan.php?id=zmd1
-驻马店新闻综合,webview:/http://tv.zimtv.cn/1031.html?ch=hen
+驻马店新闻综合,webview:/http://tv.zimtv.cn/player/api/henantv.php?id=zmd1
 驻马店公共,webview://http://p.ytelc.com/169l/henan/henan.php?id=zmd2
 驻马店科教,webview://http://p.ytelc.com/169l/henan/henan.php?id=zmd3
 驻马店新闻综合,webview://https://kgkfpvvzb.vzan.com/live/page/1085533011?v=1745480237000
@@ -1003,6 +1003,9 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 枣庄新闻综合,webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/#/tv
 枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8
+枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8
+枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+枣庄教育,http://stream.zztvzd.com/2/sd/live.m3u8
 济宁新闻综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 临沂综合,webview://https://www.ilinyi.net/cms/tv/1020403
@@ -1015,7 +1018,9 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 临沂经济,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 山东教育台,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 日照公共,webview://https://www.rzw.com.cn/folder247/folder2217
-日照公共,https://live.rzw.com.cn/kzpd/sd/live.m3u8?_upt=6601c3901747049012
+日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8
+日照新闻综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8
+日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8
 泰安综合,https://play.kankanlive.com/live/1680577080200944.m3u8
 潍坊新闻综合,webview://https://www.wfcmw.cn/330865/
 CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
@@ -1236,14 +1241,18 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 铜陵教育科技,webview://http://wxfx.tlbts.com/mag/livevideo/v1/video/wapVideoView?id=58
 黄山新闻综合,webview://http://www.hsnewsnet.com/web/tvnews/
 黄山文旅频道,webview://http://www.hsnewsnet.com/web/tvlife/
-滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd#http://live.cztv.cc:85/live/ggpd.m3u8
-滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8
+宿州新闻综合,webview://https://www.ahsz.tv/xwzh
+宿州科教生活,webview://https://www.ahsz.tv/kejiao
+宿州新闻综合,https://live.ahsz.tv/video/s10001-szzh/index.m3u8
+宿州科教生活,https://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
-亳州综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
+滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8
+滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8
+亳州综合,http://zbbf2.ahbztv.com/live/416.m3u8
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
 广德新闻综合,https://live.gdtv.ah.cn/live/newsTV.m3u8
 固镇综合http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
+固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
 祁门综合,http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
 潜山综合,https://qsxw.gov.cn/rtmp_export/video22.m3u8
@@ -1254,6 +1263,8 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 铜陵新闻综合,https://gnhls.qingmei.tv/live/tlxw.m3u8?volcTime=1753081509&volcSecret=10999ac48fb965e95cd8ac9bbbf625ef
 芜湖新闻综合,https://live3.wuhunews.cn/channel3/sd/live.m3u8?auth_key=1747969505-d9c242ebdf2b4fd69e146d79f54af88d-0-749f6cd495141850ff50e96eb3cb0125
 芜湖生活,https://live3.wuhunews.cn/news/sd/live.m3u8?auth_key=1747969511-64b8cb4caf494df99c17c6cba078a48a-0-71581079662652cce588cdbd450b5fd7
+黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
 贵州,#genre#
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
 贵州公共,webview://https://www.gzstv.com/tv/ch02
