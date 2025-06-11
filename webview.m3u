@@ -607,8 +607,8 @@ http://124.222.114.206/bjtv.php?id=bjws
 http://124.222.114.206/bjtv.php?id=bjws4k
 #EXTINF:-1 group-title="北京" tvg-name="BRTV文艺" tvg-logo="https://epg.112114.xyz/logo/BRTV文艺.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",BRTV文艺
 http://124.222.114.206/bjtv.php?id=bjwy
-#EXTINF:-1 group-title="北京" tvg-name="BRTV文艺" tvg-logo="https://epg.112114.xyz/logo/BRTV文艺.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",BRTV文艺   catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1749607210&sign=2ffaa2b3d16987d471eff191d4dd6a5e
+#EXTINF:-1 group-title="北京" tvg-name="BRTV文艺" tvg-logo="https://epg.112114.xyz/logo/BRTV文艺.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz"  catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1749607210&sign=2ffaa2b3d16987d471eff191d4dd6a5e,BRTV文艺 
 
 #EXTINF:-1 group-title="北京" tvg-name="BRTV纪实科教" tvg-logo="https://epg.112114.xyz/logo/BRTV纪实科教.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",BRTV纪实科教
 http://124.222.114.206/bjtv.php?id=bjjs
