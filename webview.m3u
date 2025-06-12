@@ -307,295 +307,295 @@ webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12
 webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
 #EXTINF:-1 group-title="河南党建" tvg-name="CCTV-13 新闻" tvg-logo="https://epg.112114.xyz/logo/CCTV-13 新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",CCTV-13 新闻
 webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东卫视
+#EXTINF:-1 group-title="广东" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东卫视
 webview://https://www.gdtv.cn/tvChannelDetail/43
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东珠江
+#EXTINF:-1 group-title="广东" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东珠江
 webview://https://www.gdtv.cn/tvChannelDetail/44
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东新闻
+#EXTINF:-1 group-title="广东" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东新闻
 webview://https://www.gdtv.cn/tvChannelDetail/45
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东民生
+#EXTINF:-1 group-title="广东" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东民生
 webview://https://www.gdtv.cn/tvChannelDetail/48
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东体育
+#EXTINF:-1 group-title="广东" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东体育
 webview://https://www.gdtv.cn/tvChannelDetail/47
-#EXTINF:-1 group-title="#荔枝网" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",大湾区卫视
+#EXTINF:-1 group-title="广东" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",大湾区卫视
 webview://https://www.gdtv.cn/tvChannelDetail/51
-#EXTINF:-1 group-title="#荔枝网" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",大湾区卫视
+#EXTINF:-1 group-title="广东" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",大湾区卫视
 webview://https://www.gdtv.cn/tvChannelDetail/46
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东影视
+#EXTINF:-1 group-title="广东" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东影视
 webview://https://www.gdtv.cn/tvChannelDetail/53
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东4K" tvg-logo="https://epg.112114.xyz/logo/广东4K.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东4K
+#EXTINF:-1 group-title="广东" tvg-name="广东4K" tvg-logo="https://epg.112114.xyz/logo/广东4K.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东4K
 webview://https://www.gdtv.cn/tvChannelDetail/16
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东少儿
+#EXTINF:-1 group-title="广东" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东少儿
 webview://https://www.gdtv.cn/tvChannelDetail/54
-#EXTINF:-1 group-title="#荔枝网" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",嘉佳卡通
+#EXTINF:-1 group-title="广东" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",嘉佳卡通
 webview://https://www.gdtv.cn/tvChannelDetail/66
-#EXTINF:-1 group-title="#荔枝网" tvg-name="南方购物" tvg-logo="https://epg.112114.xyz/logo/南方购物.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",南方购物
+#EXTINF:-1 group-title="广东" tvg-name="南方购物" tvg-logo="https://epg.112114.xyz/logo/南方购物.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",南方购物
 webview://https://www.gdtv.cn/tvChannelDetail/42
-#EXTINF:-1 group-title="#荔枝网" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",岭南戏曲
+#EXTINF:-1 group-title="广东" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",岭南戏曲
 webview://https://www.gdtv.cn/tvChannelDetail/15
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东移动" tvg-logo="https://epg.112114.xyz/logo/广东移动.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东移动
+#EXTINF:-1 group-title="广东" tvg-name="广东移动" tvg-logo="https://epg.112114.xyz/logo/广东移动.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东移动
 webview://https://www.gdtv.cn/tvChannelDetail/74
-#EXTINF:-1 group-title="#荔枝网" tvg-name="荔枝台" tvg-logo="https://epg.112114.xyz/logo/荔枝台.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",荔枝台
+#EXTINF:-1 group-title="广东" tvg-name="荔枝台" tvg-logo="https://epg.112114.xyz/logo/荔枝台.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",荔枝台
 webview://https://www.gdtv.cn/tvChannelDetail/100
-#EXTINF:-1 group-title="#荔枝网" tvg-name="纪录片" tvg-logo="https://epg.112114.xyz/logo/纪录片.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",纪录片
+#EXTINF:-1 group-title="广东" tvg-name="纪录片" tvg-logo="https://epg.112114.xyz/logo/纪录片.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",纪录片
 webview://https://www.gdtv.cn/tvChannelDetail/94
-#EXTINF:-1 group-title="#荔枝网" tvg-name="GRTN健康" tvg-logo="https://epg.112114.xyz/logo/GRTN健康.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",GRTN健康
+#EXTINF:-1 group-title="广东" tvg-name="GRTN健康" tvg-logo="https://epg.112114.xyz/logo/GRTN健康.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",GRTN健康
 webview://https://www.gdtv.cn/tvChannelDetail/99
-#EXTINF:-1 group-title="#荔枝网" tvg-name="GRTN文化" tvg-logo="https://epg.112114.xyz/logo/GRTN文化.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",GRTN文化
+#EXTINF:-1 group-title="广东" tvg-name="GRTN文化" tvg-logo="https://epg.112114.xyz/logo/GRTN文化.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",GRTN文化
 webview://https://www.gdtv.cn/tvChannelDetail/75
-#EXTINF:-1 group-title="#荔枝网" tvg-name="GRTN生活" tvg-logo="https://epg.112114.xyz/logo/GRTN生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",GRTN生活
+#EXTINF:-1 group-title="广东" tvg-name="GRTN生活" tvg-logo="https://epg.112114.xyz/logo/GRTN生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",GRTN生活
 webview://https://www.gdtv.cn/tvChannelDetail/102
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东卫视
+#EXTINF:-1 group-title="广东" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东卫视
 webview://https://m.gdtv.cn/tvChannelDetail/43
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东珠江
+#EXTINF:-1 group-title="广东" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东珠江
 webview://https://m.gdtv.cn/tvChannelDetail/44
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东新闻
+#EXTINF:-1 group-title="广东" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东新闻
 webview://https://m.gdtv.cn/tvChannelDetail/45
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东民生
+#EXTINF:-1 group-title="广东" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东民生
 webview://https://m.gdtv.cn/tvChannelDetail/48
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东体育
+#EXTINF:-1 group-title="广东" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东体育
 webview://https://m.gdtv.cn/tvChannelDetail/47
-#EXTINF:-1 group-title="#荔枝网" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",大湾区卫视
+#EXTINF:-1 group-title="广东" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",大湾区卫视
 webview://https://m.gdtv.cn/tvChannelDetail/51
-#EXTINF:-1 group-title="#荔枝网" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",大湾区卫视
+#EXTINF:-1 group-title="广东" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",大湾区卫视
 webview://https://m.gdtv.cn/tvChannelDetail/46
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东影视
+#EXTINF:-1 group-title="广东" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东影视
 webview://https://m.gdtv.cn/tvChannelDetail/53
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东4K" tvg-logo="https://epg.112114.xyz/logo/广东4K.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东4K
+#EXTINF:-1 group-title="广东" tvg-name="广东4K" tvg-logo="https://epg.112114.xyz/logo/广东4K.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东4K
 webview://https://m.gdtv.cn/tvChannelDetail/16
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东少儿
+#EXTINF:-1 group-title="广东" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东少儿
 webview://https://m.gdtv.cn/tvChannelDetail/54
-#EXTINF:-1 group-title="#荔枝网" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",嘉佳卡通
+#EXTINF:-1 group-title="广东" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",嘉佳卡通
 webview://https://m.gdtv.cn/tvChannelDetail/66
-#EXTINF:-1 group-title="#荔枝网" tvg-name="南方购物" tvg-logo="https://epg.112114.xyz/logo/南方购物.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",南方购物
+#EXTINF:-1 group-title="广东" tvg-name="南方购物" tvg-logo="https://epg.112114.xyz/logo/南方购物.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",南方购物
 webview://https://m.gdtv.cn/tvChannelDetail/42
-#EXTINF:-1 group-title="#荔枝网" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",岭南戏曲
+#EXTINF:-1 group-title="广东" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",岭南戏曲
 webview://https://m.gdtv.cn/tvChannelDetail/15
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广东移动" tvg-logo="https://epg.112114.xyz/logo/广东移动.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东移动
+#EXTINF:-1 group-title="广东" tvg-name="广东移动" tvg-logo="https://epg.112114.xyz/logo/广东移动.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广东移动
 webview://https://m.gdtv.cn/tvChannelDetail/74
-#EXTINF:-1 group-title="#荔枝网" tvg-name="荔枝台" tvg-logo="https://epg.112114.xyz/logo/荔枝台.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",荔枝台
+#EXTINF:-1 group-title="广东" tvg-name="荔枝台" tvg-logo="https://epg.112114.xyz/logo/荔枝台.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",荔枝台
 webview://https://m.gdtv.cn/tvChannelDetail/100
-#EXTINF:-1 group-title="#荔枝网" tvg-name="纪录片" tvg-logo="https://epg.112114.xyz/logo/纪录片.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",纪录片
+#EXTINF:-1 group-title="广东" tvg-name="纪录片" tvg-logo="https://epg.112114.xyz/logo/纪录片.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",纪录片
 webview://https://m.gdtv.cn/tvChannelDetail/94
-#EXTINF:-1 group-title="#荔枝网" tvg-name="GRTN健康" tvg-logo="https://epg.112114.xyz/logo/GRTN健康.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",GRTN健康
+#EXTINF:-1 group-title="广东" tvg-name="GRTN健康" tvg-logo="https://epg.112114.xyz/logo/GRTN健康.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",GRTN健康
 webview://https://m.gdtv.cn/tvChannelDetail/99
-#EXTINF:-1 group-title="#荔枝网" tvg-name="GRTN文化" tvg-logo="https://epg.112114.xyz/logo/GRTN文化.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",GRTN文化
+#EXTINF:-1 group-title="广东" tvg-name="GRTN文化" tvg-logo="https://epg.112114.xyz/logo/GRTN文化.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",GRTN文化
 webview://https://m.gdtv.cn/tvChannelDetail/75
-#EXTINF:-1 group-title="#荔枝网" tvg-name="GRTN生活" tvg-logo="https://epg.112114.xyz/logo/GRTN生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",GRTN生活
+#EXTINF:-1 group-title="广东" tvg-name="GRTN生活" tvg-logo="https://epg.112114.xyz/logo/GRTN生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",GRTN生活
 webview://https://m.gdtv.cn/tvChannelDetail/102
-#EXTINF:-1 group-title="#荔枝网" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳卫视
+#EXTINF:-1 group-title="广东" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳卫视
 webview://https://www.sztv.com.cn/pindao/index.html?id=7867
-#EXTINF:-1 group-title="#荔枝网" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳都市
+#EXTINF:-1 group-title="广东" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳都市
 webview://https://www.sztv.com.cn/pindao/index.html?id=7868
-#EXTINF:-1 group-title="#荔枝网" tvg-name="深圳电视剧" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳电视剧
+#EXTINF:-1 group-title="广东" tvg-name="深圳电视剧" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳电视剧
 webview://https://www.sztv.com.cn/pindao/index.html?id=7880
-#EXTINF:-1 group-title="#荔枝网" tvg-name="深圳财经" tvg-logo="https://epg.112114.xyz/logo/深圳财经.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳财经
+#EXTINF:-1 group-title="广东" tvg-name="深圳财经" tvg-logo="https://epg.112114.xyz/logo/深圳财经.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳财经
 webview://https://www.sztv.com.cn/pindao/index.html?id=7871
-#EXTINF:-1 group-title="#荔枝网" tvg-name="深圳少儿" tvg-logo="https://epg.112114.xyz/logo/深圳少儿.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳少儿
+#EXTINF:-1 group-title="广东" tvg-name="深圳少儿" tvg-logo="https://epg.112114.xyz/logo/深圳少儿.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳少儿
 webview://https://www.sztv.com.cn/pindao/index.html?id=7881
-#EXTINF:-1 group-title="#荔枝网" tvg-name="深圳移动电视" tvg-logo="https://epg.112114.xyz/logo/深圳移动电视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳移动电视
+#EXTINF:-1 group-title="广东" tvg-name="深圳移动电视" tvg-logo="https://epg.112114.xyz/logo/深圳移动电视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳移动电视
 webview://https://www.sztv.com.cn/pindao/index.html?id=7869
-#EXTINF:-1 group-title="#荔枝网" tvg-name="深圳宜和购物" tvg-logo="https://epg.112114.xyz/logo/深圳宜和购物.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳宜和购物
+#EXTINF:-1 group-title="广东" tvg-name="深圳宜和购物" tvg-logo="https://epg.112114.xyz/logo/深圳宜和购物.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳宜和购物
 webview://https://www.sztv.com.cn/pindao/index.html?id=7878
-#EXTINF:-1 group-title="#荔枝网" tvg-name="深圳国际" tvg-logo="https://epg.112114.xyz/logo/深圳国际.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳国际
+#EXTINF:-1 group-title="广东" tvg-name="深圳国际" tvg-logo="https://epg.112114.xyz/logo/深圳国际.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",深圳国际
 webview://https://www.sztv.com.cn/pindao/index.html?id=7944
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
+#EXTINF:-1 group-title="广东" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
 webview://https://www.gztv.com/#/channel
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
+#EXTINF:-1 group-title="广东" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
 webview://http://app.gztv.com/plusshare/#/tvDetail?code=3000
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
+#EXTINF:-1 group-title="广东" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
 webview://http://app.gztv.com/plusshare/#/tvDetail?code=3002
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
+#EXTINF:-1 group-title="广东" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
 webview://http://app.gztv.com/plusshare/#/tvDetail?code=3006
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州法治
+#EXTINF:-1 group-title="广东" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州法治
 webview://http://app.gztv.com/plusshare/#/tvDetail?code=3004
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州南国都市" tvg-logo="https://epg.112114.xyz/logo/广州南国都市.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州南国都市
+#EXTINF:-1 group-title="广东" tvg-name="广州南国都市" tvg-logo="https://epg.112114.xyz/logo/广州南国都市.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州南国都市
 webview://http://app.gztv.com/plusshare/#/tvDetail?code=3003
-#EXTINF:-1 group-title="#荔枝网" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/江门综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江门综合
+#EXTINF:-1 group-title="广东" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/江门综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江门综合
 webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=2
-#EXTINF:-1 group-title="#荔枝网" tvg-name="江门侨乡生活" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江门侨乡生活
+#EXTINF:-1 group-title="广东" tvg-name="江门侨乡生活" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江门侨乡生活
 webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
-#EXTINF:-1 group-title="#荔枝网" tvg-name="东莞新闻综合" tvg-logo="https://epg.112114.xyz/logo/东莞新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="东莞新闻综合" tvg-logo="https://epg.112114.xyz/logo/东莞新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞新闻综合
 webview://https://dgrtv.sun0769.com/index.php/online2/4
-#EXTINF:-1 group-title="#荔枝网" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞生活资讯
+#EXTINF:-1 group-title="广东" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞生活资讯
 webview://https://dgrtv.sun0769.com/index.php/online2/5
-#EXTINF:-1 group-title="#荔枝网" tvg-name="河源新闻综合" tvg-logo="https://epg.112114.xyz/logo/河源新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",河源新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="河源新闻综合" tvg-logo="https://epg.112114.xyz/logo/河源新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",河源新闻综合
 webview://https://www.hyrtv.cn/itv/zhds/
-#EXTINF:-1 group-title="#荔枝网" tvg-name="河源公共" tvg-logo="https://epg.112114.xyz/logo/河源公共.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",河源公共
+#EXTINF:-1 group-title="广东" tvg-name="河源公共" tvg-logo="https://epg.112114.xyz/logo/河源公共.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",河源公共
 webview://https://www.hyrtv.cn/itv/ggds/
-#EXTINF:-1 group-title="#荔枝网" tvg-name="河源公共" tvg-logo="https://epg.112114.xyz/logo/河源公共.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",河源公共
+#EXTINF:-1 group-title="广东" tvg-name="河源公共" tvg-logo="https://epg.112114.xyz/logo/河源公共.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",河源公共
 https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="河源新闻综合" tvg-logo="https://epg.112114.xyz/logo/河源新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",河源新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="河源新闻综合" tvg-logo="https://epg.112114.xyz/logo/河源新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",河源新闻综合
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="清远新闻综合" tvg-logo="https://epg.112114.xyz/logo/清远新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",清远新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="清远新闻综合" tvg-logo="https://epg.112114.xyz/logo/清远新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",清远新闻综合
 webview://https://h5.qyrb.cn/h5/nfzmy-television-and-radio/#/?channelId=1
-#EXTINF:-1 group-title="#荔枝网" tvg-name="清远文旅生活" tvg-logo="https://epg.112114.xyz/logo/清远文旅生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",清远文旅生活
+#EXTINF:-1 group-title="广东" tvg-name="清远文旅生活" tvg-logo="https://epg.112114.xyz/logo/清远文旅生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",清远文旅生活
 webview://https://h5.qyrb.cn/h5/nfzmy-television-and-radio/#/?channelId=3
-#EXTINF:-1 group-title="#荔枝网" tvg-name="韶关新闻综合" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",韶关新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="韶关新闻综合" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",韶关新闻综合
 webview://https://www.sgmsw.cn/v/tv?spm=0.0.0.0.nRYAvk&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
-#EXTINF:-1 group-title="#荔枝网" tvg-name="肇庆新闻综合" tvg-logo="https://epg.112114.xyz/logo/肇庆新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",肇庆新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="肇庆新闻综合" tvg-logo="https://epg.112114.xyz/logo/肇庆新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",肇庆新闻综合
 webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=33
-#EXTINF:-1 group-title="#荔枝网" tvg-name="肇庆生活服务" tvg-logo="https://epg.112114.xyz/logo/肇庆生活服务.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",肇庆生活服务
+#EXTINF:-1 group-title="广东" tvg-name="肇庆生活服务" tvg-logo="https://epg.112114.xyz/logo/肇庆生活服务.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",肇庆生活服务
 webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=34
-#EXTINF:-1 group-title="#荔枝网" tvg-name="云浮新闻综合" tvg-logo="https://epg.112114.xyz/logo/云浮新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",云浮新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="云浮新闻综合" tvg-logo="https://epg.112114.xyz/logo/云浮新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",云浮新闻综合
 webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="云浮文旅生活" tvg-logo="https://epg.112114.xyz/logo/云浮文旅生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",云浮文旅生活
+#EXTINF:-1 group-title="广东" tvg-name="云浮文旅生活" tvg-logo="https://epg.112114.xyz/logo/云浮文旅生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",云浮文旅生活
 webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=9
-#EXTINF:-1 group-title="#荔枝网" tvg-name="信宜综合" tvg-logo="https://epg.112114.xyz/logo/信宜综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",信宜综合
+#EXTINF:-1 group-title="广东" tvg-name="信宜综合" tvg-logo="https://epg.112114.xyz/logo/信宜综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",信宜综合
 webview://https://web.guangdianyun.tv/tv/?id=643&uin=1629
-#EXTINF:-1 group-title="#荔枝网" tvg-name="开平综合" tvg-logo="https://epg.112114.xyz/logo/开平综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",开平综合
+#EXTINF:-1 group-title="广东" tvg-name="开平综合" tvg-logo="https://epg.112114.xyz/logo/开平综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",开平综合
 webview://https://web.guangdianyun.tv/tv/?id=1434&uin=1132
-#EXTINF:-1 group-title="#荔枝网" tvg-name="开平生活" tvg-logo="https://epg.112114.xyz/logo/开平生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",开平生活
+#EXTINF:-1 group-title="广东" tvg-name="开平生活" tvg-logo="https://epg.112114.xyz/logo/开平生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",开平生活
 webview://https://web.guangdianyun.tv/tv/?id=1435&uin=1132
-#EXTINF:-1 group-title="#荔枝网" tvg-name="揭阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/揭阳新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",揭阳新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="揭阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/揭阳新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",揭阳新闻综合
 webview://https://www.jyrtv.tv/fccommon/Home/detail?site_id=75&detail_type=7&cid=11
-#EXTINF:-1 group-title="#荔枝网" tvg-name="揭阳生活" tvg-logo="https://epg.112114.xyz/logo/揭阳生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",揭阳生活
+#EXTINF:-1 group-title="广东" tvg-name="揭阳生活" tvg-logo="https://epg.112114.xyz/logo/揭阳生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",揭阳生活
 webview://https://www.jyrtv.tv/fccommon/Home/detail?site_id=75&detail_type=7&cid=12
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
+#EXTINF:-1 group-title="广东" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88889
-#EXTINF:-1 group-title="#荔枝网" tvg-name="佛山综合" tvg-logo="https://epg.112114.xyz/logo/佛山综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",佛山综合
+#EXTINF:-1 group-title="广东" tvg-name="佛山综合" tvg-logo="https://epg.112114.xyz/logo/佛山综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",佛山综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88888
-#EXTINF:-1 group-title="#荔枝网" tvg-name="东莞新闻综合" tvg-logo="https://epg.112114.xyz/logo/东莞新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="东莞新闻综合" tvg-logo="https://epg.112114.xyz/logo/东莞新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞新闻综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88887
-#EXTINF:-1 group-title="#荔枝网" tvg-name="潮州新闻综合" tvg-logo="https://epg.112114.xyz/logo/潮州新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",潮州新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="潮州新闻综合" tvg-logo="https://epg.112114.xyz/logo/潮州新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",潮州新闻综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88886
-#EXTINF:-1 group-title="#荔枝网" tvg-name="河源新闻综合" tvg-logo="https://epg.112114.xyz/logo/河源新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",河源新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="河源新闻综合" tvg-logo="https://epg.112114.xyz/logo/河源新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",河源新闻综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88890
-#EXTINF:-1 group-title="#荔枝网" tvg-name="惠州新闻综合" tvg-logo="https://epg.112114.xyz/logo/惠州新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",惠州新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="惠州新闻综合" tvg-logo="https://epg.112114.xyz/logo/惠州新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",惠州新闻综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88891
-#EXTINF:-1 group-title="#荔枝网" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/江门综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江门综合
+#EXTINF:-1 group-title="广东" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/江门综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江门综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88892
-#EXTINF:-1 group-title="#荔枝网" tvg-name="揭阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/揭阳新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",揭阳新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="揭阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/揭阳新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",揭阳新闻综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88893
-#EXTINF:-1 group-title="#荔枝网" tvg-name="茂名新闻综合" tvg-logo="https://epg.112114.xyz/logo/茂名新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",茂名新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="茂名新闻综合" tvg-logo="https://epg.112114.xyz/logo/茂名新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",茂名新闻综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88894
-#EXTINF:-1 group-title="#荔枝网" tvg-name="梅州综合" tvg-logo="https://epg.112114.xyz/logo/梅州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",梅州综合
+#EXTINF:-1 group-title="广东" tvg-name="梅州综合" tvg-logo="https://epg.112114.xyz/logo/梅州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",梅州综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88895
-#EXTINF:-1 group-title="#荔枝网" tvg-name="清远新闻综合" tvg-logo="https://epg.112114.xyz/logo/清远新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",清远新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="清远新闻综合" tvg-logo="https://epg.112114.xyz/logo/清远新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",清远新闻综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88896
-#EXTINF:-1 group-title="#荔枝网" tvg-name="汕头新闻综合" tvg-logo="https://epg.112114.xyz/logo/汕头新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",汕头新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="汕头新闻综合" tvg-logo="https://epg.112114.xyz/logo/汕头新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",汕头新闻综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88897
-#EXTINF:-1 group-title="#荔枝网" tvg-name="汕尾新闻综合" tvg-logo="https://epg.112114.xyz/logo/汕尾新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",汕尾新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="汕尾新闻综合" tvg-logo="https://epg.112114.xyz/logo/汕尾新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",汕尾新闻综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88898
-#EXTINF:-1 group-title="#荔枝网" tvg-name="韶关新闻综合" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",韶关新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="韶关新闻综合" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",韶关新闻综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88899
-#EXTINF:-1 group-title="#荔枝网" tvg-name="阳江综合" tvg-logo="https://epg.112114.xyz/logo/阳江综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",阳江综合
+#EXTINF:-1 group-title="广东" tvg-name="阳江综合" tvg-logo="https://epg.112114.xyz/logo/阳江综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",阳江综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88901
-#EXTINF:-1 group-title="#荔枝网" tvg-name="云浮新闻综合" tvg-logo="https://epg.112114.xyz/logo/云浮新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",云浮新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="云浮新闻综合" tvg-logo="https://epg.112114.xyz/logo/云浮新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",云浮新闻综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88902
-#EXTINF:-1 group-title="#荔枝网" tvg-name="湛江新闻综合" tvg-logo="https://epg.112114.xyz/logo/湛江新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",湛江新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="湛江新闻综合" tvg-logo="https://epg.112114.xyz/logo/湛江新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",湛江新闻综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88903
-#EXTINF:-1 group-title="#荔枝网" tvg-name="肇庆新闻综合" tvg-logo="https://epg.112114.xyz/logo/肇庆新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",肇庆新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="肇庆新闻综合" tvg-logo="https://epg.112114.xyz/logo/肇庆新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",肇庆新闻综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88904
-#EXTINF:-1 group-title="#荔枝网" tvg-name="中山综合" tvg-logo="https://epg.112114.xyz/logo/中山综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",中山综合
+#EXTINF:-1 group-title="广东" tvg-name="中山综合" tvg-logo="https://epg.112114.xyz/logo/中山综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",中山综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88905
-#EXTINF:-1 group-title="#荔枝网" tvg-name="珠海新闻综合" tvg-logo="https://epg.112114.xyz/logo/珠海新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",珠海新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="珠海新闻综合" tvg-logo="https://epg.112114.xyz/logo/珠海新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",珠海新闻综合
 webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88906
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
+#EXTINF:-1 group-title="广东" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
+#EXTINF:-1 group-title="广东" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
+#EXTINF:-1 group-title="广东" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=5d7708684007fcea395caff98369084c&txTime=19019c37743
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
+#EXTINF:-1 group-title="广东" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=6d9c0311929fc12857f6b810fab0188b&txTime=1913a3ed516
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
+#EXTINF:-1 group-title="广东" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
+#EXTINF:-1 group-title="广东" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=aae0358e06f64d4db4d663321a3fa964&txTime=190def4db74
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
+#EXTINF:-1 group-title="广东" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
+#EXTINF:-1 group-title="广东" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
+#EXTINF:-1 group-title="广东" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
+#EXTINF:-1 group-title="广东" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州综合
 https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
+#EXTINF:-1 group-title="广东" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
 http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
+#EXTINF:-1 group-title="广东" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
+#EXTINF:-1 group-title="广东" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
+#EXTINF:-1 group-title="广东" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=88ad17e0518f41980b392744d8ecbfc7&txTime=190def6e358
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
+#EXTINF:-1 group-title="广东" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=cbfba109d1fef4ef29e93a1c6bba208e&txTime=19019e62015
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
+#EXTINF:-1 group-title="广东" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=d21675d873711660e1d3dfb8df430d78&txTime=19182b7e615
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
+#EXTINF:-1 group-title="广东" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=d3dad1fd1a965ff59d3db3990b923267&txTime=18ee6e4efc1
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
+#EXTINF:-1 group-title="广东" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
+#EXTINF:-1 group-title="广东" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州影视
 https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=074974bc25835d38fda6936ae40aabe9&txTime=193108637cb
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
+#EXTINF:-1 group-title="广东" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
+#EXTINF:-1 group-title="广东" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=0901a0ee80ee6b60f0731399e0de6c5d&txTime=191825f0639
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
+#EXTINF:-1 group-title="广东" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
+#EXTINF:-1 group-title="广东" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
+#EXTINF:-1 group-title="广东" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
+#EXTINF:-1 group-title="广东" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=c651b79c107d9cde3914d011cbb896a6&txTime=190def3c97d
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
+#EXTINF:-1 group-title="广东" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
+#EXTINF:-1 group-title="广东" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=dd1b312cc1b5cbe9fad85bf5ddce4b10&txTime=190723b940c
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
+#EXTINF:-1 group-title="广东" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=f80e5b7654c57c7571a314d94befe320&txTime=19019c051d5
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
+#EXTINF:-1 group-title="广东" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州新闻
 https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=c53d0e4d014632321a8e0efd6abecda4&txTime=193108637cb
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州法治
+#EXTINF:-1 group-title="广东" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州法治
 http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州法治
+#EXTINF:-1 group-title="广东" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州法治
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州法治
+#EXTINF:-1 group-title="广东" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州法治
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州法治
+#EXTINF:-1 group-title="广东" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州法治
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=491c40d07978ba7046704a7844042ff6&txTime=19019f3714e
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州法治
+#EXTINF:-1 group-title="广东" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州法治
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=6d133e82b12055c11f9d50dab61aeb9d&txTime=19182c08de9
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州法治
+#EXTINF:-1 group-title="广东" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州法治
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=c180b67d43e34b97c970524c05ef3b4e&txTime=18ee6e4efc1
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州南国都市" tvg-logo="https://epg.112114.xyz/logo/广州南国都市.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州南国都市
+#EXTINF:-1 group-title="广东" tvg-name="广州南国都市" tvg-logo="https://epg.112114.xyz/logo/广州南国都市.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-#EXTINF:-1 group-title="#荔枝网" tvg-name="广州南国都市" tvg-logo="https://epg.112114.xyz/logo/广州南国都市.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州南国都市
+#EXTINF:-1 group-title="广东" tvg-name="广州南国都市" tvg-logo="https://epg.112114.xyz/logo/广州南国都市.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",广州南国都市
 https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=6a8b48f5aa911a8a860e061961971710&txTime=19744c5bcb0
-#EXTINF:-1 group-title="#荔枝网" tvg-name="东莞新闻综合" tvg-logo="https://epg.112114.xyz/logo/东莞新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="东莞新闻综合" tvg-logo="https://epg.112114.xyz/logo/东莞新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞新闻综合
 http://php.jdshipin.com:8880/0769.php?id=xwzh
-#EXTINF:-1 group-title="#荔枝网" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞生活资讯
+#EXTINF:-1 group-title="广东" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞生活资讯
 http://php.jdshipin.com:8880/0769.php?id=shzx
-#EXTINF:-1 group-title="#荔枝网" tvg-name="东莞新闻综合" tvg-logo="https://epg.112114.xyz/logo/东莞新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="东莞新闻综合" tvg-logo="https://epg.112114.xyz/logo/东莞新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞新闻综合
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞生活资讯
+#EXTINF:-1 group-title="广东" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞生活资讯
 https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞生活资讯
+#EXTINF:-1 group-title="广东" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",东莞生活资讯
 https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="清远文旅生活" tvg-logo="https://epg.112114.xyz/logo/清远文旅生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",清远文旅生活
+#EXTINF:-1 group-title="广东" tvg-name="清远文旅生活" tvg-logo="https://epg.112114.xyz/logo/清远文旅生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",清远文旅生活
 https://zmylivestream.nfnews.com/zmy_slive/25321.m3u8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="清远新闻综合" tvg-logo="https://epg.112114.xyz/logo/清远新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",清远新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="清远新闻综合" tvg-logo="https://epg.112114.xyz/logo/清远新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",清远新闻综合
 https://zmylivestream.nfnews.com/zmy_slive/25319.m3u8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="湛江公共" tvg-logo="https://epg.112114.xyz/logo/湛江公共.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",湛江公共
+#EXTINF:-1 group-title="广东" tvg-name="湛江公共" tvg-logo="https://epg.112114.xyz/logo/湛江公共.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",湛江公共
 http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="湛江公共" tvg-logo="https://epg.112114.xyz/logo/湛江公共.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",湛江公共
+#EXTINF:-1 group-title="广东" tvg-name="湛江公共" tvg-logo="https://epg.112114.xyz/logo/湛江公共.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",湛江公共
 https://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="湛江新闻综合" tvg-logo="https://epg.112114.xyz/logo/湛江新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",湛江新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="湛江新闻综合" tvg-logo="https://epg.112114.xyz/logo/湛江新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",湛江新闻综合
 http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="湛江新闻综合" tvg-logo="https://epg.112114.xyz/logo/湛江新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",湛江新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="湛江新闻综合" tvg-logo="https://epg.112114.xyz/logo/湛江新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",湛江新闻综合
 https://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="珠海新闻综合" tvg-logo="https://epg.112114.xyz/logo/珠海新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",珠海新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="珠海新闻综合" tvg-logo="https://epg.112114.xyz/logo/珠海新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",珠海新闻综合
 http://publive.zhrct.com/zhtv1/zhtv1.m3u8?auth_key=1697183630-0-0-237458bc86c8bc697f92b9525a090953
-#EXTINF:-1 group-title="#荔枝网" tvg-name="韶关新闻综合" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",韶关新闻综合
+#EXTINF:-1 group-title="广东" tvg-name="韶关新闻综合" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",韶关新闻综合
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="番禺综合" tvg-logo="https://epg.112114.xyz/logo/番禺综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",番禺综合
+#EXTINF:-1 group-title="广东" tvg-name="番禺综合" tvg-logo="https://epg.112114.xyz/logo/番禺综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",番禺综合
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-#EXTINF:-1 group-title="#荔枝网" tvg-name="五华综合" tvg-logo="https://epg.112114.xyz/logo/五华综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",五华综合
+#EXTINF:-1 group-title="广东" tvg-name="五华综合" tvg-logo="https://epg.112114.xyz/logo/五华综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",五华综合
 http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
-#EXTINF:-1 group-title="#荔枝网" tvg-name="丰顺综合" tvg-logo="https://epg.112114.xyz/logo/丰顺综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",丰顺综合
+#EXTINF:-1 group-title="广东" tvg-name="丰顺综合" tvg-logo="https://epg.112114.xyz/logo/丰顺综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",丰顺综合
 http://1b6467f415.iok.la:9931/tsfile/live/1100_1.m3u8
 #EXTINF:-1 group-title="北京" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",北京卫视
 webview://https://item.btime.com/5755n511tbk8flo40l4c71l0sdf
@@ -605,23 +605,38 @@ webview://https://www.btime.com/btv/btvsy_index
 http://124.222.114.206/bjtv.php?id=bjws
 #EXTINF:-1 group-title="北京" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",北京卫视
 http://124.222.114.206/bjtv.php?id=bjws4k
+#EXTINF:-1 group-title="北京" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz"   catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京卫视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1749686411&sign=1ecae23dc749458f238577191b5d9ab8
+#EXTINF:-1 group-title="北京" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz"   catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京卫视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1749686413&sign=f771c8c943e55752740afcdb56e522c0
 #EXTINF:-1 group-title="北京" tvg-name="BRTV文艺" tvg-logo="https://epg.112114.xyz/logo/BRTV文艺.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",BRTV文艺
 http://124.222.114.206/bjtv.php?id=bjwy
-#EXTINF:-1 group-title="北京" tvg-name="BRTV文艺" tvg-logo="https://epg.112114.xyz/logo/BRTV文艺.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz"  catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV文艺 
+#EXTINF:-1 group-title="北京" tvg-name="BRTV文艺" tvg-logo="https://epg.112114.xyz/logo/BRTV文艺.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz"   catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV文艺
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1749607210&sign=2ffaa2b3d16987d471eff191d4dd6a5e
-
+#EXTINF:-1 group-title="北京" tvg-name="BRTV纪实科教" tvg-logo="https://epg.112114.xyz/logo/BRTV纪实科教.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz"   catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV纪实科教
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1749686412&sign=14276d82f399263ca24c62d393dc5135
 #EXTINF:-1 group-title="北京" tvg-name="BRTV纪实科教" tvg-logo="https://epg.112114.xyz/logo/BRTV纪实科教.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",BRTV纪实科教
 http://124.222.114.206/bjtv.php?id=bjjs
+#EXTINF:-1 group-title="北京" tvg-name="BRTV影视" tvg-logo="https://epg.112114.xyz/logo/BRTV影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz"   catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV影视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1749686412&sign=96e9f7a1e575237719ee8b3f8e5d2f86
 #EXTINF:-1 group-title="北京" tvg-name="BRTV影视" tvg-logo="https://epg.112114.xyz/logo/BRTV影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",BRTV影视
 http://124.222.114.206/bjtv.php?id=bjys
-#EXTINF:-1 group-title="北京" tvg-name="BRTV财经" tvg-logo="https://epg.112114.xyz/logo/BRTV财经.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",BRTV财经
+#EXTINF:-1 group-title="北京" tvg-name="BRTV财经" tvg-logo="https://epg.112114.xyz/logo/BRTV财经.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz"   catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV财经
 http://124.222.114.206/bjtv.php?id=bjcj
+#EXTINF:-1 group-title="北京" tvg-name="BRTV财经" tvg-logo="https://epg.112114.xyz/logo/BRTV财经.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",BRTV财经
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1749686412&sign=c643648239fcef5ba22fb5bfb88180f5
 #EXTINF:-1 group-title="北京" tvg-name="BRTV体育休闲" tvg-logo="https://epg.112114.xyz/logo/BRTV体育休闲.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",BRTV体育休闲
 http://124.222.114.206/bjtv.php?id=bjty
+#EXTINF:-1 group-title="北京" tvg-name="BRTV生活" tvg-logo="https://epg.112114.xyz/logo/BRTV生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz"   catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV生活
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1749686413&sign=608427e92477930ff3e82a5733c762fc
 #EXTINF:-1 group-title="北京" tvg-name="BRTV生活" tvg-logo="https://epg.112114.xyz/logo/BRTV生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",BRTV生活
 http://124.222.114.206/bjtv.php?id=bjsh
+#EXTINF:-1 group-title="北京" tvg-name="BRTV新闻" tvg-logo="https://epg.112114.xyz/logo/BRTV新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV新闻
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1749686413&sign=a96fee50053c708d6d2899d9aec336f7
 #EXTINF:-1 group-title="北京" tvg-name="BRTV新闻" tvg-logo="https://epg.112114.xyz/logo/BRTV新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",BRTV新闻
 http://124.222.114.206/bjtv.php?id=bjxw
+#EXTINF:-1 group-title="北京" tvg-name="BRTV卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/BRTV卡酷少儿.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV卡酷少儿
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1749686413&sign=9439673a4aad62fee24072b21adc1e8e
 #EXTINF:-1 group-title="北京" tvg-name="BRTV卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/BRTV卡酷少儿.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",BRTV卡酷少儿
 http://124.222.114.206/bjtv.php?id=bjkk
 #EXTINF:-1 group-title="北京" tvg-name="顺义综合" tvg-logo="https://epg.112114.xyz/logo/顺义综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",顺义综合
@@ -2005,17 +2020,17 @@ https://wfrtv-live-tz.wfcmw.cn:5443/live/sdtv0306.m3u8
 #EXTINF:-1 group-title="甘肃" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",甘肃卫视
 webview://https://www.gstv.com.cn/zxc.jhtml#
 #EXTINF:-1 group-title="甘肃" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",甘肃卫视
-https://hls.gstv.com.cn/skt649/tmttss.m3u8
+https://hls.gstv.com.cn/skt649/s1551e.m3u8
 #EXTINF:-1 group-title="甘肃" tvg-name="甘肃文化影视" tvg-logo="https://epg.112114.xyz/logo/甘肃文化影视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",甘肃文化影视
-https://hls.gstv.com.cn/skt649/004ypi.m3u8
+https://hls.gstv.com.cn/skt649/614d4y.m3u8
 #EXTINF:-1 group-title="甘肃" tvg-name="甘肃公共应急" tvg-logo="https://epg.112114.xyz/logo/甘肃公共应急.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",甘肃公共应急
-https://hls.gstv.com.cn/skt649/05v00b.m3u8
+https://hls.gstv.com.cn/skt649/o66li3.m3u8
 #EXTINF:-1 group-title="甘肃" tvg-name="甘肃少儿" tvg-logo="https://epg.112114.xyz/logo/甘肃少儿.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",甘肃少儿
-https://hls.gstv.com.cn/skt649/ok36o6.m3u8
+https://hls.gstv.com.cn/skt649/96iab0.m3u8
 #EXTINF:-1 group-title="甘肃" tvg-name="甘肃科教" tvg-logo="https://epg.112114.xyz/logo/甘肃科教.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",甘肃科教
-https://hls.gstv.com.cn/skt649/s2rp5w.m3u8
+https://hls.gstv.com.cn/skt649/ndghhx.m3u8
 #EXTINF:-1 group-title="甘肃" tvg-name="甘肃移动" tvg-logo="https://epg.112114.xyz/logo/甘肃移动.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",甘肃移动
-https://hls.gstv.com.cn/skt649/47uw77.m3u8
+https://hls.gstv.com.cn/skt649/976027.m3u8
 #EXTINF:-1 group-title="甘肃" tvg-name="兰州新闻综合" tvg-logo="https://epg.112114.xyz/logo/兰州新闻综合.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",兰州新闻综合
 webview://https://www.lzr.com.cn/folder25/folder26/
 #EXTINF:-1 group-title="甘肃" tvg-name="兰州文旅" tvg-logo="https://epg.112114.xyz/logo/兰州文旅.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",兰州文旅
