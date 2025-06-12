@@ -429,7 +429,7 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 
 江西,#genre#
-江西卫视,https://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+江西卫视,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 江西都市,https://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
 江西经济生活,https://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3.m3u8
 江西影视旅游,https://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8
