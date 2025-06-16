@@ -1492,6 +1492,7 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
 山西卫视,webview://http://tv.zimtv.cn/player/?p=shanxitv&id=sxws2
 黄河卫视,webview://http://tv.zimtv.cn/player/?p=shanxitv&id=sxhh
+黄河卫视,webview://http://tv.zimtv.cn/player/api/shanxitv.php?id=sxhh
 山西经济与科技,webview://http://tv.zimtv.cn/player/?p=shanxitv&id=sxjj
 山西影视,webview://http://tv.zimtv.cn/player/?p=shanxitv&id=sxys
 山西社会与法治,webview://http://tv.zimtv.cn/player/?p=shanxitv&id=sxshfz
