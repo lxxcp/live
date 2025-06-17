@@ -1502,6 +1502,11 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 山西影视,webview://http://tv.zimtv.cn/player/api/shanxitv.php?id=sxys
 山西社会与法治,webview://http://tv.zimtv.cn/player/api/shanxitv.php?id=sxshfz
 山西文体生活,webview://http://tv.zimtv.cn/player/api/shanxitv.php?id=sxgg
+山西黄河,webview://https://apphhplushttps.sxrtv.com//television/live_wap_651.html?site=53&color=0697F4
+山西经济与科技,webview://https://apphhplushttps.sxrtv.com//television/live_wap_653.html
+山西影视,webview://https://apphhplushttps.sxrtv.com//television/live_wap_654.html
+山西社会与法治,webview://https://apphhplushttps.sxrtv.com//television/live_wap_655.html
+山西文体生活,webview://https://apphhplushttps.sxrtv.com//television/live_wap_656.html
 太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
 太原新闻综合,webview://https://web.wx.sztv.com.cn/cms/rmt2018/23/23mbdszb/index.shtml
 大同新闻综合,webview://https://www.dtradio.com.cn/local/folder25
@@ -1547,6 +1552,10 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 祁县综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
 长子综合,http://live.njgdmm.com/changzhi/cztv2.m3u8
+太原新闻综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811850.html
+晋城新闻综合,webview://https://apphhpluswebview://https.sxrtv.com//a/b/a/live_wap_811846.html
+晋中综合,webview://https://apphhpluswebview://https.sxrtv.com//a/b/a/live_wap_811844.html
+阳泉新闻综合,webview://https://apphhpluswebview://https.sxrtv.com//a/b/a/live_wap_811848.html
 
 陕西,#genre#
 陕西卫视,webview://http://live.snrtv.com/star
