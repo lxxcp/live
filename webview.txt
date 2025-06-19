@@ -382,7 +382,6 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 长沙政法,webview://https://live.mgtv.com/?channelId=254
 长沙新闻综合,webview://http://p.ytelc.com/169l/hunan/mgtv.php?id=csxw
 长沙政法,webview://http://p.ytelc.com/169l/hunan/mgtv.php?id=cszf
-长沙女性,webview://http://p.ytelc.com/169l/hunan/mgtv.php?id=csnx
 株洲新闻综合,webview://https://web.guangdianyun.tv/tv/2053?uin=1366
 湘潭新闻综合,webview://http://www.hnxttv.com/live/ivideo/index.html
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
@@ -454,6 +453,7 @@ BRTV卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少
 江西陶瓷,https://local-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8?source=pc&t=&t=&uuid=
 风尚购物,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8?source=pc&t=&t=&uuid=
 江西教育,webview://https://live.jxeduyun.com/lives/XlaoRd
+江西教育, https://cdn-live.jxeduyun.com/streams/640f79857ff58.m3u8
 南昌新闻综合,webview://https://www.nctv.net.cn/live?channel=1
 南昌都市,webview://https://www.nctv.net.cn/live?channel=2
 南昌资讯,webview://https://www.nctv.net.cn/live?channel=3
@@ -1148,8 +1148,6 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江影视娱乐,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-浙江影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
