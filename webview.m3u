@@ -844,23 +844,23 @@ https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北" tvg-name="滦平新闻" tvg-logo="https://epg.112114.xyz/logo/滦平新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",滦平新闻
 http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="江西" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江西卫视
-webview://https://www.jxntv.cn/live/#/jxtv1
+http://124.95.180.107/1.v.smtcdns.net/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 #EXTINF:-1 group-title="江西" tvg-name="江西都市" tvg-logo="https://epg.112114.xyz/logo/江西都市.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江西都市
-webview://https://www.jxntv.cn/live/#/jxtv2
+http://124.95.180.107/1.v.smtcdns.net/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
 #EXTINF:-1 group-title="江西" tvg-name="江西经济生活" tvg-logo="https://epg.112114.xyz/logo/江西经济生活.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江西经济生活
-webview://https://www.jxntv.cn/live/#/jxtv3
+http://124.95.180.107/1.v.smtcdns.net/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3.m3u8
 #EXTINF:-1 group-title="江西" tvg-name="江西影视旅游" tvg-logo="https://epg.112114.xyz/logo/江西影视旅游.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江西影视旅游
-webview://https://www.jxntv.cn/live/#/jxtv4
+http://124.95.180.107/1.v.smtcdns.net/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8
 #EXTINF:-1 group-title="江西" tvg-name="江西公共农业" tvg-logo="https://epg.112114.xyz/logo/江西公共农业.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江西公共农业
-webview://https://www.jxntv.cn/live/#/jxtv5
+http://124.95.180.107/1.v.smtcdns.net/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
 #EXTINF:-1 group-title="江西" tvg-name="江西少儿" tvg-logo="https://epg.112114.xyz/logo/江西少儿.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江西少儿
-webview://https://www.jxntv.cn/live/#/jxtv6
+http://124.95.180.107/1.v.smtcdns.net/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
 #EXTINF:-1 group-title="江西" tvg-name="江西新闻" tvg-logo="https://epg.112114.xyz/logo/江西新闻.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江西新闻
-webview://https://www.jxntv.cn/live/#/jxtv7
+http://124.95.180.107/1.v.smtcdns.net/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 #EXTINF:-1 group-title="江西" tvg-name="江西陶瓷" tvg-logo="https://epg.112114.xyz/logo/江西陶瓷.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江西陶瓷
-webview://https://www.jxntv.cn/live/#/tcpd
+http://124.95.180.107/1.v.smtcdns.net/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8
 #EXTINF:-1 group-title="江西" tvg-name="风尚购物" tvg-logo="https://epg.112114.xyz/logo/风尚购物.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",风尚购物
-webview://https://www.jxntv.cn/live/#/fsgw
+http://124.95.180.107/1.v.smtcdns.net/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
 #EXTINF:-1 group-title="江西" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江西卫视
 https://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=&uuid=
 #EXTINF:-1 group-title="江西" tvg-name="江西都市" tvg-logo="https://epg.112114.xyz/logo/江西都市.png" epg-url="https://gh.tryxd.cn/github.com/lxxcp/epg/blob/main/e.xml.gz",江西都市
