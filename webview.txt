@@ -308,7 +308,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 五华综合,http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
 丰顺综合,http://1b6467f415.iok.la:9931/tsfile/live/1100_1.m3u8
-
+汕尾文化生活,https://iswtv.swrtv.com/live/whshpd.m3u8
 北京,#genre#
 北京卫视,webview://https://item.btime.com/5755n511tbk8flo40l4c71l0sdf
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
@@ -424,7 +424,7 @@ BRTV卡酷少儿,webview://https://ruige2024.serv00.net/bj.html?channel=9
 建安综合,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
+邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 鹿泉综合,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 平泉影视,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
