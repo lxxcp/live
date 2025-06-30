@@ -163,6 +163,7 @@ CCTV-4 中文国际,webview://https://m-live.cctvnews.cctv.com/live/landscape.ht
 CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
 广东,#genre#
 #荔枝网,#genre#
+广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/110
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
@@ -201,6 +202,7 @@ GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 GRTN健康,webview://https://m.gdtv.cn/tvChannelDetail/99
 GRTN文化,webview://https://m.gdtv.cn/tvChannelDetail/75
 GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
+深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=24725
 深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
 深圳都市,webview://https://www.sztv.com.cn/pindao/index.html?id=7868
 深圳电视剧,webview://https://www.sztv.com.cn/pindao/index.html?id=7880
