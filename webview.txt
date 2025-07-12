@@ -126,6 +126,12 @@ CCTV-16 奥林匹克,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/
 CCTV-17 农业农村,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv17/
 CCTV-4 中文国际欧洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctveurope/
 CCTV-4 中文国际美洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvamerica/
+CCTV-1 综合,webview://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
+CCTV-1 综合,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
+CCTV-1 综合,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
+CCTV-13 新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv13
+CCTV-13 新闻,webview://https://m.miguvideo.com/m/liveDetail/608807423?channelId=10010001005
+CCTV-13 新闻,webview://https://app.hsrtv.cn//television/live_wap_17157.html
 CGTN,webview://https://www.cgtn.com/tv
 CGTN纪录,webview://https://www.cgtn.com/channel/documentary
 CGTN俄语,webview://https://russian.cgtn.com/channel
