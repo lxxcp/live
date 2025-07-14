@@ -327,6 +327,15 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 北京,#genre#
 北京卫视,webview://https://item.btime.com/5755n511tbk8flo40l4c71l0sdf
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
+北京卫视,http://qtest-play.btime.cn/live/btv_sn_20170706_s1.m3u8
+BRTV文艺,http://qtest-play.btime.cn/live/btv_sn_20170706_s2.m3u8
+BRTV纪实科教,http://qtest-play.btime.cn/live/btv_sn_20170706_s3.m3u8
+BRTV影视,http://qtest-play.btime.cn/live/btv_sn_20170706_s4.m3u8
+BRTV财经,http://qtest-play.btime.cn/live/btv_sn_20170706_s5.m3u8
+BRTV体育休闲,http://qtest-play.btime.cn/live/btv_sn_20170706_s6.m3u8
+BRTV生活,http://qtest-play.btime.cn/live/btv_sn_20170706_s7.m3u8
+BRTV新闻,http://qtest-play.btime.cn/live/btv_sn_20170706_s9.m3u8
+BRTV卡酷少儿,http://qtest-play.btime.cn/live/btv_sn_20170706_s10.m3u8
 北京卫视,http://124.222.114.206/bjtv.php?id=bjws
 北京卫视,http://124.222.114.206/bjtv.php?id=bjws4k
 BRTV文艺,http://124.222.114.206/bjtv.php?id=bjwy
