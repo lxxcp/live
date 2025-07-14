@@ -325,7 +325,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 丰顺综合,http://1b6467f415.iok.la:9931/tsfile/live/1100_1.m3u8
 
 北京,#genre#
-北京卫视,webview://https://item.btime.com/5755n511tbk8flo40l4c71l0sdf
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
 北京卫视,http://qtest-play.btime.cn/live/btv_sn_20170706_s1.m3u8
 BRTV文艺,http://qtest-play.btime.cn/live/btv_sn_20170706_s2.m3u8
@@ -347,13 +346,6 @@ BRTV生活,http://124.222.114.206/bjtv.php?id=bjsh
 BRTV新闻,http://124.222.114.206/bjtv.php?id=bjxw
 BRTV卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
 顺义综合,https://livebjsy.chinamcache.com/live/zb02.m3u8
-北京卫视,webview://http://iptv.huuc.edu.cn/player.html?channel=btv1hd
-BRTV文艺,webview://http://iptv.huuc.edu.cn/player.html?channel=btv2hd
-BRTV纪实科教,webview://http://iptv.huuc.edu.cn/player.html?channel=btv11hd
-BRTV影视,webview://http://iptv.huuc.edu.cn/player.html?channel=btv4hd
-BRTV体育休闲,webview://http://iptv.huuc.edu.cn/player.html?channel=btv11hd
-BRTV新闻,webview://http://iptv.huuc.edu.cn/player.html?channel=btv9hd
-北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 BRTV文艺,webview://https://ruige2024.serv00.net/bj.html?channel=2
 BRTV纪实科教,webview://https://ruige2024.serv00.net/bj.html?channel=3
 BRTV影视,webview://https://ruige2024.serv00.net/bj.html?channel=4
@@ -362,7 +354,6 @@ BRTV体育休闲,webview://https://ruige2024.serv00.net/bj.html?channel=6
 BRTV生活,webview://https://ruige2024.serv00.net/bj.html?channel=7
 BRTV新闻,webview://https://ruige2024.serv00.net/bj.html?channel=8
 BRTV卡酷少儿,webview://https://ruige2024.serv00.net/bj.html?channel=9
-北京卫视,webview://https://www.btime.com/btv/btvsy_index
 北京卫视,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10002&id=52
 北京卫视,webview://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d
 北京卫视,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=btv1
