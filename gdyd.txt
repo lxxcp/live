@@ -17,7 +17,7 @@ CCTV-6 电影,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226699/1.m3u8
 CCTV-7 国防军事,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
 CCTV-7 国防军事,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226948/1.m3u8
 CCTV-7 国防军事,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226956/1.m3u8
-CCTV-8 剧场,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
+CCTV-8 电视剧,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
 CCTV-9 纪录,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226651/1.m3u8
 CCTV-9 纪录,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226657/1.m3u8
 CCTV-10 科教,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
@@ -206,7 +206,7 @@ CCTV-5+ 体育赛事,http://120.196.232.124:8088/rrs03.hw.gmcc.net:8088/PLTV/651
 CETV-1 综合教育,http://120.196.232.124:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226712/1.m3u8
 湖北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226713/1.m3u8
 CCTV-11 戏曲,http://120.196.232.124:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
-CCTV-8 剧场,http://120.196.232.124:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
+CCTV-8 电视剧,http://120.196.232.124:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
 黑龙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226716/1.m3u8
 CCTV-13 新闻,http://120.196.232.124:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
 CETV-2 空中课堂,http://120.196.232.124:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226718/1.m3u8
