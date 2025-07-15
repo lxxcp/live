@@ -1,6 +1,10 @@
 江西移动频道,#genre#
 #3840x2160   一号源
 4KUHD,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
+北京卫视 4K,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226394/index.m3u8
+广东卫视 4K,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226405/index.m3u8
+深圳卫视 4K,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226409/index.m3u8
+
 #1920x1080
 CCTV-1 综合,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225501/index.m3u8
 CCTV-1 综合,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225618/index.m3u8
@@ -358,7 +362,9 @@ BRTV卡酷少儿,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/322122636
 
 #3840x2160
 4KUHD,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225786/index.m3u8
-
+北京卫视 4K,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226394/index.m3u8
+广东卫视 4K,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226405/index.m3u8
+深圳卫视 4K,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226409/index.m3u8
 #1980x1080
 BRTV卡酷少儿,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226362/index.m3u8
 BRTV纪实科教,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225675/index.m3u8
@@ -1068,6 +1074,9 @@ CGTN西语,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226372/8779
 南昌新闻综合,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226382/877949953.smil/index.m3u8?
 南昌都市,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226385/877949953.smil/index.m3u8?
 睛彩广场舞,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226391/877949953.smil/index.m3u8?
+北京卫视 4K,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226394/877949953.smil/index.m3u8?
+广东卫视 4K,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226405/877949953.smil/index.m3u8?
+深圳卫视 4K,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226409/877949953.smil/index.m3u8?
 兵团卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225530/10000100000000060000000000000079_0.smil/index.m3u8?
 江西公共农业,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/10000100000000060000000000000030_0.smil/index.m3u8?
 江西都市,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/10000100000000060000000000000162_0.smil/index.m3u8?
