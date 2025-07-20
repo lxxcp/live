@@ -788,10 +788,11 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 松源新闻综合,https://stream2.jlntv.cn/sytv/sd/live.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 延边卫视,webview://https://www.iyb983.cn/live/index.html
+延边卫视,webview://https://www.iyb983.cn/cys/index.html
 延边朝语,https://srs.iyb983.cn/video/ybtv1/index.m3u8
-延边朝语,webview://https://www.iyb983.com/ybtv1/index.html
+延边朝语,webview://https://www.iyb983.cn/ybtv1/index.html
 延边汉语,https://srs.iyb983.cn/video/ybtv2/index.m3u8
-延边汉语,webview://https://www.iyb983.com/ybtv2/index.html
+延边汉语,webview://https://www.iyb983.cn/ybtv2/index.html
 东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 东丰综合,http://stream5.jlntv.cn/df/playlist.m3u8
 东辽综合,http://stream5.jlntv.cn/dl/playlist.m3u8
