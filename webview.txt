@@ -102,6 +102,8 @@ CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CCTV-6 电影,webview://https://www.1905.com/cctv6/live/
 1905电影网,webview://https://www.nettvpro.xyz/embed/1905.php
+1905极限反转,webview://https://m.1905.com/m/xl/live/
+1905环球经典,webview://https://m.1905.com/m/1905tv/live/
 每经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 每经AI电视,webview://https://www.nbd.com.cn/corp/nbd_live/dist/index.html#/PC?id=3645
 CCTV-1 综合,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
@@ -138,6 +140,9 @@ CGTN法语,webview://https://francais.cgtn.com/channel
 CGTN阿语,webview://https://arabic.cgtn.com/channel
 CHC动作电影,webview://http://iptv.huuc.edu.cn/player.html?channel=chcatv
 CHC家庭影院,webview://http://iptv.huuc.edu.cn/player.html?channel=chctv
+CHC动作电影,webview://http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CHC家庭影院,webview://http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CHC影迷电影,webview://http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
@@ -167,7 +172,7 @@ CCTV-4 中文国际,webview://https://m-live.cctvnews.cctv.com/live/landscape.ht
 CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
 广东,#genre#
 #荔枝网,#genre#
-广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/110
+广东卫视 4K,webview://https://www.gdtv.cn/tvChannelDetail/110
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
@@ -206,7 +211,7 @@ GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 GRTN健康,webview://https://m.gdtv.cn/tvChannelDetail/99
 GRTN文化,webview://https://m.gdtv.cn/tvChannelDetail/75
 GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
-深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=24725
+深圳卫视 4K,webview://https://www.sztv.com.cn/pindao/index.html?id=24725
 深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
 深圳都市,webview://https://www.sztv.com.cn/pindao/index.html?id=7868
 深圳电视剧,webview://https://www.sztv.com.cn/pindao/index.html?id=7880
@@ -391,9 +396,7 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 上海东方购物,webview://https://www.dfgou.cn/tv.html#/tvLives
 上海东方财经,webview://https://www.yicai.com/tv/#dfcj
 上海第一财经,webview://https://www.yicai.com/tv/#dycj
-上海看看新闻,webview://https://live.kankanews.com/
 上海新闻综合,webview://https://bp-share.bestv.cn/loveShanghaiCarousel/main-pro.html
-上海魔都眼,webview://https://www.shanghaieye.cn/live
 上海浦东台,webview://https://news.pdrong.com/live/index?79f80f07f55271633228215aca916eb6381fb879e683f12f997718630fb4bf1a38faf3cb4e9cd6da378821b4b315a2e6
 上海浦东观察,webview://https://news.pdrong.com/live/index?5ad2bc09ababf3b1880d9ea962d99f82469f07242f0ba53481a85a561a1adfd5e09eaaf6a1344426428a80a141c29a59
 上海嘉定综合,webview://http://m.jdrmt.cn/live/jdtv/
@@ -729,6 +732,12 @@ $衡水
 许昌新闻综合,webview://http://xctv.cn/2359
 许昌农业科技,webview://http://xctv.cn/3918
 晴彩许昌,webview://http://xctv.cn/3920
+郑州新闻综合,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595660085175275520#/
+郑州商都,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659997191360512#/
+郑州文体旅游,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659904266555392#/
+郑州豫剧频道,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659784129105920#/
+郑州妇女儿童,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659666227220480#/
+郑州都市生活,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659527848742913#/
 郑州教育,webview://http://web.chinamcloud.com/yszh32/wz/zb/index.shtml
 洛阳新闻综合,webview://http://www.lytv.com.cn/dist/phone_new_file.html
 焦作综合,webview://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=a15a6b9e3e1f435584f903641e85a975
@@ -920,11 +929,7 @@ $衡水
 松源新闻综合,https://stream2.jlntv.cn/sytv/sd/live.m3u8
 公主岭综合,webview://http://foxz-www.plus.jlntv.cn/folder3584/folder3978
 $吉林
-吉林新闻综合,webview://http://new.jlwlq.com/wap/live/tv_xwzh.html
-吉林新闻综合,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
-吉林公共,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=12
-吉林科教,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=13
-吉林公告,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=14
+吉林市新闻综合,webview://http://new.jlwlq.com/wap/live/tv_xwzh.html
 舒兰电视台,webview://http://h5-sl.jlntv.cn/front-cloudlive-manage-h5/index.html?id=788363220158119936
 $四平
 四平新闻综合,webview://http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
@@ -2577,6 +2582,7 @@ $和田
 星空卫视,webview://http://iptv.huuc.edu.cn/player.html?channel=startv
 ChannelV,webview://http://iptv.huuc.edu.cn/player.html?channel=channelv
 卫视体育台,webview://http://iptv.huuc.edu.cn/player.html?channel=starsports
+香港卫视,webview://http://www.hkstv.tv/?mod=index&do=live
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
@@ -2636,6 +2642,7 @@ TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 澳门综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
+莲花卫视,webview://https://www.lotustv.mo/#page1
 
 台湾,#genre#
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
