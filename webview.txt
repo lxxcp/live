@@ -1148,12 +1148,8 @@ $松原
 睢宁三农,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
 睢宁综合,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
 睢宁综合,http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8
-扬州新闻综合,webview://https://pc.96189.com/maintab/livel?cid=235&lid=8ad0ee0d93d7645601946ec01fb33a7a
-扬州公共,webview://https://pc.96189.com/maintab/livel?cid=291&lid=8ad0ee0d93d76456019473871ab53dba
-扬州经济生活,webview://https://pc.96189.com/maintab/livel?cid=236&lid=8ad0ee0d93d7645601946e90dfc539d1
-扬州新闻综合,http://cm-wshls.homecdn.com/live/8bb.m3u8
-扬州公共,http://cm-wshls.homecdn.com/live/8bd.m3u8
-扬州经济生活,http://cm-wshls.homecdn.com/live/8bf.m3u8
+扬州新闻综合,http://yztv-wshls.homecdn.com/8bb.m3u8?t=1753106639&k=500841835c826bfad2d968117bf35c66&wsSession=4bf820b180ad968648f8d9ec-175310664001011&wsIPSercert=4c8bcee7fa63bcde0a28a2d0b1708a3f
+扬州经济生活,http://yztv-wshls.homecdn.com/8bf.m3u8?t=1753106883&k=b48b47943fdd37a6393797cb23d3c132&wsSession=f143d72fb380e3ac458cf1c2-175310688372055&wsIPSercert=4c8bcee7fa63bcde0a28a2d0b1708a3f
 高邮综合,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 扬州江都,http://cm-wshls.homecdn.com/live/8c1.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
