@@ -869,8 +869,8 @@ $衡水
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 通许综合,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
 巩义综合,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
+郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
 郑州教育,https://livezzutv.chinamcache.com/live/zb02.m3u8
-郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8
 新密综合,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 新密综合,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
 新郑综合,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
@@ -1123,9 +1123,10 @@ $松原
 江宁综合,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 如东综合,webview://https://www.rdxmt.com/pc.html?topid=54172
 如东综合,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
-南通新闻综合,https://www.ntjoy.com/ntw/broadcastTvs.html?menuCode=ntw005
+南通新闻综合,webview://https://www.ntjoy.com/ntw/broadcastTvs.html?menuCode=ntw005
 南通新闻综合,https://nt-hls.ntjoy.com/live/4f1.m3u8?t=1747961727&k=d235ba77bfbfd4d030f57621b55b65a7
-南通都市生活,https://cm-live.ntjoy.com/live/4f3.m3u8
+南通社教,https://cm-live.ntjoy.com/live/4f3.m3u8
+南通社教,https://nt-hls.ntjoy.com/live/4f3.m3u8?t=1753105478&k=59877e69fdb005786bb54c6c12269312
 句容新闻综合,http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
 句容新闻综合,http://jrlive.jrntv.com:80/live/jrxwzh/playlist.m3u8
 句容新闻综合,webview://http://www.jrntv.com/ds/list.shtml
@@ -1149,7 +1150,7 @@ $松原
 睢宁综合,http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8
 扬州新闻综合,webview://https://pc.96189.com/maintab/livel?cid=235&lid=8ad0ee0d93d7645601946ec01fb33a7a
 扬州公共,webview://https://pc.96189.com/maintab/livel?cid=291&lid=8ad0ee0d93d76456019473871ab53dba
-扬州新闻综合,webview://https://pc.96189.com/maintab/livel?cid=236&lid=8ad0ee0d93d7645601946e90dfc539d1
+扬州经济生活,webview://https://pc.96189.com/maintab/livel?cid=236&lid=8ad0ee0d93d7645601946e90dfc539d1
 扬州新闻综合,http://cm-wshls.homecdn.com/live/8bb.m3u8
 扬州公共,http://cm-wshls.homecdn.com/live/8bd.m3u8
 扬州经济生活,http://cm-wshls.homecdn.com/live/8bf.m3u8
