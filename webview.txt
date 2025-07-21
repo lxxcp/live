@@ -101,11 +101,9 @@ CETV-4 职业教育,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace93
 CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CCTV-6 电影,webview://https://www.1905.com/cctv6/live/
+1905电影网,webview://https://www.nettvpro.xyz/embed/1905.php
 每经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 每经AI电视,webview://https://www.nbd.com.cn/corp/nbd_live/dist/index.html#/PC?id=3645
-重温经典,https://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://ali.hlspull.yximgs.com:80/live/awei_cwjd.flv
 CCTV-1 综合,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
 CCTV-2 财经,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/
 CCTV-3 综艺,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv3/
@@ -355,7 +353,6 @@ BRTV生活,webview://https://ruige2024.serv00.net/bj.html?channel=7
 BRTV新闻,webview://https://ruige2024.serv00.net/bj.html?channel=8
 BRTV卡酷少儿,webview://https://ruige2024.serv00.net/bj.html?channel=9
 北京卫视,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10002&id=52
-北京卫视,webview://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d
 北京卫视,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=btv1
 BRTV文艺,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=btv2
 BRTV纪实科教,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=btv3
@@ -363,8 +360,6 @@ BRTV影视,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 BRTV财经,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=btv5
 BRTV生活,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=btv7
 BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=btv9
-北京卫视4K,webview://https://item.btime.com/5755n511tbk8flo40l4c71l0sdf
-北京卫视4K,webview://https://m.btime.com/item/5755n511tbk8flo40l4c71l0sdf
 北京房山无线,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index.html?id=673903549603667968
 北京房山有线,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index.html?id=673903301279899649
 顺义综合,webview://http://web.sydst.chinamcloud.com/sydst_html/dszb/55291758.shtml
@@ -397,12 +392,13 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 上海东方财经,webview://https://www.yicai.com/tv/#dfcj
 上海第一财经,webview://https://www.yicai.com/tv/#dycj
 上海看看新闻,webview://https://live.kankanews.com/
-上海看东方,webview://https://bp-share.bestv.cn/loveShanghaiCarousel/main-pro.html
+上海新闻综合,webview://https://bp-share.bestv.cn/loveShanghaiCarousel/main-pro.html
 上海魔都眼,webview://https://www.shanghaieye.cn/live
 上海浦东台,webview://https://news.pdrong.com/live/index?79f80f07f55271633228215aca916eb6381fb879e683f12f997718630fb4bf1a38faf3cb4e9cd6da378821b4b315a2e6
 上海浦东观察,webview://https://news.pdrong.com/live/index?5ad2bc09ababf3b1880d9ea962d99f82469f07242f0ba53481a85a561a1adfd5e09eaaf6a1344426428a80a141c29a59
 上海嘉定综合,webview://http://m.jdrmt.cn/live/jdtv/
 上海嘉定综合,webview://http://m.jdrmt.cn/jdtvnews/play.php
+上海嘉定综合,http://5730.liveplay.myqcloud.com/live/jcmcTV.m3u8
 金山综合,webview://https://www.shmedia.live/h5/template.html?id=09d5a236bf3e4f8ba84e6a7c1ed00138fee1
 嘉定综合,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 金山综合,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
@@ -649,33 +645,26 @@ $衡水
 万载综合,http://ls.qingting.fm/live/273.m3u8
 
 辽宁,#genre#
-辽宁卫视,webview://https://www.xuexi.cn/xxqg.html?id=196d1fb7186845c8ab06945beb60f428
+辽宁北方,http://120.76.248.139/live/bfgd/4200000071.m3u8
+辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
+辽宁教育青少,http://120.76.248.139/live/bfgd/4200000075.m3u8
+辽宁生活,http://120.76.248.139/live/bfgd/4200000073.m3u8
+辽宁经济,http://120.76.248.139/live/bfgd/4200000076.m3u8
+辽宁都市,http://120.76.248.139/live/bfgd/4200000068.m3u8
 大连新闻综合,webview://https://dlyapp.dltv.cn/television/live_wap_1232.html
 大连生活,webview://https://dlyapp.dltv.cn/television/live_wap_552.html
 大连文体,webview://https://dlyapp.dltv.cn/television/live_wap_1231.html
 大连乐天购物,webview://https://dlyapp.dltv.cn/television/live_wap_1238.html
 大连新闻综合,webview://http://www.dltv.cn/live/kds_news.shtml
 大连生活,webview://http://www.dltv.cn/live/kds_life.shtml
-金普1套,webview://https://web.guangdianyun.tv/tv/?id=1066&uin=1332
+金普综合,webview://https://web.guangdianyun.tv/tv/?id=1066&uin=1332
 丹东新闻综合,webview://https://app.ddrtv.cn/application/tenma01ds_tvradio/view/h5/#/?isnewjs=1&type=1
 丹东新闻综合,webview://https://app.ddrtv.cn/application/tvradio/h5/detail.html?type=tv
-辽宁北方,http://120.76.248.139/live/bfgd/4200000071.m3u8
-辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
-辽宁教育青少,http://120.76.248.139/live/bfgd/4200000075.m3u8
-辽宁生活,http://120.76.248.139/live/bfgd/4200000073.m3u8
-辽宁经济,http://120.76.248.139/live/bfgd/4200000076.m3u8
-辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
-辽宁都市,http://120.76.248.139/live/bfgd/4200000068.m3u8
 大洼综合,https://cp.dawawg.com:443/live/dawatv/hls.m3u8
 大洼综合,https://cp.dawawg.com/live/dawatv/hls.m3u8
-大连新闻综合,webview://http://www.guangbomi.com/tv/ln/dltv1.html
-大连生活webview://http://www.guangbomi.com/tv/ln/dltv2.html
-大连文体,webview://http://www.guangbomi.com/tv/ln/dltv4.html
-大连乐天购物,webview://http://www.guangbomi.com/tv/ln/dlydtv.html
 大连新闻综合,webview://http://www.dltv.cn/live/kds_news.shtml
 大连生活,webview://http://www.dltv.cn/live/kds_life.shtml
 大连文体,webview://http://www.dltv.cn/live/kds_genres.shtml
-金普综合,webview://https://web.guangdianyun.tv/tv/?id=1066&uin=1332
 铁岭新闻综合,webview://https://nginx-tlrb.newaircloud.com/tlrb/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tdGxyYi5uZXdhaXJjbG91ZC5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjMsInR2U3R5bGUiOjEsImNvbElkIjo1NjAsImlzU2hhcmUiOjEsImFwcElkIjoxLCJzaXRlSUQiOjEsInNpdGVJZCI6MSwic3lzdGVtVHlwZSI6MCwiYXBwVmVyc2lvbiI6IjMuMi4xIiwid3hBcHBJZCI6Ind4MTAyNTdjNDUyMzU5ZWZlOSJ9
 
 重庆,#genre#
@@ -2194,6 +2183,8 @@ $大兴安岭
 青海卫视,webview://https://www.qhbtv.com/new_index/live/folder2646/
 青海经视,webview://https://www.qhbtv.com/new_index/live/folder2647/
 青海都市,webview://https://www.qhbtv.com/new_index/live/folder2648/
+青海卫视,webview://http://gdshare.dmqhyadmin.com/?_hgOutLink=live/livedetail&channel_id=13
+青海卫视,webview://https://m.miguvideo.com/mgs/msite/prd/liveDetail.html?channelid=201600010010028&contId=947472506
 青海经视,webview://http://share.qhbtv.com/?_hgOutLink=live/livedetail&channel_id=2
 青海都市,webview://http://share.qhbtv.com/?_hgOutLink=live/livedetail&channel_id=4
 西宁新闻综合,webview://https://www.xntv.tv/xnxwpd
@@ -2202,9 +2193,6 @@ $大兴安岭
 西宁生活服务,webview://https://xiningbcnew.zainanjing365.com//share/live/detailTv?resourceId=6
 安多卫视,webview://http://www.qhtb.cn/onlin/onlin_tv/
 安多卫视,webview://http://www.qhtb.cn/onlin/
-青海卫视,webview://http://gdshare.dmqhyadmin.com/?_hgOutLink=live/livedetail&channel_id=13
-青海卫视,webview://https://www.xuexi.cn/xxqg.html?id=49718a9c8d364f6b8c6e666739e90780
-青海卫视,webview://https://m.miguvideo.com/mgs/msite/prd/liveDetail.html?channelid=201600010010028&contId=947472506
 海东综合,webview://https://www.hdhhy.cn/list-hdtv.html
 海南州电视台,webview://https://app.hnzgbdst.com/app/template/displayTemplate/news/liveDetail/59/150.html
 贵德电视台,webview://http://gdshare.dmqhyadmin.com/?_hgOutLink=live/livedetail&channel_id=24
@@ -2404,7 +2392,6 @@ $大兴安岭
 西藏卫视,webview://http://p.ytelc.com/169l/xizang/xizang.php?id=0
 西藏藏语,webview://http://p.ytelc.com/169l/xizang/xizang.php?id=1
 西藏影视文化,webview://http://p.ytelc.com/169l/xizang/xizang.php?id=2
-西藏卫视,webview://https://www.xuexi.cn/xxqg.html?id=c52bd0a9ac294559841fa39d28d2c195
 日喀则,webview://https://www.rkzrm.cn/2/2zb/index.shtml
 拉萨藏语,webview://https://www.lasatv.cn/cms/tv
 拉萨藏语,https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
@@ -2570,7 +2557,6 @@ $和田
 天津教育,webview://https://www.app2020.tjyun.com/jyappv300/mi_mob/v200/app/file/meltedMediaShare/iptvTv/index.html?resourcesUrl=https://static20.app2020.tjyun.com/jyappv300/cms_mob/v200/cms_oth/chan.json&channelId=30001110000000000000000000000693
 天津三佳购物,webview://https://www.app2020.tjyun.com/jyappv300/mi_mob/v200/app/file/meltedMediaShare/iptvTv/index.html?resourcesUrl=https://static20.app2020.tjyun.com/jyappv300/cms_mob/v200/cms_oth/chan.json&channelId=30001110000000000000000000000697
 天津三佳购物,webview://https://m.sanjiatv.com/mall/mp/touch/disp/tvLive.htm
-天津卫视,webview://https://www.xuexi.cn/xxqg.html?id=f34309e518fb41579c46cbef4d56c51d
 天津宝坻台,webview://https://juxian.juyun.tv/live.php?id=143100
 天津静海台,webview://http://www.jhtoutiao.cn/zb/jh_tv_ing.shtml
 滨海新闻综合,webview://https://www.jbh.tjbh.com/html/rft/live.html?channelId=8450fb309c3745ab8956af56a2d498a2
