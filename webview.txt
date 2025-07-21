@@ -869,7 +869,8 @@ $衡水
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 通许综合,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
 巩义综合,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
-郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
+郑州教育,https://livezzutv.chinamcache.com/live/zb02.m3u8
+郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8
 新密综合,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 新密综合,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
 新郑综合,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
