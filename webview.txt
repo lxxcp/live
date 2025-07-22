@@ -1568,6 +1568,25 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 
 内蒙古,#genre#
 内蒙古卫视,webview://https://www.nmtv.cn/liveTv
+内蒙古卫视,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=neimenggu
+内蒙古蒙语卫视,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgmy
+内蒙古新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgzh
+内蒙古经济生活,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgjjsh
+内蒙古少儿,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgse
+内蒙古文体娱乐,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgwtyl
+内蒙古蒙语文化,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgwh
+内蒙古农牧,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgnm
+呼和浩特新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=hhhtzh
+包头新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=baotou1
+鄂尔多斯新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=eeds1
+乌海新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=wuhaizh
+赤峰新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=chifengzh
+呼伦贝尔新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=hlbezh
+兴安盟新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=xamzh
+通辽新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=tongliaozh
+锡林郭勒新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=xlglzh
+乌兰察布新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=wlcbzh
+巴彦淖尔新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=bynezh
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=a1c7fd0247be416e812f5e6f99eca318
 内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880&token=1c01cb7be68246539320db69adfdc849
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800&token=8e2aefc9eebc45d288929a2a97dfa415
@@ -1595,7 +1614,7 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 通辽蒙语,webview://https://api.tongliaowang.com/jhxtapi/jhxt/Live/newsShow/id/25/nid/100011
 乌海新闻综合,http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
 乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
-
+伊金霍洛旗新闻综合,webview://https://www.yjhlnews.cn/lives/79
 浙江,#genre#
 浙江卫视,webview://https://www.cztv.com/liveTV/101
 浙江钱江都市,webview://https://www.cztv.com/liveTV/102
