@@ -1814,8 +1814,8 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8
 亳州综合,http://zbbf2.ahbztv.com/live/416.m3u8
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
-广德新闻综合,webview://http://tv.haoqu99.com/e/extend/tv.php?id=40773
-广德生活,webview://http://tv.haoqu99.com/e/extend/tv.php?id=40772
+广德新闻综合,webview://https://www.gdtv.ah.cn/liveDetails.html?liveId=14&dataObjId=26
+广德生活,webview://https://www.gdtv.ah.cn/liveDetails.html?liveId=15&dataObjId=26
 广德新闻综合,https://live.gdtv.ah.cn/live/newsTV.m3u8
 广德生活,http://live.gdtv.ah.cn/live/shenghuoTV.m3u8
 固镇综合http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
