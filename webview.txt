@@ -2435,16 +2435,12 @@ $大兴安岭
 
 新疆,#genre#
 新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
-新疆2套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=3
-新疆3套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=4
-新疆4套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=16
-新疆5套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=17
-新疆7套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=18
-新疆8套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=19
-新疆9套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=20
-新疆10套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=21
-新疆11套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=22
-新疆12套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
+新疆维语新闻综合,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=3
+新疆哈语新闻综合,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=4
+新疆汉语综艺,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=16
+新疆维语综艺,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=17
+新疆体育健康,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=21
+新疆少儿,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 $乌鲁木齐
 乌鲁木齐综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=6&page=canvas&live_type=1
 乌鲁木齐都市时尚,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=5&page=canvas&live_type=1
