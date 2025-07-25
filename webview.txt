@@ -327,6 +327,9 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 五华综合,http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
 丰顺综合,http://1b6467f415.iok.la:9931/tsfile/live/1100_1.m3u8
+深圳卫视 4K,http://8.138.7.223/tv/gd.php?id=0201
+深圳都市,http://8.138.7.223/tv/gd.php?id=0202
+深圳卫视 4K,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
 
 北京,#genre#
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
@@ -463,6 +466,7 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 河北文旅公共,webview://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516512.shtml
 河北三佳购物,webview://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516513.shtml
 河北三佳购物,webview://https://www.hebtv.com/19/19js/st/xdszb/10516513.shtml
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 沧州新闻综合,webview://https://www.czgd.tv/Article/des?infoid=32768&modelid=3
 沧州公共频道,webview://https://www.czgd.tv/Article/des?infoid=32769&modelid=3
 沧州影视娱乐,webview://https://www.czgd.tv/Article/des?infoid=32770&modelid=3
@@ -1120,19 +1124,11 @@ $松原
 淮安公共,webview://https://glive.habctv.com/tv/808?uin=1610
 淮安影视娱乐,webview://https://glive.habctv.com/tv/902?uin=1610
 六合新闻综合,http://p2hs.vzan.com/720020/432453820030502236/live.m3u8
-南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
-南京新闻综合,https://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 南京新闻综合,https://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-南京十八生活,http://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8
-南京十八生活,https://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
-南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
-南京教科,https://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 南京教科,https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
-南京少儿,https://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
-南京少儿,https://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-南京文旅纪录,http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
+南京十八生活,https://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 南京文旅纪录,https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+南京少儿,https://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 江宁综合,http://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.flv
 江宁综合,http://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 江宁综合,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
@@ -1211,6 +1207,7 @@ $松原
 大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 大丰综合,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 吴江新闻综合,https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
@@ -1546,6 +1543,10 @@ $松原
 潍坊新闻综合,webview://https://www.wfcmw.cn/330865/
 CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 山东卫视,https://wfrtv-live-tz.wfcmw.cn:5443/live/sdtv0306.m3u8
+威海新闻综合,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
+威海都市生活,http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
+威海海洋,http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
+东营公共,https://alivealone302.litenews.cn/537/202304_1651887564182982656/playlist.m3u8?k=03ea6b5a5dc70430c9306175d49bbf70&t=1747434367
 
 甘肃,#genre#
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml#
@@ -2042,7 +2043,6 @@ $大兴安岭
 南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
-南宁文旅生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 南宁文旅生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁文旅生活,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
