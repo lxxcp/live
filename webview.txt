@@ -1783,7 +1783,7 @@ CCTV-1 综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 滁州科教,webview://http://www.cztv.cc/Live/index?liveid=3
 芜湖新闻综合,webview://http://www.wuhubtv.com/folder1194/#
 芜湖新闻综合,webview://http://p.ytelc.com/169l/ah/wuhu.php?id=wuhuxwzh
-芜湖生活,webview:/http://p.ytelc.com/169l/ah/wuhu.php?id=wuhugg
+芜湖生活,webview://http://p.ytelc.com/169l/ah/wuhu.php?id=wuhugg
 合肥新闻,webview://http://p.ytelc.com/169l/ah/hefei.html?id=hefeixw
 合肥生活,webview://http://p.ytelc.com/169l/ah/hefei.html?id=hefeish
 合肥科创,webview://http://p.ytelc.com/169l/ah/hefei.html?id=hefeikc
