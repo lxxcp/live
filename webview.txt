@@ -666,7 +666,7 @@ $衡水
 大连乐天购物,webview://https://dlyapp.dltv.cn/television/live_wap_1238.html
 大连新闻综合,webview://http://www.dltv.cn/live/kds_news.shtml
 大连生活,webview://http://www.dltv.cn/live/kds_life.shtml
-金普综合,webview://https://web.guangdianyun.tv/tv/?id=1066&uin=1332
+金普新闻综合,webview://https://web.guangdianyun.tv/tv/?id=1066&uin=1332
 丹东新闻综合,webview://https://app.ddrtv.cn/application/tenma01ds_tvradio/view/h5/#/?isnewjs=1&type=1
 丹东新闻综合,webview://https://app.ddrtv.cn/application/tvradio/h5/detail.html?type=tv
 大洼综合,https://cp.dawawg.com:443/live/dawatv/hls.m3u8
