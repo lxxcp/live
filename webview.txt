@@ -451,7 +451,8 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 益阳公共,https://sms.yyrtv.com/hls/yyrtvgg/yyrtvgg_live.m3u8
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 湘潭公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
-
+湘西新闻综合,webview://https://web.guangdianyun.tv/tv/2581?uin=3815&aid=17hnxxz&pt=2&fxbs=1
+湘西文化旅游,webview://https://web.guangdianyun.tv/tv/2582?uin=3815&aid=17hnxxz&pt=2&fxbs=1
 河北,#genre#
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 河北经济生活,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
@@ -1378,7 +1379,7 @@ $松原
 青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 青州生活,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
-
+日照新闻综合,webview://https://www.rzw.com.cn/folder247/folder2217
 甘肃,#genre#
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml#
 甘肃卫视,https://hls.gstv.com.cn/skt649/k58w7e.m3u8
@@ -2304,6 +2305,8 @@ $大兴安岭
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 营山电视台,http://tv.drs.ysxtv.cn:8100/channellive/ystv-bak.flv
 南江综合,webview://https://web.guangdianyun.tv/tv/?id=1670&uin=1822
+绵竹综合,webview://https://web.guangdianyun.tv/tv/?id=1933&uin=3277
+射洪综合,webview://https://web.guangdianyun.tv/tv/?id=391&uin=1743
 
 西藏,#genre#
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=683d557347365c484e459c2c5dcbc28e&time=680b43fc
