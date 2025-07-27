@@ -1495,6 +1495,9 @@ $松原
 绍兴文化影视,webview://http://www.shaoxing.com.cn/app/tv/75
 温岭综合,webview://https://web.guangdianyun.tv/tv/?id=911&uin=1639&newsList_ImgLocation=1
 安吉综合,webview://https://web.guangdianyun.tv/tv/?id=1499&uin=1253
+义乌公共文艺,webview://https://web.guangdianyun.tv/tv/?id=3090&uin=3071
+义乌商贸,webview://https://web.guangdianyun.tv/tv/?id=2133&uin=3071
+义乌新闻综合,webview://https://web.guangdianyun.tv/tv/?id=1796&uin=3071
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
@@ -2060,6 +2063,7 @@ $大兴安岭
 厦门鼓浪屿,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
 云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
+漳浦综合,webview://https://web.guangdianyun.tv/tv/?id=2803&uin=3350
 宁夏,#genre#
 宁夏卫视,webview://https://www.nxtv.com.cn/19/19kds/dsp/
 宁夏卫视,webview://https://www.nxtv.com.cn/tv/ws/
@@ -2297,6 +2301,7 @@ $大兴安岭
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 营山电视台,http://tv.drs.ysxtv.cn:8100/channellive/ystv-bak.flv
+南江综合,webview://https://web.guangdianyun.tv/tv/?id=1670&uin=1822
 
 西藏,#genre#
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=683d557347365c484e459c2c5dcbc28e&time=680b43fc
@@ -2380,10 +2385,8 @@ $阿勒泰
 福海哈语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10010&id=14
 阿勒泰汉语综合,https://play-a2.quklive.com/live/1640945211435051.m3u8
 布尔津哈语综合,https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8
-布尔津哈语综合,webview://https://web.guangdianyun.tv/tv/?id=3377
 布尔津哈语综合,webview://https://web.guangdianyun.tv/tv/?id=3377&uin=4239
 布尔津汉语综合,https://st-video.xjmty.com/fs/livedit/6fc961a3e0f06313/c9338510613c6394.m3u8
-布尔津汉语综合,webview://https://web.guangdianyun.tv/tv/?id=3366
 布尔津汉语综合,webview://https://web.guangdianyun.tv/tv/?id=3366&uin=4239
 
 $克拉玛依
