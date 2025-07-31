@@ -294,7 +294,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 肇庆综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88904
 中山综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88905
 珠海新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88906
-
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=5d7708684007fcea395caff98369084c&txTime=19019c37743
@@ -1317,8 +1316,8 @@ $松原
 宿豫综合,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
 沛县新闻综合,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
 泰州新闻综合,http://stream1.mytaizhou.net/xwzhnew/playlist.m3u8
-泰州教育,http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
-泰州公共,http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
+泰州经济生活,http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
+泰州影视娱乐,http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
 靖江综合,http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 淮安综合,http://live1.habctv.com/ysylsl/playlist.m3u8
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8
@@ -1384,10 +1383,10 @@ $松原
 聊城综合,http://file.lcxw.cn/nmip-media/channellive/channel101173/playlist.m3u8
 聊城民生,http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8
 潍坊经济生活,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
-潍坊科教文化,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
+潍坊科教文旅,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
 潍坊新闻综合,webview://https://www.wfcmw.cn/330865/
 潍坊新闻综合,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
-潍坊影视综艺,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
+潍坊公共,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
 淄博新闻综合,webview://https://web.guangdianyun.tv/tv/?id=2308&uin=3185
 泰安综合,webview://http://www.taianxinwen.com/tatv/contents/113/1.html
 泰安综合,webview://http://www.1545ts.com/tatv/contents/113/1.html
@@ -1771,6 +1770,13 @@ $松原
 黑龙江都市,webview://https://www.hljtv.com/live/folder419/
 黑龙江农业科教,webview://https://www.hljtv.com/live/folder420/
 黑龙江少儿,webview://https://www.hljtv.com/live/folder422/
+黑龙江卫视,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws/
+黑龙江文体,webview:/https://www.dbw.cn/zhibodan/zhibo_dan/hljwt/
+黑龙江影视,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljys/
+黑龙江新闻法治,webview://https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang/
+黑龙江都市,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljds/
+黑龙江农业科教,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj/
+黑龙江少儿,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljse/
 哈尔滨新闻综合,webview://https://www.hrbtv.net/folder79/folder81/
 哈尔滨生活,webview://https://www.hrbtv.net/folder79/folder85/
 哈尔滨影视,webview://https://www.hrbtv.net/folder79/folder87/
@@ -2003,8 +2009,8 @@ $大兴安岭
 晋城新闻综合,webview://http://share.jinnews.com.cn/?_hgOutLink=live/livedetail&channel_id=5
 晋城文化生活,webview://http://share.jinnews.com.cn/?_hgOutLink=live/livedetail&channel_id=6
 长治新闻综合,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=21
-长治公共,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=22
-长治科教法治,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=23
+长治公共少儿,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=22
+长治科教法制,webview://https://changzhibcnew.zainanjing365.com//share/live/detail?resourceId=23
 吕梁新闻综合,webview://https://web.guangdianyun.tv/tv/?id=2652&uin=2268
 吕梁公共,webview://https://web.guangdianyun.tv/tv/?id=2653&uin=2268
 潞州综合,webview://https://web.guangdianyun.tv/tv/3407?uin=1723
@@ -2022,7 +2028,7 @@ $大兴安岭
 长治新闻综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811847.html
 晋城新闻综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811846.html
 临汾新闻综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811841.html
-运城新闻综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811843.html
+运城综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811843.html
 晋中综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811844.html
 晋中综合,http://jzdb.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8
 晋中综合,http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8
@@ -2665,7 +2671,7 @@ TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 半岛新闻,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-台视新闻台,https://live.wcetv.com/hls/master-ttvnews.m3u8
+台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱一台,http://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱一台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
