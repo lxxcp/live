@@ -2161,12 +2161,13 @@ $大兴安岭
 宁夏卫视,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxws/
 宁夏公共,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxgg/
 宁夏经济,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxjj/
-宁夏少儿,webview://http://web.ningxiahuangheyun.com/app/nxtv-tv/nxse
+宁夏少儿,webview://http://web.ningxiahuangheyun.com/app/nxtv-tv/nxse/
 宁夏文旅,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxwl/
 银川公共,webview://https://www.ycen.com.cn/zzgn/zhibo/
 银川公共,webview://https://www.qukanvideo.com/cloud/h5/1731639141671136
 银川生活,webview://https://www.qukanvideo.com/cloud/h5/1731638744888001
 银川文体,webview://https://www.qukanvideo.com/cloud/h5/1728443786945132
+宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
 宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
 宁夏经济,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxjj.m3u8
 宁夏少儿,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxse.m3u8
