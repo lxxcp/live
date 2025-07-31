@@ -122,7 +122,6 @@ CGTN法语,http://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LST
 CGTN阿语,http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd.m3u8
 CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 CCTV-6 电影,webview://https://www.1905.com/cctv6/live/
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 CETV-1 综合教育,webview://https://yangshipin.cn/tv/home?pid=600171827
 CETV-1 综合教育,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
 CETV-2 空中课堂,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
@@ -131,6 +130,7 @@ CETV-4 职业教育,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace93
 CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 1905电影网,webview://https://m.1905.com/m/xl/live/
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
 卫视,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
@@ -709,6 +709,12 @@ $衡水
 江西新闻,webview://https://www.jxntv.cn/live/#/jxtv7
 江西陶瓷,webview://https://www.jxntv.cn/live/#/tcpd
 风尚购物,webview://https://www.jxntv.cn/live/#/fsgw
+江西都市,https://play-live-hls.jxtvcn.com.cn/live/tv_jxtv2.m3u8
+江西经济生活,https://play-live-hls.jxtvcn.com.cn/live/tv_jxtv3.m3u8
+江西影视旅游,https://play-live-hls.jxtvcn.com.cn/live/tv_jxtv4.m3u8
+江西公共农业,https://play-live-hls.jxtvcn.com.cn/live/tv_jxtv5.m3u8
+江西少儿,https://play-live-hls.jxtvcn.com.cn/live/tv_jxtv6.m3u8
+江西新闻,https://play-live-hls.jxtvcn.com.cn/live/tv_jxtv7.m3u8
 江西教育, https://cdn-live.jxeduyun.com/streams/640f79857ff58.m3u8
 江西教育,webview://https://live.jxeduyun.com/lives/XlaoRd
 南昌新闻综合,webview://https://www.nctv.net.cn/live?channel=1
@@ -1046,11 +1052,26 @@ $衡水
 吉林影视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 吉林乡村,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
 吉林综艺文化,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8
+吉林都市,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
+吉林生活,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
+吉林影视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
+吉林乡村,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+吉林市新闻综合,https://stream2.jlntv.cn/jilin1/sd/live.m3u8
+四平新闻综合,https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=2ea51c5c1743066817
+辽源新闻综合,https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+通化新闻综合,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+通化新闻综合,https://live-master.jlntv.cn/thhd/sd/live.m3u8?_upt=d47e1e2a1743418704
+白山新闻综合,https://stream2.jlntv.cn/baishan1/sd/live.m3u8
+白城新闻综合,https://stream2.jlntv.cn/baicheng1/sd/live.m3u8?_upt=15c8f5ad1743066971
+松源新闻综合,https://stream2.jlntv.cn/sytv/sd/live.m3u8
+$吉林
+吉林市新闻综合,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
+吉林市新闻综合,webview://http://new.jlwlq.com/wap/live/tv_xwzh.html
+舒兰电视台,webview://http://h5-sl.jlntv.cn/front-cloudlive-manage-h5/index.html?id=788363220158119936
+$长春
 长春综合,webview://https://chinactv.com/live/1442880654565093377.html
 长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
 长春文旅体育,webview://https://chinactv.com/live/1442880767035355137.html
-吉林市新闻综合,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
-四平新闻综合,webview://http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
 长春综合,webview://https://chinactv.com/live/1442880654565093377.html
 长春文旅体育,webview://https://chinactv.com/live/1442880767035355137.html
 长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
@@ -1058,20 +1079,10 @@ $衡水
 长春文旅体育,webview://https://ccms.njgdmm.com/changchun/api/api-bc/share/live/detailTv?resourceId=37
 长春市民生活,webview://https://ccms.njgdmm.com/changchun/api/api-bc/share/live/detailTv?resourceId=38
 长春综合,https://stream2.jlntv.cn/jlcc/sd/live.m3u8?_upt=5f130ed71743082723
+长春综合,https://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
 长春市民生活,https://p2bj.vzan.com/slowlive/317775187203351257/live.m3u8
 长春文旅体育,https://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8
-长春综合,https://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
-吉林市新闻综合,https://stream2.jlntv.cn/jilin1/sd/live.m3u8
-四平新闻综合,https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=2ea51c5c1743066817
-辽源新闻综合,https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-通化新闻综合,https://live-master.jlntv.cn/thhd/sd/live.m3u8?_upt=d47e1e2a1743418704
-白山新闻综合,https://stream2.jlntv.cn/baishan1/sd/live.m3u8
-白城新闻综合,https://stream2.jlntv.cn/baicheng1/sd/live.m3u8?_upt=15c8f5ad1743066971
-松源新闻综合,https://stream2.jlntv.cn/sytv/sd/live.m3u8
 公主岭综合,webview://http://foxz-www.plus.jlntv.cn/folder3584/folder3978
-$吉林
-吉林市新闻综合,webview://http://new.jlwlq.com/wap/live/tv_xwzh.html
-舒兰电视台,webview://http://h5-sl.jlntv.cn/front-cloudlive-manage-h5/index.html?id=788363220158119936
 $四平
 四平新闻综合,webview://http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
 双辽综合,webview://http://otcs-www.plus.jlntv.cn/folder3987/folder3989
@@ -1107,7 +1118,7 @@ $延边
 汪清电视台,webview://http://8iyp-www.plus.jlntv.cn/folder4129/folder4133
 延吉1套,http://stream6.jlntv.cn/yj/sd/live.m3u8
 $松原
-松原电视1套,webview://http://uogz-www.plus.jlntv.cn/songyuan/folder133/folder101
+松原新闻综合,webview://http://uogz-www.plus.jlntv.cn/songyuan/folder133/folder101
 长岭电视台,webview://http://c8ak-www.plus.jlntv.cn/folder5281/folder5284
 乾安综合,webview://http://ckpd-www.plus.jlntv.cn/folder3830/folder3875
 东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8
@@ -1135,9 +1146,9 @@ $松原
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8?_upt=e05f429d1702757565
 辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
 辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-通化综合,http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
-通化综合,http://stream5.jlntv.cn/thx/playlist.m3u8
-通化综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
+通化新闻综合,http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+通化新闻综合,http://stream5.jlntv.cn/thx/playlist.m3u8
+通化新闻综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
 通榆综合,http://stream6.jlntv.cn/ty/playlist.m3u8
 靖宇综合,http://stream8.jlntv.cn/jytv/playlist.m3u8
 靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
@@ -1152,7 +1163,8 @@ $松原
 珲春综合,http://stream8.jlntv.cn/hctv/playlist.m3u8
 珲春综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8
 长白综合,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
-
+农安新闻综合,https://stream2.jlntv.cn/naxw/sd/live.m3u8
+前郭综合,https://stream2.jlntv.cn/qg/sd/live.m3u8
 湖北,#genre#
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
 湖北经视,webview://https://news.hbtv.com.cn/app/tv/432
@@ -1248,12 +1260,12 @@ $松原
 徐州文艺影视,,webview://https://www.huaihai.tv/wltv/live/xwzh?channel_id=48
 徐州公共,webview://https://www.huaihai.tv/wltv/live/xwzh?channel_id=49
 盐城新闻综合,webview://https://www.0515yc.cn/folder147/folder148/folder156/
-盐城新闻综合,webview://https://h5yc.0515yc.cn/front-cloudlive-manage-h5/index.html?id=593799805264744448&company_id=1046#/
-盐城城市公共,webview://https://h5yc.0515yc.cn/front-cloudlive-manage-h5/index.html?id=593800300318445568&company_id=1046#/
-盐城法制生活,webview://https://h5yc.0515yc.cn/front-cloudlive-manage-h5/index.html?id=593800492417568768&company_id=1046#/
 盐城新闻综合,https://live1yc.0515yc.cn/ycyt01/sd/live.m3u8
 盐城城市公共,https://live1yc.0515yc.cn/ycet02/sd/live.m3u8
 盐城法制生活,https://live1yc.0515yc.cn/ycst03/sd/live.m3u8
+盐城新闻综合,webview://https://h5yc.0515yc.cn/front-cloudlive-manage-h5/index.html?id=593799805264744448&company_id=1046#/
+盐城城市公共,webview://https://h5yc.0515yc.cn/front-cloudlive-manage-h5/index.html?id=593800300318445568&company_id=1046#/
+盐城法制生活,webview://https://h5yc.0515yc.cn/front-cloudlive-manage-h5/index.html?id=593800492417568768&company_id=1046#/
 常州新闻综合,webview://https://https://www.cztv.tv/channel.html
 常州新闻综合,webview://https://www.zhong5.cn/channel.html
 常州新闻综合,https://livekcz.cztv.tv/kcz/cztv1.m3u8?auth_key=1747916513-0-0-6b9391214cf8a92d9711446bf072a9aa
@@ -1450,6 +1462,11 @@ $松原
 甘肃少儿,https://hls.gstv.com.cn/skt649/2yedw6.m3u8
 甘肃科教,https://hls.gstv.com.cn/skt649/u3ydg9.m3u8
 甘肃移动,https://hls.gstv.com.cn/skt649/k101u2.m3u8
+甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4
+甘肃文化影视,rtmp://livein.gstv.com.cn/49048r/068vw9
+甘肃公共应急,rtmp://livein.gstv.com.cn/49048r/2v86i8
+甘肃都市,rtmp://livein.gstv.com.cn/49048r/4o7e76
+甘肃少儿,rtmp://livein.gstv.com.cn/49048r/oj57of
 兰州新闻综合,webview://https://www.lzr.com.cn/folder25/folder26/
 兰州文旅,webview://https://www.lzr.com.cn/folder25/folder26/folder30/
 兰州新闻综合,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
@@ -1504,23 +1521,30 @@ $松原
 锡林郭勒新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=xlglzh
 乌兰察布新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=wlcbzh
 巴彦淖尔新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=bynezh
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
-内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
-内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
-内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
-内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
-内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
-内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
-呼和浩特新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
+内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+内蒙古农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+内蒙古蒙语文化,https://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+呼和浩特新闻综合,https://play1-qk.nmtv.cn/live/1735545967595013.m3u8
+呼伦贝尔新闻综合,https://play1-qk.nmtv.cn/live/1735546791130040.m3u8
+乌兰察布新闻综合,http://play1-qk.nmtv.cn/live/1735546836103043.m3u8
+内蒙古蒙语文化,https://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+内蒙古农牧,https://play1-qk.nmtv.cn/live/1686561299036179.m3u8
+内蒙古少儿,https://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+内蒙古文体娱乐,https://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+内蒙古经济生活,https://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+内蒙古新闻综合,https://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+内蒙古蒙语卫视,https://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+
 包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
 乌海新闻综合,https://livestream-bt.nmtv.cn/nmtv/2355general.m3u8?txSecret=c623c5c66e83e43b566ebe90f49c4b06&txTime=771E8800
 赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-呼伦贝尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2356general.m3u8?txSecret=ff186bf3aac1022cd17068bcc0c78414&txTime=771E8800
 兴安盟新闻综合,https://livestream-bt.nmtv.cn/nmtv/2357general.m3u8?txSecret=9fa7524fa6e7380395e4a7a91bd3bcc8&txTime=771E8800
 通辽新闻综合,https://livestream-bt.nmtv.cn/nmtv/2353general.m3u8?txSecret=96a2008eff039ef4ad07179e367b838b&txTime=771E8800
 锡林郭勒新闻综合,https://livestream-bt.nmtv.cn/nmtv/2346general.m3u8?txSecret=4917fb7aee368c8f4d8099847182a791&txTime=771E8800
-乌兰察布新闻综合,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 鄂尔多斯新闻综合,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
 巴彦淖尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
 阿拉善新闻综合,https://livestream-bt.nmtv.cn/nmtv/2347general.m3u8?txSecret=7516318a05754a7c1513eb01e1c66b77&txTime=771E8800
@@ -2654,7 +2678,8 @@ TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 国家地理,http://198.16.100.186:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
-
+Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+Navahang TV,https://hls.navahang.live/hls/stream.m3u8
 澳门,#genre#
 澳门Macau,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
 澳门Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
@@ -2671,7 +2696,7 @@ TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 澳门综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
-莲花卫视,webview://https://www.lotustv.mo/#page1
+澳门莲花,webview://https://www.lotustv.mo/#page1
 
 台湾,#genre#
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
@@ -2687,6 +2712,8 @@ TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 中天综合,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 中天新闻,https://zt.dracwoundshop.eu.org/live/stream.m3u8
 中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+中天亚洲台,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
+中天新闻,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 动物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
 动物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=ME5E9654770896547708&ct=19338&tsum=775367f2f591f704aaf1489d70434b49
