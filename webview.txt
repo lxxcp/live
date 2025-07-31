@@ -122,6 +122,16 @@ CGTN法语,http://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LST
 CGTN阿语,http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd.m3u8
 CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 CCTV-6 电影,webview://https://www.1905.com/cctv6/live/
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+CETV-1 综合教育,webview://https://yangshipin.cn/tv/home?pid=600171827
+CETV-1 综合教育,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
+CETV-2 空中课堂,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
+CETV-3 教育服务,webview://http://iptv.huuc.edu.cn/player.html?channel=cetv3
+CETV-4 职业教育,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
+CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
+中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+1905电影网,webview://https://m.1905.com/m/xl/live/
+
 卫视,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
@@ -156,14 +166,6 @@ CCTV-6 电影,webview://https://www.1905.com/cctv6/live/
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,webview://https://yangshipin.cn/tv/home?pid=600152138
 兵团卫视,webview://https://yangshipin.cn/tv/home?pid=600193252
-CETV-1 综合教育,webview://https://yangshipin.cn/tv/home?pid=600171827
-CETV-1 综合教育,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
-CETV-2 空中课堂,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
-CETV-3 教育服务,webview://http://iptv.huuc.edu.cn/player.html?channel=cetv3
-CETV-4 职业教育,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
-CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
-中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-1905电影网,webview://https://m.1905.com/m/xl/live/
 每经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 每经AI电视,webview://https://www.nbd.com.cn/corp/nbd_live/dist/index.html#/PC?id=3645
 河南党建,#genre#
@@ -1246,6 +1248,9 @@ $松原
 徐州文艺影视,,webview://https://www.huaihai.tv/wltv/live/xwzh?channel_id=48
 徐州公共,webview://https://www.huaihai.tv/wltv/live/xwzh?channel_id=49
 盐城新闻综合,webview://https://www.0515yc.cn/folder147/folder148/folder156/
+盐城新闻综合,webview://https://h5yc.0515yc.cn/front-cloudlive-manage-h5/index.html?id=593799805264744448&company_id=1046#/
+盐城城市公共,webview://https://h5yc.0515yc.cn/front-cloudlive-manage-h5/index.html?id=593800300318445568&company_id=1046#/
+盐城法制生活,webview://https://h5yc.0515yc.cn/front-cloudlive-manage-h5/index.html?id=593800492417568768&company_id=1046#/
 盐城新闻综合,https://live1yc.0515yc.cn/ycyt01/sd/live.m3u8
 盐城城市公共,https://live1yc.0515yc.cn/ycet02/sd/live.m3u8
 盐城法制生活,https://live1yc.0515yc.cn/ycst03/sd/live.m3u8
@@ -1254,6 +1259,7 @@ $松原
 常州新闻综合,https://livekcz.cztv.tv/kcz/cztv1.m3u8?auth_key=1747916513-0-0-6b9391214cf8a92d9711446bf072a9aa
 张家港新闻综合,webview://http://jrwx.zjgonline.com.cn/ysz_share/share/index_share.html?contentType=tvlive&channelId=1&mmsurl=http://mms.zjgonline.com.cn:8080/mms4.5&token=lgijnojhrspoywsk
 张家港民生,webview://http://jrwx.zjgonline.com.cn/ysz_share/share/index_share.html?contentType=tvlive&channelId=2&mmsurl=http://mms.zjgonline.com.cn:8080/mms4.5&token=lgijnojhrspoywsk
+灌云综合,webview://https://web.guangdianyun.tv/tv/777?uin=1909
 淮安综合,webview://https://glive.habctv.com/tv/803?uin=1610
 淮安公共,webview://https://glive.habctv.com/tv/808?uin=1610
 淮安影视娱乐,webview://https://glive.habctv.com/tv/902?uin=1610
@@ -1555,6 +1561,13 @@ $松原
 温岭综合,webview://https://web.guangdianyun.tv/tv/?id=911&uin=1639&newsList_ImgLocation=1
 安吉综合,webview://https://web.guangdianyun.tv/tv/?id=1499&uin=1253
 安吉生活影视,webview://https://web.guangdianyun.tv/tv/?id=1526?uin=1253
+富阳综合,webview://http://www.fuyangtv.com/top/live/
+建德综合,webview://https://web.guangdianyun.tv/tv/187?uin=1176
+临安综合,webview://https://web.guangdianyun.tv/tv/2747?uin=3568
+临平新闻,webview://https://web.guangdianyun.tv/tv/2513?uin=3767
+桐庐综合,webview://https://web.guangdianyun.tv/tv/3566?uin=1163
+乐清新闻,webview://https://web.guangdianyun.tv/tv/170?uin=1356
+乐清综合,webview://https://web.guangdianyun.tv/tv/171?uin=1356
 义乌新闻综合,webview://https://web.guangdianyun.tv/tv/?id=1796&uin=3071
 义乌公共文艺,webview://https://web.guangdianyun.tv/tv/?id=3090&uin=3071
 义乌商贸,webview://https://web.guangdianyun.tv/tv/?id=2133&uin=3071
@@ -1614,6 +1627,7 @@ $松原
 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 柯桥新闻综合,https://play-a2.quklive.com/live/1640945211435051.m3u8
+嵊州综合,webview://http://wap.szttkk.cn/#/WatchTv
 嵊州综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
@@ -1622,6 +1636,7 @@ $松原
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 文成2套,http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
+永嘉综合,webview://https://web.guangdianyun.tv/tv/1335?uin=2768
 永嘉综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 龙港综合,webview://https://app.tmuyun.com/webarticle/naturelive2?id=1544
@@ -1768,6 +1783,9 @@ $松原
 毕节新闻综合,webview://https://movement.gzstv.com/streams/videolive/80
 黔东南综合,webview://https://movement.gzstv.com/streams/videolive/81
 黔西南新闻综合,webview://http://www.qxndt.com/folder74/folder77
+黔西南综合,webview://http://share2.qxndt.com/?_hgOutLink=live/livedetail&channel_id=11
+黔西南公共,webview://http://share2.qxndt.com/?_hgOutLink=live/livedetail&channel_id=14
+黔南综合,webview://http://m.qntv.net/cms-tv?tab=103271
 黔南公共,http://tvfile.qntv.net/nmip-media/channellive/channel109066/playlist.m3u8
 清镇综合,http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8
 七星关综合,https://p8.vzan.com/slowlive/147077707554082780/live.m3u8
