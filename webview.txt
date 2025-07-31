@@ -679,6 +679,16 @@ $衡水
 枣强综合,http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
 
 江西,#genre#
+江西卫视,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv1
+江西都市,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv2
+江西经济生活,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv3
+江西影视旅游,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv4
+江西公共农业,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv5
+江西少儿,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv6
+江西新闻,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv7
+江西陶瓷,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=taoci
+风尚购物,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv9
+
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 江西都市,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
 江西经济生活,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3.m3u8
@@ -770,7 +780,7 @@ $衡水
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 铜梁综合,https://tlpc01.cqliving.com/ch1.m3u8
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
-
+重庆云阳综合,https://live.yunyangwang.com/live/dszb.m3u8
 河南,#genre#
 河南卫视,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv1
 河南都市,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv2
@@ -2167,7 +2177,6 @@ $大兴安岭
 银川公共,webview://https://www.qukanvideo.com/cloud/h5/1731639141671136
 银川生活,webview://https://www.qukanvideo.com/cloud/h5/1731638744888001
 银川文体,webview://https://www.qukanvideo.com/cloud/h5/1728443786945132
-宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
 宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
 宁夏经济,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxjj.m3u8
 宁夏少儿,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxse.m3u8
