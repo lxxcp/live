@@ -681,7 +681,7 @@ $衡水
 枣强综合,http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
 
 江西,#genre#
-江西卫视,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv1
+江西卫视,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jiangxi
 江西都市,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv2
 江西经济生活,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv3
 江西影视旅游,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv4
@@ -790,7 +790,7 @@ $衡水
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 重庆云阳综合,https://live.yunyangwang.com/live/dszb.m3u8
 河南,#genre#
-河南卫视,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv1
+河南卫视,webview://http://p.ytelc.com/169l/henan/henan.php?id=henan
 河南都市,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv2
 河南民生,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv3
 河南法治,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv4
@@ -2040,7 +2040,7 @@ $大兴安岭
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
-山西卫视,webview://http://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxiws
+山西卫视,webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxi
 黄河卫视,webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=huanghe
 山西经济与科技,webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxijj
 山西影视,webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxiys
@@ -2640,6 +2640,8 @@ $兵团
 凤凰中文,webview://http://iptv.huuc.edu.cn/player.html?channel=fhzw
 凤凰资讯,webview://http://iptv.huuc.edu.cn/player.html?channel=fhzx
 凤凰电影,webview://http://iptv.huuc.edu.cn/player.html?channel=fhdy
+凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
 探索频道,webview://http://iptv.huuc.edu.cn/player.html?channel=discovery
 国家地理,webview://http://iptv.huuc.edu.cn/player.html?channel=natlgeo
 星空卫视,webview://http://iptv.huuc.edu.cn/player.html?channel=startv
