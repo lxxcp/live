@@ -1248,6 +1248,7 @@ $松原
 江苏体育休闲,webview://https://live.jstv.com/?channelId=537
 江苏国际,webview://https://live.jstv.com/?channelId=544
 优漫卡通,webview://https://live.jstv.com/?channelId=543
+江苏新闻,https://zhibo-hls.jstv.com/litchi/zhibo-jsgg.m3u8
 南京新闻综合,webview://https://www.nbs.cn/live/?id=109152
 南京十八生活,webview://https://www.nbs.cn/live/?id=110094
 南京教科,webview://https://www.nbs.cn/live/?id=109153
@@ -2013,6 +2014,8 @@ $大兴安岭
 梧州新闻综合,webview://http://www.wzrtv.cn/folder80/folder83
 梧州新闻综合,webview://https://www.wzrtv.cn/dist/index.html#/live
 梧州教育生活,webview://https://www.wzrtv.cn/dist/index.html#/liveTvDetail/15/%E6%95%99%E8%82%B2%E7%94%9F%E6%B4%BB
+防城港新闻综合,webview://https://www.fcgtvb.com/lives/2
+防城港公共,webview://https://www.fcgtvb.com/live/3
 贺州综合,webview://http://www.gxhzxw.com/index.php/page-view-id-50
 来宾综合,webview://https://share-laibin.gxlbcloud.com/fhshare/#/live_detail?contentType=4&id=9
 南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
