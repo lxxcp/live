@@ -351,7 +351,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 五华综合,webview://https://kmcxmpvzb.vzan.com/live/page/1448741529?v=1745716308000
 五华综合,http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
 增城电视台,webview://https://www.gz-cmc.com/html/rft/live.html?channelId=0a7684a8e4cd49ab9b3dcc6f1d102700&type=1&siteId=78fa6d06b0dd4f27abf341e5efde035a
-丰顺综合,http://1b6467f415.iok.la:9931/tsfile/live/1100_1.m3u8
 深圳卫视 4K,http://8.138.7.223/tv/gd.php?id=0201
 深圳都市,http://8.138.7.223/tv/gd.php?id=0202
 深圳卫视 4K,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
@@ -1070,7 +1069,7 @@ $衡水
 $吉林
 吉林市新闻综合,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
 吉林市新闻综合,webview://http://new.jlwlq.com/wap/live/tv_xwzh.html
-舒兰电视台,webview://http://h5-sl.jlntv.cn/front-cloudlive-manage-h5/index.html?id=788363220158119936
+舒兰融媒,webview://http://h5-sl.jlntv.cn/front-cloudlive-manage-h5/index.html?id=788363220158119936
 $长春
 长春综合,webview://https://chinactv.com/live/1442880654565093377.html
 长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
@@ -1201,7 +1200,6 @@ $松原
 咸宁经济生活,webview://https://app.cjyun.org.cn/video/videojs/index?site_id=10140&id=80&page=canvas&live_type=1
 黄石新闻综合,webview://https://web.guangdianyun.tv/tv/3031?uin=3065
 黄石都市,webview://https://web.guangdianyun.tv/tv/3032?uin=3065
-云上黄石,webview://https://web.guangdianyun.tv/tv/3071?uin=3065
 宜昌综合,webview://https://h5.ycrmt.cn/television/
 宜昌综合,https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 宜昌旅游生活,https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
