@@ -1469,7 +1469,7 @@ $松原
 甘肃公共应急,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gsggyj
 甘肃少儿,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gsse
 甘肃科教,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gskj
-甘肃移动,,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gsydds
+甘肃移动,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gsydds
 甘肃移动,https://hls.gstv.com.cn/skt649/k101u2.m3u8
 兰州新闻综合,webview://https://www.lzr.com.cn/folder25/folder26/
 兰州文旅,webview://https://www.lzr.com.cn/folder25/folder26/folder30/
