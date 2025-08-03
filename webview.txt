@@ -505,7 +505,7 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 长宁综合,http://cnpull.sccnfb.com:80/live/123456.m3u8
 点掌财经,webview://https://www.aniu.tv/
 点掌财经,https://volcanopull.aniu.tv/live/aniu2/index.m3u8
-
+乐游,webview://http://tv.zimtv.cn/tv/player/?p=f&url=api/shtv2.php?id=1745
 湖南,#genre#
 湖南卫视,webview://http://m.345iptv.com/?act=play&token=23c14885b87d5c033ebbd1b7f20fde52&tid=ws&id=1
 湖南经视,webview://https://live.mgtv.com/?channelId=280
@@ -1465,10 +1465,11 @@ $松原
 甘肃,#genre#
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml#
 甘肃卫视,https://hls.gstv.com.cn/skt649/k58w7e.m3u8
-甘肃文化影视,https://hls.gstv.com.cn/skt649/26f5k1.m3u8
-甘肃公共应急,https://hls.gstv.com.cn/skt649/ocpuj9.m3u8
-甘肃少儿,https://hls.gstv.com.cn/skt649/2yedw6.m3u8
-甘肃科教,https://hls.gstv.com.cn/skt649/u3ydg9.m3u8
+甘肃文化影视,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gswhys
+甘肃公共应急,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gsggyj
+甘肃少儿,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gsse
+甘肃科教,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gskj
+甘肃移动,,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gsydds
 甘肃移动,https://hls.gstv.com.cn/skt649/k101u2.m3u8
 兰州新闻综合,webview://https://www.lzr.com.cn/folder25/folder26/
 兰州文旅,webview://https://www.lzr.com.cn/folder25/folder26/folder30/
@@ -2249,7 +2250,7 @@ $大兴安岭
 海东综合,webview://https://www.hdhhy.cn/list-hdtv.html
 海南州电视台,webview://https://app.hnzgbdst.com/app/template/displayTemplate/news/liveDetail/59/150.html
 贵德电视台,webview://http://gdshare.dmqhyadmin.com/?_hgOutLink=live/livedetail&channel_id=24
-安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8?_upt=b9afa9391754216977
 化隆综合,https://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
 化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
 大通综合,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8?_upt=02a2775a1622806317
