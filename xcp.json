@@ -1,9 +1,6 @@
 {
     "urls":[
-         {
-            "url":"https://gh.llkk.cc/https://raw.githubusercontent.com/lxxcp/live/main/lives.json",
-            "name":"直播"
-        },
+        
          {
             "url":"https://edgeone.gh-proxy.com/raw.githubusercontent.com/lxxcp/live/main/lives.json",
             "name":"直播(备用1)"
@@ -11,6 +8,10 @@
         {
             "url":"https://hk.gh-proxy.com/raw.githubusercontent.com/lxxcp/live/main/lives.json",
             "name":"直播(备用2)"
+        },
+         {
+            "url":"https://gitee.com/senno/tvbox/raw/master/api.json",
+            "name":"tvbox"
         },
         {
             "url":"http://www.饭太硬.net/tv",
