@@ -59,9 +59,9 @@ CCTV央视文化精品,webview://https://yangshipin.cn/tv/home?pid=600099653
 CCTV央视台球,webview://https://yangshipin.cn/tv/home?pid=600099652
 CCTV电视指南,webview://https://yangshipin.cn/tv/home?pid=600099656
 CCTV卫生健康,webview://https://yangshipin.cn/tv/home?pid=600099651
-CCTV发现之旅,webview://https://m.miguvideo.com/m/liveDetail/624878970?channelId=10010001005
-CCTV老故事,webview://https://m.miguvideo.com/m/liveDetail/884121956?channelId=10010001005
-CCTV中学生,webview://https://m.miguvideo.com/m/liveDetail/708869532?channelId=10010001005
+中央新影-发现之旅,webview://https://m.miguvideo.com/m/liveDetail/624878970?channelId=10010001005
+中央新影-老故事,webview://https://m.miguvideo.com/m/liveDetail/884121956?channelId=10010001005
+中央新影-中学生,webview://https://m.miguvideo.com/m/liveDetail/708869532?channelId=10010001005
 CCTV-1 综合,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
 CCTV-2 财经,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/
 CCTV-3 综艺,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv3/
