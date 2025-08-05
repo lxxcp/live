@@ -59,6 +59,9 @@ CCTV央视文化精品,webview://https://yangshipin.cn/tv/home?pid=600099653
 CCTV央视台球,webview://https://yangshipin.cn/tv/home?pid=600099652
 CCTV电视指南,webview://https://yangshipin.cn/tv/home?pid=600099656
 CCTV卫生健康,webview://https://yangshipin.cn/tv/home?pid=600099651
+CCTV发现之旅,webview:/https://m.miguvideo.com/m/liveDetail/624878970?channelId=10010001005
+CCTV老故事,webview:/https://m.miguvideo.com/m/liveDetail/884121956?channelId=10010001005
+CCTV中学生,webview:/https://m.miguvideo.com/m/liveDetail/708869532?channelId=10010001005
 CCTV-1 综合,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
 CCTV-2 财经,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/
 CCTV-3 综艺,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv3/
@@ -365,11 +368,10 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 天津三佳购物,webview://https://m.sanjiatv.com/mall/mp/touch/disp/tvLive.htm
 天津宝坻台,webview://https://juxian.juyun.tv/live.php?id=143100
 天津静海台,webview://http://www.jhtoutiao.cn/zb/jh_tv_ing.shtml
+滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
+滨海生活,http://traffic.jbh.tjbh.com/live/bhtv20/playlist.m3u8
 滨海新闻综合,webview://https://www.jbh.tjbh.com/html/rft/live.html?channelId=8450fb309c3745ab8956af56a2d498a2
 滨海生活,webview://https://www.jbh.tjbh.com/html/rft/live.html?channelId=d681fd177ed74d8ca37eaeed1709a440
-滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
-滨海新闻综合,http://binhai-tv-hls.cm.jstv.com/binhai-tv/news.m3u8
-滨海生活,http://traffic.jbh.tjbh.com/live/bhtv20/playlist.m3u8
 津南综合,https://play.jinnantv.top/live/JNTV1/playlist.m3u8
 津南综合,http://play.jinnantv.top/live/JNTV1.m3u8
 
@@ -703,7 +705,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 湘西文化旅游,webview://https://web.guangdianyun.tv/tv/2582?uin=3815
 长沙新闻综合,webview://https://web.guangdianyun.tv/tv/?id=346&uin=1648
 长沙政法,webview://https://web.guangdianyun.tv/tv/?id=348&uin=1648
-浏阳新闻综合,webview://https://web.guangdianyun.tv/tv/1788?uin=3275
+长沙浏阳新闻综合,webview://https://web.guangdianyun.tv/tv/1788?uin=3275
 韶山新闻综合,webview://https://wap.ssxw.net/live/index.html?liveid=1760
 韶山新闻综合,http://liveplay-nanyue.rednet.cn/live/shaoshan-tv.m3u8
 湘潭县电视台,webview://https://wap.xtxnews.cn/live/index.html?liveid=1102
@@ -1406,11 +1408,8 @@ $衡水
 长清综合,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=jncqxw
 长清生活,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=jncqsh
 济阳综合,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=jnjyzh
-浏阳影视,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=jnjyys
 青州综合,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=wfqzzh
 青州文化旅游,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=wfqzwh
-
-
 
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
@@ -1541,6 +1540,7 @@ $衡水
 盐城新闻综合,webview://https://h5yc.0515yc.cn/front-cloudlive-manage-h5/index.html?id=593799805264744448&company_id=1046#/
 盐城城市公共,webview://https://h5yc.0515yc.cn/front-cloudlive-manage-h5/index.html?id=593800300318445568&company_id=1046#/
 盐城法制生活,webview://https://h5yc.0515yc.cn/front-cloudlive-manage-h5/index.html?id=593800492417568768&company_id=1046#/
+盐城滨海新闻综合,http://binhai-tv-hls.cm.jstv.com/binhai-tv/news.m3u8
 常州新闻综合,webview://https://https://www.cztv.tv/channel.html
 常州新闻综合,webview://https://www.zhong5.cn/channel.html
 常州新闻综合,https://livekcz.cztv.tv/kcz/cztv1.m3u8?auth_key=1747916513-0-0-6b9391214cf8a92d9711446bf072a9aa
