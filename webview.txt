@@ -340,15 +340,6 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 天津体育,webview://https://share.wisetv.com.cn/share-ui/live/index?channelId=30001110000000000000000000000692
 天津教育,webview://https://share.wisetv.com.cn/share-ui/live/index?channelId=30001110000000000000000000000693
 天津三佳购物,webview://https://share.wisetv.com.cn/share-ui/live/index?channelId=30001110000000000000000000000697
-天津卫视,webview://https://www.app2020.tjyun.com/jyappv300/mi_mob/v200/app/file/meltedMediaShare/iptvTv/index.html?resourcesUrl=https://static20.app2020.tjyun.com/jyappv300/cms_mob/v200/cms_oth/chan.json&channelId=30001110000000000000000000000698
-天津新闻,webview://https://www.app2020.tjyun.com/jyappv300/mi_mob/v200/app/file/meltedMediaShare/iptvTv/index.html?resourcesUrl=https://static20.app2020.tjyun.com/jyappv300/cms_mob/v200/cms_oth/chan.json&channelId=30001110000000000000000000000699
-天津文艺,webview://https://www.app2020.tjyun.com/jyappv300/mi_mob/v200/app/file/meltedMediaShare/iptvTv/index.html?resourcesUrl=https://static20.app2020.tjyun.com/jyappv300/cms_mob/v200/cms_oth/chan.json&channelId=30001110000000000000000000000700
-天津影视,webview://https://www.app2020.tjyun.com/jyappv300/mi_mob/v200/app/file/meltedMediaShare/iptvTv/index.html?resourcesUrl=https://static20.app2020.tjyun.com/jyappv300/cms_mob/v200/cms_oth/chan.json&channelId=30001110000000000000000000000701
-天津都市,webview://https://www.app2020.tjyun.com/jyappv300/mi_mob/v200/app/file/meltedMediaShare/iptvTv/index.html?resourcesUrl=https://static20.app2020.tjyun.com/jyappv300/cms_mob/v200/cms_oth/chan.json&channelId=30001110000000000000000000000702
-天津体育,webview://https://www.app2020.tjyun.com/jyappv300/mi_mob/v200/app/file/meltedMediaShare/iptvTv/index.html?resourcesUrl=https://static20.app2020.tjyun.com/jyappv300/cms_mob/v200/cms_oth/chan.json&channelId=30001110000000000000000000000692
-天津教育,webview://https://www.app2020.tjyun.com/jyappv300/mi_mob/v200/app/file/meltedMediaShare/iptvTv/index.html?resourcesUrl=https://static20.app2020.tjyun.com/jyappv300/cms_mob/v200/cms_oth/chan.json&channelId=30001110000000000000000000000693
-天津三佳购物,webview://https://www.app2020.tjyun.com/jyappv300/mi_mob/v200/app/file/meltedMediaShare/iptvTv/index.html?resourcesUrl=https://static20.app2020.tjyun.com/jyappv300/cms_mob/v200/cms_oth/chan.json&channelId=30001110000000000000000000000697
-天津三佳购物,webview://https://m.sanjiatv.com/mall/mp/touch/disp/tvLive.htm
 天津宝坻台,webview://https://juxian.juyun.tv/live.php?id=143100
 天津静海台,webview://http://www.jhtoutiao.cn/zb/jh_tv_ing.shtml
 滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
@@ -362,7 +353,8 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html?5DEFC70C1A4A0D5173881C62BD4ACAD0
 重庆时尚购物,webview://https://www.huimai.com.cn/tvList/
-重庆万州综合,webview://https://wanzhou.cbg.cn/wap/list/84871/1.html
+重庆万州综合,webview://https://wanzhou.cbg.cn/show/84871-187.html
+重庆万州三峡,webview://https://wanzhou.cbg.cn/show/84871-185.html
 重庆黔江综合,webview://https://qianjiang.cbg.cn/wap/list/15893/1.html
 重庆渝北综合,webview://https://yubei.cbg.cn/wap/list/7908/1.html
 重庆长寿台,webview://https://changshou.cbg.cn/wap/list/12230/1.html
@@ -385,10 +377,8 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 重庆云阳综合,https://live.yunyangwang.com/live/dszb.m3u8
 重庆武隆综合,https://yypull.cbg.cn/applive/wltvzh/playlist.m3u8
 万州科教,http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
-万州三峡,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-万州影视,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
-万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
-万州综合,http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
+重庆万州三峡,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+重庆万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
 
 广东,#genre#
 #荔枝网
@@ -1070,8 +1060,7 @@ $衡水
 驻马店新闻综合,webview://https://kgkfpvvzb.vzan.com/live/page/1085533011?v=1745480237000
 驻马店公共,webview://https://kgkfpvvzb.vzan.com/live/page/1835926220?v=1745480323000
 驻马店科教,webview://https://kgkfpvvzb.vzan.com/live/page/1245953367?v=1745480345000
-平顶山新闻综合,http://live.muzhifm.com/shuazhibo/room2980_pc.m3u8?auth_key=1785035772-0-0-320b3c9961718d03cbecc9021bd27580
-平顶山新闻,http://live.dxhmt.cn:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
+平顶山新闻综合,http://live.dxhmt.cn:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 平顶山城市,http://live.dxhmt.cn:9080/13781808226/9cd43fb472b04787970623e77ae58199.m3u8
 平顶山公共,http://live.dxhmt.cn:9080/13781808226/fd44664050dc4e8c8b1157e869721c0e.m3u8
 平顶山教育,http://219.150.204.175:81/hls/live1.m3u8#rtmp://219.150.204.175/live/live1
@@ -1191,9 +1180,10 @@ $衡水
 鲁山综合,http://tvpull.dxhmt.cn:9081/tv/10423-1.m3u8
 兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
 兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
-开封文化旅游,https://tvpull.dxhmt.cn/tv/10200-3.m3u8
 开封新闻综合,http://live.dxhmt.cn:9081/tv/10200-2.m3u8
 开封新闻综合,https://tvpull.dxhmt.cn/tv/10200-2.m3u8
+开封文化旅游,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
+开封文化旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
 祥符新闻,http://tvpull.dxhmt.cn:9081/tv/10212-1.m3u8
 原阳综合,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
 原阳综合,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
@@ -1362,9 +1352,8 @@ $衡水
 济阳综合,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=jnjyzh
 青州综合,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=wfqzzh
 青州文化旅游,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=wfqzwh
-青州生活,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
-青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
+青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
@@ -1910,7 +1899,8 @@ $衡水
 平潭旅游文化,webview://https://web.guangdianyun.tv/tv/908?uin=1118
 平潭新闻综合,webview://http://www.dsk.cc/p/gdy.html?id=ptzh
 平潭旅游文化,webview://http://www.dsk.cc/p/gdy.html?id=ptly
-
+武夷山综合,http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
+武夷山文旅,http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
 
 安徽,#genre#
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
@@ -2662,7 +2652,7 @@ $松原
 迪庆藏语,webview://https://yndq.diqingtv.com/application/tenma01ds_tvradio/view/h5/#/?id=2
 通海电视台,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
 砚山电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
-文山洲新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
+文山市新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
 贵州,#genre#
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
 贵州公共,webview://https://www.gzstv.com/tv/ch02
@@ -2996,16 +2986,9 @@ $昌吉
 $石河子
 石河子新闻综合,webview://https://www.shznews.com/TV.html
 石河子新闻综合,http://www.shznews.com/ds/xwzh/playlist.m3u8
-石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
-石河子生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8
-石河子影视,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 
 $伊犁
-伊犁汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=15&page=canvas&live_type=1
-伊犁哈语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=14&page=canvas&live_type=1
-伊犁维语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=13&page=canvas&live_type=1
-伊犁经济,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=10&page=canvas&live_type=1
 伊犁汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=15
 伊犁哈语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=14
 伊犁维语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=13
@@ -3021,21 +3004,19 @@ $伊犁
 巩留TV,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10064&id=3
 霍尔果斯融媒,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10038&id=21
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
-伊犁哈语综合,http://110.153.180.106:55555/out_3/index.m3u8
-伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8
-伊犁经济,http://110.153.180.106:55555/out_4/index.m3u8
-伊犁维语综合,http://110.153.180.106:55555/out_2/index.m3u8
+伊犁维语综合,http://110.153.180.106:55555/out_3/index.m3u8
+伊犁经济,http://110.153.180.106:55555/out_1/index.m3u8
+伊犁汉语综合,http://110.153.180.106:55555/out_4/index.m3u8
+伊犁哈语综合,http://110.153.180.106:55555/out_2/index.m3u8
 
 $塔城
+塔城汉语综合,http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
+塔城哈语综合,http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
 塔城汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10066&id=13
-塔城汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10131&id=15
 塔城哈语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10131&id=14
 乌苏综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10011&id=114
 沙湾综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10022&id=67
 裕民综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10102&id=29
-塔城一套,http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
-塔城二套,http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
-塔城三套,http://218.84.35.38:3000/m3u8/live/tctv-3/index.m3u8
 
 $阿勒泰
 阿勒泰汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10132&id=28
@@ -3112,7 +3093,6 @@ $兵团
 四师可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
 兵团五师双河综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
 兵团五师双河综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
-兵团五师双河影视,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
 兵团六师五家渠综合,https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
 兵团七师胡杨河综合,https://liveout.btzx.com.cn:443/ybtkau/078syl.m3u8
 兵团十师北屯电视台,http://test5.btzx.com.cn/live/10TV.stream/playlist.m3u8
