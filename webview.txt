@@ -820,10 +820,9 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 远安综合,webview://http://m-yuanan.cjyun.org/dsgb
 丹江口综合,webview://http://m-danjiangkou.cjyun.org/dszb
 郧阳综合,webview://https://web.guangdianyun.tv/tv/?id=3820&uin=3659
-清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
-清苑生活频道,https://jwcdnqx.hebyun.com.cn/live/qyshpd/1500k/tzwj_video.m3u8
-清苑新闻频道,https://jwcdnqx.hebyun.com.cn/live/qyxwpd/1500k/tzwj_video.m3u8
+清苑新闻,https://jwcdnqx.hebyun.com.cn/live/qyshpd/1500k/tzwj_video.m3u8
+清苑新闻,https://jwcdnqx.hebyun.com.cn/live/qyxwpd/1500k/tzwj_video.m3u8
 
 河北,#genre#
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
