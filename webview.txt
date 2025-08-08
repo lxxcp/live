@@ -249,17 +249,16 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 上犹综合,http://zhibo.jxxw.com.cn:80/live/shangytv.m3u8?txSecret=4f9e7f5fcfe547ad51992f5ef0e4aadf&txTime=69F30AD9
 信丰综合,http://zhibo.jxxw.com.cn/live/dingntv.m3u8?txSecret=343ddfceeecd29f43c7d7eb36fabfa39&txTime=69F30A3F
 北京,#genre#
-BRTV纪实科教,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/btv8k.js
-北京卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws4k
+北京卫视 4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws4k
 北京卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws
 BRTV文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjwy
 BRTV纪实科教,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjjs
 BRTV影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjys
 BRTV财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjcj
-BRTV体育,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjty
+BRTV体育休闲,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjty
 BRTV生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjsh
 BRTV新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjxw
-BRTV卡酷动画,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjkk
+BRTV卡酷少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjkk
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
 北京卫视,http://qtest-play.btime.cn/live/btv_sn_20170706_s1.m3u8
 BRTV文艺,http://qtest-play.btime.cn/live/btv_sn_20170706_s2.m3u8
@@ -314,10 +313,10 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 上海新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=xwzh
 新纪实,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=xjs
 魔都眼,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=mdy
-乐游,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=ly
 第一财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dycj
 上海都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=ds
 五星体育,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=wxty
+乐游,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=ly
 
 东方卫视,webview://https://live.kankanews.com/huikan?id=1
 上海新闻综合,webview://https://live.kankanews.com/huikan?id=2
@@ -403,7 +402,7 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 
 广东,#genre#
 #荔枝网
-深圳卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws4k
+深圳卫视 4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws4k
 深圳卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws
 深圳国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szgj
 深圳都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szds
@@ -2690,13 +2689,6 @@ $松原
 贵州生态乡村,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch05
 贵州科教健康,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch06
 贵州移动电视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch13
-成都新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv1high%2FCDTV1High.flv%2Fplaylist.m3u8
-成都经济资讯,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv2high%2FCDTV2High.flv%2Fplaylist.m3u8
-成都都市生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv3high%2FCDTV3High.flv%2Fplaylist.m3u8
-成都影视文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv4high%2FCDTV4High.flv%2Fplaylist.m3u8
-成都公共,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv5high%2FCDTV5High.flv%2Fplaylist.m3u8
-成都少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv6high%2FCDTV6High.flv%2Fplaylist.m3u8
-蓉城先锋,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fdangjiaohigh%2FdangjiaoHigh.flv%2Fplaylist.m3u8
 
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
 贵州公共,webview://https://www.gzstv.com/tv/ch02
@@ -2755,6 +2747,15 @@ $松原
 成都少儿,webview://https://cando.cditv.cn/show-192-6-1.html
 蓉城先锋,webview://https://www.cditv.cn/show/4845-592.html
 蓉城先锋,webview://https://cando.cditv.cn/show-2763-15-1.html
+
+成都新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv1high%2FCDTV1High.flv%2Fplaylist.m3u8
+成都经济资讯,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv2high%2FCDTV2High.flv%2Fplaylist.m3u8
+成都都市生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv3high%2FCDTV3High.flv%2Fplaylist.m3u8
+成都影视文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv4high%2FCDTV4High.flv%2Fplaylist.m3u8
+成都公共,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv5high%2FCDTV5High.flv%2Fplaylist.m3u8
+成都少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv6high%2FCDTV6High.flv%2Fplaylist.m3u8
+蓉城先锋,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fdangjiaohigh%2FdangjiaoHigh.flv%2Fplaylist.m3u8
+
 高新电视台,webview://https://cando.cditv.cn/show-2762-722-1.html
 简阳市电视台,webview://https://www.cditv.cn/show/4844-578.html
 双流电视台,webview://https://www.cditv.cn/show/4844-581.html
