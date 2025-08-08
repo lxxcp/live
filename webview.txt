@@ -709,7 +709,9 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 岳阳文旅都市,webview://https://web.guangdianyun.tv/tv/1701?uin=2193
 宜章新闻综合,webview://https://web.guangdianyun.tv/tv/3088?uin=4100
 资兴台,webview://https://zixing-wap.rednet.cn/live/index.html?liveid=2329
+资兴台,https://liveplay-zixing.rednet.cn/live/zixin_tv_00676b.m3u8
 新田综合,webview://https://wap.nyxt.cn/live/index.html?liveid=3160
+新田综合,https://liveplay-xintian.rednet.cn/live/xintian_tv.m3u8
 
 湖北,#genre#
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
@@ -822,9 +824,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 远安综合,webview://http://m-yuanan.cjyun.org/dsgb
 丹江口综合,webview://http://m-danjiangkou.cjyun.org/dszb
 郧阳综合,webview://https://web.guangdianyun.tv/tv/?id=3820&uin=3659
-清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
-清苑新闻,https://jwcdnqx.hebyun.com.cn/live/qyshpd/1500k/tzwj_video.m3u8
-清苑新闻,https://jwcdnqx.hebyun.com.cn/live/qyxwpd/1500k/tzwj_video.m3u8
 
 河北,#genre#
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
@@ -901,8 +900,7 @@ $邢台
 邢台综合,webview://https://share.xttv.top/mobile/#/pages/share/live/tvLiveShareDetail?id=5ebe09cb3d1a0f3f3d062e99c781zhpd
 邢台城市生活,webview://https://share.xttv.top/mobile/#/pages/share/live/tvLiveShareDetail?id=d0586743dc68918f808f28b8bc90cssh
 隆尧1套,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=0162e3754bfd4d8f90109f44ac18ee8b
-清河综合,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=67e368e621dc470cb0757d85ed30adce
-清河经济,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=7f686ea38ad14155a3b68eb2276add38
+清河新闻综合,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=67e368e621dc470cb0757d85ed30adce
 临西综合,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=3a902c9595bf4da49377927994358a34
 临西生活,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=1f4e567f37bf4eb59e98585f9bcd1e55
 南和综合,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=3e79953077634b2db873fb14f002f3e6
@@ -914,8 +912,8 @@ $邢台
 邢台综合,https://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
 邢台城市生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
-清河综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
-清河经济,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+
 $保定
 保定新闻综合,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
@@ -926,7 +924,8 @@ $保定
 保定生活健康,webview://https://web.guangdianyun.tv/tv/?id=3069&uin=1630
 唐县新闻,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=df9f2bc5215d4275ba3299c51efe935a
 清苑新闻,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=1f9a555696744a67af0401d98bce96d7
-清苑生活,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=b94e37664f874a689351cc3ae40b083f
+清苑新闻,https://jwcdnqx.hebyun.com.cn/live/qyshpd/1500k/tzwj_video.m3u8
+清苑新闻,https://jwcdnqx.hebyun.com.cn/live/qyxwpd/1500k/tzwj_video.m3u8
 满城电视台,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=e73c1000143e4feca729474634fd4455
 徐水综合,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=95314a830f2e454cb337066baaaa0fde
 徐水慢直播,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=8b67aa721bc148b3a5aaa63ce7ac73a8
