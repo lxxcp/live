@@ -239,7 +239,7 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 九江新闻综合,http://play-live-hls.jxtvcn.com.cn/live/tv_jiujiang.m3u8
 萍乡新闻综合,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
 萍乡公共,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
-吉泽综合,https://play-a2.quklive.com/live/1740970999257207.m3u8
+彭泽综合,https://play-a2.quklive.com/live/1740970999257207.m3u8
 鹰潭综合,webview://http://www.dsk.cc/p/gdy.html?id=ytzh
 贵溪综合,http://guixibc.jxshiju.com/live/guixi.m3u8
 定南综合,http://zhibo.jxxw.com.cn/live/chingytv.m3u8?txSecret=7d9f0a4680022a48521b10ac449d7f05&txTime=6A1BF750
@@ -249,6 +249,17 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 上犹综合,http://zhibo.jxxw.com.cn:80/live/shangytv.m3u8?txSecret=4f9e7f5fcfe547ad51992f5ef0e4aadf&txTime=69F30AD9
 信丰综合,http://zhibo.jxxw.com.cn/live/dingntv.m3u8?txSecret=343ddfceeecd29f43c7d7eb36fabfa39&txTime=69F30A3F
 北京,#genre#
+BRTV纪实科教,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/btv8k.js
+北京卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws4k
+北京卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws
+BRTV文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjwy
+BRTV纪实科教,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjjs
+BRTV影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjys
+BRTV财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjcj
+BRTV体育,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjty
+BRTV生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjsh
+BRTV新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjxw
+BRTV卡酷动画,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjkk
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
 北京卫视,http://qtest-play.btime.cn/live/btv_sn_20170706_s1.m3u8
 BRTV文艺,http://qtest-play.btime.cn/live/btv_sn_20170706_s2.m3u8
@@ -299,6 +310,15 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 北京房山有线,https://livenew.funhillrm.com/fsyx/sd/live.m3u8
 
 上海,#genre#
+东方卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dfws
+上海新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=xwzh
+新纪实,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=xjs
+魔都眼,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=mdy
+乐游,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=ly
+第一财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dycj
+上海都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=ds
+五星体育,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=wxty
+
 东方卫视,webview://https://live.kankanews.com/huikan?id=1
 上海新闻综合,webview://https://live.kankanews.com/huikan?id=2
 上海都市,webview://https://live.kankanews.com/huikan?id=4
@@ -383,6 +403,16 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 
 广东,#genre#
 #荔枝网
+深圳卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws4k
+深圳卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws
+深圳国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szgj
+深圳都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szds
+深圳电视剧,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szdsj
+深圳财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szcjsh
+深圳少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szse
+深圳移动电视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szyd
+深圳宜和购物,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=yhgw
+
 广东卫视 4K,webview://https://www.gdtv.cn/tvChannelDetail/110
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
@@ -2653,6 +2683,21 @@ $松原
 砚山电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
 文山市新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
 贵州,#genre#
+贵州卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch01
+贵州公共,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch02
+贵州影视文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch03
+贵州大众生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch04
+贵州生态乡村,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch05
+贵州科教健康,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch06
+贵州移动电视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch13
+成都新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv1high%2FCDTV1High.flv%2Fplaylist.m3u8
+成都经济资讯,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv2high%2FCDTV2High.flv%2Fplaylist.m3u8
+成都都市生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv3high%2FCDTV3High.flv%2Fplaylist.m3u8
+成都影视文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv4high%2FCDTV4High.flv%2Fplaylist.m3u8
+成都公共,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv5high%2FCDTV5High.flv%2Fplaylist.m3u8
+成都少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv6high%2FCDTV6High.flv%2Fplaylist.m3u8
+蓉城先锋,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fdangjiaohigh%2FdangjiaoHigh.flv%2Fplaylist.m3u8
+
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
 贵州公共,webview://https://www.gzstv.com/tv/ch02
 贵州影视文艺,webview://https://www.gzstv.com/tv/ch03
