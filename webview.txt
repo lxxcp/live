@@ -361,6 +361,8 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 天津教育,webview://https://share.wisetv.com.cn/share-ui/live/index?channelId=30001110000000000000000000000693
 天津三佳购物,webview://https://share.wisetv.com.cn/share-ui/live/index?channelId=30001110000000000000000000000697
 天津宝坻台,webview://https://juxian.juyun.tv/live.php?id=143100
+天津静海台,webview://http://www.jhtoutiao.cn/zb/shoujitv_05181638.shtml
+天津静海台,http://live.jinghai.tjrmtzx.com/live/tjjh0807.m3u8
 天津静海台,webview://http://www.jhtoutiao.cn/zb/jh_tv_ing.shtml
 滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 滨海生活,http://traffic.jbh.tjbh.com/live/bhtv20/playlist.m3u8
