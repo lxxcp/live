@@ -309,9 +309,9 @@ BRTV新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&c
 百姓健康,webview://https://xtvcntvzb.tjyhwy.net.cn/live/page/1579444969?v=1754274034174
 四海钓鱼,webview://https://m.miguvideo.com/m/liveDetail/950154112?channelId=10010001005
 北京房山台,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index.html?id=673903549603667968
-北京房山有线,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index.html?id=673903301279899649
+BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index.html?id=673903301279899649
 北京房山台,https://livenew.funhillrm.com/fswx/sd/live.m3u8
-北京房山有线,https://livenew.funhillrm.com/fsyx/sd/live.m3u8
+BRTV新闻,https://livenew.funhillrm.com/fsyx/sd/live.m3u8
 
 上海,#genre#
 东方卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dfws
