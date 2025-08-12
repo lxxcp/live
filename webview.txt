@@ -728,7 +728,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 资兴台,https://liveplay-zixing.rednet.cn/live/zixin_tv_00676b.m3u8
 新田综合,webview://https://wap.nyxt.cn/live/index.html?liveid=3160
 新田综合,https://liveplay-xintian.rednet.cn/live/xintian_tv.m3u8
-茶陵新闻综合,http://liveplay-nanyue.rednet.cn/live/chaling-telev.m3u8
+茶陵综合,http://liveplay-nanyue.rednet.cn/live/chaling-telev.m3u8
 云溪新闻综合,http://liveplay-nanyue.rednet.cn/live/yxq2024tv.m3u8
 
 湖北,#genre#
@@ -1813,6 +1813,7 @@ $衡水
 长兴综合,http://l.cztvcloud.com/channels/lantian/SXchangxing1/720p.m3u8
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+温州新闻综合,http://l.cztvcloud.com/channels/lantian/sxchannel03/1080p.m3u8
 绍兴新闻综合,http://l.cztvcloud.com/channels/lantian/sxchannel04/1080p.m3u8
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
@@ -2899,18 +2900,18 @@ $松原
 攀枝花新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8
 攀枝花文旅生活,webview://https://h5.pzhkai.com/front-cloudlive-manage-h5/index.html?id=536937486832656384
 内江综合,webview://https://www.scnj.tv/bencandy.php?fid=43&id=972
-内江科教,webview://https://www.scnj.tv/bencandy.php?fid=43&aid=1914042
-内江科教,https://www.scnj.tv/hls_njtv_direct/9.m3u8
+内江科教生活,webview://https://www.scnj.tv/bencandy.php?fid=43&aid=1914042
+内江科教生活,https://www.scnj.tv/hls_njtv_direct/9.m3u8
 内江综合,https://www.scnj.tv/hls_njtv_direct/1.m3u8
 内江综合,https://www.scnj.tv/hls_njtv_direct/2.m3u8
 眉山综合,webview://https://www.scmstv.cn/web/folder88/folder89/folder91/
 眉山文旅乡村,webview://https://www.scmstv.cn/web/folder88/folder89/folder92/
 资阳综合,webview://https://liveshow.zyrb.com.cn/web/fslivemobile/index.html?id=2&domain=https://appmgr.zyrb.com.cn
 资阳综合,webview://https://www.zyrb.com.cn/#/bD074b747F?pkey=bD074b747F
-资阳雁江频道,webview://https://liveshow.zyrb.com.cn/web/fslivemobile/index.html?id=5&domain=https://appmgr.zyrb.com.cn
-资阳雁江频道,webview://http://www.dsk.cc/sctv/zyzb.html?id=zyyj
+雁江频道,webview://https://liveshow.zyrb.com.cn/web/fslivemobile/index.html?id=5&domain=https://appmgr.zyrb.com.cn
+雁江频道,webview://http://www.dsk.cc/sctv/zyzb.html?id=zyyj
 甘孜综合,webview://https://www.ganzitv.com/cms/tv/1027139
-安岳新闻综合,webview://https://ayapp.ayrmt.com/application/tvradio/h5/detail.html?type=tv&id=10
+安岳综合,webview://https://ayapp.ayrmt.com/application/tvradio/h5/detail.html?type=tv&id=10
 阿坝州新闻综合,http://apppull.aba-news.com.cn/live/be5325350190100009f6751d00000000/playlist.m3u8?wsSecret=35d0fb48b07a2c3c051b8c050e1ef7d9&wsTime=2019657600
 阿坝州新闻综合,webview://https://www.aba-news.com.cn/#/tvChannel?subjectId=1523946498072231937
 达州新闻综合,webview://https://www.dzrm.cn/cms/tv
