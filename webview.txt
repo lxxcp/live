@@ -898,8 +898,6 @@ $唐山
 滦南影视,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=baa86220f68040a7ab3f8bdd05fdc16c
 迁西综合,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=b0c2509b7c5144d496c832e8604c42f7
 迁西农业,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=6f5749bc8f8e499c9fcfcc4323d08780
-迁西测试,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=167e20bdf7f84be49f3b60acafb24e12
-迁西测试,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=3c191d4abbcc48288e446463e8c1086f
 玉田综合,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=0880fe0822e246a28f1d669212c14be8
 遵化电视台,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=508d6d1cf6a745f4b1b25ebfefe2fed3
 滦州综合,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=0f9863974f484582b6074943a6882350
@@ -962,7 +960,6 @@ $保定
 清苑新闻,https://jwcdnqx.hebyun.com.cn/live/qyxwpd/1500k/tzwj_video.m3u8
 满城电视台,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=e73c1000143e4feca729474634fd4455
 徐水综合,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=95314a830f2e454cb337066baaaa0fde
-徐水慢直播,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=8b67aa721bc148b3a5aaa63ce7ac73a8
 涞水新闻,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=d1766eff80fa49e1b705573be3012f96
 望都新闻综合,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=89c44ce1e98940c488b232943efff586
 高碑店新闻,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=62b892286a994bcaa8504e31cf226fe3
@@ -1073,7 +1070,7 @@ $衡水
 双滦新闻,https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
 双滦影视,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=0212e4d9845845a7886eda829bc45880
 双滦影视,http://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
-新盟综合,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
+新野综合,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
 枣强综合,http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
 武强综合,webview://https://web.guangdianyun.tv/tv/3654?uin=1425
 
