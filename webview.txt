@@ -2516,9 +2516,6 @@ $松原
 商洛公共,webview://http://slrmt.gdwlcloud.com//television/live_wap_107332.html?site=53&color=008F01
 商洛综合,http://player4.juyun.tv/camera/171844138.m3u8
 商洛公共,http://player4.juyun.tv/camera/167348174.m3u8
-礼泉新闻综合,webview://https://www.lqtv.sn.cn/videolive-info/erexspwcaccwsfwuxsdwdoxbprusxouo/55fb541e97a50bcf02096da0e652b3f0/5a9e4e8e1c124ce183991fa874b3d087
-礼泉影视,webview://https://www.lqtv.sn.cn/videolive-info/erexspwcaccwsfwuxsdwdoxbprusxouo/55fb541e97a50bcf02096da0e652b3f0/6bed1e06be2845c692d16331f415d036
-礼泉戏曲,webview://https://www.lqtv.sn.cn/videolive-info/erexspwcaccwsfwuxsdwdoxbprusxouo/55fb541e97a50bcf02096da0e652b3f0/f6d7014b13e54e6eae57eb4b1067127e
 镇安综合,webview://https://zasjt.zatvs.cn/videolive-info/qftvqpbsedessquowaadwpexqupxuwrd/88a43d204fc20e36bdd8c76f88bd6462/cad887a9e2ad4652a1a29290ff559862
 甘肃,#genre#
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml#
@@ -2562,10 +2559,9 @@ $松原
 甘南藏语,https://play.kankanlive.com/live/1711955770173989.m3u8
 庄浪综合,https://play.kankanlive.com/live/1687654127961989.m3u8
 永昌综合,http://play.kankanlive.com/live/1652755738635915.m3u8
-永昌综合,http://play.kankanlive.com/live/1652755738635915.m3u8
 永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
+永昌综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1652755738635915
 西峰综合,http://play.kankanlive.com/live/1683944827526991.m3u8
-会宁综合,https://play.kankanlive.com/live/1721783897283302.m3u8
 景泰综合,http://play.kankanlive.com/live/1624439143745981.m3u8
 景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
