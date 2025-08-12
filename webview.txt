@@ -1114,18 +1114,18 @@ $衡水
 郑州豫剧,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659784129105920#/
 郑州教育,webview://http://web.chinamcloud.com/yszh32/wz/zb/index.shtml
 郑州教育,http://livezzutv.chinamcache.com/zb02/zb02.m3u8
-信阳综合,webview://https://wap.xytv.cn/share/page/tvLive/?tvid=1&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=4f6012673a674a07ba7380a6bfd99ee9
 信阳综合,webview://https://www.xytv.cn/television/137.html
-信阳文旅,webview://https://wap.xytv.cn/share/page/tvLive?tvid=3&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=39afabf7e90b4e708f7583ec223ea541
 信阳文旅,webview://https://www.xytv.cn/television/138.html
-信阳平桥,webview://https://wap.xytv.cn/share/page/tvLive?tvid=4&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=26c2c106d4b34cbcade8fb115eb5e51e
 信阳平桥,webview://https://www.xytv.cn/television/140.html
-信阳浉河,webview://https://wap.xytv.cn/share/page/tvLive?tvid=5&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=e61a40bfa9414965984a6dcea76b3c60
 信阳浉河,webview://https://www.xytv.cn/television/139.html
 信阳综合,http://rtmp.xytv.cn/live/514f8a62d467.m3u8
 信阳文旅,http://rtmp.xytv.cn/live/118cfcf8c6df.m3u8
 信阳平桥,http://rtmp.xytv.cn/live/b998c92c650c.m3u8
 信阳浉河,http://rtmp.xytv.cn/live/8b28047c9e6f.m3u8
+信阳综合,webview://https://wap.xytv.cn/share/page/tvLive/?tvid=1&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=4f6012673a674a07ba7380a6bfd99ee9
+信阳文旅,webview://https://wap.xytv.cn/share/page/tvLive?tvid=3&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=39afabf7e90b4e708f7583ec223ea541
+信阳平桥,webview://https://wap.xytv.cn/share/page/tvLive?tvid=4&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=26c2c106d4b34cbcade8fb115eb5e51e
+信阳浉河,webview://https://wap.xytv.cn/share/page/tvLive?tvid=5&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=e61a40bfa9414965984a6dcea76b3c60
 南阳新闻综合,webview://https://web.guangdianyun.tv/tv/?id=142&uin=1081
 南阳新闻综合,webview://https://web.guangdianyun.tv/tv/?id=142&uin=1081&refererId=1651172
 南阳公共,webview://https://web.guangdianyun.tv/tv/?id=295&uin=1081
@@ -1177,8 +1177,8 @@ $衡水
 新乡公共,webview://https://live.tv373.com/tv/?id=3708&uin=4436
 新乡新闻综合,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 新乡新闻综合,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+许昌综合,webview://http://xctv.cn/2359
 许昌农业科技,webview://http://xctv.cn/3918
-许昌新闻综合,webview://http://xctv.cn/2359
 晴彩许昌,webview://http://xctv.cn/3920
 许昌综合,http://live.s23.net:2017/live/xctv1hd.stream_1080p/playlist.m3u8
 焦作综合,webview://http://www.jzrt.com/list-zhpd.html
@@ -2442,7 +2442,7 @@ $松原
 辽宁公共,http://120.76.248.139/live/bfgd/4200000077.m3u8
 辽宁公共,http://120.76.248.139/live/bfgd/4200000481.m3u8
 辽宁经济,http://120.76.248.139/live/bfgd/4200000480.m3u8
-大连综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500
+大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500
 大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500
 大连文体,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500
 大连乐天购物,rtmp://secret.dltv.cn/dreamStreamCore/N4S4uAj/lv500
@@ -2462,8 +2462,6 @@ $松原
 锦州新闻综合,http://srs.beijihainews.com.cn/video/jinzhou1/index.m3u8
 锦州教育,http://srs.beijihainews.com.cn/video/jinzhou2/index.m3u8
 丹东新闻综合,http://1866360232.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zhdd-tv.ddrtv.cn&player=1&streamid=zhdd-tv%3Azhdd-tv%2Fddnews&v3=1
-大洼综合,https://cp.dawawg.com:443/live/dawatv/hls.m3u8
-大洼综合,https://cp.dawawg.com/live/dawatv/hls.m3u8
 铁岭新闻综合,webview://https://web.guangdianyun.tv/tv/?id=2584&uin=3816
 铁岭新闻综合,webview://https://nginx-tlrb.newaircloud.com/tlrb/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tdGxyYi5uZXdhaXJjbG91ZC5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjMsInR2U3R5bGUiOjEsImNvbElkIjo1NjAsImlzU2hhcmUiOjEsImFwcElkIjoxLCJzaXRlSUQiOjEsInNpdGVJZCI6MSwic3lzdGVtVHlwZSI6MCwiYXBwVmVyc2lvbiI6IjMuMi4xIiwid3hBcHBJZCI6Ind4MTAyNTdjNDUyMzU5ZWZlOSJ9
 
