@@ -1421,7 +1421,7 @@ https://liveplay-zixing.rednet.cn/live/zixin_tv_00676b.m3u8
 webview://https://wap.nyxt.cn/live/index.html?liveid=3160
 #EXTINF:-1 group-title="湖南" tvg-name="新田综合" tvg-logo="https://epg.112114.xyz/logo/新田综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",新田综合
 https://liveplay-xintian.rednet.cn/live/xintian_tv.m3u8
-#EXTINF:-1 group-title="湖南" tvg-name="茶陵新闻综合" tvg-logo="https://epg.112114.xyz/logo/茶陵新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",茶陵新闻综合
+#EXTINF:-1 group-title="湖南" tvg-name="茶陵综合" tvg-logo="https://epg.112114.xyz/logo/茶陵综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",茶陵综合
 http://liveplay-nanyue.rednet.cn/live/chaling-telev.m3u8
 #EXTINF:-1 group-title="湖南" tvg-name="云溪新闻综合" tvg-logo="https://epg.112114.xyz/logo/云溪新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",云溪新闻综合
 http://liveplay-nanyue.rednet.cn/live/yxq2024tv.m3u8
@@ -1751,10 +1751,6 @@ webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=baa86220f68040a
 webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=b0c2509b7c5144d496c832e8604c42f7
 #EXTINF:-1 group-title="河北" tvg-name="迁西农业" tvg-logo="https://epg.112114.xyz/logo/迁西农业.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",迁西农业
 webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=6f5749bc8f8e499c9fcfcc4323d08780
-#EXTINF:-1 group-title="河北" tvg-name="迁西测试" tvg-logo="https://epg.112114.xyz/logo/迁西测试.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",迁西测试
-webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=167e20bdf7f84be49f3b60acafb24e12
-#EXTINF:-1 group-title="河北" tvg-name="迁西测试" tvg-logo="https://epg.112114.xyz/logo/迁西测试.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",迁西测试
-webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=3c191d4abbcc48288e446463e8c1086f
 #EXTINF:-1 group-title="河北" tvg-name="玉田综合" tvg-logo="https://epg.112114.xyz/logo/玉田综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",玉田综合
 webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=0880fe0822e246a28f1d669212c14be8
 #EXTINF:-1 group-title="河北" tvg-name="遵化电视台" tvg-logo="https://epg.112114.xyz/logo/遵化电视台.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",遵化电视台
@@ -1877,8 +1873,6 @@ https://jwcdnqx.hebyun.com.cn/live/qyxwpd/1500k/tzwj_video.m3u8
 webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=e73c1000143e4feca729474634fd4455
 #EXTINF:-1 group-title="河北" tvg-name="徐水综合" tvg-logo="https://epg.112114.xyz/logo/徐水综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",徐水综合
 webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=95314a830f2e454cb337066baaaa0fde
-#EXTINF:-1 group-title="河北" tvg-name="徐水慢直播" tvg-logo="https://epg.112114.xyz/logo/徐水慢直播.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",徐水慢直播
-webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=8b67aa721bc148b3a5aaa63ce7ac73a8
 #EXTINF:-1 group-title="河北" tvg-name="涞水新闻" tvg-logo="https://epg.112114.xyz/logo/涞水新闻.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",涞水新闻
 webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=d1766eff80fa49e1b705573be3012f96
 #EXTINF:-1 group-title="河北" tvg-name="望都新闻综合" tvg-logo="https://epg.112114.xyz/logo/望都新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",望都新闻综合
@@ -2095,7 +2089,7 @@ https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
 webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=0212e4d9845845a7886eda829bc45880
 #EXTINF:-1 group-title="河北" tvg-name="双滦影视" tvg-logo="https://epg.112114.xyz/logo/双滦影视.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",双滦影视
 http://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北" tvg-name="新盟综合" tvg-logo="https://epg.112114.xyz/logo/新盟综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",新盟综合
+#EXTINF:-1 group-title="河北" tvg-name="新野综合" tvg-logo="https://epg.112114.xyz/logo/新野综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",新野综合
 http://live.dxhmt.cn:9081/tv/11329-1.m3u8
 #EXTINF:-1 group-title="河北" tvg-name="枣强综合" tvg-logo="https://epg.112114.xyz/logo/枣强综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",枣强综合
 http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
@@ -2174,19 +2168,11 @@ webview://http://web.chinamcloud.com/yszh32/wz/zb/index.shtml
 #EXTINF:-1 group-title="河南" tvg-name="郑州教育" tvg-logo="https://epg.112114.xyz/logo/郑州教育.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",郑州教育
 http://livezzutv.chinamcache.com/zb02/zb02.m3u8
 #EXTINF:-1 group-title="河南" tvg-name="信阳综合" tvg-logo="https://epg.112114.xyz/logo/信阳综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",信阳综合
-webview://https://wap.xytv.cn/share/page/tvLive/?tvid=1&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=4f6012673a674a07ba7380a6bfd99ee9
-#EXTINF:-1 group-title="河南" tvg-name="信阳综合" tvg-logo="https://epg.112114.xyz/logo/信阳综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",信阳综合
 webview://https://www.xytv.cn/television/137.html
-#EXTINF:-1 group-title="河南" tvg-name="信阳文旅" tvg-logo="https://epg.112114.xyz/logo/信阳文旅.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",信阳文旅
-webview://https://wap.xytv.cn/share/page/tvLive?tvid=3&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=39afabf7e90b4e708f7583ec223ea541
 #EXTINF:-1 group-title="河南" tvg-name="信阳文旅" tvg-logo="https://epg.112114.xyz/logo/信阳文旅.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",信阳文旅
 webview://https://www.xytv.cn/television/138.html
 #EXTINF:-1 group-title="河南" tvg-name="信阳平桥" tvg-logo="https://epg.112114.xyz/logo/信阳平桥.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",信阳平桥
-webview://https://wap.xytv.cn/share/page/tvLive?tvid=4&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=26c2c106d4b34cbcade8fb115eb5e51e
-#EXTINF:-1 group-title="河南" tvg-name="信阳平桥" tvg-logo="https://epg.112114.xyz/logo/信阳平桥.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",信阳平桥
 webview://https://www.xytv.cn/television/140.html
-#EXTINF:-1 group-title="河南" tvg-name="信阳浉河" tvg-logo="https://epg.112114.xyz/logo/信阳浉河.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",信阳浉河
-webview://https://wap.xytv.cn/share/page/tvLive?tvid=5&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=e61a40bfa9414965984a6dcea76b3c60
 #EXTINF:-1 group-title="河南" tvg-name="信阳浉河" tvg-logo="https://epg.112114.xyz/logo/信阳浉河.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",信阳浉河
 webview://https://www.xytv.cn/television/139.html
 #EXTINF:-1 group-title="河南" tvg-name="信阳综合" tvg-logo="https://epg.112114.xyz/logo/信阳综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",信阳综合
@@ -2197,6 +2183,14 @@ http://rtmp.xytv.cn/live/118cfcf8c6df.m3u8
 http://rtmp.xytv.cn/live/b998c92c650c.m3u8
 #EXTINF:-1 group-title="河南" tvg-name="信阳浉河" tvg-logo="https://epg.112114.xyz/logo/信阳浉河.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",信阳浉河
 http://rtmp.xytv.cn/live/8b28047c9e6f.m3u8
+#EXTINF:-1 group-title="河南" tvg-name="信阳综合" tvg-logo="https://epg.112114.xyz/logo/信阳综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",信阳综合
+webview://https://wap.xytv.cn/share/page/tvLive/?tvid=1&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=4f6012673a674a07ba7380a6bfd99ee9
+#EXTINF:-1 group-title="河南" tvg-name="信阳文旅" tvg-logo="https://epg.112114.xyz/logo/信阳文旅.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",信阳文旅
+webview://https://wap.xytv.cn/share/page/tvLive?tvid=3&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=39afabf7e90b4e708f7583ec223ea541
+#EXTINF:-1 group-title="河南" tvg-name="信阳平桥" tvg-logo="https://epg.112114.xyz/logo/信阳平桥.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",信阳平桥
+webview://https://wap.xytv.cn/share/page/tvLive?tvid=4&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=26c2c106d4b34cbcade8fb115eb5e51e
+#EXTINF:-1 group-title="河南" tvg-name="信阳浉河" tvg-logo="https://epg.112114.xyz/logo/信阳浉河.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",信阳浉河
+webview://https://wap.xytv.cn/share/page/tvLive?tvid=5&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=e61a40bfa9414965984a6dcea76b3c60
 #EXTINF:-1 group-title="河南" tvg-name="南阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/南阳新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",南阳新闻综合
 webview://https://web.guangdianyun.tv/tv/?id=142&uin=1081
 #EXTINF:-1 group-title="河南" tvg-name="南阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/南阳新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",南阳新闻综合
@@ -2299,10 +2293,10 @@ webview://https://live.tv373.com/tv/?id=3708&uin=4436
 http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 #EXTINF:-1 group-title="河南" tvg-name="新乡新闻综合" tvg-logo="https://epg.112114.xyz/logo/新乡新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",新乡新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+#EXTINF:-1 group-title="河南" tvg-name="许昌综合" tvg-logo="https://epg.112114.xyz/logo/许昌综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",许昌综合
+webview://http://xctv.cn/2359
 #EXTINF:-1 group-title="河南" tvg-name="许昌农业科技" tvg-logo="https://epg.112114.xyz/logo/许昌农业科技.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",许昌农业科技
 webview://http://xctv.cn/3918
-#EXTINF:-1 group-title="河南" tvg-name="许昌新闻综合" tvg-logo="https://epg.112114.xyz/logo/许昌新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",许昌新闻综合
-webview://http://xctv.cn/2359
 #EXTINF:-1 group-title="河南" tvg-name="晴彩许昌" tvg-logo="https://epg.112114.xyz/logo/晴彩许昌.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",晴彩许昌
 webview://http://xctv.cn/3920
 #EXTINF:-1 group-title="河南" tvg-name="许昌综合" tvg-logo="https://epg.112114.xyz/logo/许昌综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",许昌综合
@@ -3559,6 +3553,8 @@ http://l.cztvcloud.com/channels/lantian/SXchangxing1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 group-title="浙江" tvg-name="上虞新商都" tvg-logo="https://epg.112114.xyz/logo/上虞新商都.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 group-title="浙江" tvg-name="温州新闻综合" tvg-logo="https://epg.112114.xyz/logo/温州新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",温州新闻综合
+http://l.cztvcloud.com/channels/lantian/sxchannel03/1080p.m3u8
 #EXTINF:-1 group-title="浙江" tvg-name="绍兴新闻综合" tvg-logo="https://epg.112114.xyz/logo/绍兴新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",绍兴新闻综合
 http://l.cztvcloud.com/channels/lantian/sxchannel04/1080p.m3u8
 #EXTINF:-1 group-title="浙江" tvg-name="绍兴新闻综合" tvg-logo="https://epg.112114.xyz/logo/绍兴新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",绍兴新闻综合
@@ -4773,7 +4769,7 @@ http://120.76.248.139/live/bfgd/4200000077.m3u8
 http://120.76.248.139/live/bfgd/4200000481.m3u8
 #EXTINF:-1 group-title="辽宁" tvg-name="辽宁经济" tvg-logo="https://epg.112114.xyz/logo/辽宁经济.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",辽宁经济
 http://120.76.248.139/live/bfgd/4200000480.m3u8
-#EXTINF:-1 group-title="辽宁" tvg-name="大连综合" tvg-logo="https://epg.112114.xyz/logo/大连综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",大连综合
+#EXTINF:-1 group-title="辽宁" tvg-name="大连新闻综合" tvg-logo="https://epg.112114.xyz/logo/大连新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",大连新闻综合
 rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500
 #EXTINF:-1 group-title="辽宁" tvg-name="大连生活" tvg-logo="https://epg.112114.xyz/logo/大连生活.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",大连生活
 rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500
@@ -4813,10 +4809,6 @@ http://srs.beijihainews.com.cn/video/jinzhou1/index.m3u8
 http://srs.beijihainews.com.cn/video/jinzhou2/index.m3u8
 #EXTINF:-1 group-title="辽宁" tvg-name="丹东新闻综合" tvg-logo="https://epg.112114.xyz/logo/丹东新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",丹东新闻综合
 http://1866360232.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zhdd-tv.ddrtv.cn&player=1&streamid=zhdd-tv%3Azhdd-tv%2Fddnews&v3=1
-#EXTINF:-1 group-title="辽宁" tvg-name="大洼综合" tvg-logo="https://epg.112114.xyz/logo/大洼综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",大洼综合
-https://cp.dawawg.com:443/live/dawatv/hls.m3u8
-#EXTINF:-1 group-title="辽宁" tvg-name="大洼综合" tvg-logo="https://epg.112114.xyz/logo/大洼综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",大洼综合
-https://cp.dawawg.com/live/dawatv/hls.m3u8
 #EXTINF:-1 group-title="辽宁" tvg-name="铁岭新闻综合" tvg-logo="https://epg.112114.xyz/logo/铁岭新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",铁岭新闻综合
 webview://https://web.guangdianyun.tv/tv/?id=2584&uin=3816
 #EXTINF:-1 group-title="辽宁" tvg-name="铁岭新闻综合" tvg-logo="https://epg.112114.xyz/logo/铁岭新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",铁岭新闻综合
@@ -4919,12 +4911,6 @@ webview://http://slrmt.gdwlcloud.com//television/live_wap_107332.html?site=53&co
 http://player4.juyun.tv/camera/171844138.m3u8
 #EXTINF:-1 group-title="陕西" tvg-name="商洛公共" tvg-logo="https://epg.112114.xyz/logo/商洛公共.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",商洛公共
 http://player4.juyun.tv/camera/167348174.m3u8
-#EXTINF:-1 group-title="陕西" tvg-name="礼泉新闻综合" tvg-logo="https://epg.112114.xyz/logo/礼泉新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",礼泉新闻综合
-webview://https://www.lqtv.sn.cn/videolive-info/erexspwcaccwsfwuxsdwdoxbprusxouo/55fb541e97a50bcf02096da0e652b3f0/5a9e4e8e1c124ce183991fa874b3d087
-#EXTINF:-1 group-title="陕西" tvg-name="礼泉影视" tvg-logo="https://epg.112114.xyz/logo/礼泉影视.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",礼泉影视
-webview://https://www.lqtv.sn.cn/videolive-info/erexspwcaccwsfwuxsdwdoxbprusxouo/55fb541e97a50bcf02096da0e652b3f0/6bed1e06be2845c692d16331f415d036
-#EXTINF:-1 group-title="陕西" tvg-name="礼泉戏曲" tvg-logo="https://epg.112114.xyz/logo/礼泉戏曲.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",礼泉戏曲
-webview://https://www.lqtv.sn.cn/videolive-info/erexspwcaccwsfwuxsdwdoxbprusxouo/55fb541e97a50bcf02096da0e652b3f0/f6d7014b13e54e6eae57eb4b1067127e
 #EXTINF:-1 group-title="陕西" tvg-name="镇安综合" tvg-logo="https://epg.112114.xyz/logo/镇安综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",镇安综合
 webview://https://zasjt.zatvs.cn/videolive-info/qftvqpbsedessquowaadwpexqupxuwrd/88a43d204fc20e36bdd8c76f88bd6462/cad887a9e2ad4652a1a29290ff559862
 #EXTINF:-1 group-title="甘肃" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",甘肃卫视
@@ -5010,13 +4996,11 @@ https://play.kankanlive.com/live/1687654127961989.m3u8
 #EXTINF:-1 group-title="甘肃" tvg-name="永昌综合" tvg-logo="https://epg.112114.xyz/logo/永昌综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",永昌综合
 http://play.kankanlive.com/live/1652755738635915.m3u8
 #EXTINF:-1 group-title="甘肃" tvg-name="永昌综合" tvg-logo="https://epg.112114.xyz/logo/永昌综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",永昌综合
-http://play.kankanlive.com/live/1652755738635915.m3u8
-#EXTINF:-1 group-title="甘肃" tvg-name="永昌综合" tvg-logo="https://epg.112114.xyz/logo/永昌综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",永昌综合
 https://play.kankanlive.com/live/1652755738635915.m3u8
+#EXTINF:-1 group-title="甘肃" tvg-name="永昌综合" tvg-logo="https://epg.112114.xyz/logo/永昌综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",永昌综合
+webview://https://cloud.kankanlive.com/cloud/a/embed/1652755738635915
 #EXTINF:-1 group-title="甘肃" tvg-name="西峰综合" tvg-logo="https://epg.112114.xyz/logo/西峰综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",西峰综合
 http://play.kankanlive.com/live/1683944827526991.m3u8
-#EXTINF:-1 group-title="甘肃" tvg-name="会宁综合" tvg-logo="https://epg.112114.xyz/logo/会宁综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",会宁综合
-https://play.kankanlive.com/live/1721783897283302.m3u8
 #EXTINF:-1 group-title="甘肃" tvg-name="景泰综合" tvg-logo="https://epg.112114.xyz/logo/景泰综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",景泰综合
 http://play.kankanlive.com/live/1624439143745981.m3u8
 #EXTINF:-1 group-title="甘肃" tvg-name="景泰综合" tvg-logo="https://epg.112114.xyz/logo/景泰综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",景泰综合
@@ -5667,9 +5651,9 @@ https://live.pzhkai.com/xwzhtl/sd/live.m3u8
 webview://https://h5.pzhkai.com/front-cloudlive-manage-h5/index.html?id=536937486832656384
 #EXTINF:-1 group-title="四川" tvg-name="内江综合" tvg-logo="https://epg.112114.xyz/logo/内江综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",内江综合
 webview://https://www.scnj.tv/bencandy.php?fid=43&id=972
-#EXTINF:-1 group-title="四川" tvg-name="内江科教" tvg-logo="https://epg.112114.xyz/logo/内江科教.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",内江科教
+#EXTINF:-1 group-title="四川" tvg-name="内江科教生活" tvg-logo="https://epg.112114.xyz/logo/内江科教生活.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",内江科教生活
 webview://https://www.scnj.tv/bencandy.php?fid=43&aid=1914042
-#EXTINF:-1 group-title="四川" tvg-name="内江科教" tvg-logo="https://epg.112114.xyz/logo/内江科教.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",内江科教
+#EXTINF:-1 group-title="四川" tvg-name="内江科教生活" tvg-logo="https://epg.112114.xyz/logo/内江科教生活.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",内江科教生活
 https://www.scnj.tv/hls_njtv_direct/9.m3u8
 #EXTINF:-1 group-title="四川" tvg-name="内江综合" tvg-logo="https://epg.112114.xyz/logo/内江综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",内江综合
 https://www.scnj.tv/hls_njtv_direct/1.m3u8
@@ -5683,13 +5667,13 @@ webview://https://www.scmstv.cn/web/folder88/folder89/folder92/
 webview://https://liveshow.zyrb.com.cn/web/fslivemobile/index.html?id=2&domain=https://appmgr.zyrb.com.cn
 #EXTINF:-1 group-title="四川" tvg-name="资阳综合" tvg-logo="https://epg.112114.xyz/logo/资阳综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",资阳综合
 webview://https://www.zyrb.com.cn/#/bD074b747F?pkey=bD074b747F
-#EXTINF:-1 group-title="四川" tvg-name="资阳雁江频道" tvg-logo="https://epg.112114.xyz/logo/资阳雁江频道.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",资阳雁江频道
+#EXTINF:-1 group-title="四川" tvg-name="雁江频道" tvg-logo="https://epg.112114.xyz/logo/雁江频道.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",雁江频道
 webview://https://liveshow.zyrb.com.cn/web/fslivemobile/index.html?id=5&domain=https://appmgr.zyrb.com.cn
-#EXTINF:-1 group-title="四川" tvg-name="资阳雁江频道" tvg-logo="https://epg.112114.xyz/logo/资阳雁江频道.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",资阳雁江频道
+#EXTINF:-1 group-title="四川" tvg-name="雁江频道" tvg-logo="https://epg.112114.xyz/logo/雁江频道.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",雁江频道
 webview://http://www.dsk.cc/sctv/zyzb.html?id=zyyj
 #EXTINF:-1 group-title="四川" tvg-name="甘孜综合" tvg-logo="https://epg.112114.xyz/logo/甘孜综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",甘孜综合
 webview://https://www.ganzitv.com/cms/tv/1027139
-#EXTINF:-1 group-title="四川" tvg-name="安岳新闻综合" tvg-logo="https://epg.112114.xyz/logo/安岳新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",安岳新闻综合
+#EXTINF:-1 group-title="四川" tvg-name="安岳综合" tvg-logo="https://epg.112114.xyz/logo/安岳综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",安岳综合
 webview://https://ayapp.ayrmt.com/application/tvradio/h5/detail.html?type=tv&id=10
 #EXTINF:-1 group-title="四川" tvg-name="阿坝州新闻综合" tvg-logo="https://epg.112114.xyz/logo/阿坝州新闻综合.png" epg-url="https://hk.gh-proxy.com/github.com/lxxcp/epg/blob/main/e.xml.gz",阿坝州新闻综合
 http://apppull.aba-news.com.cn/live/be5325350190100009f6751d00000000/playlist.m3u8?wsSecret=35d0fb48b07a2c3c051b8c050e1ef7d9&wsTime=2019657600
