@@ -206,6 +206,12 @@ CETV-4 综合教育,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CETV-4/G
 银川文旅,http://live-gitv-nxll-yh.189smarthome.com/live/hd3.m3u8
 金鹰纪实,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JINYINGJS-HQ/G_JINYINGJS-HQ.m3u8
 金鹰卡通,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JINYING/G_JINYING.m3u8
+江苏城市,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSCS/G_JSCS.m3u8
+江苏新闻,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSGG/G_JSGG.m3u8
+江苏教育,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSJY/G_JSJY.m3u8
+江苏休闲体育,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSTY/G_JSTY.m3u8
+江苏影视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSYS/G_JSYS.m3u8
+江苏综艺,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSZY/G_JSZY.m3u8
 江苏休闲体育,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSTY/index.m3u8
 南京新闻综合,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_NJXW/G_NJXW.m3u8
 重温经典,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CWJD-HQ/G_CWJD-HQ.m3u8
