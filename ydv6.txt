@@ -87,6 +87,13 @@ CCTV-16 奥林匹克UD,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-
 CCTV-16 奥林匹克UD,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-16-4K/index.m3u8
 CCTV-17 农业农村,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8
 CCTV-17 农业农村,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-17-CQ/index.m3u8
+CGTN,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
+CGTN俄语,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CGTN-PYCCNN/G_CGTN-PYCCNN.m3u8
+CGTN法语,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CGTN-FRANCAIS/G_CGTN-FRANCAIS.m3u8
+CGTN西语,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CGTN-ESPANOL/G_CGTN-ESPANOL.m3u8
+CGTN阿语,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CGTN_A/G_CGTN_A.m3u8
+CCTV老故事,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
+CCTV发现之旅,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8
 CCTV高尔夫网球,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8
 CCTV高尔夫网球,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-GOLF-CQ/index.m3u8
 CETV-1 综合教育,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CETV-1-HQ/G_CETV-1-HQ.m3u8
@@ -125,6 +132,7 @@ CETV-4 综合教育,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CETV-4/G
 天津卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_TIANJIN-HD-265-8M/index.m3u8
 天津卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_TIANJIN-MD/G_TIANJIN-MD.m3u8
 天津卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_TIANJIN-MD/index.m3u8
+宁夏卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_NINGXIA/G_NINGXIA.m3u8
 安多卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_ANDUO/G_ANDUO.m3u8
 安徽卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_ANHUI-HD-265-8M/G_ANHUI-HD-265-8M.m3u8
 安徽卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_ANHUI-HD-265-8M/index.m3u8
@@ -193,13 +201,31 @@ CETV-4 综合教育,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CETV-4/G
 黑龙江卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HEILONGJIANG-HD-265-8M/index.m3u8
 黑龙江卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HEILONGJIANG-MD/G_HEILONGJIANG-MD.m3u8
 黑龙江卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HEILONGJIANG-MD/index.m3u8
-金鹰纪实,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JINYINGJS-HQ/G_JINYINGJS-HQ.m3u8
-江苏休闲体育,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSTY/index.m3u8
-BRTV纪实科教,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_BEIJINGJS-CQ/G_BEIJINGJS-CQ.m3u8
-BRTV纪实科教,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_BEIJINGJS-CQ/index.m3u8
 银川公共,http://live-gitv-nxll-yh.189smarthome.com/live/hd1.m3u8
 银川生活,http://live-gitv-nxll-yh.189smarthome.com/live/hd2.m3u8
 银川文旅,http://live-gitv-nxll-yh.189smarthome.com/live/hd3.m3u8
+金鹰纪实,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JINYINGJS-HQ/G_JINYINGJS-HQ.m3u8
+金鹰卡通,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JINYING/G_JINYING.m3u8
+江苏休闲体育,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSTY/index.m3u8
+南京新闻综合,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_NJXW/G_NJXW.m3u8
+重温经典,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CWJD-HQ/G_CWJD-HQ.m3u8
+BRTV纪实科教,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_BEIJINGJS-CQ/G_BEIJINGJS-CQ.m3u8
+BRTV纪实科教,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_BEIJINGJS-CQ/index.m3u8
+BRTV卡酷少儿,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_KAKU-HQ/G_KAKU-HQ.m3u8
+BRTV卡酷少儿,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_KAKU/G_KAKU.m3u8
+优漫卡通,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
+嘉佳卡通,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JIAJIA/G_JIAJIA.m3u8
+哈哈炫动,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_XUANDONG/G_XUANDONG.m3u8
+家庭理财,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JIATINGLC/G_JIATINGLC.m3u8
+山东教育,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_SDETV/G_SDETV.m3u8
+CCTV-1 综合,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
+CCTV-1 综合,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_NANFANG/G_NANFANG.m3u8
+江苏卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JINGJU/G_JINGJU.m3u8
+江苏卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_ZHIYE/G_ZHIYE.m3u8
+好享购物,http://live-gitv-nx-yh.189smarthome.com/gitv_live/GITV-GG-2/GITV-GG-2.m3u8
+央广购物,http://live-gitv-nx-yh.189smarthome.com/gitv_live/GITV-GG-1/GITV-GG-1.m3u8
+
+
 江西酒店,#genre#
 BRTV卡酷少儿,http://113.195.172.192:808/hls/223/index.m3u8$1080p
 BRTV纪实科教,http://113.195.172.192:808/hls/105/index.m3u8$1080p
