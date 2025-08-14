@@ -2078,7 +2078,6 @@ $衡水
 黄山文旅频道,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
 淮北矿业综合,http://xcblive.hbcoal.com/3/sd/live.m3u8
 淮北矿业综合,http://xcblive.hbcoal.com/3/playlist.m3u8
-无为新闻综合,webview://https://jrssedit.ahwanyun.cn/h5/h5app/#/pages/livestream/livestream?type=1
 宿松新闻综合,webview://https://web.guangdianyun.tv/tv/3390?uin=4180
 宿松戏曲文艺,webview://https://web.guangdianyun.tv/tv/3389?uin=4180
 宿松新闻综合,http://52181.hlsplay.aodianyun.com/tv_radio_52181/tv_channel_3390.m3u8?auth_key=4864330173-0-0-2a353fbf5a7ca1fbcd416784d0dd6feb&extra_key=FRIjWvNtz2cHy_4tijOGiUt7HGzSh36VS8wM7heXJuKS7QcdzmYtB4Xdwq1-b49heYVFgOjfNYcHlNkWMLljrgOgBYUtPvwV329k2Wtl9C1vpcHndVm2VT0bYMkLnNPAKUqWAnhUpZ259pZH3kjIIJAAI7lXbvNNkOq0p761Gds
@@ -2315,7 +2314,7 @@ $大兴安岭
 通化新闻综合,http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
 白山新闻综合,https://stream2.jlntv.cn/baishan1/sd/live.m3u8
 白城新闻综合,https://stream2.jlntv.cn/baicheng1/sd/live.m3u8?_upt=15c8f5ad1743066971
-松源新闻综合,https://stream2.jlntv.cn/sytv/sd/live.m3u8
+松原新闻综合,https://stream2.jlntv.cn/sytv/sd/live.m3u8
 $吉林
 吉林市新闻综合,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
 吉林市新闻综合,webview://http://new.jlwlq.com/wap/live/tv_xwzh.html
