@@ -809,7 +809,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 松滋综合,http://songzi-live21.cjyun.org/10194/s10194-songzi-tv1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-388ba0519fa8a2846925a78282f2aa1f
 石首综合,webview://https://utthwxvzb.vzan.com/live/page/1781145787?jumpitd=1&v=1744689203918
 石首综合,http://p8.vzan.com/slowlive/622923977748489779/live.m3u8
-房县新闻综合,http://p2hs.vzan.com/844270/495391109072307857/live.m3u8
+房县综合,http://p2hs.vzan.com/844270/495391109072307857/live.m3u8
 谷城综合,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-b8eee5fa844d684da58e16386fdc88c8
 鄂州文旅生活,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-ab320ba90f39f94baba04e30ff07c52e
 鄂州新闻综合,http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-0f99f7df9fd0d3fca9beca6bafa6b043
@@ -1601,7 +1601,6 @@ $衡水
 句容新闻综合,webview://http://www.jrntv.com/ds/list.shtml
 句容新闻综合,http://jrlive.jrntv.com:80/live/jrxwzh/playlist.m3u8
 句容生活,http://jrlive.jrntv.com:80/live/shenghuo/playlist.m3u8
-句容党建,http://jrlive.jrntv.com:80/live/dangjian/playlist.m3u8
 姜堰新闻综合,https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
 沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.flv
 沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
@@ -1701,9 +1700,8 @@ $衡水
 新沂新闻,webview://http://www.dsk.cc/p/gdy.html?id=xytv1
 新沂生活,webview://http://www.dsk.cc/p/gdy.html?id=xytv2
 贾汪新闻,http://1033946631.cloudvdn.com/a.m3u8?domain=jiawang-tv-rtmp.cm.jstv.com&player=1&streamid=jiawang-tv:jiawang-tv/jwxw&v3=1
-贾汪生活,http://1033946631.cloudvdn.com/a.m3u8?domain=jiawang-tv-rtmp.cm.jstv.com&player=1&streamid=jiawang-tv:jiawang-tv/jwly&v3=1
+贾汪旅游,http://1033946631.cloudvdn.com/a.m3u8?domain=jiawang-tv-rtmp.cm.jstv.com&player=1&streamid=jiawang-tv:jiawang-tv/jwly&v3=1
 连云港新闻综合,webview://https://m.miguvideo.com/m/liveDetail/639731715?channelId=10010001005
-江苏滨海新闻综合,http://binhai-tv-hls.cm.jstv.com/binhai-tv/news.m3u8
 盐都综合,http://1033946631.cloudvdn.com/a.m3u8?domain=yandu-tv-rtmp.cm.jstv.com&player=1&streamid=yandu-tv:yandu-tv/yanduzh&v3=1
 盐都综合,http://yandu-tv-replay.cm.jstv.com/yandu-tv/yanduzh.m3u8
 宿迁综合,webview://https://m.sqsjt.net/tv/detail/10000.html?spx=691166a4f36ef592aa04f69d5d78ee95
@@ -1745,14 +1743,14 @@ $衡水
 绍兴新闻综合,webview://https://www.shaoxing.com.cn/app/tv/74
 绍兴公共,webview://https://www.shaoxing.com.cn/app/tv/78
 绍兴文化影视,webview://http://www.shaoxing.com.cn/app/tv/75
-温岭综合,webview://https://web.guangdianyun.tv/tv/?id=911&uin=1639
+温岭新闻综合,webview://https://web.guangdianyun.tv/tv/?id=911&uin=1639
 温岭民生休闲,webview://https://web.guangdianyun.tv/tv/?id=1287&uin=1639
-温岭综合,webview://http://www.dsk.cc/p/gdy.html?id=wlzh
+温岭新闻综合,webview://http://www.dsk.cc/p/gdy.html?id=wlzh
 温岭民生休闲,webview://http://www.dsk.cc/p/gdy.html?id=wlms
-温岭综合,http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911.m3u8
+温岭新闻综合,http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911.m3u8
 温岭民生休闲,http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_1287.m3u8
-安吉综合,webview://https://web.guangdianyun.tv/tv/?id=1499&uin=1253
-安吉生活影视,webview://https://web.guangdianyun.tv/tv/?id=1526?uin=1253
+安吉新闻综合,webview://https://web.guangdianyun.tv/tv/?id=1499&uin=1253
+安吉生活影视,webview://https://web.guangdianyun.tv/tv/?id=1526&uin=1253
 富阳综合,webview://http://www.fuyangtv.com/top/live/
 建德综合,webview://https://web.guangdianyun.tv/tv/187?uin=1176
 临安综合,webview://https://web.guangdianyun.tv/tv/2747?uin=3568
@@ -2129,7 +2127,6 @@ $衡水
 哈尔滨生活,webview://https://www.hrbtv.net/folder79/folder85/
 哈尔滨影视,webview://https://www.hrbtv.net/folder79/folder87/
 哈尔滨新闻综合,https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8
-哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/playlist.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
