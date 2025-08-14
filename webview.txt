@@ -598,7 +598,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 番禺综合,webview://https://www.gz-cmc.com/html/rft/live.html?channelId=cb3eef99270b468f9f7ca8abce090afc&type=1&siteId=d755df8bb9fb49ee96052f7dee58d21b
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 增城电视台,webview://https://www.gz-cmc.com/html/rft/live.html?channelId=0a7684a8e4cd49ab9b3dcc6f1d102700&type=1&siteId=78fa6d06b0dd4f27abf341e5efde035a
-广东经济科教 ,https://p2.vzan.com/slowlive/677282322271134305/live.m3u8
+广东经济科教,https://p2.vzan.com/slowlive/677282322271134305/live.m3u8
 广西,#genre#
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 广西综艺旅游,webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
@@ -2068,23 +2068,22 @@ $衡水
 广德生活,webview://https://www.gdtv.ah.cn/liveDetails.html?liveId=15&dataObjId=26
 广德新闻综合,https://live.gdtv.ah.cn/live/newsTV.m3u8
 广德生活,http://live.gdtv.ah.cn/live/shenghuoTV.m3u8
-固镇综合http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8
-固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
 灵璧新闻综合,webview://http://app.cms.anhuinews.com/video/videojs/index?site_id=10003&live_type=1&id=32
 灵璧新闻综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
 祁门综合,http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
 潜山综合,https://qsxw.gov.cn/rtmp_export/video22.m3u8
 黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
 黄山文旅频道,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
-淮北矿业新闻综合,http://xcblive.hbcoal.com/3/sd/live.m3u8
-淮北矿业新闻综合,http://xcblive.hbcoal.com/3/playlist.m3u8
+淮北矿业综合,http://xcblive.hbcoal.com/3/sd/live.m3u8
+淮北矿业综合,http://xcblive.hbcoal.com/3/playlist.m3u8
 无为新闻综合,webview://https://jrssedit.ahwanyun.cn/h5/h5app/#/pages/livestream/livestream?type=1
 宿松新闻综合,webview://https://web.guangdianyun.tv/tv/3390?uin=4180
 宿松戏曲文艺,webview://https://web.guangdianyun.tv/tv/3389?uin=4180
 宿松新闻综合,http://52181.hlsplay.aodianyun.com/tv_radio_52181/tv_channel_3390.m3u8?auth_key=4864330173-0-0-2a353fbf5a7ca1fbcd416784d0dd6feb&extra_key=FRIjWvNtz2cHy_4tijOGiUt7HGzSh36VS8wM7heXJuKS7QcdzmYtB4Xdwq1-b49heYVFgOjfNYcHlNkWMLljrgOgBYUtPvwV329k2Wtl9C1vpcHndVm2VT0bYMkLnNPAKUqWAnhUpZ259pZH3kjIIJAAI7lXbvNNkOq0p761Gds
 宿松戏曲文艺,http://52181.hlsplay.aodianyun.com/tv_radio_52181/tv_channel_3389.m3u8?auth_key=4864330202-0-0-2268f4d5824c10bb314f55dc9cd6b165&extra_key=rwRUgVSNWali97XRZgNTe4xO1vc8AG2jj51x8uQ7gSUG-XyXYVHFzXxi5tygubMbWE7cRjthGbemXjtCXGTqIE-4BBaPBL-LaG6ZTKGc-p9GYmcPwlPB3DuYKNV_2nnPq7h_TG4Dvi4flw3CUYjIRvrtvCAUIcWgymSmI75x3QU
-怀远新闻综合,http://play-a2.quklive.com/live/1734491351341308.m3u8
+怀远综合,http://play-a2.quklive.com/live/1734491351341308.m3u8
 蒙城新闻,http://play-hsbj.vzan.com/200263/698384284379943742/live.m3u8
 桐城综合,webview://https://web.guangdianyun.tv/tv/3350?uin=4104
 亳州综合,webview://https://www.ahbztv.com/televisi0n.html
