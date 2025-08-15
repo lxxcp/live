@@ -2886,9 +2886,8 @@ $绵阳
 绵阳新闻综合,http://livepull.myntv.cn:80/rtmp/myzh.m3u8
 绵阳科教生活,http://livepull.myntv.cn:80/rtmp/mykj.m3u8
 北川综合,http://bcpull.bcrongmei.cn/live/63820f8101941000036a690c00000000/playlist.m3u8?wsSecret=ae3ca621b3c938628da3329b743edbf3&wsTime=2019657600
-江油新闻综合,http://jypull.jyxrmtzx.xyz/live/9dfe6ab1018e1000f4bb01a600000000/playlist.m3u8?wsSecret=9eb9256aa01b00e91c86deab33ef9cab&wsTime=2019657600
-三台一套,http://125.65.94.91:12351/live
-三台二套,http://125.65.94.91:12353/live
+江油综合,http://jypull.jyxrmtzx.xyz/live/9dfe6ab1018e1000f4bb01a600000000/playlist.m3u8?wsSecret=9eb9256aa01b00e91c86deab33ef9cab&wsTime=2019657600
+三台综合,http://125.65.94.91:12351/live
 盐亭综合,http://ytpull.ytxrmt.cn/live/73957476019110000fa2d07e00000000/playlist.m3u8?wsSecret=4523bde38d7c20bd3cf59ed049408dd4&wsTime=2019657600
 盐亭综合,http://ytpull.ytxrmt.cn/live/73957476019110000fa2d07e00000000.flv?wsSecret=60cd9389fdcac01bf50aeec9f1ef14c3&wsTime=2019657600
 梓潼综合,http://ztpull.ztrmfb.cn/live/b98e28f7019310006d65e1b500000000/playlist.m3u8?wsSecret=3f2fe004036db44ed21947b739da34de&wsTime=2019657600
@@ -3038,7 +3037,7 @@ $凉山
 $阿坝
 阿坝州新闻综合,webview://https://www.aba-news.com.cn/#/tvChannel?subjectId=1523946498072231937
 阿坝州新闻综合,http://apppull.aba-news.com.cn/live/be5325350190100009f6751d00000000/playlist.m3u8?wsSecret=35d0fb48b07a2c3c051b8c050e1ef7d9&wsTime=2019657600
-阿坝藏语综合,http://apppull.aba-news.com.cn/live/be57fb5401901000b611a82100000000/playlist.m3u8?wsSecret=5d932b106deb38dfdd65bf463a0278f7&wsTime=2019657600
+阿坝州藏语综合,http://apppull.aba-news.com.cn/live/be57fb5401901000b611a82100000000/playlist.m3u8?wsSecret=5d932b106deb38dfdd65bf463a0278f7&wsTime=2019657600
 黑水综合,http://live.schstv.com:90/live/xwzh.m3u8
 金川综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8
