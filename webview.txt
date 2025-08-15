@@ -2170,9 +2170,10 @@ $鹤岗
 鹤岗新闻综合,https://masterpull.hljtv.com/live/rApKWXbX.m3u8
 鹤岗新闻综合,https://rmplive.hljtv.com/live/hegang.m3u8
 
+$伊春
+伊春新闻综合,https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
+
 $双鸭山
-友谊综合,webview://https://newyouyi.center.dbw.cn/television/live_wap_27232.html
-友谊综合,https://masterpull.hljtv.com/live/LVpBWYXl.m3u8
 $七台河
 七台河新闻综合,webview://https://qthsr.dbw.cn/television/live_wap_217.html
 七台河民生社教,webview://https://qthsr.dbw.cn/television/live_wap_14642.html
@@ -2187,6 +2188,9 @@ $黑河
 $大兴安岭
 大兴安岭新闻综合,https://masterpull.hljtv.com/live/H2kVyS15.m3u8
 大兴安岭新闻综合,https://rmplive.hljtv.com/live/daxinganling.m3u8
+$牡丹江
+牡丹江新闻综合,https://masterpull.hljtv.com/live/newLqQS9Lcp.m3u8
+
 塔河综合,webview://https://newtahe.center.dbw.cn/television/live_wap_20208.html
 塔河综合,https://masterpull.hljtv.com/live/qXrATpGj.m3u8
 塔河综合,https://rmplive.hljtv.com/live/tahe.m3u8
@@ -2194,7 +2198,6 @@ $大兴安岭
 通河综合,https://rmplive.hljtv.com/live/tonghe.m3u8
 漠河综合,https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
 漠河综合,https://rmplive.hljtv.com/live/mohe.m3u8
-牡丹江新闻综合,https://masterpull.hljtv.com/live/newLqQS9Lcp.m3u8
 绥化新闻综合,https://masterpull.hljtv.com/live/v4o2g1hs.m3u8
 绥化新闻综合,https://rmplive.hljtv.com/live/suihua.m3u8
 巴彦综合,https://masterpull.hljtv.com/live/vAtZi96R.m3u8
@@ -2202,7 +2205,6 @@ $大兴安岭
 东宁综合,https://rmplive.hljtv.com/live/dongning.m3u8
 五常综合,https://masterpull.hljtv.com/live/R9bOklLT.m3u8
 五常综合,https://rmplive.hljtv.com/live/wuchang.m3u8
-伊春综合,https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
 依兰综合,https://rmplive.hljtv.com/live/yilan.m3u8
 依兰综合,https://masterpull.hljtv.com/live/4sTJDdbE.m3u8
 依安综合,https://masterpull.hljtv.com/live/4hhgo1mX.m3u8
