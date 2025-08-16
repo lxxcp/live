@@ -1122,8 +1122,8 @@ $衡水
 鹤壁综合,http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
 上蔡综合,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
 上蔡综合,http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
-上街电视台,http://live.dxhmt.cn:9081/tv/10106-1.m3u8
-上街电视台,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
+上街融媒,http://live.dxhmt.cn:9081/tv/10106-1.m3u8
+上街融媒,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
 临颍综合,http://live.dxhmt.cn:9081/tv/11122-1.m3u8
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 义马综合,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
