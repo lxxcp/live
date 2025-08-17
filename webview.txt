@@ -976,18 +976,13 @@ $衡水
 衡水经济科教,http://hls.hsrtv.cn/live/hshstv2.m3u8
 冀州综合,webview://https://web.guangdianyun.tv/tv/732?uin=1724
 饶阳综合,webview://https://web.guangdianyun.tv/tv/?id=3817&uin=2562
-深州综合,http://hbsz.chinashadt.com:2036/live/stream:sztv.stream_360p/playlist.m3u8
 安平综合,webview://http://aptv.city1000.cn/h5/not/live/aptv
 安平综合,http://zhap.city1000.cn/xinwen/ap_xw.m3u8
 新乐综合,http://jwcdnqx.hebyun.com.cn/live/XLTV/1500k/tzwj_video.m3u8
-襄城综合,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
-襄城综合,http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
-建安综合,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 鹿泉综合,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 鹿泉公共,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
 青县新闻综合,https://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
 双滦新闻,https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
-新野综合,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
 枣强综合,http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
 武强综合,webview://https://web.guangdianyun.tv/tv/3654?uin=1425
 
@@ -1243,7 +1238,8 @@ $衡水
 获嘉综合,http://live.dxhmt.cn:9081/tv/10724-1.m3u8
 获嘉综合,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
 虞城综合,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-襄城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
+襄城综合,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
+襄城综合,http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
 西华综合,http://live.dxhmt.cn:9081/tv/11622-1.m3u8
 西华综合,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
 西峡综合,http://live.dxhmt.cn:9081/tv/11323-1.m3u8
@@ -1349,8 +1345,6 @@ $衡水
 东营新闻综合,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=dyxwzh
 东营公共,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=dygg
 东营科教,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=dykj
-东营区新闻综合,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=dydyqxw
-东营区科教影视,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=dydyqkj
 广饶新闻综合,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=dygrzh
 广饶科教文艺,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=dygrkj
 青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
@@ -1713,7 +1707,7 @@ $衡水
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 临平新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
@@ -1732,7 +1726,6 @@ $衡水
 嵊州综合,webview://http://wap.szttkk.cn/#/WatchTv
 嵊州综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
-嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 诸暨综合,webview://http://wap.zjbtv.com/TV
 诸暨综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 新昌综合,webview://https://web.guangdianyun.tv/tv/1361?uin=2840
