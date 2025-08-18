@@ -2699,7 +2699,6 @@ $松原
 黔西南综合,webview://http://share2.qxndt.com/?_hgOutLink=live/livedetail&channel_id=11
 黔西南公共,webview://http://share2.qxndt.com/?_hgOutLink=live/livedetail&channel_id=14
 印江电视台,webview://https://web.guangdianyun.tv/tv/?id=3043&uin=4088
-印江电视台,webview://http://www.dsk.cc/p/gdy.html?id=yjtv
 清镇综合,http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8
 七星关综合,https://p8.vzan.com/slowlive/147077707554082780/live.m3u8
 
@@ -2823,7 +2822,6 @@ $广元
 利州新闻综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
 青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 旺苍综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
-昭化综合,http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8
 
 $遂宁
 遂宁综合,webview://https://www.snxw.com/suinMini/site/6642bf8360b26293fe689f04/6642d21860b26293fe689f4c
