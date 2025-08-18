@@ -1868,9 +1868,6 @@ $衡水
 莆田新闻综合,webview://https://www.ptbtv.com/live/pt1t/
 莆田文旅生活,webview://https://www.ptbtv.com/live/pt2t/
 莆田仙游,webview://https://www.ptbtv.com/live/xyds/
-厦门鼓浪屿,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
-云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
-云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 福清综合,webview://https://web.guangdianyun.tv/tv/699?uin=1945
 闽侯综合,webview://https://web.guangdianyun.tv/tv/?id=2068&uin=2656
 漳浦综合,webview://https://web.guangdianyun.tv/tv/?id=2803&uin=3350
@@ -1886,18 +1883,15 @@ $衡水
 沙县综合,webview://https://web.guangdianyun.tv/tv/425?uin=1567
 沙县综合,webview://http://www.dsk.cc/p/gdy.html?id=sxzh
 永安综合,webview://https://web.guangdianyun.tv/tv/?id=2597&uin=3454
-永安综合,webview://http://www.dsk.cc/p/gdy.html?id=yazh
-尤溪新闻综合,webview://https://live.yxxww.cn/tv/765?uin=2055
-尤溪新闻综合,webview://https://web.guangdianyun.tv/tv/765?uin=2055
+尤溪综合,webview://https://live.yxxww.cn/tv/765?uin=2055
+尤溪综合,webview://https://web.guangdianyun.tv/tv/765?uin=2055
 尤溪旅游宣传,webview://https://live.yxxww.cn/tv/767?uin=2055
 尤溪旅游宣传,webview://https://web.guangdianyun.tv/tv/767?uin=2055
 平潭新闻综合,webview://https://web.guangdianyun.tv/tv/907?uin=1118
-平潭旅游文化,webview://https://web.guangdianyun.tv/tv/908?uin=1118
-平潭新闻综合,webview://http://www.dsk.cc/p/gdy.html?id=ptzh
-平潭旅游文化,webview://http://www.dsk.cc/p/gdy.html?id=ptly
+平潭新闻综合,webview://https://web.guangdianyun.tv/tv/908?uin=1118
 武夷山综合,http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
-武夷山文旅,http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
-宁化综合,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
+厦门鼓浪屿,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+
 
 安徽,#genre#
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
