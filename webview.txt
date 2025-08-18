@@ -2491,6 +2491,7 @@ $松原
 临夏文旅,webview://https://cloud.kankanlive.com/cloud/a/embed/1714099799400957
 临夏综合,https://play.kankanlive.com/live/1714096320293954.m3u8
 临夏文旅,https://play.kankanlive.com/live/1714099799400957.m3u8
+
 宁夏,#genre#
 宁夏卫视,webview://https://www.nxtv.com.cn/19/19kds/dsp/
 宁夏卫视,webview://https://www.nxtv.com.cn/tv/ws/
@@ -2539,8 +2540,6 @@ $松原
 海南州电视台,https://play-video.hnzgbdst.com/live/123_1.m3u8
 贵德电视台,webview://http://gdshare.dmqhyadmin.com/?_hgOutLink=live/livedetail&channel_id=24
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8?_upt=b9afa9391754216977
-化隆综合,https://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
-化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
 大通综合,http://dtrmlive.qhdtrm.cn/testpush/playlist.m3u8
 大通综合,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
 兴海综合,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
@@ -2619,7 +2618,6 @@ $松原
 清廉曲靖,http://channel.qjrb.cn/nmip-media/channellive/channel125689/playlist.m3u8
 师宗综合,http://1033946631.cloudvdn.com/a.m3u8?domain=pili-live-rtmp-szrm-tv.szrmxw.cn&player=1&streamid=szrm-tv:szrm-tv/ynsz&v3=1
 师宗综合,webview://https://szrmapp.szrmxw.cn/application/tenma01ds_tvradio/view/h5/#/?id=1
-师宗综合,http://1033946631.cloudvdn.com/a.m3u8?domain=pili-live-rtmp-szrm-tv.szrmxw.cn&player=1&streamid=szrm-tv:szrm-tv/ynsz&v3=1
 陆良电视台,https://hwapi.yntv.net/9327b6/v8i7rf.m3u8
 文山新闻综合,https://hwapi.yntv.net/ew265l/29vf20.m3u8
 文山新闻综合,webview://http://m.wsrtv.com.cn/cms?column=100648
