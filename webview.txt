@@ -2246,8 +2246,6 @@ $长春
 
 $四平
 四平新闻综合,webview://http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
-双辽综合,webview://http://otcs-www.plus.jlntv.cn/folder3987/folder3989
-双辽综合,http://stream5.jlntv.cn/sl/playlist.m3u8
 
 $辽源
 辽源新闻综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
@@ -2258,7 +2256,6 @@ $辽源
 东丰综合,http://stream5.jlntv.cn/df/playlist.m3u8
 $通化
 通化新闻综合,webview://https://h5-master.jlntv.cn/front-cloudlive-manage-h5/index.html?id=762677854365392896#/
-通化县台,webview://http://mmhp-www.plus.jlntv.cn/folder3822/folder3824
 集安综合,webview://http://6ctv-www.plus.jlntv.cn/jian/folder329/folder334
 梅河口综合,webview://http://uufn-www.plus.jlntv.cn/meihekou/folder1759
 梅河口综合,http://stream4.jlntv.cn/mhk/sd/live.m3u8
@@ -2271,8 +2268,6 @@ $白山
 临江综合,webview://http://li1v-h5.plus.jlntv.cn/folder9921/folder9923/folder9925/folder9931/folder10083/folder10984?channel_id=173
 靖宇综合,webview://http://li1v-h5.plus.jlntv.cn/folder9921/folder9923/folder9925/folder9931/folder10083/folder10984?channel_id=177
 临江综合,http://stream8.jlntv.cn/linjiang/playlist.m3u8
-靖宇综合,http://stream8.jlntv.cn/jytv/playlist.m3u8
-靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
 抚松综合,http://stream8.jlntv.cn/fs/playlist.m3u8
 $白城
 白城新闻综合,http://stream2.jlntv.cn/baicheng1/playlist.m3u8
