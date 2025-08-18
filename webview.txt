@@ -1713,7 +1713,7 @@ $衡水
 余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-长兴综合,http://l.cztvcloud.com/channels/lantian/SXchangxing1/720p.m3u8
+长兴新闻,http://l.cztvcloud.com/channels/lantian/SXchangxing1/720p.m3u8
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 温州新闻综合,http://l.cztvcloud.com/channels/lantian/sxchannel03/1080p.m3u8
@@ -1775,8 +1775,8 @@ $衡水
 嘉兴新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1675942165226154
 嘉兴文化影视,webview://https://www.qukanvideo.com/cloud/h5/1675149625220101
 嘉兴公共,webview://https://www.qukanvideo.com/cloud/h5/1675149601192103
-海宁综合,http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
-海宁综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+海宁新闻综合,http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 海宁生活服务,https://p2hs.vzan.com/slowlive/140655701702632623/live.m3u8
 舟山新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1699001836208185
 舟山公共,webview://https://www.qukanvideo.com/cloud/h5/1699002430299200
