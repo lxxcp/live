@@ -2533,20 +2533,12 @@ $松原
 海东综合,webview://https://www.hdhhy.cn/list-hdtv.html
 海南州电视台,webview://https://app.hnzgbdst.com/app/template/displayTemplate/news/liveDetail/59/150.html
 海南州电视台,https://play-video.hnzgbdst.com/live/123_1.m3u8
-贵德电视台,webview://http://gdshare.dmqhyadmin.com/?_hgOutLink=live/livedetail&channel_id=24
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8?_upt=b9afa9391754216977
 大通综合,http://dtrmlive.qhdtrm.cn/testpush/playlist.m3u8
 大通综合,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
-兴海综合,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
-门源综合,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
-民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
-都兰综合,https://livecdn.dmqhyadmin.com/hls/xjdulan.m3u8
-互助综合,http://livecdn.dmqhyadmin.com/hls/xjhuzhu.m3u8
+海东综合,https://tv.hdhhy.cn/live/hdtv.m3u8
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西宁生活服务,http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
-西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
-贵南综合,http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
-贵南综合,https://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
 
 
 云南,#genre#
@@ -3054,10 +3046,10 @@ $甘孜
 通辽蒙语,webview://https://api.tongliaowang.com/jhxtapi/jhxt/Live/newsShow/id/25/nid/100011
 乌海新闻综合,http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
 乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
-伊金霍洛旗新闻综合,webview://https://www.yjhlnews.cn/lives/79
+伊金霍洛旗综合,webview://https://www.yjhlnews.cn/lives/79
 元宝山综合,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
 阿荣旗电视台,webview://https://live.polyv.cn/watch/1791887
-达茂新闻综合,webview://hhttp://yxdm.nmgcyy.com.cn/application/tvradio/h5/detail.html?type=tv&id=12
+达茂新闻综合,webview://http://yxdm.nmgcyy.com.cn/application/tvradio/h5/detail.html?type=tv&id=12
 达茂新闻综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.m3u8
 
 西藏,#genre#
@@ -3088,16 +3080,12 @@ $乌鲁木齐
 乌鲁木齐综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=6&page=canvas&live_type=1
 乌鲁木齐都市时尚,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=5&page=canvas&live_type=1
 $昌吉
-昌吉综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=12&page=canvas&live_type=1
-昌吉城市生活,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=13&page=canvas&live_type=1
-昌吉综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=12
 昌吉综合,webview://http://www.cjxww.cn/sy/kds/
+昌吉综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=12
 玛纳斯综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10043&id=14
 呼图壁综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10007&id=12
 吉木萨尔综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10015&id=10
-吉木萨尔直播,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10015&id=11
 奇台综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10017&id=17
-阜康综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10048&id=8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
 昌吉综合,http://play.xjbzrk.com/live/cjzh.m3u8
 呼图壁综合,http://222.80.186.118:8088/live/video.m3u8
