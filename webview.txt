@@ -217,6 +217,9 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 江西教育,https://cdn-live.jxeduyun.com/streams/640f79857ff58.m3u8
 江西教育,webview://https://live.jxeduyun.com/lives/XlaoRd
 南昌新闻综合,webview://https://www.nctv.net.cn/live?channel=1
+南昌新闻综合,https://live.nctv.net.cn/live/nctv1.m3u8?txSecret=5a83a4d3de3dd03aa941a04531741600&txTime=68A476F5
+南昌都市,https://live.nctv.net.cn/live/nctv2.m3u8?txSecret=cccd6a7eb77ac5b96547f9f30b9ccb28&txTime=68A476F5
+南昌资讯,https://live.nctv.net.cn/live/nctv3.m3u8?txSecret=be94c37e1001f9800130caddeee9ce98&txTime=68A476F5
 南昌都市,webview://https://www.nctv.net.cn/live?channel=2
 南昌资讯,webview://https://www.nctv.net.cn/live?channel=3
 南昌新闻综合,webview://https://www.nctv.net.cn/live
@@ -233,7 +236,7 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 九江公共,webview://https://www.jjntv.cn/live?id=jjtv2
 九江教育,webview://https://www.jjntv.cn/live?id=jjfz
 宜春综合,webview://https://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=610897459610271744#/
-宜春公共,webview://http://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=636127231831396352#/
+宜春法治民生,webview://http://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=636127231831396352#/
 景德镇新闻综合,http://play-sh.quklive.com/live/1724916607073321.m3u8
 九江新闻综合,rtmp://play-live-hls.jxtvcn.com.cn/live/tv_jiujiang
 九江新闻综合,http://play-live-hls.jxtvcn.com.cn/live/tv_jiujiang.m3u8
@@ -2785,9 +2788,7 @@ $自贡
 
 $攀枝花
 攀枝花新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8
-攀枝花文旅生活,https://live.pzhkai.com/wlshtl/sd/live.m3u8
 攀枝花新闻综合,webview://https://h5.pzhkai.com/front-cloudlive-manage-h5/index.html?id=536937329516896257
-攀枝花文旅生活,webview://https://h5.pzhkai.com/front-cloudlive-manage-h5/index.html?id=536937486832656384
 
 $泸州
 泸州新闻综合,webview://https://www.luzhoubs.com/lztv1/index.html
@@ -2847,7 +2848,7 @@ $内江
 资中综合,http://zzpull.zzrmtzx.cn/live/75c3758a0193100092e8cea100000000/playlist.m3u8?wsSecret=e40ab1fec464e16bb966fa960cc9ff30&wsTime=2019657600
 
 $宜宾
-宜宾综合,webview://https://m.ybtv.cc/tms/app/default/150997
+宜宾新闻综合,webview://https://m.ybtv.cc/tms/app/default/150997
 宜宾公共,webview://https://ybtv.cc/tms/app/default/1214936
 南溪综合,webview://https://tgslmevzb.vzan.com/live/page/311008060?v=1746245997000
 南溪综合,http://p2hs.vzan.com/slowlive/371673471833525863/live.m3u8
