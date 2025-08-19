@@ -2285,10 +2285,9 @@ $延边
 汪清综合,webview://http://8iyp-www.plus.jlntv.cn/folder4129/folder4133
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?_upt=eb80947d1699080781
-延吉1套,http://stream6.jlntv.cn/yj/sd/live.m3u8
+延吉综合,http://stream6.jlntv.cn/yj/sd/live.m3u8
 $松原
 松原新闻综合,webview://http://uogz-www.plus.jlntv.cn/songyuan/folder133/folder101
-长岭电视台,webview://http://c8ak-www.plus.jlntv.cn/folder5281/folder5284
 乾安综合,webview://http://ckpd-www.plus.jlntv.cn/folder3830/folder3875
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 乾安综合,http://stream6.jlntv.cn/qa/playlist.m3u8
