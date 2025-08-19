@@ -2895,7 +2895,6 @@ $雅安
 雅安雨城,https://m3u8channel-yc.yunxya.com/nmip-media/channellive/channel100103/playlist.m3u8
 宝兴综合,http://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
-名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 石棉综合,http://tv.yunxya.com/channellive/shimian.flv
 天全综合,http://tv.yunxya.com/channellive/tianquan.flv
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
@@ -2912,7 +2911,6 @@ $凉山
 西昌综合,http://xcfb.screx.com.cn:18085/hlsnew1/channel1.m3u8
 昭觉综合,http://dcpull.sctvcloud.com/live/4bb3c2bd01881000e843b73a00000000/playlist.m3u8
 甘洛综合,http://glpull.glxrmtzx.cn/live/2a1603a1019410001fedc3cd00000000/playlist.m3u8?wsSecret=b31c02126c0367a84b0bd175dc7ea8db&wsTime=2019657600
-冕宁综合,http://mnpull.sichuanmianning.cn/live/1a5459a9019410003d361ee300000000/playlist.m3u8?wsSecret=aa89dc2d76484ed81b98e1765e972607&wsTime=2019657600
 $阿坝
 阿坝州新闻综合,webview://https://www.aba-news.com.cn/#/tvChannel?subjectId=1523946498072231937
 阿坝州新闻综合,http://apppull.aba-news.com.cn/live/be5325350190100009f6751d00000000/playlist.m3u8?wsSecret=35d0fb48b07a2c3c051b8c050e1ef7d9&wsTime=2019657600
@@ -2920,10 +2918,8 @@ $阿坝
 黑水综合,http://live.schstv.com:90/live/xwzh.m3u8
 金川综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8
-马尔康综合,rtmp://live.zmmek.com/live/zhxw
 松潘综合,http://live.spccmc.com:90/live/spxwzh.m3u8
 汶川综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
-若尔盖综合,http://regpull.regrmt.cn/live/fba4bdf0019310007748ce6c00000000/playlist.m3u8?wsSecret=c48a78f1f3c14458a9867a8067c8bb5b&wsTime=2019657600
 
 $广安
 广安新闻综合,webview://https://www.gatv.com.cn/Tv/details?id=10
