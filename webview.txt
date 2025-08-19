@@ -423,6 +423,11 @@ BRTV新闻,https://livenew.funhillrm.com/fsyx/sd/live.m3u8
 深圳少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szse
 深圳移动电视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szyd
 深圳宜和购物,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=yhgw
+广州综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=zhonghe
+广州新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=xinwen
+广州法治,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=fazhi
+广州影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=yingshi
+广州南国都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=shenghuo
 
 广东卫视 4K,webview://https://www.gdtv.cn/tvChannelDetail/110
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
@@ -1614,6 +1619,17 @@ $衡水
 宿迁公共,webview://https://m.sqsjt.net/tv/detail/10001.html?spx=67d0825142b99907ee85cf202b7b8ccf
 
 浙江,#genre#
+浙江卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=01
+浙江钱江都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=02
+浙江经济生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=03
+浙江教科影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=04
+浙江民生休闲,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=06
+浙江新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=07
+浙江少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=08
+浙江国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=10
+浙江好易购,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=11
+浙江之江纪录,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=12
+
 浙江卫视,webview://https://www.cztv.com/liveTV/101
 浙江钱江都市,webview://https://www.cztv.com/liveTV/102
 浙江经济生活,webview://https://www.cztv.com/liveTV/103
@@ -2258,9 +2274,6 @@ $通化
 $白山
 白山新闻综合,webview://http://li1v-h5.plus.jlntv.cn/folder9921/folder9923/folder9925/folder9931/folder10083/folder10984?channel_id=200
 白山旅游生活,webview://http://li1v-h5.plus.jlntv.cn/folder9921/folder9923/folder9925/folder9931/folder10083/folder10984?channel_id=198
-抚松综合,webview://http://li1v-h5.plus.jlntv.cn/folder9921/folder9923/folder9925/folder9931/folder10083/folder10984?channel_id=169
-临江综合,webview://http://li1v-h5.plus.jlntv.cn/folder9921/folder9923/folder9925/folder9931/folder10083/folder10984?channel_id=173
-靖宇综合,webview://http://li1v-h5.plus.jlntv.cn/folder9921/folder9923/folder9925/folder9931/folder10083/folder10984?channel_id=177
 临江综合,http://stream8.jlntv.cn/linjiang/playlist.m3u8
 抚松综合,http://stream8.jlntv.cn/fs/playlist.m3u8
 $白城
@@ -2885,9 +2898,7 @@ $雅安
 雅安雨城,http://tv.yunxya.com/channellive/yucheng.flv
 雅安雨城,https://m3u8channel-yc.yunxya.com/nmip-media/channellive/channel100103/playlist.m3u8
 宝兴综合,http://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
-汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
 石棉综合,http://tv.yunxya.com/channellive/shimian.flv
-天全综合,http://tv.yunxya.com/channellive/tianquan.flv
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 
 $凉山
@@ -2896,7 +2907,6 @@ $凉山
 凉山新闻综合,https://tvlive.i0834.cn/nmip-media/channellive/channel114103/playlist.m3u8
 凉山彝语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
 凉山彝语,https://tvlive.i0834.cn/nmip-media/channellive/channel115044/playlist.m3u8
-会东综合,http://live.schdxww.com:90/live/xwzh.m3u8
 宁南综合,http://nnpull.ningnan.gov.cn/live/bd3e289e018f100042d46e9300000000/playlist.m3u8?wsSecret=f1408b81c110be4002ba3cfc6201845e&wsTime=2019657600
 普格综合,http://171.215.30.43:8086/0.m3u8
 西昌综合,http://xcfb.screx.com.cn:18085/hlsnew1/channel1.m3u8
@@ -2918,7 +2928,6 @@ $广安
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
-邻水综合,http://live2.gatv.com.cn:86/live/LS_HD.m3u8
 武胜综合,http://wspull.wsxrmt.com.cn/live/fb899c55019310000893a7cd00000000/playlist.m3u8?wsSecret=49781046550db1e8434768dc478f8b59&wsTime=2019657600
 
 $巴中
