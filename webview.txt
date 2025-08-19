@@ -2849,7 +2849,6 @@ $宜宾
 南溪综合,http://p2hs.vzan.com/slowlive/371673471833525863/live.m3u8
 南溪综合,https://p2hs.vzan.com/slowlive/371673471833525863/live.m3u8
 叙州综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
-筠连综合,http://live.dameijunlian.cn/live1/live1.m3u8
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8
 长宁综合,webview://http://cnh5.sccnfb.com/html/shareApp/live?id=35137_864eed3047524b99816a1c448688b1dd&userId=9c51ee10bab748829593efe0afa89db5&modality=0
 
@@ -2881,7 +2880,6 @@ $达州
 大竹新闻综合,https://lmt.dazhutv.cn/live1/live1.m3u8
 开江综合,https://lmt.kjzx.net:98/live1/live1.m3u8
 渠县新闻综合,http://183.222.248.153:81/hls/cfp2p8m3.m3u8
-万源综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
 宣汉综合,http://livexuanhan.chinamcache.com/live/push1.m3u8
 宣汉综合,http://livexuanhan.chinamcache.com:80/live/push1.m3u8
 
@@ -2889,8 +2887,10 @@ $雅安
 雅安新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 雅安新闻综合,https://play.yunxya.com/channellive/xinwen.m3u8
 雅安新闻综合,webview://http://m.yunxya.com/tms/app/ceshiapp/187644
+雅安新闻综合,webview://https://www.beiww.com/cms/content/34353990
 雅安文化生活,http://play.yunxya.com/channellive/whsh.m3u8
 雅安文化生活,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100819/playlist.m3u8
+雅安文化生活,webview://https://www.beiww.com/cms/content/34354720
 雅安雨城,http://tv.yunxya.com/channellive/yucheng.flv
 雅安雨城,https://m3u8channel-yc.yunxya.com/nmip-media/channellive/channel100103/playlist.m3u8
 宝兴综合,http://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
@@ -2936,7 +2936,7 @@ $巴中
 巴中文旅生活,https://bzrmtlive.bzitv.cn/live/240726Bztv002002.live.flv
 南江综合,webview://https://web.guangdianyun.tv/tv/?id=1670&uin=1822
 南江综合,http://36903.hlsplay.aodianyun.com/tv_radio_36903/tv_channel_1670.m3u8?auth_key=4842409639-0-0-319d3d61d27f502f5b5f0f76e7fa6874&extra_key=YptbuuU4ni8OBTztr__wTSm-QnJOZeFyY8K0svzHJXyx8i_Bwwirqaews6N1gr-_4uVfOgbaOHwbH5u3_SrH4tTfxj9Nq7Az5LOT0a8C2sHIKSmLBEAoz4lSxmsINvTeQ5QF1ngz-OYrciPm27dkyEEQdzEUxwSVphOF99qfQFU
-通江新闻综合,http://dcpull.sctvcloud.com/live/04ea69fa018910006ae9ef0600000000/playlist.m3u8
+通江综合,http://dcpull.sctvcloud.com/live/04ea69fa018910006ae9ef0600000000/playlist.m3u8
 
 $眉山
 眉山综合,webview://https://www.scmstv.cn/web/folder88/folder89/folder91/
@@ -2944,8 +2944,6 @@ $眉山
 平昌综合,http://dcpull.sctvcloud.com/live/9d774482018e1000fec02f9500000000/playlist.m3u8
 彭山综合,http://m3u8tv.psrm.net/nmip-media/channellive/channel100740/playlist.m3u8
 彭山综合,http://m3u8tv.psrm.net:80/nmip-media/channellive/channel100740/playlist.m3u8
-青神综合,http://lmt.scqstv.com/live1/live1.m3u8
-青神综合,http://lmt.scqstv.com:80/live1/live1.m3u8
 丹棱综合,http://dlpull.2289869471.com/live/08f432a6018f10004816cbcd00000000/playlist.m3u8?wsSecret=d98e7f46e3e9a00831add9054a55cbfd&wsTime=2019657600
 
 $乐山
@@ -2956,16 +2954,16 @@ $乐山
 i乐山,http://p8.vzan.com/slowlive/147517797332177132/live.m3u8
 i乐山,webview://https://pyvihovzb.vzan.com/live/page/140974415?v=1746329840760
 i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
-峨眉山综合,webview://http://www.jrem.cn/#/web/newsDetail?columnId=6779b99e-5a30-46d9-bb50-775b99767f88&id=35137_60e394ceb0794bfa854750d461363405&type=live
 峨眉山综合,https://embl.emsyd.jrem.cn/dsfdsfdsfdsfsfdshfgj/wwdsfdgd.m3u8?auth_key=1718610605-0-0-23887de4a278cb108ba8936de20eb854
+峨眉山综合,webview://http://www.jrem.cn/#/web/newsDetail?columnId=6779b99e-5a30-46d9-bb50-775b99767f88&id=35137_60e394ceb0794bfa854750d461363405&type=live
 夹江综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8
 金口河综合,http://pili-live-hls.227.i2863.com/i2863-227/live_227_687291.m3u8
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 井研综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
+沐川综合,https://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8
 沐川综合,webview://http://m.mcrm.org.cn/cms/column/100899
-犍为新闻综合,http://r8.vzan.com/v/slowlive_230559508552681163.m3u8
-犍为新闻综合,http://p8.vzan.com/slowlive/230559508552681163/live.m3u8
-沙湾融媒,http://tvfile.swrmt.com/nmip-media/channellive/channel100064/playlist.m3u8
+犍为综合,http://r8.vzan.com/v/slowlive_230559508552681163.m3u8
+犍为综合,http://p8.vzan.com/slowlive/230559508552681163/live.m3u8
 五通桥综合,https://play.wtqrm.com:443/qtwz/wtqzb.m3u8?auth_key=1663323505-0-0-01843919c015a267038d6e00fd1e1519
 
 $资阳
