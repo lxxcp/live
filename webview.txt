@@ -2399,8 +2399,9 @@ $松原
 乾安综合,http://stream6.jlntv.cn/qa/playlist.m3u8
 伊通综合,http://stream6.jlntv.cn/yt/playlist.m3u8
 双阳综合,http://stream11.jlntv.cn/shuangyang/playlist.m3u8
-大安新闻,http://stream6.jlntv.cn/da/playlist.m3u8
+大安综合,http://stream6.jlntv.cn/da/playlist.m3u8
 德惠综合,http://stream11.jlntv.cn/dehuitv/playlist.m3u8
+德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 扶余综合,http://stream6.jlntv.cn/fy/playlist.m3u8
 柳河综合,http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8
 柳河综合,http://stream5.jlntv.cn/lh/playlist.m3u8
@@ -2410,24 +2411,17 @@ $松原
 磐石综合,http://stream5.jlntv.cn/ps/playlist.m3u8
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8?_upt=e05f429d1702757565
 永吉综合,http://stream10.jlntv.cn/yongji/playlist.m3u8
-辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
-辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-龙井综合,http://stream8.jlntv.cn/ljtv/playlist.m3u8
-龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8
-德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+辉南综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
 桦甸综合,http://stream10.jlntv.cn/huadian/playlist.m3u8
 桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8
 桦甸综合,http://stream9.jlntv.cn:80/aac_huadiangb/playlist.m3u8
 珲春综合,http://stream8.jlntv.cn/hctv/playlist.m3u8
 珲春综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8
-农安新闻综合,https://stream2.jlntv.cn/naxw/sd/live.m3u8
 前郭综合,https://stream2.jlntv.cn/qg/sd/live.m3u8
 榆树综合,http://stream11.jlntv.cn/yushuds/sd/live.m3u8
 $长白
 长白新闻综合,http://hplayer1.juyun.tv/camera/11347146.m3u8
 长白新闻综合,webview://http://juxian.juyun.tv/live.php?id=11347
-长白朝语综合,webview://http://juxian.juyun.tv/live_watch.php?id=11344
-长白朝语综合,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 
 辽宁,#genre#
 辽宁北方,http://120.76.248.139/live/bfgd/4200000071.m3u8
