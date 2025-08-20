@@ -3064,7 +3064,11 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 通辽新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=tongliaozh
 锡林郭勒新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=xlglzh
 乌兰察布新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=wlcbzh
+乌兰察布新闻综合,http://live05.wrbtv.cn/live/xwzh.m3u8
+乌兰察布经济生活,http://live05.wrbtv.cn/live/jjsh.m3u8
 巴彦淖尔新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=bynezh
+巴彦淖尔经济生活,http://livepull.bynesrmtzx.cn/bynermt/b68a0eec-2778-49f7-9fe6-600b8895e95a.m3u8
+巴彦淖尔影视娱乐,http://livepull.bynesrmtzx.cn/bynermt/91bd6ebf-3d58-4e3e-b5f6-db69d691c666.m3u8
 内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
 内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
@@ -3085,6 +3089,8 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 呼和浩特新闻综合,http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
 包头新闻综合,http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
 鄂尔多斯新闻综合,http://play1-qk.nmtv.cn/live/1735546299241021.m3u8
+鄂尔多斯蒙语综合,http://live.nxw.org.cn/lsdream/3lZr8dK/1000/live.m3u8
+鄂尔多斯经济服务,http://live.nxw.org.cn/lsdream/ogvfqcp/1000/live.m3u8
 呼伦贝尔新闻综合,http://play1-qk.nmtv.cn/live/1735546791130040.m3u8
 兴安盟新闻综合,http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
 通辽新闻综合,http://play1-qk.nmtv.cn/live/1735546745882037.m3u8
@@ -3094,18 +3100,22 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 巴彦淖尔新闻综合,http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
 阿拉善新闻综合,http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
 乌海新闻综合,http://play1-qk.nmtv.cn/live/1735546358166026.m3u8
+乌海新闻综合,http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
+乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 乌海新闻综合,webview://http://h5.wuhainews.org.cn/front-cloudlive-manage-h5/index.html?id=656153032177844225#/
 乌海都市生活,webview://http://h5.wuhainews.org.cn/front-cloudlive-manage-h5/index.html?id=656154004388151296#/
+通辽新闻综合,http://play1-qk.nmtv.cn/live/1735546745882037.m3u8
+通辽城市服务,https://video.tongliaowang.com:2443/live/cid8.m3u8
+通辽蒙语,https://video.tongliaowang.com:2443/live/cid7.m3u8
 通辽新闻综合,webview://https://api.tongliaowang.com/jhxtapi/jhxt/Live/newsShow/id/22/nid/100009
 通辽城市服务,webview://https://api.tongliaowang.com/jhxtapi/jhxt/Live/newsShow/id/23/nid/100010
 通辽蒙语,webview://https://api.tongliaowang.com/jhxtapi/jhxt/Live/newsShow/id/25/nid/100011
-乌海新闻综合,http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
-乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 伊金霍洛旗综合,webview://https://www.yjhlnews.cn/lives/79
 元宝山综合,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
 阿荣旗电视台,webview://https://live.polyv.cn/watch/1791887
 达茂新闻综合,webview://http://yxdm.nmgcyy.com.cn/application/tvradio/h5/detail.html?type=tv&id=12
 达茂新闻综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.m3u8
+准格尔旗综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
 
 西藏,#genre#
 西藏卫视,webview://http://p.ytelc.com/169l/xizang/xizang.php?id=0
