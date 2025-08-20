@@ -1215,7 +1215,7 @@ $石家庄
 林州综合,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
 栾川综合,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
 栾川综合,http://tvpull.dxhmt.cn:9081/tv/10324-1.m3u8
-正阳一套,http://tvpull.dxhmt.cn:9081/tv/11724-1.m3u8
+正阳综合,http://tvpull.dxhmt.cn:9081/tv/11724-1.m3u8
 武陟综合,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
 武陟综合,http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
 永城综合,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
@@ -3053,12 +3053,14 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 鄂尔多斯经济服务,webview://https://www.media.xinhuamm.net/html/rft/live.html?channelId=9c2daff50fcd40cb8177afe4babcc342&type=1
 鄂尔多斯蒙语综合,webview://https://www.media.xinhuamm.net/html/rft/live.html?channelId=2a576973707741179f5ea47f28f2ab3d&type=1
 乌海新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=wuhaizh
+乌海新闻综合,http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
+乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 赤峰新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=chifengzh
 赤峰新闻综合,http://live.cfrmw.cn/dianshi0001/sd/live.m3u8?
 赤峰新闻综合,webview://http://h5.cfrmw.cn/front-cloudlive-manage-h5/index.html?id=722726032393658368#/
 赤峰经济服务,webview://http://h5.cfrmw.cn/front-cloudlive-manage-h5/index.html?id=722728110696456192#/
 赤峰经济服务,http://live.cfrmw.cn/dianshi0002/sd/live.m3u8?_upt=96ac29ae1755661784
-赤峰经济服务,webview://http://www.dsk.cc/nmtv/cfxl.html?id=cfysyl&t=hls
+赤峰影视娱乐,webview://http://www.dsk.cc/nmtv/cfxl.html?id=cfysyl&t=hls
 呼伦贝尔新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=hlbezh
 兴安盟新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=xamzh
 通辽新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=tongliaozh
@@ -3100,10 +3102,8 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 巴彦淖尔新闻综合,http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
 阿拉善新闻综合,http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
 乌海新闻综合,http://play1-qk.nmtv.cn/live/1735546358166026.m3u8
-乌海新闻综合,http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
-乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
-乌海新闻综合,webview://http://h5.wuhainews.org.cn/front-cloudlive-manage-h5/index.html?id=656153032177844225#/
-乌海都市生活,webview://http://h5.wuhainews.org.cn/front-cloudlive-manage-h5/index.html?id=656154004388151296#/
+乌海新闻综合,webview://http://h5.wuhainews.org.cn/front-cloudlive-manage-h5/index.html?id=656153032177844225#
+乌海都市生活,webview://http://h5.wuhainews.org.cn/front-cloudlive-manage-h5/index.html?id=656154004388151296#
 通辽新闻综合,http://play1-qk.nmtv.cn/live/1735546745882037.m3u8
 通辽城市服务,https://video.tongliaowang.com:2443/live/cid8.m3u8
 通辽蒙语,https://video.tongliaowang.com:2443/live/cid7.m3u8
