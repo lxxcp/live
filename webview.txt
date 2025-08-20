@@ -1257,6 +1257,7 @@ $石家庄
 祥符新闻,http://tvpull.dxhmt.cn:9081/tv/10212-1.m3u8
 禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
+禹州综合,webview://https://www.yuzhou.net.cn/yztv
 罗山综合,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 罗山综合,http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
 舞钢综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
