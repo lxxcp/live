@@ -2072,8 +2072,6 @@ $石家庄
 宁国新闻综合,webview://http://www.dsk.cc/p/gdy.html?id=ngzh
 萧县新闻综合,http://60.171.239.216:9080/hls/stream1.m3u8
 淮河能源综合,http://play.hhnynews.com/huaihe/online.m3u8?auth_key=1720572937-0-0-ebd6c35757d0771723a94f37aa4b3b99
-濉溪综合,webview://https://sxrmedit.ahwanyun.cn/h5/h5app/#/pages/commonPage/commonPage?plateId=12&appId=228
-濉溪综合,http://ahlive.ahwanyun.cn/live/a69bc3cfc7f34dbea9d31b5176d732ca/hls.m3u8
 宣城综合,http://203.205.191.53/live.ahsx.ahtv.cn/live/xctv.m3u8
 绩溪新闻综合,https://live.cnjxxw.com/hls/jxzh/playlist.m3u8
 
@@ -2300,7 +2298,7 @@ $牡丹江
 松原新闻综合,https://stream2.jlntv.cn/sytv/sd/live.m3u8
 
 吉林市新闻综合,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
-吉林市综合,https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
+吉林市新闻综合,https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
 吉林市新闻综合,webview://http://new.jlwlq.com/wap/live/tv_xwzh.html
 舒兰融媒,webview://http://h5-sl.jlntv.cn/front-cloudlive-manage-h5/index.html?id=788363220158119936
 舒兰融媒,http://stream8.jlntv.cn/shulan/sd/live.m3u8
