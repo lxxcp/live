@@ -1169,10 +1169,8 @@ $石家庄
 卫辉综合,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
 叶县综合,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
 叶县综合,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
-唐河新闻综合,http://live.dxhmt.cn:9081/tv/11327-1.m3u8
-唐河新闻综合,http://tvpull.dxhmt.cn:9081/tv/11327-1.m3u8
-唐河二套,http://live.dxhmt.cn:9081/tv/11328-1.m3u8
-唐河二套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
+唐河综合,http://live.dxhmt.cn:9081/tv/11328-1.m3u8
+唐河综合,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
 固始综合,http://live.dxhmt.cn:9081/tv/11525-1.m3u8
 固始综合,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
 太康综合,http://live.dxhmt.cn:9081/tv/11627-1.m3u8
