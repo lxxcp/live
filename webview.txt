@@ -1265,6 +1265,7 @@ $石家庄
 荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
 获嘉综合,http://live.dxhmt.cn:9081/tv/10724-1.m3u8
 获嘉综合,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
+虞城综合,http://live.dxhmt.cn:9081/tv/11425-1.m3u8
 虞城综合,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 襄城综合,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
 襄城综合,http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
