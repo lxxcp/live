@@ -1227,7 +1227,6 @@ $石家庄
 沈丘综合,http:///tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
 沈丘综合,http://tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
 泌阳综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
-洛宁综合,http://tvpull.dxhmt.cn:9081/tv/10328-1.m3u8
 济源综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 济源综合,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 浚县综合,http://live.dxhmt.cn:9081/tv/10621-1.m3u8
@@ -1249,9 +1248,9 @@ $石家庄
 灵宝综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 登封综合,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
 登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
-睢县新闻综合,http://tvpull.dxhmt.cn:9081/tv/11422-1.m3u8
 确山综合,http://live.dxhmt.cn:9081/tv/11725-1.m3u8
 确山综合,http://tvpull.dxhmt.cn:9081/tv/11725-1.m3u8
+祥符新闻,http://live.dxhmt.cn:9081/tv/10212-1.m3u8
 祥符新闻,http://tvpull.dxhmt.cn:9081/tv/10212-1.m3u8
 禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
@@ -1275,6 +1274,7 @@ $石家庄
 西峡综合,http://tvpull.dxhmt.cn:9081/tv/11323-1.m3u8
 西平综合,http://live.dxhmt.cn:9081/tv/11721-1.m3u8
 西平综合,http://tvpull.dxhmt.cn:9081/tv/11721-1.m3u8
+辉县新闻综合,http://live.dxhmt.cn:9081/tv/10782-2.m3u8
 辉县新闻综合,http://tvpull.dxhmt.cn:9081/tv/10782-2.m3u8
 遂平综合,http://live.dxhmt.cn:9081/tv/11728-1.m3u8
 遂平综合,http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
@@ -1931,6 +1931,8 @@ $石家庄
 闽侯综合,webview://https://web.guangdianyun.tv/tv/?id=2068&uin=2656
 漳浦综合,webview://https://web.guangdianyun.tv/tv/?id=2803&uin=3350
 集美综合,webview://https://web.guangdianyun.tv/tv/3102?uin=4113
+云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
+云霄综合,webview://http://www.zzyxxw.com/live
 漳州新闻综合,webview://https://web.guangdianyun.tv/tv/?id=175&uin=1116
 德化综合,webview://http://www.cidudehua.net/m/view.php?aid=1175
 德化综合,webview://https://web.guangdianyun.tv/tv/?id=2467&uin=3164
@@ -2035,6 +2037,9 @@ $石家庄
 灵璧新闻综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
 祁门综合,http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
 潜山综合,https://qsxw.gov.cn/rtmp_export/video22.m3u8
+六安综合,webview://https://console.ahsx.ahtv.cn/web/cms/rmt0087_html/1/1sy/sx/dsds/104416.shtml
+六安综合,https://live.ahsx.ahtv.cn/live/latv.m3u8?txSecret=a9aec2d19be14af37372ae129e00961c&txTime=6954CAD3
+六安综合,http://203.205.191.53/live.ahsx.ahtv.cn/live/latv.m3u8
 淮北矿业综合,http://xcblive.hbcoal.com/3/sd/live.m3u8
 淮北矿业综合,http://xcblive.hbcoal.com/3/playlist.m3u8
 淮北矿业综合,webview://http://share.xcb.hbcoal.com/?_hgOutLink=live/livedetail&channel_id=7
