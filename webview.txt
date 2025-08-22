@@ -147,6 +147,14 @@ CCTV-1 综合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liv
 CCTV-2 财经,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
 CCTV-4 中文国际,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
 CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
+CECTV-1 汉语文化,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CECTV-1 汉语文化,webview://http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CECTV-2 国际旅游,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CECTV-2 国际旅游,webview://http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CECTV-3 国际教育,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CECTV-3 国际教育,webview://http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CECTV-4 国际健康,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+CECTV-4 国际健康,webview://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 卫视,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
@@ -1473,14 +1481,6 @@ $石家庄
 江苏体育休闲,webview://https://live.jstv.com/?channelId=537
 江苏国际,webview://https://live.jstv.com/?channelId=544
 优漫卡通,webview://https://live.jstv.com/?channelId=543
-江苏城市,webview://https://m.miguvideo.com/m/liveDetail/626064714?channelId=10010001005
-江苏综艺,webview://https://m.miguvideo.com/m/liveDetail/626065193?channelId=10010001005
-江苏影视,webview://https://m.miguvideo.com/m/liveDetail/626064697?channelId=10010001005
-江苏新闻,webview://https://m.miguvideo.com/m/liveDetail/626064693?channelId=10010001005
-江苏教育,webview://https://m.miguvideo.com/m/liveDetail/628008321?channelId=10010001005
-江苏体育休闲,webview://https://m.miguvideo.com/m/liveDetail/626064707?channelId=10010001005
-江苏国际,webview://https://m.miguvideo.com/m/liveDetail/626064674?channelId=10010001005
-优漫卡通,webview://https://m.miguvideo.com/m/liveDetail/626064703?channelId=10010001005
 江苏新闻,https://zhibo-hls.jstv.com/litchi/zhibo-jsgg.m3u8
 南京新闻综合,webview://https://www.nbs.cn/live/?id=109152
 南京十八生活,webview://https://www.nbs.cn/live/?id=110094
@@ -2498,12 +2498,12 @@ $牡丹江
 甘肃少儿,webview://http://www.dsk.cc/gstv/gszb.html?id=gsse
 甘肃科教,webview://http://www.dsk.cc/gstv/gszb.html?id=gsse
 甘肃移动,webview://http://www.dsk.cc/gstv/gszb.html?id=gsyd
-甘肃卫视,https://hls.gstv.com.cn/skt649/k58w7e.m3u8
-甘肃文化影视,https://hls.gstv.com.cn/skt649/26f5k1.m3u8
-甘肃公共应急,https://hls.gstv.com.cn/skt649/ocpuj9.m3u8
-甘肃少儿,https://hls.gstv.com.cn/skt649/2yedw6.m3u8
-甘肃科教,https://hls.gstv.com.cn/skt649/u3ydg9.m3u8
-甘肃移动,https://hls.gstv.com.cn/skt649/k101u2.m3u8
+甘肃卫视,https://hls.gstv.com.cn/skt649/1j6vl6.m3u8
+甘肃文化影视,https://hls.gstv.com.cn/skt649/c2q5n8.m3u8
+甘肃公共应急,https://hls.gstv.com.cn/skt649/4azk20.m3u8
+甘肃少儿,https://hls.gstv.com.cn/skt649/84hw5n.m3u8
+甘肃科教,https://hls.gstv.com.cn/skt649/c1867g.m3u8
+甘肃移动,https://hls.gstv.com.cn/skt649/qxucqk.m3u8
 兰州新闻综合,webview://https://www.lzr.com.cn/folder25/folder26/
 兰州文旅,webview://https://www.lzr.com.cn/folder25/folder26/folder30/
 兰州新闻综合,webview://https://lanzhoubcnew.zainanjing365.com/share/live/detailTv?resourceId=12
