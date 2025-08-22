@@ -115,9 +115,6 @@ CGTN法语,webview://https://francais.cgtn.com/channel
 CGTN阿语,webview://https://arabic.cgtn.com/channel
 CHC动作电影,webview://http://iptv.huuc.edu.cn/player.html?channel=chcatv
 CHC家庭影院,webview://http://iptv.huuc.edu.cn/player.html?channel=chctv
-CHC动作电影,webview://http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CHC家庭影院,webview://http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CHC影迷电影,webview://http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
@@ -147,14 +144,6 @@ CCTV-1 综合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liv
 CCTV-2 财经,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
 CCTV-4 中文国际,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
 CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
-CECTV-1 汉语文化,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CECTV-1 汉语文化,webview://http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CECTV-2 国际旅游,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CECTV-2 国际旅游,webview://http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CECTV-3 国际教育,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CECTV-3 国际教育,webview://http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CECTV-4 国际健康,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-CECTV-4 国际健康,webview://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 卫视,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
