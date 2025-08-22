@@ -202,15 +202,15 @@ CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?li
 江西新闻,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 江西陶瓷,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8
 风尚购物,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
-江西卫视,webview://https://www.jxntv.cn/live/#/jxtv1
-江西都市,webview://https://www.jxntv.cn/live/#/jxtv2
-江西经济生活,webview://https://www.jxntv.cn/live/#/jxtv3
-江西影视旅游,webview://https://www.jxntv.cn/live/#/jxtv4
-江西公共农业,webview://https://www.jxntv.cn/live/#/jxtv5
-江西少儿,webview://https://www.jxntv.cn/live/#/jxtv6
-江西新闻,webview://https://www.jxntv.cn/live/#/jxtv7
-江西陶瓷,webview://https://www.jxntv.cn/live/#/tcpd
-风尚购物,webview://https://www.jxntv.cn/live/#/fsgw
+江西卫视,webview://http://www.dsk.cc/p/video.html?id=http://www.dsk.cc/jxtv/jxtv.php?id=jxws
+江西都市,webview://http://www.dsk.cc/p/video.html?id=http://www.dsk.cc/jxtv/jxtv.php?id=jxds
+江西经济生活,webview://http://www.dsk.cc/p/video.html?id=http://www.dsk.cc/jxtv/jxtv.php?id=jxjs
+江西影视旅游,webview://http://www.dsk.cc/p/video.html?id=http://www.dsk.cc/jxtv/jxtv.php?id=jxys
+江西公共农业,webview://http://www.dsk.cc/p/video.html?id=http://www.dsk.cc/jxtv/jxtv.php?id=jxgg
+江西少儿,webview://http://www.dsk.cc/p/video.html?id=http://www.dsk.cc/jxtv/jxtv.php?id=jxse
+江西新闻,webview://http://www.dsk.cc/p/video.html?id=http://www.dsk.cc/jxtv/jxtv.php?id=jxxw
+江西陶瓷,webview://http://www.dsk.cc/p/video.html?id=http://www.dsk.cc/jxtv/jxtv.php?id=jxtc
+风尚购物,webview://http://www.dsk.cc/p/video.html?id=http://www.dsk.cc/jxtv/jxtv.php?id=fsgw
 江西教育,https://cdn-live.jxeduyun.com/streams/640f79857ff58.m3u8
 江西教育,webview://https://live.jxeduyun.com/lives/XlaoRd
 南昌新闻综合,webview://https://www.nctv.net.cn/live?channel=1
@@ -2767,6 +2767,10 @@ $牡丹江
 四川科教,webview://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
 四川乡村,webview://https://scxc.sctv.com/html/c0111/2024/04/09/1777534112104497154_share.html
 康巴卫视,webview://https://www.kangbatv.com/zb_22587/
+四川影视文艺,webview://http://www.dsk.cc/p/video.html?id=http://www.dsk.cc/sctv/sctv.php?id=scyswy
+四川影视文艺,webview://http://www.dsk.cc/sctv/sctv.php?id=scyswy
+四川影视文艺,http://www.dsk.cc/sctv/sctv.php?id=scyswy
+四川影视文艺,http://www.dsk.cc/p/video.html?id=http://www.dsk.cc/sctv/sctv.php?id=scyswy
 
 成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html
 成都经济资讯,webview://https://www.cditv.cn/show/4845-562.html
@@ -3125,8 +3129,8 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 新疆体育健康,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=21
 新疆少儿,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 
-乌鲁木齐综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=6&page=canvas&live_type=1
-乌鲁木齐都市时尚,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=5&page=canvas&live_type=1
+乌鲁木齐综合,webview://https://hsynew.hongshannet.cn/application/tvradio/h5/detail.html?type=tv&id=17
+乌鲁木齐维语综合,webview://https://hsynew.hongshannet.cn/application/tvradio/h5/detail.html?type=tv&id=21
 
 昌吉综合,webview://http://www.cjxww.cn/sy/kds/
 昌吉综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=12
