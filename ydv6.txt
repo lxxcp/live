@@ -79,15 +79,15 @@ CCTV风云音乐,https://cqcb.iptv.darwinchow.com/fyyyHD
 CCTV兵器科技,https://cqcb.iptv.darwinchow.com/bqkjHD
 CCTV央视台球,https://cqcb.iptv.darwinchow.com/ystqHD
 CCTV高尔夫网球,https://cqcb.iptv.darwinchow.com/golfHD
-CCTV央视文化,https://cqcb.iptv.darwinchow.com/yswhHD
+CCTV央视文化精品,https://cqcb.iptv.darwinchow.com/yswhHD
 CCTV女性时尚,https://cqcb.iptv.darwinchow.com/nvxing
-CCTV中学生,https://cqcb.iptv.darwinchow.com/qicai
-CCTV老故事,https://cqcb.iptv.darwinchow.com/gushi
-CCTV发现之旅,https://cqcb.iptv.darwinchow.com/faxian
+中央新影-中学生,https://cqcb.iptv.darwinchow.com/qicai
+中央新影-老故事,https://cqcb.iptv.darwinchow.com/gushi
+中央新影-发现之旅,https://cqcb.iptv.darwinchow.com/faxian
 CGTN,https://cqcb.iptv.darwinchow.com/cgtnsd
-CETV1,https://cqcb.iptv.darwinchow.com/cetv-1sd
-CETV4,https://cqcb.iptv.darwinchow.com/cetv-4sd
-CCTV-早期教育,https://cqcb.iptv.darwinchow.com/zaojiaoHD
+CETV-1 综合教育,https://cqcb.iptv.darwinchow.com/cetv-1sd
+CETV-4 职业教育,https://cqcb.iptv.darwinchow.com/cetv-4sd
+CCTV早期教育,https://cqcb.iptv.darwinchow.com/zaojiaoHD
 湖南卫视,https://cqcb.iptv.darwinchow.com/hunanHD
 金鹰卡通,https://cqcb.iptv.darwinchow.com/jinyingsd
 北京卫视,https://cqcb.iptv.darwinchow.com/beijingHD
@@ -133,7 +133,7 @@ BRTV卡酷少儿,https://cqcb.iptv.darwinchow.com/bjkakusd
 金色学堂,https://cqcb.iptv.darwinchow.com/jinse
 求索纪录,https://cqcb.iptv.darwinchow.com/qsjlHD
 重温经典,https://cqcb.iptv.darwinchow.com/cwjdHD
-纪实科教,https://cqcb.iptv.darwinchow.com/bjayjssd
+BRTV纪实科教,https://cqcb.iptv.darwinchow.com/bjayjssd
 中华特产,https://cqcb.iptv.darwinchow.com/techan
 生态环境,https://cqcb.iptv.darwinchow.com/shengtai
 四海钓鱼,https://cqcb.iptv.darwinchow.com/diaoyu
@@ -141,7 +141,6 @@ BRTV卡酷少儿,https://cqcb.iptv.darwinchow.com/bjkakusd
 环球奇观,https://cqcb.iptv.darwinchow.com/car
 环球旅游,https://cqcb.iptv.darwinchow.com/huanqiulvyou
 优优宝贝,https://cqcb.iptv.darwinchow.com/youxi
-东方财经,https://cqcb.iptv.darwinchow.com/dfcj
 新动漫,https://cqcb.iptv.darwinchow.com/dongman
 书画频道,https://cqcb.iptv.darwinchow.com/shuhua
 中国天气,https://cqcb.iptv.darwinchow.com/tianqisd
@@ -151,17 +150,18 @@ BRTV卡酷少儿,https://cqcb.iptv.darwinchow.com/bjkakusd
 国学频道,https://cqcb.iptv.darwinchow.com/guoxue
 快乐垂钓,https://cqcb.iptv.darwinchow.com/klcdHD
 先锋乒羽,https://cqcb.iptv.darwinchow.com/xianfeng
+东方财经,https://cqcb.iptv.darwinchow.com/dfcj
 财富天下,https://cqcb.iptv.darwinchow.com/caifu
 天元围棋,https://cqcb.iptv.darwinchow.com/weiqi
 家有购物,https://cqcb.iptv.darwinchow.com/jygw
 聚鲨环球,https://cqcb.iptv.darwinchow.com/jusha
 爱看导视,https://cqcb.iptv.darwinchow.com/aikanHD
 重庆新闻,https://cqcb.iptv.darwinchow.com/cqtvnewsHD
-重庆科教,https://cqcb.iptv.darwinchow.com/cqtvkejiaoHD
-重庆影视,https://cqcb.iptv.darwinchow.com/cqyingshiHD
+重庆红叶,https://cqcb.iptv.darwinchow.com/cqtvkejiaoHD
+重庆影视剧,https://cqcb.iptv.darwinchow.com/cqyingshiHD
 重庆文体娱乐,https://cqcb.iptv.darwinchow.com/cqwtylHD
 重庆少儿,https://cqcb.iptv.darwinchow.com/cqseHD
-重庆时尚生活,https://cqcb.iptv.darwinchow.com/cqssgwHD
+重庆红岩文化,https://cqcb.iptv.darwinchow.com/cqssgwHD
 重庆新农村,https://cqcb.iptv.darwinchow.com/cqggncHD
 重庆社会与法,https://cqcb.iptv.darwinchow.com/cqtvtrendyHD
 重庆移动,https://cqcb.iptv.darwinchow.com/mryyHD
@@ -1105,7 +1105,7 @@ BRTV卡酷少儿,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226019/1.m3u8
 生活时尚,http://[2409:8087:1e01:20::13]/PLTV/11/224/3221225768/1.m3u8
 生活时尚,http://[2409:8087:1e01:20::14]/PLTV/11/224/3221225768/1.m3u8
 生活时尚,http://[2409:8087:1e01:20::16]/PLTV/11/224/3221225768/1.m3u8
-生适时尚,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/1.m3u8
+生活时尚,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/1.m3u8
 睛彩广场舞,http://[2409:8087:1e01:20::17]/PLTV/11/224/3221226139/1.m3u8
 睛彩广场舞,http://[2409:8087:1e01:20::22]/PLTV/11/224/3221226139/1.m3u8
 睛彩广场舞,http://[2409:8087:1e01:20::23]/PLTV/11/224/3221226139/1.m3u8
