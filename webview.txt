@@ -2239,13 +2239,10 @@ $牡丹江
 绥滨综合,https://masterpull.hljtv.com/live/DQiqZPCj.m3u8
 绥芬河综合,https://masterpull.hljtv.com/live/pXxFNIbi.m3u8
 绥芬河综合,https://rmplive.hljtv.com/live/suifenhe.m3u8
-肇州综合,https://masterpull.hljtv.com/live/imOHYJ77.m3u8
-肇州综合,https://rmplive.hljtv.com/live/zhaozhou.m3u8
 萝北综合,https://rmplive.hljtv.com/live/luobei.m3u8
 虎林综合,https://masterpull.hljtv.com/live/SJJAEqBS.m3u8
 虎林综合,https://rmplive.hljtv.com/live/hulin.m3u8
 讷河综合,https://masterpull.hljtv.com/live/PXWxDY1V.m3u8
-逊克综合,https://masterpull.hljtv.com/live/a0CULO9O.m3u8
 铁力综合,https://masterpull.hljtv.com/live/iUtbDFud.m3u8
 铁力综合,https://rmplive.hljtv.com/live/tieli.m3u8
 青冈综合,https://masterpull.hljtv.com/live/bJGIloJe.m3u8
@@ -3137,16 +3134,18 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 乌鲁木齐维语综合,webview://https://hsynew.hongshannet.cn/application/tvradio/h5/detail.html?type=tv&id=21
 
 昌吉综合,webview://http://www.cjxww.cn/sy/kds/
-昌吉综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=12
-玛纳斯综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10043&id=14
-呼图壁综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10007&id=12
-吉木萨尔综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10015&id=10
-奇台综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10017&id=17
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
 昌吉综合,http://play.xjbzrk.com/live/cjzh.m3u8
 呼图壁综合,http://222.80.186.118:8088/live/video.m3u8
 奇台综合,http://117.146.76.46:9090/stream1/m2e2000.m3u8
 吉木萨尔综合,http://218.31.201.189:9000/shiping1/prog_index.m3u8
+阜康综合,http://120.69.17.15:50002/live/test1.m3u8
+昌吉综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=12
+玛纳斯综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10043&id=14
+呼图壁综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10007&id=12
+吉木萨尔综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10015&id=10
+奇台综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10017&id=17
+阜康综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10048&id=8&page=canvas&live_type=1
 
 石河子新闻综合,webview://https://www.shznews.com/TV.html
 石河子新闻综合,http://www.shznews.com/ds/xwzh/playlist.m3u8
@@ -3239,6 +3238,8 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 喀什科技教育,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10137&id=13&page=canvas&live_type=1
 喀什汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10137&id=14
 喀什维语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10137&id=13
+喀什汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10137&id=14&page=canvas&live_type=1
+喀什维语综合,http://222.80.82.206:9300/hls/live/kstv2.m3u8
 喀什AI电视,webview://https://www.nbd.com.cn/zhuanti2023/20240808AIshareRow/dist/index.html#/aiTv
 
 和田汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=12&page=canvas&live_type=1
