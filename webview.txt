@@ -3159,12 +3159,6 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 伊犁哈语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10012&id=37
 伊犁维语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10012&id=36
 伊犁经济,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10012&id=35
-伊宁汉语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10012&id=55
-伊宁维语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10012&id=56
-奎屯汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10050&id=7
-奎屯哈语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10050&id=6
-巩留TV,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10064&id=3
-霍尔果斯融媒,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10038&id=21
 奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
 奎屯哈语综合,http://218.84.12.186:8002/hls/main/playlist.m3u8
 伊犁维语综合,http://110.153.180.106:55555/out_3/index.m3u8
@@ -3176,16 +3170,9 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 塔城哈语综合,http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
 塔城汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10066&id=13
 塔城哈语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10131&id=14
-乌苏综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10011&id=114
-沙湾综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10022&id=67
-裕民综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10102&id=29
 
 阿勒泰汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10132&id=28
 阿勒泰哈语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10132&id=27
-青河汉语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10094&id=28
-青河哈语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10094&id=27
-福海汉语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10010&id=15
-福海哈语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10010&id=14
 阿勒泰汉语综合,https://play-a2.quklive.com/live/1640945211435051.m3u8
 阿勒泰北屯,http://test5.btzx.com.cn/live/10TV.stream/playlist.m3u8
 布尔津哈语综合,https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8
@@ -3220,7 +3207,6 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 巴音郭楞蒙语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=22
 巴音郭楞维语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=21
 巴音郭楞教育,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=20
-轮台综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10095&id=9
 巴音郭楞综合,http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
 巴音郭楞蒙语,http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
 巴音郭楞维语,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
@@ -3243,11 +3229,11 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 喀什AI电视,webview://https://www.nbd.com.cn/zhuanti2023/20240808AIshareRow/dist/index.html#/aiTv
 
 和田汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=12&page=canvas&live_type=1
-和田汉语影视文艺,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=11&page=canvas&live_type=1
+和田影视,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=11&page=canvas&live_type=1
 和田汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=12
-和田汉语影视文艺,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=11
+和田影视,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=11
 和田维语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=10
-和田维语影视文艺,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=9
+和田维语影视,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=9
 五家渠综合,https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
 
 博州汉语综合,http://alitv-play.boznews.cn/live/bttv1.m3u8?auth_key=1750178620-0-0-a889a902d994ce7e9d4ebbbd7d200db8
