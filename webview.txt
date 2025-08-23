@@ -351,7 +351,6 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 东方购物,webview://https://www.dfgou.cn/tv.html#/tvLives
 东方财经,webview://https://www.yicai.com/tv/#dfcj
 第一财经,webview://https://www.yicai.com/tv/#dycj
-东方影视,webview://https://m.miguvideo.com/m/liveDetail/617290047?channelId=10010001005
 上海新闻综合,webview://https://bp-share.bestv.cn/loveShanghaiCarousel/main-pro.html
 嘉定综合,webview://http://m.jdrmt.cn/live/jdtv/
 嘉定综合,webview://http://m.jdrmt.cn/jdtvnews/play.php
@@ -708,7 +707,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 湘潭新闻综合,webview://http://www.hnxttv.com/live/ivideo/index.html
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 常德新闻综合,webview://http://zzwxht.changdejia.com/zhibo_xwzh.php
-常德公共,webview://http://zzwxht.changdejia.com/zhibo_ggpd.php
 邵阳新闻综合,webview://http://www.sytv.net.cn/folder2188/folder2190
 邵阳文旅民生,webview://http://p.ytelc.com/169l/hunan/shaoyang.php?id=shaoyanggg
 邵阳新闻综合,webview://http://share.sytv.net.cn/?_hgOutLink=live/livedetail&channel_id=33
