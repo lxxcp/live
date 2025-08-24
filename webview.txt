@@ -1455,8 +1455,8 @@ $石家庄
 江苏新闻,webview://https://live.jstv.com/?channelId=668
 江苏教育,webview://https://live.jstv.com/?channelId=666
 江苏体育休闲,webview://https://live.jstv.com/?channelId=665
-江苏国际,webview://https://live.jstv.com/?channelId=667
-优漫卡通,webview://https://live.jstv.com/?channelId=671
+江苏国际,webview://https://live.jstv.com/?channelId=671
+优漫卡通,webview://https://live.jstv.com/?channelId=667
 江苏新闻,https://zhibo-hls.jstv.com/litchi/zhibo-jsgg.m3u8
 南京新闻综合,webview://https://www.nbs.cn/live/?id=109152
 南京十八生活,webview://https://www.nbs.cn/live/?id=110094
