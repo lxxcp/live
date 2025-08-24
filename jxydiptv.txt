@@ -3359,10 +3359,10 @@ CCTV世界地理,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/32212262
 CCTV女性时尚,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226293/1.m3u8?fmt=ts2hls$1080p
 CCTV风云足球,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226302/1.m3u8?fmt=ts2hls$1080p
 CCTV高尔夫网球,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226299/1.m3u8?fmt=ts2hls$1080p
-CETV1,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225563/1.m3u8?fmt=ts2hls$576p
-CETV1,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/1.m3u8?fmt=ts2hls$1080p
-CETV2,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226350/1.m3u8?fmt=ts2hls$576p
-CETV4,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225969/1.m3u8?fmt=ts2hls$576p
+CETV-1 综合教育,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225563/1.m3u8?fmt=ts2hls$576p
+CETV-1 综合教育,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/1.m3u8?fmt=ts2hls$1080p
+CETV-2 教育教学,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226350/1.m3u8?fmt=ts2hls$576p
+CETV-4 职业教育,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225969/1.m3u8?fmt=ts2hls$576p
 CGTN,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226347/1.m3u8?fmt=ts2hls$576p
 CGTN,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226369/1.m3u8?fmt=ts2hls$1080p
 CGTN俄语,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226367/1.m3u8?fmt=ts2hls$1080p

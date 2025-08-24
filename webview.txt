@@ -146,7 +146,9 @@ CCTV-1 综合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liv
 CCTV-2 财经,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
 CCTV-4 中文国际,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
 CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
-
+CHC影迷电影,https://cqcb.iptv.darwinchow.com/chcgqdyHD
+CHC动作电影,https://cqcb.iptv.darwinchow.com/chcdzdyHD
+CHC家庭影院,https://cqcb.iptv.darwinchow.com/chcjtyyHD
 卫视,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
