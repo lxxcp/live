@@ -2268,7 +2268,7 @@ BRTV纪实科教,https://cqcb.iptv.darwinchow.com/bjayjssd
 优优宝贝,https://cqcb.iptv.darwinchow.com/youxi
 东方财经,https://cqcb.iptv.darwinchow.com/dfcj
 新动漫,https://cqcb.iptv.darwinchow.com/dongman
-书画频道,https://cqcb.iptv.darwinchow.com/shuhua
+书画,https://cqcb.iptv.darwinchow.com/shuhua
 中国天气,https://cqcb.iptv.darwinchow.com/tianqisd
 证券服务,https://cqcb.iptv.darwinchow.com/jiazheng
 山东教育,https://cqcb.iptv.darwinchow.com/sdjiaoyusd
@@ -2290,7 +2290,7 @@ BRTV纪实科教,https://cqcb.iptv.darwinchow.com/bjayjssd
 重庆新农村,https://cqcb.iptv.darwinchow.com/cqggncHD
 重庆社会与法,https://cqcb.iptv.darwinchow.com/cqtvtrendyHD
 重庆移动,https://cqcb.iptv.darwinchow.com/mryyHD
-重庆重庆汽摩,https://cqcb.iptv.darwinchow.com/cqcarsd
+重庆汽摩,https://cqcb.iptv.darwinchow.com/cqcarsd
 重广融媒,https://cqcb.iptv.darwinchow.com/cqrongmei
 合川综合,https://cqcb.iptv.darwinchow.com/hechuan
 长寿综合,https://cqcb.iptv.darwinchow.com/changshou
