@@ -313,8 +313,8 @@ CGTN阿语,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226279/inde
 宁夏卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225726/index.m3u8
 安徽卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225541/index.m3u8
 山东卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225539/index.m3u8
-山东教育台,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225719/index.m3u8
-山东教育台,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226353/index.m3u8
+山东教育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225719/index.m3u8
+山东教育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226353/index.m3u8
 山西卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225549/index.m3u8
 山西卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225730/index.m3u8
 广东卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225558/index.m3u8
@@ -675,8 +675,8 @@ CGTN阿语,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/32212262
 宁夏卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225726/index.m3u8
 安徽卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225541/index.m3u8
 山东卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225539/index.m3u8
-山东教育台,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225719/index.m3u8
-山东教育台,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226353/index.m3u8
+山东教育,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225719/index.m3u8
+山东教育,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226353/index.m3u8
 山西卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225549/index.m3u8
 山西卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225730/index.m3u8
 广东卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225558/index.m3u8
@@ -893,7 +893,7 @@ CCTV-5+ 体育赛事,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212
 家庭剧场,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/877949953.smil/index.m3u8?
 精品大剧,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/877949953.smil/index.m3u8?
 明星大片,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/877949953.smil/index.m3u8?
-山东教育台,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/877949953.smil/index.m3u8?
+山东教育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/877949953.smil/index.m3u8?
 哈哈炫动,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225720/877949953.smil/index.m3u8?
 金鹰卡通,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225721/877949953.smil/index.m3u8?
 海南卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225722/877949953.smil/index.m3u8?
@@ -1058,7 +1058,7 @@ CCTV-11 戏曲,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226349/
 CETV-2 教育教学,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226350/877949953.smil/index.m3u8?
 云南卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226351/877949953.smil/index.m3u8?
 安徽卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226352/877949953.smil/index.m3u8?
-山东教育台,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226353/877949953.smil/index.m3u8?
+山东教育,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226353/877949953.smil/index.m3u8?
 CCTV-5+ 体育赛事,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226354/877949953.smil/index.m3u8?
 吉林卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226355/877949953.smil/index.m3u8?
 三沙卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226356/877949953.smil/index.m3u8?
