@@ -96,10 +96,10 @@ CGTN阿语,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226364/inde
 CHC动作电影,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226308/index.m3u8
 CHC家庭影院,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226319/index.m3u8
 CHC影迷电影,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226305/index.m3u8
-江西IPTV1,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226376/index.m3u8
+江西IPTV2,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226376/index.m3u8
 江西IPTV2,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226381/index.m3u8
-江西IPTV1,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226384/index.m3u8
-江西IPTV2,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226389/index.m3u8
+CCTV-11 戏曲,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226384/index.m3u8
+江西IPTV1,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226389/index.m3u8
 江西IPTV1,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226414/index.m3u8
 江西都市,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225584/index.m3u8
 江西经济生活,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226206/index.m3u8
@@ -530,7 +530,7 @@ CHC影迷电影,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/322
 江西卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225492/index.m3u8
 江西卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225705/index.m3u8
 江西卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225746/index.m3u8
-江西IPTV1,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226376/index.m3u8
+江西IPTV2,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226376/index.m3u8
 江西IPTV2,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226381/index.m3u8
 江西公共农业,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225578/index.m3u8
 江西少儿,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226194/index.m3u8
@@ -1083,7 +1083,7 @@ CGTN,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226369/877949953.
 CGTN西语,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226372/877949953.smil/index.m3u8?
 南昌资讯,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226374/877949953.smil/index.m3u8?
 厦门卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226375/877949953.smil/index.m3u8?
-江西IPTV1,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226376/877949953.smil/index.m3u8?
+江西IPTV2,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226376/877949953.smil/index.m3u8?
 环球奇观,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226378/877949953.smil/index.m3u8?
 江西IPTV2,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226381/877949953.smil/index.m3u8?
 南昌新闻综合,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226382/877949953.smil/index.m3u8?

@@ -96,10 +96,10 @@ CGTN阿语,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226364/inde
 CHC动作电影,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226308/index.m3u8
 CHC家庭影院,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226319/index.m3u8
 CHC影迷电影,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226305/index.m3u8
-江西IPTV1,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226376/index.m3u8
+江西IPTV2,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226376/index.m3u8
 江西IPTV2,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226381/index.m3u8
-江西IPTV1,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226384/index.m3u8
-江西IPTV2,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226389/index.m3u8
+CCTV-11 戏曲,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226384/index.m3u8
+江西IPTV1,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226389/index.m3u8
 江西IPTV1,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226414/index.m3u8
 江西都市,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225584/index.m3u8
 江西经济生活,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226206/index.m3u8
@@ -235,7 +235,7 @@ BRTV纪实科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/322122636
 咪咕篮球,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226235/index.m3u8
 文物宝库,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226328/index.m3u8
 武术世界,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225508/index.m3u8
-梨园,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225581/index.m3u8
+梨园频道,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225581/index.m3u8
 新华全球连线,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226298/index.m3u8
 新华社,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226297/index.m3u8
 中国天气,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226334/index.m3u8
@@ -349,8 +349,8 @@ CGTN阿语,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226279/inde
 江西经济生活,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225580/index.m3u8
 BRTV卡酷少儿,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225677/index.m3u8
 BRTV卡酷少儿,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226360/index.m3u8
-汽摩,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225506/index.m3u8
-车迷,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226331/index.m3u8
+重庆汽摩,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225506/index.m3u8
+车迷频道,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226331/index.m3u8
 书画,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226370/index.m3u8
 新动漫,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226322/index.m3u8
 优优宝贝,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226312/index.m3u8
@@ -417,9 +417,9 @@ CCTV-2 财经,http://117.169.30.5:6610/PLTV/88888888/224/3221225500/2/index.m3u8
 CCTV-1 综合,http://117.169.30.5:6610/PLTV/88888888/224/3221225501/1/index.m3u8
 CCTV-1 综合,http://117.169.30.5:6610/PLTV/88888888/224/3221225501/2/index.m3u8
 CCTV-1 综合,http://117.169.30.5:6610/PLTV/88888888/224/3221225501/2/index.m3u8?fmt=ts2hls
-汽摩,http://117.169.30.5:6610/PLTV/88888888/224/3221225506/1/index.m3u8
-汽摩,http://117.169.30.5:6610/PLTV/88888888/224/3221225506/2/index.m3u8
-汽摩,http://117.169.30.5:6610/PLTV/88888888/224/3221225506/2/index.m3u8?fmt=ts2hls
+重庆汽摩,http://117.169.30.5:6610/PLTV/88888888/224/3221225506/1/index.m3u8
+重庆汽摩,http://117.169.30.5:6610/PLTV/88888888/224/3221225506/2/index.m3u8
+重庆汽摩,http://117.169.30.5:6610/PLTV/88888888/224/3221225506/2/index.m3u8?fmt=ts2hls
 武术世界,http://117.169.30.5:6610/PLTV/88888888/224/3221225508/1/index.m3u8
 武术世界,http://117.169.30.5:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 武术世界,http://117.169.30.5:6610/PLTV/88888888/224/3221225508/2/index.m3u8?fmt=ts2hls
@@ -570,9 +570,9 @@ CCTV-1 综合,http://117.169.30.5:6610/PLTV/88888888/224/3221225573/2/index.m3u8
 江西经济生活,http://117.169.30.5:6610/PLTV/88888888/224/3221225580/1/index.m3u8
 江西经济生活,http://117.169.30.5:6610/PLTV/88888888/224/3221225580/2/index.m3u8
 江西经济生活,http://117.169.30.5:6610/PLTV/88888888/224/3221225580/2/index.m3u8?fmt=ts2hls
-梨园,http://117.169.30.5:6610/PLTV/88888888/224/3221225581/1/index.m3u8
-梨园,http://117.169.30.5:6610/PLTV/88888888/224/3221225581/2/index.m3u8
-梨园,http://117.169.30.5:6610/PLTV/88888888/224/3221225581/2/index.m3u8?fmt=ts2hls
+梨园频道,http://117.169.30.5:6610/PLTV/88888888/224/3221225581/1/index.m3u8
+梨园频道,http://117.169.30.5:6610/PLTV/88888888/224/3221225581/2/index.m3u8
+梨园频道,http://117.169.30.5:6610/PLTV/88888888/224/3221225581/2/index.m3u8?fmt=ts2hls
 江苏卫视,http://117.169.30.5:6610/PLTV/88888888/224/3221225582/1/index.m3u8
 江苏卫视,http://117.169.30.5:6610/PLTV/88888888/224/3221225582/2/index.m3u8
 江苏卫视,http://117.169.30.5:6610/PLTV/88888888/224/3221225582/2/index.m3u8?fmt=ts2hls
@@ -1284,9 +1284,9 @@ CCTV-13 新闻,http://117.169.30.5:6610/PLTV/88888888/224/3221226329/2/index.m3u
 四海钓鱼,http://117.169.30.5:6610/PLTV/88888888/224/3221226330/1/index.m3u8
 四海钓鱼,http://117.169.30.5:6610/PLTV/88888888/224/3221226330/2/index.m3u8
 四海钓鱼,http://117.169.30.5:6610/PLTV/88888888/224/3221226330/2/index.m3u8?fmt=ts2hls
-车迷,http://117.169.30.5:6610/PLTV/88888888/224/3221226331/1/index.m3u8
-车迷,http://117.169.30.5:6610/PLTV/88888888/224/3221226331/2/index.m3u8
-车迷,http://117.169.30.5:6610/PLTV/88888888/224/3221226331/2/index.m3u8?fmt=ts2hls
+车迷频道,http://117.169.30.5:6610/PLTV/88888888/224/3221226331/1/index.m3u8
+车迷频道,http://117.169.30.5:6610/PLTV/88888888/224/3221226331/2/index.m3u8
+车迷频道,http://117.169.30.5:6610/PLTV/88888888/224/3221226331/2/index.m3u8?fmt=ts2hls
 CCTV-15 音乐,http://117.169.30.5:6610/PLTV/88888888/224/3221226332/1/index.m3u8
 CCTV-15 音乐,http://117.169.30.5:6610/PLTV/88888888/224/3221226332/2/index.m3u8
 CCTV-15 音乐,http://117.169.30.5:6610/PLTV/88888888/224/3221226332/2/index.m3u8?fmt=ts2hls
@@ -1401,9 +1401,9 @@ CGTN西语,http://117.169.30.5:6610/PLTV/88888888/224/3221226372/2/index.m3u8?fm
 厦门卫视,http://117.169.30.5:6610/PLTV/88888888/224/3221226375/1/index.m3u8
 厦门卫视,http://117.169.30.5:6610/PLTV/88888888/224/3221226375/2/index.m3u8
 厦门卫视,http://117.169.30.5:6610/PLTV/88888888/224/3221226375/2/index.m3u8?fmt=ts2hls
-江西IPTV1,http://117.169.30.5:6610/PLTV/88888888/224/3221226376/1/index.m3u8
-江西IPTV1,http://117.169.30.5:6610/PLTV/88888888/224/3221226376/2/index.m3u8
-江西IPTV1,http://117.169.30.5:6610/PLTV/88888888/224/3221226376/2/index.m3u8?fmt=ts2hls
+江西IPTV2,http://117.169.30.5:6610/PLTV/88888888/224/3221226376/1/index.m3u8
+江西IPTV2,http://117.169.30.5:6610/PLTV/88888888/224/3221226376/2/index.m3u8
+江西IPTV2,http://117.169.30.5:6610/PLTV/88888888/224/3221226376/2/index.m3u8?fmt=ts2hls
 环球奇观,http://117.169.30.5:6610/PLTV/88888888/224/3221226378/1/index.m3u8
 环球奇观,http://117.169.30.5:6610/PLTV/88888888/224/3221226378/2/index.m3u8
 环球奇观,http://117.169.30.5:6610/PLTV/88888888/224/3221226378/2/index.m3u8?fmt=ts2hls
@@ -1419,18 +1419,18 @@ CGTN西语,http://117.169.30.5:6610/PLTV/88888888/224/3221226372/2/index.m3u8?fm
 睛彩广场舞,http://117.169.30.5:6610/PLTV/88888888/224/3221226383/1/index.m3u8
 睛彩广场舞,http://117.169.30.5:6610/PLTV/88888888/224/3221226383/2/index.m3u8
 睛彩广场舞,http://117.169.30.5:6610/PLTV/88888888/224/3221226383/2/index.m3u8?fmt=ts2hls
-江西IPTV1,http://117.169.30.5:6610/PLTV/88888888/224/3221226384/1/index.m3u8
-江西IPTV1,http://117.169.30.5:6610/PLTV/88888888/224/3221226384/2/index.m3u8
-江西IPTV1,http://117.169.30.5:6610/PLTV/88888888/224/3221226384/2/index.m3u8?fmt=ts2hls
+CCTV-11 戏曲,http://117.169.30.5:6610/PLTV/88888888/224/3221226384/1/index.m3u8
+CCTV-11 戏曲,http://117.169.30.5:6610/PLTV/88888888/224/3221226384/2/index.m3u8
+CCTV-11 戏曲,http://117.169.30.5:6610/PLTV/88888888/224/3221226384/2/index.m3u8?fmt=ts2hls
 南昌都市,http://117.169.30.5:6610/PLTV/88888888/224/3221226385/1/index.m3u8
 南昌都市,http://117.169.30.5:6610/PLTV/88888888/224/3221226385/2/index.m3u8
 南昌都市,http://117.169.30.5:6610/PLTV/88888888/224/3221226385/2/index.m3u8?fmt=ts2hls
 北京卫视 4K,http://117.169.30.5:6610/PLTV/88888888/224/3221226386/1/index.m3u8
 北京卫视 4K,http://117.169.30.5:6610/PLTV/88888888/224/3221226386/2/index.m3u8
 北京卫视 4K,http://117.169.30.5:6610/PLTV/88888888/224/3221226386/2/index.m3u8?fmt=ts2hls
-江西IPTV2,http://117.169.30.5:6610/PLTV/88888888/224/3221226389/1/index.m3u8
-江西IPTV2,http://117.169.30.5:6610/PLTV/88888888/224/3221226389/2/index.m3u8
-江西IPTV2,http://117.169.30.5:6610/PLTV/88888888/224/3221226389/2/index.m3u8?fmt=ts2hls
+江西IPTV1,http://117.169.30.5:6610/PLTV/88888888/224/3221226389/1/index.m3u8
+江西IPTV1,http://117.169.30.5:6610/PLTV/88888888/224/3221226389/2/index.m3u8
+江西IPTV1,http://117.169.30.5:6610/PLTV/88888888/224/3221226389/2/index.m3u8?fmt=ts2hls
 睛彩广场舞,http://117.169.30.5:6610/PLTV/88888888/224/3221226391/1/index.m3u8
 睛彩广场舞,http://117.169.30.5:6610/PLTV/88888888/224/3221226391/2/index.m3u8
 睛彩广场舞,http://117.169.30.5:6610/PLTV/88888888/224/3221226391/2/index.m3u8?fmt=ts2hls
@@ -1505,8 +1505,8 @@ CCTV-2 财经,http://39.135.140.104:6610/PLTV/88888888/224/3221225500/1/index.m3
 CCTV-2 财经,http://39.135.140.104:6610/PLTV/88888888/224/3221225500/1/index.m3u8?fmt=ts2hls
 CCTV-1 综合,http://39.135.140.104:6610/PLTV/88888888/224/3221225501/1/index.m3u8
 CCTV-1 综合,http://39.135.140.104:6610/PLTV/88888888/224/3221225501/1/index.m3u8?fmt=ts2hls
-汽摩,http://39.135.140.104:6610/PLTV/88888888/224/3221225506/1/index.m3u8
-汽摩,http://39.135.140.104:6610/PLTV/88888888/224/3221225506/1/index.m3u8?fmt=ts2hls
+重庆汽摩,http://39.135.140.104:6610/PLTV/88888888/224/3221225506/1/index.m3u8
+重庆汽摩,http://39.135.140.104:6610/PLTV/88888888/224/3221225506/1/index.m3u8?fmt=ts2hls
 武术世界,http://39.135.140.104:6610/PLTV/88888888/224/3221225508/1/index.m3u8
 武术世界,http://39.135.140.104:6610/PLTV/88888888/224/3221225508/1/index.m3u8?fmt=ts2hls
 兵团卫视,http://39.135.140.104:6610/PLTV/88888888/224/3221225530/1/index.m3u8
@@ -1607,8 +1607,8 @@ CCTV-1 综合,http://39.135.140.104:6610/PLTV/88888888/224/3221225573/1/index.m3
 江西影视旅游,http://39.135.140.104:6610/PLTV/88888888/224/3221225579/1/index.m3u8?fmt=ts2hls
 江西经济生活,http://39.135.140.104:6610/PLTV/88888888/224/3221225580/1/index.m3u8
 江西经济生活,http://39.135.140.104:6610/PLTV/88888888/224/3221225580/1/index.m3u8?fmt=ts2hls
-梨园,http://39.135.140.104:6610/PLTV/88888888/224/3221225581/1/index.m3u8
-梨园,http://39.135.140.104:6610/PLTV/88888888/224/3221225581/1/index.m3u8?fmt=ts2hls
+梨园频道,http://39.135.140.104:6610/PLTV/88888888/224/3221225581/1/index.m3u8
+梨园频道,http://39.135.140.104:6610/PLTV/88888888/224/3221225581/1/index.m3u8?fmt=ts2hls
 江苏卫视,http://39.135.140.104:6610/PLTV/88888888/224/3221225582/1/index.m3u8
 江苏卫视,http://39.135.140.104:6610/PLTV/88888888/224/3221225582/1/index.m3u8?fmt=ts2hls
 江西卫视,http://39.135.140.104:6610/PLTV/88888888/224/3221225583/1/index.m3u8
@@ -2083,8 +2083,8 @@ CCTV-13 新闻,http://39.135.140.104:6610/PLTV/88888888/224/3221226329/1/index.m
 CCTV-13 新闻,http://39.135.140.104:6610/PLTV/88888888/224/3221226329/1/index.m3u8?fmt=ts2hls
 四海钓鱼,http://39.135.140.104:6610/PLTV/88888888/224/3221226330/1/index.m3u8
 四海钓鱼,http://39.135.140.104:6610/PLTV/88888888/224/3221226330/1/index.m3u8?fmt=ts2hls
-车迷,http://39.135.140.104:6610/PLTV/88888888/224/3221226331/1/index.m3u8
-车迷,http://39.135.140.104:6610/PLTV/88888888/224/3221226331/1/index.m3u8?fmt=ts2hls
+车迷频道,http://39.135.140.104:6610/PLTV/88888888/224/3221226331/1/index.m3u8
+车迷频道,http://39.135.140.104:6610/PLTV/88888888/224/3221226331/1/index.m3u8?fmt=ts2hls
 CCTV-15 音乐,http://39.135.140.104:6610/PLTV/88888888/224/3221226332/1/index.m3u8
 CCTV-15 音乐,http://39.135.140.104:6610/PLTV/88888888/224/3221226332/1/index.m3u8?fmt=ts2hls
 中国天气,http://39.135.140.104:6610/PLTV/88888888/224/3221226334/1/index.m3u8
@@ -2161,8 +2161,8 @@ CGTN西语,http://39.135.140.104:6610/PLTV/88888888/224/3221226372/1/index.m3u8?
 南昌资讯,http://39.135.140.104:6610/PLTV/88888888/224/3221226374/1/index.m3u8?fmt=ts2hls
 厦门卫视,http://39.135.140.104:6610/PLTV/88888888/224/3221226375/1/index.m3u8
 厦门卫视,http://39.135.140.104:6610/PLTV/88888888/224/3221226375/1/index.m3u8?fmt=ts2hls
-江西IPTV1,http://39.135.140.104:6610/PLTV/88888888/224/3221226376/1/index.m3u8
-江西IPTV1,http://39.135.140.104:6610/PLTV/88888888/224/3221226376/1/index.m3u8?fmt=ts2hls
+江西IPTV2,http://39.135.140.104:6610/PLTV/88888888/224/3221226376/1/index.m3u8
+江西IPTV2,http://39.135.140.104:6610/PLTV/88888888/224/3221226376/1/index.m3u8?fmt=ts2hls
 环球奇观,http://39.135.140.104:6610/PLTV/88888888/224/3221226378/1/index.m3u8
 环球奇观,http://39.135.140.104:6610/PLTV/88888888/224/3221226378/1/index.m3u8?fmt=ts2hls
 睛彩青少,http://39.135.140.104:6610/PLTV/88888888/224/3221226380/1/index.m3u8
@@ -2173,14 +2173,14 @@ CGTN西语,http://39.135.140.104:6610/PLTV/88888888/224/3221226372/1/index.m3u8?
 南昌新闻综合,http://39.135.140.104:6610/PLTV/88888888/224/3221226382/1/index.m3u8?fmt=ts2hls
 睛彩广场舞,http://39.135.140.104:6610/PLTV/88888888/224/3221226383/1/index.m3u8
 睛彩广场舞,http://39.135.140.104:6610/PLTV/88888888/224/3221226383/1/index.m3u8?fmt=ts2hls
-江西IPTV1,http://39.135.140.104:6610/PLTV/88888888/224/3221226384/1/index.m3u8
-江西IPTV1,http://39.135.140.104:6610/PLTV/88888888/224/3221226384/1/index.m3u8?fmt=ts2hls
+CCTV-11 戏曲,http://39.135.140.104:6610/PLTV/88888888/224/3221226384/1/index.m3u8
+CCTV-11 戏曲,http://39.135.140.104:6610/PLTV/88888888/224/3221226384/1/index.m3u8?fmt=ts2hls
 南昌都市,http://39.135.140.104:6610/PLTV/88888888/224/3221226385/1/index.m3u8
 南昌都市,http://39.135.140.104:6610/PLTV/88888888/224/3221226385/1/index.m3u8?fmt=ts2hls
 北京卫视 4K,http://39.135.140.104:6610/PLTV/88888888/224/3221226386/1/index.m3u8
 北京卫视 4K,http://39.135.140.104:6610/PLTV/88888888/224/3221226386/1/index.m3u8?fmt=ts2hls
-江西IPTV2,http://39.135.140.104:6610/PLTV/88888888/224/3221226389/1/index.m3u8
-江西IPTV2,http://39.135.140.104:6610/PLTV/88888888/224/3221226389/1/index.m3u8?fmt=ts2hls
+江西IPTV1,http://39.135.140.104:6610/PLTV/88888888/224/3221226389/1/index.m3u8
+江西IPTV1,http://39.135.140.104:6610/PLTV/88888888/224/3221226389/1/index.m3u8?fmt=ts2hls
 睛彩广场舞,http://39.135.140.104:6610/PLTV/88888888/224/3221226391/1/index.m3u8
 睛彩广场舞,http://39.135.140.104:6610/PLTV/88888888/224/3221226391/1/index.m3u8?fmt=ts2hls
 北京卫视 4K,http://39.135.140.104:6610/PLTV/88888888/224/3221226394/1/index.m3u8
@@ -2226,7 +2226,7 @@ CCTV-10 科教,http://39.135.140.227:6610/PLTV/88888888/224/3221225496/2/index.m
 CCTV-7 国防军事,http://39.135.140.227:6610/PLTV/88888888/224/3221225499/2/index.m3u8
 CCTV-2 财经,http://39.135.140.227:6610/PLTV/88888888/224/3221225500/2/index.m3u8
 CCTV-1 综合,http://39.135.140.227:6610/PLTV/88888888/224/3221225501/2/index.m3u8
-汽摩,http://39.135.140.227:6610/PLTV/88888888/224/3221225506/2/index.m3u8
+重庆汽摩,http://39.135.140.227:6610/PLTV/88888888/224/3221225506/2/index.m3u8
 武术世界,http://39.135.140.227:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 兵团卫视,http://39.135.140.227:6610/PLTV/88888888/224/3221225530/2/index.m3u8
 陕西卫视,http://39.135.140.227:6610/PLTV/88888888/224/3221225531/2/index.m3u8
@@ -2277,7 +2277,7 @@ CCTV-1 综合,http://39.135.140.227:6610/PLTV/88888888/224/3221225573/2/index.m3
 江西公共农业,http://39.135.140.227:6610/PLTV/88888888/224/3221225578/2/index.m3u8
 江西影视旅游,http://39.135.140.227:6610/PLTV/88888888/224/3221225579/2/index.m3u8
 江西经济生活,http://39.135.140.227:6610/PLTV/88888888/224/3221225580/2/index.m3u8
-梨园,http://39.135.140.227:6610/PLTV/88888888/224/3221225581/2/index.m3u8
+梨园频道,http://39.135.140.227:6610/PLTV/88888888/224/3221225581/2/index.m3u8
 江苏卫视,http://39.135.140.227:6610/PLTV/88888888/224/3221225582/2/index.m3u8
 江西卫视,http://39.135.140.227:6610/PLTV/88888888/224/3221225583/2/index.m3u8
 江西都市,http://39.135.140.227:6610/PLTV/88888888/224/3221225584/2/index.m3u8
@@ -2515,7 +2515,7 @@ CCTV兵器科技,http://39.135.140.227:6610/PLTV/88888888/224/3221226321/2/index
 文物宝库,http://39.135.140.227:6610/PLTV/88888888/224/3221226328/2/index.m3u8
 CCTV-13 新闻,http://39.135.140.227:6610/PLTV/88888888/224/3221226329/2/index.m3u8
 四海钓鱼,http://39.135.140.227:6610/PLTV/88888888/224/3221226330/2/index.m3u8
-车迷,http://39.135.140.227:6610/PLTV/88888888/224/3221226331/2/index.m3u8
+车迷频道,http://39.135.140.227:6610/PLTV/88888888/224/3221226331/2/index.m3u8
 CCTV-15 音乐,http://39.135.140.227:6610/PLTV/88888888/224/3221226332/2/index.m3u8
 中国天气,http://39.135.140.227:6610/PLTV/88888888/224/3221226334/2/index.m3u8
 CCTV-17 农业农村,http://39.135.140.227:6610/PLTV/88888888/224/3221226335/2/index.m3u8
@@ -2554,16 +2554,16 @@ CGTN,http://39.135.140.227:6610/PLTV/88888888/224/3221226369/2/index.m3u8
 CGTN西语,http://39.135.140.227:6610/PLTV/88888888/224/3221226372/2/index.m3u8
 南昌资讯,http://39.135.140.227:6610/PLTV/88888888/224/3221226374/2/index.m3u8
 厦门卫视,http://39.135.140.227:6610/PLTV/88888888/224/3221226375/2/index.m3u8
-江西IPTV1,http://39.135.140.227:6610/PLTV/88888888/224/3221226376/2/index.m3u8
+江西IPTV2,http://39.135.140.227:6610/PLTV/88888888/224/3221226376/2/index.m3u8
 环球奇观,http://39.135.140.227:6610/PLTV/88888888/224/3221226378/2/index.m3u8
 睛彩青少,http://39.135.140.227:6610/PLTV/88888888/224/3221226380/2/index.m3u8
 江西IPTV2,http://39.135.140.227:6610/PLTV/88888888/224/3221226381/2/index.m3u8
 南昌新闻综合,http://39.135.140.227:6610/PLTV/88888888/224/3221226382/2/index.m3u8
 睛彩广场舞,http://39.135.140.227:6610/PLTV/88888888/224/3221226383/2/index.m3u8
-江西IPTV1,http://39.135.140.227:6610/PLTV/88888888/224/3221226384/2/index.m3u8
+CCTV-11 戏曲,http://39.135.140.227:6610/PLTV/88888888/224/3221226384/2/index.m3u8
 南昌都市,http://39.135.140.227:6610/PLTV/88888888/224/3221226385/2/index.m3u8
 北京卫视 4K,http://39.135.140.227:6610/PLTV/88888888/224/3221226386/2/index.m3u8
-江西IPTV2,http://39.135.140.227:6610/PLTV/88888888/224/3221226389/2/index.m3u8
+江西IPTV1,http://39.135.140.227:6610/PLTV/88888888/224/3221226389/2/index.m3u8
 睛彩广场舞,http://39.135.140.227:6610/PLTV/88888888/224/3221226391/2/index.m3u8
 北京卫视 4K,http://39.135.140.227:6610/PLTV/88888888/224/3221226394/2/index.m3u8
 三沙卫视,http://39.135.140.227:6610/PLTV/88888888/224/3221226396/2/index.m3u8
@@ -2594,7 +2594,7 @@ CCTV-10 科教,http://39.135.140.227:6610/PLTV/88888888/224/3221225496/2/index.m
 CCTV-7 国防军事,http://39.135.140.227:6610/PLTV/88888888/224/3221225499/2/index.m3u8?fmt=ts2hls
 CCTV-2 财经,http://39.135.140.227:6610/PLTV/88888888/224/3221225500/2/index.m3u8?fmt=ts2hls
 CCTV-1 综合,http://39.135.140.227:6610/PLTV/88888888/224/3221225501/2/index.m3u8?fmt=ts2hls
-汽摩,http://39.135.140.227:6610/PLTV/88888888/224/3221225506/2/index.m3u8?fmt=ts2hls
+重庆汽摩,http://39.135.140.227:6610/PLTV/88888888/224/3221225506/2/index.m3u8?fmt=ts2hls
 武术世界,http://39.135.140.227:6610/PLTV/88888888/224/3221225508/2/index.m3u8?fmt=ts2hls
 兵团卫视,http://39.135.140.227:6610/PLTV/88888888/224/3221225530/2/index.m3u8?fmt=ts2hls
 陕西卫视,http://39.135.140.227:6610/PLTV/88888888/224/3221225531/2/index.m3u8?fmt=ts2hls
@@ -2645,7 +2645,7 @@ CCTV-1 综合,http://39.135.140.227:6610/PLTV/88888888/224/3221225573/2/index.m3
 江西公共农业,http://39.135.140.227:6610/PLTV/88888888/224/3221225578/2/index.m3u8?fmt=ts2hls
 江西影视旅游,http://39.135.140.227:6610/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
 江西经济生活,http://39.135.140.227:6610/PLTV/88888888/224/3221225580/2/index.m3u8?fmt=ts2hls
-梨园,http://39.135.140.227:6610/PLTV/88888888/224/3221225581/2/index.m3u8?fmt=ts2hls
+梨园频道,http://39.135.140.227:6610/PLTV/88888888/224/3221225581/2/index.m3u8?fmt=ts2hls
 江苏卫视,http://39.135.140.227:6610/PLTV/88888888/224/3221225582/2/index.m3u8?fmt=ts2hls
 江西卫视,http://39.135.140.227:6610/PLTV/88888888/224/3221225583/2/index.m3u8?fmt=ts2hls
 江西都市,http://39.135.140.227:6610/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls
@@ -2883,7 +2883,7 @@ CCTV兵器科技,http://39.135.140.227:6610/PLTV/88888888/224/3221226321/2/index
 文物宝库,http://39.135.140.227:6610/PLTV/88888888/224/3221226328/2/index.m3u8?fmt=ts2hls
 CCTV-13 新闻,http://39.135.140.227:6610/PLTV/88888888/224/3221226329/2/index.m3u8?fmt=ts2hls
 四海钓鱼,http://39.135.140.227:6610/PLTV/88888888/224/3221226330/2/index.m3u8?fmt=ts2hls
-车迷,http://39.135.140.227:6610/PLTV/88888888/224/3221226331/2/index.m3u8?fmt=ts2hls
+车迷频道,http://39.135.140.227:6610/PLTV/88888888/224/3221226331/2/index.m3u8?fmt=ts2hls
 CCTV-15 音乐,http://39.135.140.227:6610/PLTV/88888888/224/3221226332/2/index.m3u8?fmt=ts2hls
 中国天气,http://39.135.140.227:6610/PLTV/88888888/224/3221226334/2/index.m3u8?fmt=ts2hls
 CCTV-17 农业农村,http://39.135.140.227:6610/PLTV/88888888/224/3221226335/2/index.m3u8?fmt=ts2hls
@@ -2922,16 +2922,16 @@ CGTN,http://39.135.140.227:6610/PLTV/88888888/224/3221226369/2/index.m3u8?fmt=ts
 CGTN西语,http://39.135.140.227:6610/PLTV/88888888/224/3221226372/2/index.m3u8?fmt=ts2hls
 南昌资讯,http://39.135.140.227:6610/PLTV/88888888/224/3221226374/2/index.m3u8?fmt=ts2hls
 厦门卫视,http://39.135.140.227:6610/PLTV/88888888/224/3221226375/2/index.m3u8?fmt=ts2hls
-江西IPTV1,http://39.135.140.227:6610/PLTV/88888888/224/3221226376/2/index.m3u8?fmt=ts2hls
+江西IPTV2,http://39.135.140.227:6610/PLTV/88888888/224/3221226376/2/index.m3u8?fmt=ts2hls
 环球奇观,http://39.135.140.227:6610/PLTV/88888888/224/3221226378/2/index.m3u8?fmt=ts2hls
 睛彩青少,http://39.135.140.227:6610/PLTV/88888888/224/3221226380/2/index.m3u8?fmt=ts2hls
 江西IPTV2,http://39.135.140.227:6610/PLTV/88888888/224/3221226381/2/index.m3u8?fmt=ts2hls
 南昌新闻综合,http://39.135.140.227:6610/PLTV/88888888/224/3221226382/2/index.m3u8?fmt=ts2hls
 睛彩广场舞,http://39.135.140.227:6610/PLTV/88888888/224/3221226383/2/index.m3u8?fmt=ts2hls
-江西IPTV1,http://39.135.140.227:6610/PLTV/88888888/224/3221226384/2/index.m3u8?fmt=ts2hls
+CCTV-11 戏曲,http://39.135.140.227:6610/PLTV/88888888/224/3221226384/2/index.m3u8?fmt=ts2hls
 南昌都市,http://39.135.140.227:6610/PLTV/88888888/224/3221226385/2/index.m3u8?fmt=ts2hls
 北京卫视 4K,http://39.135.140.227:6610/PLTV/88888888/224/3221226386/2/index.m3u8?fmt=ts2hls
-江西IPTV2,http://39.135.140.227:6610/PLTV/88888888/224/3221226389/2/index.m3u8?fmt=ts2hls
+江西IPTV1,http://39.135.140.227:6610/PLTV/88888888/224/3221226389/2/index.m3u8?fmt=ts2hls
 睛彩广场舞,http://39.135.140.227:6610/PLTV/88888888/224/3221226391/2/index.m3u8?fmt=ts2hls
 北京卫视 4K,http://39.135.140.227:6610/PLTV/88888888/224/3221226394/2/index.m3u8?fmt=ts2hls
 三沙卫视,http://39.135.140.227:6610/PLTV/88888888/224/3221226396/2/index.m3u8?fmt=ts2hls
@@ -2963,7 +2963,7 @@ CCTV-10 科教,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/
 CCTV-7 国防军事,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225499/877949953.smil/index.m3u8?
 CCTV-2 财经,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/877949953.smil/index.m3u8?
 CCTV-1 综合,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/877949953.smil/index.m3u8?
-汽摩,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/877949953.smil/index.m3u8?
+重庆汽摩,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/877949953.smil/index.m3u8?
 武术世界,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225508/877949953.smil/index.m3u8?
 兵团卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225530/877949953.smil/index.m3u8?
 陕西卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225531/877949953.smil/index.m3u8?
@@ -3014,7 +3014,7 @@ CCTV-1 综合,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225573/8
 江西公共农业,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/877949953.smil/index.m3u8?
 江西影视旅游,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/877949953.smil/index.m3u8?
 江西经济生活,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225580/877949953.smil/index.m3u8?
-梨园,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/877949953.smil/index.m3u8?
+梨园频道,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/877949953.smil/index.m3u8?
 江苏卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225582/877949953.smil/index.m3u8?
 江西卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225583/877949953.smil/index.m3u8?
 江西都市,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/877949953.smil/index.m3u8?
@@ -3252,7 +3252,7 @@ CCTV兵器科技,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/322122632
 文物宝库,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226328/877949953.smil/index.m3u8?
 CCTV-13 新闻,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226329/877949953.smil/index.m3u8?
 四海钓鱼,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226330/877949953.smil/index.m3u8?
-车迷,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226331/877949953.smil/index.m3u8?
+车迷频道,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226331/877949953.smil/index.m3u8?
 CCTV-15 音乐,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226332/877949953.smil/index.m3u8?
 中国天气,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226334/877949953.smil/index.m3u8?
 CCTV-17 农业农村,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226335/877949953.smil/index.m3u8?
@@ -3291,16 +3291,16 @@ CGTN,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226369/877949953.
 CGTN西语,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226372/877949953.smil/index.m3u8?
 南昌资讯,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226374/877949953.smil/index.m3u8?
 厦门卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226375/877949953.smil/index.m3u8?
-江西IPTV1,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226376/877949953.smil/index.m3u8?
+江西IPTV2,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226376/877949953.smil/index.m3u8?
 环球奇观,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226378/877949953.smil/index.m3u8?
 睛彩青少,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226380/877949953.smil/index.m3u8?
 江西IPTV2,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226381/877949953.smil/index.m3u8?
 南昌新闻综合,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226382/877949953.smil/index.m3u8?
 睛彩广场舞,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226383/877949953.smil/index.m3u8?
-江西IPTV1,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226384/877949953.smil/index.m3u8?
+CCTV-11 戏曲,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226384/877949953.smil/index.m3u8?
 南昌都市,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226385/877949953.smil/index.m3u8?
 北京卫视 4K,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226386/877949953.smil/index.m3u8?
-江西IPTV2,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226389/877949953.smil/index.m3u8?
+江西IPTV1,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226389/877949953.smil/index.m3u8?
 睛彩广场舞,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226391/877949953.smil/index.m3u8?
 北京卫视 4K,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226394/877949953.smil/index.m3u8?
 三沙卫视,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226396/877949953.smil/index.m3u8?
@@ -3389,11 +3389,11 @@ CHC影迷电影,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/322122630
 动作电影,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226308/1.m3u8?fmt=ts2hls$1080p
 北京卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/1.m3u8?fmt=ts2hls$1080p
 北京卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226386/1.m3u8?fmt=ts2hls$2160p
-北京纪实科教,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226365/1.m3u8?fmt=ts2hls$1080p
+BRTV纪实科教,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226365/1.m3u8?fmt=ts2hls$1080p
 南昌新闻综合,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226382/1.m3u8?fmt=ts2hls$1080p
 南昌资讯,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226374/1.m3u8?fmt=ts2hls$1080p
-卡酷少儿,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226360/1.m3u8?fmt=ts2hls$576p
-卡酷少儿,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226362/1.m3u8?fmt=ts2hls$1080p
+BRTV卡酷少儿,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226360/1.m3u8?fmt=ts2hls$576p
+BRTV卡酷少儿,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226362/1.m3u8?fmt=ts2hls$1080p
 厦门卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226375/1.m3u8?fmt=ts2hls$576p
 吉林卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226355/1.m3u8?fmt=ts2hls$1080p
 哈哈炫动,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225560/1.m3u8?fmt=ts2hls$576p
@@ -3410,19 +3410,19 @@ CHC影迷电影,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/322122630
 广东卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/1.m3u8?fmt=ts2hls$1080p
 康巴卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226358/1.m3u8?fmt=ts2hls$1080p
 快乐垂钓,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/1.m3u8?fmt=ts2hls$1080p
-文本卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/1.m3u8?fmt=ts2hls$1080p
+广西卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/1.m3u8?fmt=ts2hls$1080p
 文物宝库,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226328/1.m3u8?fmt=ts2hls$1080p
 新动漫,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226322/1.m3u8?fmt=ts2hls$576p
 新疆卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225534/1.m3u8?fmt=ts2hls$576p
 梨园频道,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/1.m3u8?fmt=ts2hls$1080p
 武术世界,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225508/1.m3u8?fmt=ts2hls$1080p
 江苏卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/1.m3u8?fmt=ts2hls$1080p
-江西IPTV,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226376/1.m3u8?fmt=ts2hls$1080p
-江西IPTV,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226389/1.m3u8?fmt=ts2hls$1080p
-江西IPTV,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226414/1.m3u8?fmt=ts2hls$1080p
+江西IPTV2,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226376/1.m3u8?fmt=ts2hls$1080p
+江西IPTV1,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226389/1.m3u8?fmt=ts2hls$1080p
+江西IPTV1,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226414/1.m3u8?fmt=ts2hls$1080p
 江西公共农业,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/1.m3u8?fmt=ts2hls$1080p
 江西卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/1.m3u8?fmt=ts2hls$1080p
-江西卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226381/1.m3u8?fmt=ts2hls$1080p
+江西IPTV2,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226381/1.m3u8?fmt=ts2hls$1080p
 江西少儿,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/1.m3u8?fmt=ts2hls$1080p
 江西教育,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/1.m3u8?fmt=ts2hls$1080p
 江西新闻,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/1.m3u8?fmt=ts2hls$1080p
@@ -3716,10 +3716,10 @@ BRTV纪实科教,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/888888
 广西卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
 快乐垂钓,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
 文物宝库,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226328/index.m3u8?fmt=ts2hls
-梨园,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
+梨园频道,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
 武术世界,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225508/index.m3u8?fmt=ts2hls
 江苏卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls
-江西IPTV1,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226376/index.m3u8?fmt=ts2hls
+江西IPTV2,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226376/index.m3u8?fmt=ts2hls
 江西IPTV2,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226381/index.m3u8?fmt=ts2hls
 江西公共农业,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
 江西卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
@@ -3749,7 +3749,7 @@ BRTV纪实科教,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/888888
 #1280x720
 
 #720x576
-汽摩,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
+重庆汽摩,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
 兵团卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225530/index.m3u8?fmt=ts2hls
 陕西卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225531/index.m3u8?fmt=ts2hls
 四川卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225532/index.m3u8?fmt=ts2hls
@@ -3808,7 +3808,7 @@ CETV-4 职业教育 ,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88
 新动漫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226322/index.m3u8?fmt=ts2hls
 生态环境,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226325/index.m3u8?fmt=ts2hls
 四海钓鱼,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8?fmt=ts2hls
-车迷,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8?fmt=ts2hls
+车迷频道,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8?fmt=ts2hls
 财富天下,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8?fmt=ts2hls
 证券服务,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8?fmt=ts2hls
 国学频道,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8?fmt=ts2hls
@@ -4458,10 +4458,10 @@ BRTV纪实科教,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/322122636
 广西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
 快乐垂钓,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
 文物宝库,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226328/index.m3u8?fmt=ts2hls
-梨园,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
+梨园频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
 武术世界,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225508/index.m3u8?fmt=ts2hls
 江苏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls
-江西IPTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226376/index.m3u8?fmt=ts2hls
+江西IPTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226376/index.m3u8?fmt=ts2hls
 江西IPTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226381/index.m3u8?fmt=ts2hls
 江西公共农业,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
 江西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
@@ -4542,7 +4542,7 @@ CGTN,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226347/index.m3u8
 江西影视旅游,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 江西新闻,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225576/index.m3u8?fmt=ts2hls
 江西经济生活,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225580/index.m3u8?fmt=ts2hls
-汽摩,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
+重庆汽摩,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
 河北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225544/index.m3u8?fmt=ts2hls
 河南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225545/index.m3u8?fmt=ts2hls
 浙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225557/index.m3u8?fmt=ts2hls
@@ -4558,7 +4558,7 @@ CGTN,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226347/index.m3u8
 证券服务,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226337/index.m3u8?fmt=ts2hls
 财富天下,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226336/index.m3u8?fmt=ts2hls
 贵州卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225537/index.m3u8?fmt=ts2hls
-车迷,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226331/index.m3u8?fmt=ts2hls
+车迷频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226331/index.m3u8?fmt=ts2hls
 辽宁卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225547/index.m3u8?fmt=ts2hls
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225540/index.m3u8?fmt=ts2hls
 金鹰卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225554/index.m3u8?fmt=ts2hls
@@ -4630,10 +4630,10 @@ BRTV纪实科教,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/888888
 广西卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
 快乐垂钓,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
 文物宝库,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226328/index.m3u8?fmt=ts2hls
-梨园,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
+梨园频道,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
 武术世界,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225508/index.m3u8?fmt=ts2hls
 江苏卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls
-江西IPTV1,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226376/index.m3u8?fmt=ts2hls
+江西IPTV2,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226376/index.m3u8?fmt=ts2hls
 江西IPTV2,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226381/index.m3u8?fmt=ts2hls
 江西公共农业,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
 江西卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
@@ -4663,7 +4663,7 @@ BRTV纪实科教,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/888888
 #1280x720
 
 #720x576
-汽摩,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
+重庆汽摩,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
 兵团卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225530/index.m3u8?fmt=ts2hls
 陕西卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225531/index.m3u8?fmt=ts2hls
 四川卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225532/index.m3u8?fmt=ts2hls
@@ -4722,7 +4722,7 @@ CETV-4 职业教育 ,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88
 新动漫,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226322/index.m3u8?fmt=ts2hls
 生态环境,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226325/index.m3u8?fmt=ts2hls
 四海钓鱼,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8?fmt=ts2hls
-车迷,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8?fmt=ts2hls
+车迷频道,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8?fmt=ts2hls
 财富天下,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8?fmt=ts2hls
 证券服务,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8?fmt=ts2hls
 国学频道,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8?fmt=ts2hls
@@ -4754,7 +4754,7 @@ CCTV-10 科教,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221
 CCTV-7 国防军事,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225499/2/index.m3u8
 CCTV-2 财经,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225500/2/index.m3u8
 CCTV-1 综合,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
-汽摩,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225506/2/index.m3u8
+重庆汽摩,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225506/2/index.m3u8
 武术世界,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 兵团卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225530/2/index.m3u8
 陕西卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225531/2/index.m3u8
@@ -4805,7 +4805,7 @@ CCTV-1 综合,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/32212
 江西公共农业,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225578/2/index.m3u8
 江西影视旅游,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225579/2/index.m3u8
 江西经济生活,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225580/2/index.m3u8
-梨园,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
+梨园频道,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
 江苏卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225582/2/index.m3u8
 江西卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225583/2/index.m3u8
 江西都市,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225584/2/index.m3u8
@@ -5043,7 +5043,7 @@ CCTV兵器科技,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/32
 文物宝库,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226328/2/index.m3u8
 CCTV-13 新闻,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226329/2/index.m3u8
 四海钓鱼,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226330/2/index.m3u8
-车迷,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226331/2/index.m3u8
+车迷频道,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226331/2/index.m3u8
 CCTV-15 音乐,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226332/2/index.m3u8
 中国天气,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226334/2/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226335/2/index.m3u8
@@ -5082,16 +5082,16 @@ CGTN,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226369/2/i
 CGTN西语,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226372/2/index.m3u8
 南昌资讯,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226374/2/index.m3u8
 厦门卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226375/2/index.m3u8
-江西IPTV1,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226376/2/index.m3u8
+江西IPTV2,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226376/2/index.m3u8
 环球奇观,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226378/2/index.m3u8
 睛彩青少,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226380/2/index.m3u8
 江西IPTV2,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226381/2/index.m3u8
 南昌新闻综合,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226382/2/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226383/2/index.m3u8
-江西IPTV1,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226384/2/index.m3u8
+CCTV-11 戏曲,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226384/2/index.m3u8
 南昌都市,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226385/2/index.m3u8
 北京卫视 4K,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226386/2/index.m3u8
-江西IPTV2,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226389/2/index.m3u8
+江西IPTV1,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226389/2/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226391/2/index.m3u8
 北京卫视 4K,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226394/2/index.m3u8
 三沙卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226396/2/index.m3u8
@@ -5124,7 +5124,7 @@ CCTV-10 科教,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221
 CCTV-7 国防军事,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225499/index.m3u8
 CCTV-2 财经,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225500/index.m3u8
 CCTV-1 综合,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225501/index.m3u8
-汽摩,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225506/index.m3u8
+重庆汽摩,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225506/index.m3u8
 武术世界,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225508/index.m3u8
 兵团卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225530/index.m3u8
 陕西卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225531/index.m3u8
@@ -5175,7 +5175,7 @@ CCTV-1 综合,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/32212
 江西公共农业,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225578/index.m3u8
 江西影视旅游,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225579/index.m3u8
 江西经济生活,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225580/index.m3u8
-梨园,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225581/index.m3u8
+梨园频道,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225581/index.m3u8
 江苏卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225582/index.m3u8
 江西卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225583/index.m3u8
 江西都市,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225584/index.m3u8
@@ -5413,7 +5413,7 @@ CCTV兵器科技,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/32
 文物宝库,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226328/index.m3u8
 CCTV-13 新闻,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226329/index.m3u8
 四海钓鱼,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226330/index.m3u8
-车迷,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226331/index.m3u8
+车迷频道,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226331/index.m3u8
 CCTV-15 音乐,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226332/index.m3u8
 中国天气,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226334/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226335/index.m3u8
@@ -5452,16 +5452,16 @@ CGTN,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226369/ind
 CGTN西语,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226372/index.m3u8
 南昌资讯,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226374/index.m3u8
 厦门卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226375/index.m3u8
-江西IPTV1,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226376/index.m3u8
+江西IPTV2,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226376/index.m3u8
 环球奇观,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226378/index.m3u8
 睛彩青少,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226380/index.m3u8
 江西IPTV2,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226381/index.m3u8
 南昌新闻综合,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226382/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226383/index.m3u8
-江西IPTV1,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226384/index.m3u8
+CCTV-11 戏曲,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226384/index.m3u8
 南昌都市,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226385/index.m3u8
 北京卫视 4K,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226386/index.m3u8
-江西IPTV2,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226389/index.m3u8
+江西IPTV1,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226389/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226391/index.m3u8
 北京卫视 4K,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226394/index.m3u8
 三沙卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226396/index.m3u8
@@ -5493,7 +5493,7 @@ CCTV-10 科教,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221
 CCTV-7 国防军事,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225499/2/index.m3u8
 CCTV-2 财经,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225500/2/index.m3u8
 CCTV-1 综合,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
-汽摩,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225506/2/index.m3u8
+重庆汽摩,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225506/2/index.m3u8
 武术世界,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 兵团卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225530/2/index.m3u8
 陕西卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225531/2/index.m3u8
@@ -5544,7 +5544,7 @@ CCTV-1 综合,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/32212
 江西公共农业,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225578/2/index.m3u8
 江西影视旅游,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225579/2/index.m3u8
 江西经济生活,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225580/2/index.m3u8
-梨园,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
+梨园频道,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
 江苏卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225582/2/index.m3u8
 江西卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225583/2/index.m3u8
 江西都市,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225584/2/index.m3u8
@@ -5782,7 +5782,7 @@ CCTV兵器科技,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/32
 文物宝库,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226328/2/index.m3u8
 CCTV-13 新闻,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226329/2/index.m3u8
 四海钓鱼,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226330/2/index.m3u8
-车迷,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226331/2/index.m3u8
+车迷频道,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226331/2/index.m3u8
 CCTV-15 音乐,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226332/2/index.m3u8
 中国天气,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226334/2/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226335/2/index.m3u8
@@ -5821,16 +5821,16 @@ CGTN,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226369/2/i
 CGTN西语,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226372/2/index.m3u8
 南昌资讯,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226374/2/index.m3u8
 厦门卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226375/2/index.m3u8
-江西IPTV1,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226376/2/index.m3u8
+江西IPTV2,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226376/2/index.m3u8
 环球奇观,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226378/2/index.m3u8
 睛彩青少,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226380/2/index.m3u8
 江西IPTV2,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226381/2/index.m3u8
 南昌新闻综合,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226382/2/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226383/2/index.m3u8
-江西IPTV1,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226384/2/index.m3u8
+CCTV-11 戏曲,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226384/2/index.m3u8
 南昌都市,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226385/2/index.m3u8
 北京卫视 4K,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226386/2/index.m3u8
-江西IPTV2,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226389/2/index.m3u8
+江西IPTV1,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226389/2/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226391/2/index.m3u8
 北京卫视 4K,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226394/2/index.m3u8
 三沙卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226396/2/index.m3u8
@@ -5863,7 +5863,7 @@ CCTV-10 科教,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221
 CCTV-7 国防军事,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225499/index.m3u8
 CCTV-2 财经,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225500/index.m3u8
 CCTV-1 综合,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225501/index.m3u8
-汽摩,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225506/index.m3u8
+重庆汽摩,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225506/index.m3u8
 武术世界,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225508/index.m3u8
 兵团卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225530/index.m3u8
 陕西卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225531/index.m3u8
@@ -5914,7 +5914,7 @@ CCTV-1 综合,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/32212
 江西公共农业,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225578/index.m3u8
 江西影视旅游,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225579/index.m3u8
 江西经济生活,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225580/index.m3u8
-梨园,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225581/index.m3u8
+梨园频道,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225581/index.m3u8
 江苏卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225582/index.m3u8
 江西卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225583/index.m3u8
 江西都市,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225584/index.m3u8
@@ -6152,7 +6152,7 @@ CCTV兵器科技,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/32
 文物宝库,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226328/index.m3u8
 CCTV-13 新闻,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226329/index.m3u8
 四海钓鱼,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226330/index.m3u8
-车迷,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226331/index.m3u8
+车迷频道,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226331/index.m3u8
 CCTV-15 音乐,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226332/index.m3u8
 中国天气,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226334/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226335/index.m3u8
@@ -6191,16 +6191,16 @@ CGTN,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226369/ind
 CGTN西语,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226372/index.m3u8
 南昌资讯,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226374/index.m3u8
 厦门卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226375/index.m3u8
-江西IPTV1,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226376/index.m3u8
+江西IPTV2,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226376/index.m3u8
 环球奇观,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226378/index.m3u8
 睛彩青少,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226380/index.m3u8
 江西IPTV2,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226381/index.m3u8
 南昌新闻综合,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226382/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226383/index.m3u8
-江西IPTV1,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226384/index.m3u8
+CCTV-11 戏曲,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226384/index.m3u8
 南昌都市,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226385/index.m3u8
 北京卫视 4K,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226386/index.m3u8
-江西IPTV2,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226389/index.m3u8
+江西IPTV1,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226389/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226391/index.m3u8
 北京卫视 4K,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226394/index.m3u8
 三沙卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226396/index.m3u8
@@ -6232,7 +6232,7 @@ CCTV-10 科教,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221
 CCTV-7 国防军事,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225499/2/index.m3u8
 CCTV-2 财经,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225500/2/index.m3u8
 CCTV-1 综合,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
-汽摩,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225506/2/index.m3u8
+重庆汽摩,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225506/2/index.m3u8
 武术世界,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 兵团卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225530/2/index.m3u8
 陕西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225531/2/index.m3u8
@@ -6283,7 +6283,7 @@ CCTV-1 综合,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32212
 江西公共农业,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225578/2/index.m3u8
 江西影视旅游,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225579/2/index.m3u8
 江西经济生活,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225580/2/index.m3u8
-梨园,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
+梨园频道,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
 江苏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225582/2/index.m3u8
 江西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225583/2/index.m3u8
 江西都市,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225584/2/index.m3u8
@@ -6521,7 +6521,7 @@ CCTV兵器科技,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32
 文物宝库,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226328/2/index.m3u8
 CCTV-13 新闻,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226329/2/index.m3u8
 四海钓鱼,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226330/2/index.m3u8
-车迷,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226331/2/index.m3u8
+车迷频道,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226331/2/index.m3u8
 CCTV-15 音乐,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226332/2/index.m3u8
 中国天气,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226334/2/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226335/2/index.m3u8
@@ -6560,16 +6560,16 @@ CGTN,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226369/2/i
 CGTN西语,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226372/2/index.m3u8
 南昌资讯,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226374/2/index.m3u8
 厦门卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226375/2/index.m3u8
-江西IPTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226376/2/index.m3u8
+江西IPTV2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226376/2/index.m3u8
 环球奇观,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226378/2/index.m3u8
 睛彩青少,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226380/2/index.m3u8
 江西IPTV2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226381/2/index.m3u8
 南昌新闻综合,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226382/2/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226383/2/index.m3u8
-江西IPTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226384/2/index.m3u8
+CCTV-11 戏曲,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226384/2/index.m3u8
 南昌都市,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226385/2/index.m3u8
 北京卫视 4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226386/2/index.m3u8
-江西IPTV2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226389/2/index.m3u8
+江西IPTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226389/2/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226391/2/index.m3u8
 北京卫视 4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226394/2/index.m3u8
 三沙卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226396/2/index.m3u8
@@ -6601,7 +6601,7 @@ CCTV-10 科教,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221
 CCTV-7 国防军事,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225499/index.m3u8
 CCTV-2 财经,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225500/index.m3u8
 CCTV-1 综合,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225501/index.m3u8
-汽摩,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225506/index.m3u8
+重庆汽摩,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225506/index.m3u8
 武术世界,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225508/index.m3u8
 兵团卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225530/index.m3u8
 陕西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225531/index.m3u8
@@ -6652,7 +6652,7 @@ CCTV-1 综合,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/32212
 江西公共农业,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225578/index.m3u8
 江西影视旅游,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225579/index.m3u8
 江西经济生活,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225580/index.m3u8
-梨园,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225581/index.m3u8
+梨园频道,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225581/index.m3u8
 江苏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225582/index.m3u8
 江西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225583/index.m3u8
 江西都市,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225584/index.m3u8
@@ -6890,7 +6890,7 @@ CCTV兵器科技,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/32
 文物宝库,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226328/index.m3u8
 CCTV-13 新闻,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226329/index.m3u8
 四海钓鱼,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226330/index.m3u8
-车迷,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226331/index.m3u8
+车迷频道,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226331/index.m3u8
 CCTV-15 音乐,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226332/index.m3u8
 中国天气,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226334/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226335/index.m3u8
@@ -6929,16 +6929,16 @@ CGTN,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226369/ind
 CGTN西语,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226372/index.m3u8
 南昌资讯,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226374/index.m3u8
 厦门卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226375/index.m3u8
-江西IPTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226376/index.m3u8
+江西IPTV2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226376/index.m3u8
 环球奇观,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226378/index.m3u8
 睛彩青少,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226380/index.m3u8
 江西IPTV2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226381/index.m3u8
 南昌新闻综合,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226382/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226383/index.m3u8
-江西IPTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226384/index.m3u8
+CCTV-11 戏曲,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226384/index.m3u8
 南昌都市,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226385/index.m3u8
 北京卫视 4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226386/index.m3u8
-江西IPTV2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226389/index.m3u8
+江西IPTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226389/index.m3u8
 睛彩广场舞,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226391/index.m3u8
 北京卫视 4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226394/index.m3u8
 三沙卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226396/index.m3u8
