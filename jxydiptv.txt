@@ -3386,7 +3386,7 @@ CHC影迷电影,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/322122630
 先锋乒羽,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226311/1.m3u8?fmt=ts2hls$576p
 兵团卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225530/1.m3u8?fmt=ts2hls$576p
 内蒙古卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225533/1.m3u8?fmt=ts2hls$576p
-动作电影,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226308/1.m3u8?fmt=ts2hls$1080p
+CHC动作电影,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226308/1.m3u8?fmt=ts2hls$1080p
 北京卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/1.m3u8?fmt=ts2hls$1080p
 北京卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226386/1.m3u8?fmt=ts2hls$2160p
 BRTV纪实科教,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226365/1.m3u8?fmt=ts2hls$1080p
