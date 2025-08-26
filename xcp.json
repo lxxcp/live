@@ -2,7 +2,7 @@
     "urls":[
         {
             "url":"https://cdn.gh-proxy.com/raw.githubusercontent.com/lxxcp/live/main/live.json",
-            "name":"试验"
+            "name":"live"
         },
         {
             "url":"https://gitee.com/senno/tvbox/raw/master/api.json",
