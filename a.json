@@ -1,5 +1,5 @@
 {
-    "spider":"https://edgeone.gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;a392ca741d7598a3c2fb96a860ddd38a",
+    "spider":"https://cdn.gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;a392ca741d7598a3c2fb96a860ddd38a",
     "sites":[
         {
             "key":"*博天堂",
@@ -2260,7 +2260,7 @@
         {
             "name":"JXYD",
             "type":0,
-            "url":"https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
+            "url":"https://cdn.gh-proxy.com/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
         },
         {
             "name":"YDV6",
