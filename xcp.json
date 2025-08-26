@@ -1,15 +1,6 @@
 {
     "urls":[
-        
-         {
-            "url":"https://edgeone.gh-proxy.com/raw.githubusercontent.com/lxxcp/live/main/lives.json",
-            "name":"直播(备用1)"
-        },
         {
-            "url":"https://hk.gh-proxy.com/raw.githubusercontent.com/lxxcp/live/main/lives.json",
-            "name":"直播(备用2)"
-        },
-         {
             "url":"https://gitee.com/senno/tvbox/raw/master/api.json",
             "name":"tvbox"
         },
@@ -29,7 +20,6 @@
             "url":"https://100km.top/0",
             "name":"骚零"
         },
-        
         {
             "url":"https://tv.nxog.top?&c9V",
             "name":"讴歌tv"
@@ -47,16 +37,12 @@
             "name":"讴歌"
         },
         {
-            "url":"http://dxawi.github.io/0/0.json",
-            "name":"dxawi线路"
-        },
-        {
             "url":"http://home.jundie.top:81/top98.json",
             "name":"俊佬"
         },
         {
-            "url":"https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
-            "name":"bizhangjie"
+            "url":"https://edgeone.gh-proxy.com/raw.githubusercontent.com/lxxcp/live/main/a.json",
+            "name":"abc"
         }
     ]
 }
