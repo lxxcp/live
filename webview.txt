@@ -2517,11 +2517,8 @@ $牡丹江
 兰州文旅,webview://https://lanzhoubcnew.zainanjing365.com/share/live/detailTv?resourceId=14
 兰州新闻综合,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 兰州文旅,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
-嘉峪关综合频道,http://pili-live-hdl-lrfmc.tianma3600.com/lztl/gonggongpindao.m3u8
-嘉峪关综合频道,webview://https://nginx-jyg.xgsyun.com/jyg/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tanlnLnhnc3l1bi5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjEsImlzU2hhcmUiOjEsImFwcElkIjoxLCJzaXRlSUQiOjEsInN5c3RlbVR5cGUiOjAsImFwcFZlcnNpb24iOiIzLjIuMSIsInd4QXBwSWQiOiJ3eGU3MzViZGQ3MGNmZGQzNzkifQ==
-嘉峪关综合频道,webview://https://cloud.kankanlive.com/cloud/a/embed/1690854462058921
-
-庆阳综合,https://play.kankanlive.com/live/1700643403411931.m3u8
+嘉峪关综合,webview://https://nginx-jyg.xgsyun.com/jyg/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tanlnLnhnc3l1bi5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjEsImlzU2hhcmUiOjEsImFwcElkIjoxLCJzaXRlSUQiOjEsInN5c3RlbVR5cGUiOjAsImFwcFZlcnNpb24iOiIzLjIuMSIsInd4QXBwSWQiOiJ3eGU3MzViZGQ3MGNmZGQzNzkifQ==
+嘉峪关综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1690854462058921
 张掖新闻,http://play.kankanlive.com/live/1720583434627241.m3u8
 张掖农业旅游,https://play.kankanlive.com/live/1720583009200246.m3u8
 张掖新闻,webview://https://cloud.kankanlive.com/cloud/a/embed/1720583434627241
@@ -2537,8 +2534,8 @@ $牡丹江
 甘南藏语,webview://https://nginx-gnz.xgsyun.com/gnz/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tZ256Lnhnc3l1bi5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjMsInNpdGVJRCI6MX0=
 甘南汉语,https://play.kankanlive.com/live/1711955176432990.m3u8
 甘南藏语,https://play.kankanlive.com/live/1711955770173989.m3u8
-庆阳新闻综合,https://play.kankanlive.com/live/1700643403411931.m3u8
-庆阳新闻综合,webview://https://cloud.kankanlive.com/cloud/h5/1700643403411931
+庆阳综合,https://play.kankanlive.com/live/1700643403411931.m3u8
+庆阳综合,webview://https://cloud.kankanlive.com/cloud/h5/1700643403411931
 庆阳文体旅游,https://play.kankanlive.com/live/1700643349159930.m3u8
 酒泉文旅,https://play.kankanlive.com/live/1702036477193973.m3u8
 酒泉文旅,webview://https://cloud.kankanlive.com/cloud/h5/1702036477193973
@@ -2580,7 +2577,6 @@ $牡丹江
 陇南综合,https://play.kankanlive.com/live/1709171819929902.m3u8
 陇南公共,https://play.kankanlive.com/live/1709171893138901.m3u8
 陇西综合,webview://https://nginx-lxx.xgsyun.com/lxx/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tbHh4Lnhnc3l1bi5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjEsInR2U3R5bGUiOjEsImNvbElkIjoxMDgsImlzU2hhcmUiOjEsImFwcElkIjoxLCJzaXRlSUQiOjEsInNpdGVJZCI6MSwic3lzdGVtVHlwZSI6MCwiYXBwVmVyc2lvbiI6IjMuMi4xIiwid3hBcHBJZCI6Ind4YmI5ODg1ZDcwOGU1N2QxZCJ9
-
 礼县综合,webview://https://zhangshanglixiann.newgscloud.com/live/2021/03/03/35c9528e76db4cb98e1269804c236ae9.html
 礼县综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1716949735680956
 临夏综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1714096320293954
