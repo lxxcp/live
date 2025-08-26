@@ -1,6 +1,10 @@
 {
     "urls":[
         {
+            "url":"https://cdn.gh-proxy.com/raw.githubusercontent.com/lxxcp/live/main/live.json",
+            "name":"试验"
+        },
+        {
             "url":"https://gitee.com/senno/tvbox/raw/master/api.json",
             "name":"tvbox"
         },
@@ -35,10 +39,6 @@
         {
             "url":"http://tv.nxog.top/m/",
             "name":"讴歌"
-        },
-  {
-            "url":"https://cdn.gh-proxy.com/raw.githubusercontent.com/lxxcp/live/main/a.json",
-            "name":"试验"
         },
         {
             "url":"https://cdn.gh-proxy.com/raw.githubusercontent.com/lxxcp/live/main/a.json",
