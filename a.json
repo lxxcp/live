@@ -2258,22 +2258,17 @@
     ],
     "lives":[
         {
-            "name":"jxiptv",
+            "name":"JXYD",
             "type":0,
             "url":"https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
         },
         {
-            "name":"ydv6",
+            "name":"YDV6",
             "type":0,
             "url":"https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/ydv6.txt"
         },
         {
-            "name":"gsdxIPTV",
-            "type":0,
-            "url":"https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/gsdx.txt"
-        },
-        {
-            "name":"gdydIPTV",
+            "name":"全网通",
             "type":0,
             "url":"https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/ydcwt.txt"
         },
