@@ -1,42 +1,5 @@
 {
     "spider":"https://edgeone.gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;a392ca741d7598a3c2fb96a860ddd38a",
-    "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "jxiptv",
-          "urls": [
-            "proxy://do=live&type=txt&ext=https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
-          ]
-        },
-        {
-          "name": "yd6",
-          "urls": [
-            "https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/ydv6.txt"
-          ]
-        },
-        {
-          "name": "杭州华数",
-          "urls": [
-            "proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/杭州华数.m3u"
-          ]
-        },
-        {
-          "name": "云星日记直播",
-          "urls": [
-            "proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"
-          ]
-        },
-        {
-          "name": "本地嗅探器直播",
-          "urls": [
-            "proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"
-          ]
-        }
-      ]
-    }
-  ],
     "sites":[
         {
             "key":"*博天堂",
@@ -2292,5 +2255,57 @@
         "qiu.xixiqiu.com",
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
+    ],
+    "lives":[
+        {
+            "name":"jxiptv",
+            "type":0,
+            "url":"https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
+        },
+        {
+            "name":"ydv6",
+            "type":0,
+            "url":"https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/ydv6.txt"
+        },
+        {
+            "name":"gsdxIPTV",
+            "type":0,
+            "url":"https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/gsdx.txt"
+        },
+        {
+            "name":"gdydIPTV",
+            "type":0,
+            "url":"https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/ydcwt.txt"
+        },
+        {
+            "name":"hljydiptv",
+            "type":0,
+            "url":"https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/hljyd.txt"
+        },
+        {
+            "name":"lxxcp",
+            "type":0,
+            "url":"https://hk.gh-proxy.com/https://github.com/lxxcp/iptv-api/blob/master/output/result.txt"
+        },
+        {
+            "name":"guovin",
+            "type":0,
+            "url":"https://hk.gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"
+        },
+        {
+            "name":"888",
+            "type":0,
+            "url":"https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/88.txt"
+        },
+        {
+            "name":"suxuang",
+            "type":0,
+            "url":"https://hk.gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
+        },
+        {
+            "name":"vbskycn",
+            "type":0,
+            "url":"https://hk.gh-proxy.com/https://github.com/vbskycn/iptv/blob/master/tv/hd.txt"
+        }
     ]
 }
