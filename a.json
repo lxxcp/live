@@ -1,18 +1,42 @@
 {
     "spider":"https://edgeone.gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;a392ca741d7598a3c2fb96a860ddd38a",
-    "lives":[
+    "lives": [
+    {
+      "group": "redirect",
+      "channels": [
         {
-            "group":"redirect",
-            "channels":[
-                {
-                    "name":"redirect",
-                    "urls":[
-                        "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9kaXktd3V3dS5tM3U4"
-                    ]
-                }
-            ]
+          "name": "jxiptv",
+          "urls": [
+            "proxy://do=live&type=txt&ext=https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
+          ]
+        },
+        {
+          "name": "yd6",
+          "urls": [
+            "https://hk.gh-proxy.com/https://github.com/lxxcp/live/blob/main/ydv6.txt"
+          ]
+        },
+        {
+          "name": "杭州华数",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/杭州华数.m3u"
+          ]
+        },
+        {
+          "name": "云星日记直播",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"
+          ]
+        },
+        {
+          "name": "本地嗅探器直播",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"
+          ]
         }
-    ],
+      ]
+    }
+  ],
     "sites":[
         {
             "key":"*博天堂",
