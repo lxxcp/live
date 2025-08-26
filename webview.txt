@@ -2146,7 +2146,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/1793?uin=2311
 鹤岗新闻综合,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 鹤岗新闻综合,https://masterpull.hljtv.com/live/rApKWXbX.m3u8
 鹤岗新闻综合,https://rmplive.hljtv.com/live/hegang.m3u8
-
+伊春综合频道,https://rmplive.hljtv.com/live/yichun.m3u8
 伊春新闻综合,https://liveplaysr.dbw.cn/lsdream/pkHc359/2000/live.m3u8
 伊春新闻综合,https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
 
@@ -2517,6 +2517,10 @@ $牡丹江
 兰州文旅,webview://https://lanzhoubcnew.zainanjing365.com/share/live/detailTv?resourceId=14
 兰州新闻综合,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 兰州文旅,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+嘉峪关综合频道,http://pili-live-hdl-lrfmc.tianma3600.com/lztl/gonggongpindao.m3u8
+嘉峪关综合频道,webview://https://nginx-jyg.xgsyun.com/jyg/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tanlnLnhnc3l1bi5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjEsImlzU2hhcmUiOjEsImFwcElkIjoxLCJzaXRlSUQiOjEsInN5c3RlbVR5cGUiOjAsImFwcFZlcnNpb24iOiIzLjIuMSIsInd4QXBwSWQiOiJ3eGU3MzViZGQ3MGNmZGQzNzkifQ==
+嘉峪关综合频道,webview://https://cloud.kankanlive.com/cloud/a/embed/1690854462058921
+
 庆阳综合,https://play.kankanlive.com/live/1700643403411931.m3u8
 张掖新闻,http://play.kankanlive.com/live/1720583434627241.m3u8
 张掖农业旅游,https://play.kankanlive.com/live/1720583009200246.m3u8
@@ -2527,11 +2531,18 @@ $牡丹江
 武威天祝,http://play.kankanlive.com/live/1656487214793905.m3u8
 武威天祝,https://play.kankanlive.com/live/1656487214793905.m3u8
 武威综合,https://play.kankanlive.com/live/1693539781636986.m3u8
+武威综合,webview://https://cloud.kankanlive.com/cloud/h5/1693539781636986
 甘南汉语,webview://http://gnrtv.cn/display.php?id=96
 甘南汉语,webview://https://nginx-gnz.xgsyun.com/gnz/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tZ256Lnhnc3l1bi5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjIsInNpdGVJRCI6MX0=
 甘南藏语,webview://https://nginx-gnz.xgsyun.com/gnz/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tZ256Lnhnc3l1bi5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjMsInNpdGVJRCI6MX0=
 甘南汉语,https://play.kankanlive.com/live/1711955176432990.m3u8
 甘南藏语,https://play.kankanlive.com/live/1711955770173989.m3u8
+庆阳新闻综合,https://play.kankanlive.com/live/1700643403411931.m3u8
+庆阳新闻综合,webview://https://cloud.kankanlive.com/cloud/h5/1700643403411931
+庆阳文体旅游,https://play.kankanlive.com/live/1700643349159930.m3u8
+酒泉文旅,https://play.kankanlive.com/live/1702036477193973.m3u8
+酒泉文旅,webview://https://cloud.kankanlive.com/cloud/h5/1702036477193973
+
 庄浪综合,https://play.kankanlive.com/live/1687654127961989.m3u8
 永昌综合,http://play.kankanlive.com/live/1652755738635915.m3u8
 永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
@@ -2546,6 +2557,7 @@ $牡丹江
 陇南综合,https://play.kankanlive.com/live/1709171819929902.m3u8
 陇南公共,https://play.kankanlive.com/live/1709171893138901.m3u8
 平凉新闻综合,https://play.kankanlive.com/live/1694661314645984.m3u8
+平凉新闻综合,webview://https://cloud.kankanlive.com/cloud/h5/1694661314645984
 西和综合,https://play.kankanlive.com/live/1659926941626981.m3u8
 成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
 成县综合,webview://https://zhangshangchengxiann.newgscloud.com/live/2023/12/13/1a7af0c32886491a8ca4b5c942798d10.html
@@ -2565,6 +2577,10 @@ $牡丹江
 陇南公共,webview://https://nginx-lns.xgsyun.com/lns/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tbG5zLnhnc3l1bi5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjEsInNpdGVJRCI6MX0=
 陇南综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1709171819929902
 陇南公共,webview://https://cloud.kankanlive.com/cloud/a/embed/1709171893138901
+陇南综合,https://play.kankanlive.com/live/1709171819929902.m3u8
+陇南公共,https://play.kankanlive.com/live/1709171893138901.m3u8
+陇西综合,webview://https://nginx-lxx.xgsyun.com/lxx/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tbHh4Lnhnc3l1bi5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjEsInR2U3R5bGUiOjEsImNvbElkIjoxMDgsImlzU2hhcmUiOjEsImFwcElkIjoxLCJzaXRlSUQiOjEsInNpdGVJZCI6MSwic3lzdGVtVHlwZSI6MCwiYXBwVmVyc2lvbiI6IjMuMi4xIiwid3hBcHBJZCI6Ind4YmI5ODg1ZDcwOGU1N2QxZCJ9
+
 礼县综合,webview://https://zhangshanglixiann.newgscloud.com/live/2021/03/03/35c9528e76db4cb98e1269804c236ae9.html
 礼县综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1716949735680956
 临夏综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1714096320293954
