@@ -40,8 +40,13 @@
             "url":"http://tv.nxog.top/m/",
             "name":"讴歌"
         },
+ {
+            "url":"https://hk.gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
+            "name":"讴歌"
+        },
+
         {
-            "url":"https://cdn.gh-proxy.com/raw.githubusercontent.com/lxxcp/live/main/a.json",
+            "url":"https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json",
             "name":"备用"
         },
         {
