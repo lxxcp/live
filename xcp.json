@@ -33,7 +33,7 @@
             "name":"肥猫"
         },
         {
-            "url":"https://hk.gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "url":"https://cdn.gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name":"南风"
         },
         {
@@ -41,7 +41,7 @@
             "name":"讴歌"
         },
  {
-            "url":"https://hk.gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
+            "url":"https://cdn.gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
             "name":"12"
         },
 
@@ -50,7 +50,7 @@
             "name":"备用"
         },
         {
-            "url":"https://hk.gh-proxy.com/raw.githubusercontent.com/lxxcp/live/main/a.json",
+            "url":"https://cdn.gh-proxy.com/raw.githubusercontent.com/lxxcp/live/main/a.json",
             "name":"abc"
         }
     ]
