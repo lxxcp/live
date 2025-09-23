@@ -571,7 +571,7 @@ TVB星河,http://8.134.75.210:9902/tsfile/live/1005_1.m3u8
 深圳卫视,http://119.140.58.107:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://120.196.235.42:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://183.237.255.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳宝安频道,http://163.177.122.118:9901/tsfile/live/1012_1.m3u8
+深圳宝安,http://163.177.122.118:9901/tsfile/live/1012_1.m3u8
 深圳少儿,http://116.77.33.98:44330/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳电视剧,http://116.77.33.196:44330/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳电视剧,http://116.77.33.98:44330/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -581,15 +581,13 @@ TVB星河,http://8.134.75.210:9902/tsfile/live/1005_1.m3u8
 深圳财经生活,http://116.77.33.98:44330/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳都市,http://116.77.33.196:44330/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳都市,http://116.77.33.98:44330/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳龙岗频道,http://120.196.235.42:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳龙岗频道,http://163.177.122.118:9901/tsfile/live/1085_1.m3u8
+深圳龙岗,http://120.196.235.42:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳龙岗,http://163.177.122.118:9901/tsfile/live/1085_1.m3u8
 凤凰中文,http://113.95.133.149:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://163.177.122.118:9901/tsfile/live/1017_1.m3u8
-国学频道,http://113.95.133.149:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+国学,http://113.95.133.149:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 天威TVG,http://116.77.33.196:44330/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 天威TVG,http://116.77.33.98:44330/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-
-
 华数,http://183.237.95.108:9901/tsfile/live/1079_1.m3u8
 华数,http://183.237.95.108:9901/tsfile/live/1080_1.m3u8
 华数1,http://120.196.235.42:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -621,7 +619,7 @@ TVB星河,http://8.134.75.210:9902/tsfile/live/1005_1.m3u8
 翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 翡翠台,http://163.177.122.118:9901/tsfile/live/1006_1.m3u8
 老故事,http://113.95.133.149:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-茶频道,http://113.95.133.149:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+茶,http://113.95.133.149:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 试点剧场,http://163.177.122.118:9901/tsfile/live/1048_1.m3u8
 谍战剧场,http://119.140.58.107:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 谍战剧场,http://120.196.235.42:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -975,27 +973,27 @@ CHC影迷电影,http://113.195.172.192:808/hls/148/index.m3u8
 文物宝库,http://113.195.172.192:808/hls/228/index.m3u8
 新动漫,http://113.195.172.192:808/hls/238/index.m3u8
 新动漫,http://113.195.172.192:808/hls/99/index.m3u8
-梨园频道,http://113.195.172.192:808/hls/127/index.m3u8
-梨园频道,http://113.195.172.192:808/hls/246/index.m3u8
+梨园,http://113.195.172.192:808/hls/127/index.m3u8
+梨园,http://113.195.172.192:808/hls/246/index.m3u8
 武术世界,http://113.195.172.192:808/hls/221/index.m3u8
 武术世界,http://113.195.172.192:808/hls/77/index.m3u8
 
 湖南,#genre#
-CCTV3,http://175.0.68.108:9002/tsfile/live/0003_1.m3u8
-湖南都市,http://175.0.68.108:9002/tsfile/live/0018_1.m3u8
-CCTV8,http://175.0.68.108:9002/tsfile/live/0008_1.m3u8
-CCTV2,http://175.0.68.108:9002/tsfile/live/0002_1.m3u8
-CCTV5,http://175.0.68.108:9002/tsfile/live/0005_1.m3u8
-CCTV13,http://175.0.68.108:9002/tsfile/live/0013_1.m3u8
-CCTV4,http://175.0.68.108:9002/tsfile/live/0004_1.m3u8
-CCTV15,http://175.0.68.108:9002/tsfile/live/0015_1.m3u8
-CCTV12,http://175.0.68.108:9002/tsfile/live/0012_1.m3u8
-CCTV9,http://175.0.68.108:9002/tsfile/live/0009_1.m3u8
-湖南电影,http://175.0.68.108:9002/tsfile/live/0019_1.m3u8
-CCTV14,http://175.0.68.108:9002/tsfile/live/0014_1.m3u8
-CCTV7,http://175.0.68.108:9002/tsfile/live/0007_1.m3u8
-CCTV10,http://175.0.68.108:9002/tsfile/live/0010_1.m3u8
-CCTV1,http://175.0.68.108:9002/tsfile/live/0001_1.m3u8
+CCTV-1 综合,http://175.0.68.108:9002/tsfile/live/0001_1.m3u8
+CCTV-2 财经,http://175.0.68.108:9002/tsfile/live/0002_1.m3u8
+CCTV-3 综艺,http://175.0.68.108:9002/tsfile/live/0003_1.m3u8
+CCTV-4 中文国际,http://175.0.68.108:9002/tsfile/live/0004_1.m3u8
+CCTV-5 体育 ,http://175.0.68.108:9002/tsfile/live/0005_1.m3u8
+CCTV-6 电影,http://175.0.68.108:9002/tsfile/live/0006_1.m3u8
+CCTV-7 国防军事,http://175.0.68.108:9002/tsfile/live/0007_1.m3u8
+CCTV-8 电视剧,http://175.0.68.108:9002/tsfile/live/0008_1.m3u8
+CCTV-9 纪录,http://175.0.68.108:9002/tsfile/live/0009_1.m3u8
+CCTV-10 科教,http://175.0.68.108:9002/tsfile/live/0010_1.m3u8
+CCTV-11 戏曲,http://175.0.68.108:9002/tsfile/live/0011_1.m3u8
+CCTV-12 社会与法,http://175.0.68.108:9002/tsfile/live/0012_1.m3u8
+CCTV-13 新闻,http://175.0.68.108:9002/tsfile/live/0013_1.m3u8
+CCTV-14 少儿,http://175.0.68.108:9002/tsfile/live/0014_1.m3u8
+CCTV-15 音乐,http://175.0.68.108:9002/tsfile/live/0015_1.m3u8
 CGTN纪录,http://175.0.68.108:9002/tsfile/live/0016_1.m3u8
 山西卫视,http://175.0.68.108:9002/tsfile/live/0118_1.m3u8
 湖南卫视,http://175.0.68.108:9002/tsfile/live/0017_1.m3u8
@@ -1003,7 +1001,6 @@ CGTN纪录,http://175.0.68.108:9002/tsfile/live/0016_1.m3u8
 新疆卫视,http://175.0.68.108:9002/tsfile/live/0110_1.m3u8
 广西卫视,http://175.0.68.108:9002/tsfile/live/0113_1.m3u8
 北京卫视,http://175.0.68.108:9002/tsfile/live/0122_1.m3u8
-CCTV6,http://175.0.68.108:9002/tsfile/live/0006_1.m3u8
 河南卫视,http://175.0.68.108:9002/tsfile/live/0139_1.m3u8
 江西卫视,http://175.0.68.108:9002/tsfile/live/0138_1.m3u8
 东方卫视,http://175.0.68.108:9002/tsfile/live/0107_1.m3u8
@@ -1022,19 +1019,21 @@ CCTV6,http://175.0.68.108:9002/tsfile/live/0006_1.m3u8
 陕西卫视,http://175.0.68.108:9002/tsfile/live/0136_1.m3u8
 内蒙古卫视,http://175.0.68.108:9002/tsfile/live/0109_1.m3u8
 宁夏卫视,http://175.0.68.108:9002/tsfile/live/0112_1.m3u8
-CCTV11,http://175.0.68.108:9002/tsfile/live/0011_1.m3u8
 安徽卫视,http://175.0.68.108:9002/tsfile/live/0130_1.m3u8
 深圳卫视,http://175.0.68.108:9002/tsfile/live/0126_1.m3u8
 湖北卫视,http://175.0.68.108:9002/tsfile/live/0132_1.m3u8
 山东卫视,http://175.0.68.108:9002/tsfile/live/0131_1.m3u8
 吉林卫视,http://175.0.68.108:9002/tsfile/live/0116_1.m3u8
-卡酷少儿,http://175.0.68.108:9002/tsfile/live/1005_1.m3u8
+BRTV卡酷少儿,http://175.0.68.108:9002/tsfile/live/1005_1.m3u8
 金鹰卡通,http://175.0.68.108:9002/tsfile/live/1002_1.m3u8
 哈哈炫动,http://175.0.68.108:9002/tsfile/live/1007_1.m3u8
 优漫卡通,http://175.0.68.108:9002/tsfile/live/1006_1.m3u8
 湖南国际,http://175.0.68.108:9002/tsfile/live/1001_1.m3u8
 海南卫视,http://175.0.68.108:9002/tsfile/live/1003_1.m3u8
 湖南娱乐,http://175.0.68.108:9002/tsfile/live/1000_1.m3u8
+湖南都市,http://175.0.68.108:9002/tsfile/live/0018_1.m3u8
+湖南电影,http://175.0.68.108:9002/tsfile/live/0019_1.m3u8
+
 湖北酒店,#genre#
 CCTV-1 综合,http://61.184.46.85:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2 财经,http://61.184.46.85:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1092,8 +1091,8 @@ BRTV卡酷少儿,http://61.184.46.85:85/tsfile/live/1027_1.m3u8?key=txiptv&playl
 澳门资讯,http://parking.treasureislandresortsworld.com:1001/hls/3/index.m3u8
 澳门Macau,http://parking.treasureislandresortsworld.com:1001/hls/4/index.m3u8
 澳门体育,http://parking.treasureislandresortsworld.com:1001/hls/16/index.m3u8
-CCTV1综合,http://parking.treasureislandresortsworld.com:1001/hls/17/index.m3u8
-CCTV13新闻,http://parking.treasureislandresortsworld.com:1001/hls/18/index.m3u8
+CCTV-1 综合,http://parking.treasureislandresortsworld.com:1001/hls/17/index.m3u8
+CCTV-13 新闻,http://parking.treasureislandresortsworld.com:1001/hls/18/index.m3u8
 CGTN,http://parking.treasureislandresortsworld.com:1001/hls/19/index.m3u8
 凤凰资讯,http://parking.treasureislandresortsworld.com:1001/hls/301/index.m3u8
 凤凰中文,http://parking.treasureislandresortsworld.com:1001/hls/302/index.m3u8
@@ -1106,8 +1105,39 @@ TVB明珠,http://parking.treasureislandresortsworld.com:1001/hls/308/index.m3u8
 CNA,http://parking.treasureislandresortsworld.com:1001/hls/309/index.m3u8
 TRT World,http://parking.treasureislandresortsworld.com:1001/hls/310/index.m3u8
 Channel V,http://parking.treasureislandresortsworld.com:1001/hls/311/index.m3u8
-CCTV2财经,http://parking.treasureislandresortsworld.com:1001/hls/312/index.m3u8
+CCTV-2 财经,http://parking.treasureislandresortsworld.com:1001/hls/312/index.m3u8
 TVB新闻,http://parking.treasureislandresortsworld.com:1001/hls/313/index.m3u8
 星空卫视,http://parking.treasureislandresortsworld.com:1001/hls/314/index.m3u8
 ViuTV6,http://parking.treasureislandresortsworld.com:1001/hls/315/index.m3u8
 ViuTV,http://parking.treasureislandresortsworld.com:1001/hls/316/index.m3u8
+
+河南酒店,#genre#
+CCTV-1 综合,http://1.196.218.72:85/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV-3 综艺,http://1.196.218.72:85/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV-4 中文国际,http://1.196.218.72:85/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV-5 体育,http://1.196.218.72:85/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV-6 电影,http://1.196.218.72:85/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV-8 电视剧,http://1.196.218.72:85/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV-9 纪录,http://1.196.218.72:85/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV-10 科教,http://1.196.218.72:85/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV-12 社会与法,http://1.196.218.72:85/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV-13 新闻,http://1.196.218.72:85/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV-14 少儿,http://1.196.218.72:85/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV-15 音乐,http://1.196.218.72:85/tsfile/live/0015_1.m3u8?key=txiptv
+河南卫视,http://1.196.218.72:85/tsfile/live/0139_1.m3u8?key=txiptv
+湖南卫视,http://1.196.218.72:85/tsfile/live/0128_1.m3u8?key=txiptv
+浙江卫视,http://1.196.218.72:85/tsfile/live/0124_1.m3u8?key=txiptv
+东方卫视,http://1.196.218.72:85/tsfile/live/0107_1.m3u8?key=txiptv
+江苏卫视,http://1.196.218.72:85/tsfile/live/0127_1.m3u8?key=txiptv
+安徽卫视,http://1.196.218.72:85/tsfile/live/0130_1.m3u8?key=txiptv
+河北卫视,http://1.196.218.72:85/tsfile/live/0117_1.m3u8?key=txiptv
+山西卫视,http://1.196.218.72:85/tsfile/live/0118_1.m3u8?key=txiptv
+北京卫视,http://1.196.218.72:85/tsfile/live/0122_1.m3u8?key=txiptv
+河南都市,http://1.196.218.72:85/tsfile/live/1000_1.m3u8?key=txiptv
+河南法制,http://1.196.218.72:85/tsfile/live/1001_1.m3u8?key=txiptv
+河南新闻,http://1.196.218.72:85/tsfile/live/1002_1.m3u8?key=txiptv
+河南电视剧,http://1.196.218.72:85/tsfile/live/1004_1.m3u8?key=txiptv
+河南民生,http://1.196.218.72:85/tsfile/live/1005_1.m3u8?key=txiptv
+河南新农村,http://1.196.218.72:85/tsfile/live/1006_1.m3u8?key=txiptv
+信阳新闻综合,http://1.196.218.72:85/tsfile/live/1007_1.m3u8?key=txiptv
+信阳文旅,http://1.196.218.72:85/tsfile/live/1008_1.m3u8?key=txiptv
