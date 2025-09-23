@@ -1086,3 +1086,28 @@ BRTV卡酷少儿,http://61.184.46.85:85/tsfile/live/1027_1.m3u8?key=txiptv&playl
 金鹰卡通,http://61.184.46.85:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+澳门酒店,#genre#
+澳视澳门,http://parking.treasureislandresortsworld.com:1001/hls/1/index.m3u8
+澳视葡文,http://parking.treasureislandresortsworld.com:1001/hls/2/index.m3u8
+澳门资讯,http://parking.treasureislandresortsworld.com:1001/hls/3/index.m3u8
+澳门Macau,http://parking.treasureislandresortsworld.com:1001/hls/4/index.m3u8
+澳门体育,http://parking.treasureislandresortsworld.com:1001/hls/16/index.m3u8
+CCTV1综合,http://parking.treasureislandresortsworld.com:1001/hls/17/index.m3u8
+CCTV13新闻,http://parking.treasureislandresortsworld.com:1001/hls/18/index.m3u8
+CGTN,http://parking.treasureislandresortsworld.com:1001/hls/19/index.m3u8
+凤凰资讯,http://parking.treasureislandresortsworld.com:1001/hls/301/index.m3u8
+凤凰中文,http://parking.treasureislandresortsworld.com:1001/hls/302/index.m3u8
+NHK,http://parking.treasureislandresortsworld.com:1001/hls/303/index.m3u8
+DW,http://parking.treasureislandresortsworld.com:1001/hls/304/index.m3u8
+湖南卫视,http://parking.treasureislandresortsworld.com:1001/hls/305/index.m3u8
+金鹰卡通,http://parking.treasureislandresortsworld.com:1001/hls/306/index.m3u8
+TVB翡翠,http://parking.treasureislandresortsworld.com:1001/hls/307/index.m3u8
+TVB明珠,http://parking.treasureislandresortsworld.com:1001/hls/308/index.m3u8
+CNA,http://parking.treasureislandresortsworld.com:1001/hls/309/index.m3u8
+TRT World,http://parking.treasureislandresortsworld.com:1001/hls/310/index.m3u8
+Channel V,http://parking.treasureislandresortsworld.com:1001/hls/311/index.m3u8
+CCTV2财经,http://parking.treasureislandresortsworld.com:1001/hls/312/index.m3u8
+TVB新闻,http://parking.treasureislandresortsworld.com:1001/hls/313/index.m3u8
+星空卫视,http://parking.treasureislandresortsworld.com:1001/hls/314/index.m3u8
+ViuTV6,http://parking.treasureislandresortsworld.com:1001/hls/315/index.m3u8
+ViuTV,http://parking.treasureislandresortsworld.com:1001/hls/316/index.m3u8
