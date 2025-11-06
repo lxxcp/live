@@ -8,7 +8,7 @@ CCTV-2 财经,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCT
 CCTV-2 财经,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
 CCTV-3 综艺,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
 CCTV-3 综艺,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
-CCTV-4  中文国际,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
+CCTV-4 中文国际,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
 CCTV-4 中文国际,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
 CCTV-4 中文国际,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
 CCTV4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
@@ -275,7 +275,7 @@ CCTV-2 财经,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_
 CCTV-2 财经,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
 CCTV-3 综艺,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
 CCTV-3,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
-CCTV-4  中文国际,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
+CCTV-4 中文国际,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
 CCTV-4 中文国际,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
 CCTV-4 中文国际,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
 CCTV4K,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
@@ -543,7 +543,7 @@ CCTV-2 财经,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_C
 CCTV-2 财经,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
 CCTV-3 综艺,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
 CCTV-3,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
-CCTV-4  中文国际,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
+CCTV-4 中文国际,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
 CCTV-4 中文国际,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
 CCTV-4 中文国际,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
 CCTV4K,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
@@ -811,7 +811,7 @@ CCTV-2 财经,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_C
 CCTV-2 财经,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
 CCTV-3 综艺,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
 CCTV-3,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
-CCTV-4  中文国际,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
+CCTV-4 中文国际,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
 CCTV-4 中文国际,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
 CCTV-4 中文国际,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
 CCTV4K,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
