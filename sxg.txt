@@ -7,11 +7,11 @@ CCTV-2 财经,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCT
 CCTV-2 财经,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8
 CCTV-2 财经,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
 CCTV-3 综艺,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
-CCTV-3,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
+CCTV-3 综艺,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
 CCTV-4  中文国际,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
 CCTV-4 中文国际,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
 CCTV-4 中文国际,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
-CCTV-4 中文国际K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
+CCTV4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
 CCTV-5 体育,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5-HD-265-5M/G_CCTV-5-HD-265-5M.m3u8
 CCTV-5 体育,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8
 CCTV-5+ 体育赛事,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5PLUS-HD-265-5M/G_CCTV-5PLUS-HD-265-5M.m3u8
@@ -33,7 +33,7 @@ CCTV-15 音乐,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CC
 CCTV-15 音乐,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
 CCTV-16 奥林匹克,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
 CCTV-16 奥林匹克,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
-CCTV-16 奥林匹克-4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
+CCTV-16 奥林匹克4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
 CCTV-17 农业农村,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u82
 CCTV兵器科技,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8
 CCTV电视指南,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8
@@ -64,7 +64,7 @@ CCTV早期教育,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_
 山东卫视4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-4K/G_SHANDONG-4K.m3u8
 四川卫视4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_SICHUAN-4K/G_SICHUAN-4K.m3u8
 浙江卫视4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8
-BRTV北京纪实,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJINGJS-HQ/G_BEIJINGJS-HQ.m3u8
+BRTV纪实科教,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJINGJS-HQ/G_BEIJINGJS-HQ.m3u8
 BRTV纪实科教,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi.m3u8
 东南卫视,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/DNWS/DNWS.m3u8
 东方卫视,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-HD-265-8M/G_DONGFANG-HD-265-8M.m3u8
@@ -278,7 +278,7 @@ CCTV-3,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-
 CCTV-4  中文国际,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
 CCTV-4 中文国际,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
 CCTV-4 中文国际,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
-CCTV-4 中文国际K,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
+CCTV4K,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
 CCTV-5 体育,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5-HD-265-5M/G_CCTV-5-HD-265-5M.m3u8
 CCTV-5 体育,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8
 CCTV-5+ 体育赛事,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5PLUS-HD-265-5M/G_CCTV-5PLUS-HD-265-5M.m3u8
@@ -300,7 +300,7 @@ CCTV-15 音乐,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G
 CCTV-15 音乐,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
 CCTV-16 奥林匹克,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
 CCTV-16 奥林匹克,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
-CCTV-16 奥林匹克-4K,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
+CCTV-16 奥林匹克4K,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
 CCTV-17 农业农村,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u82
 CCTV兵器科技,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8
 CCTV电视指南,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8
@@ -331,7 +331,7 @@ CCTV早期教育,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live
 山东卫视4K,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-4K/G_SHANDONG-4K.m3u8
 四川卫视4K,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_SICHUAN-4K/G_SICHUAN-4K.m3u8
 浙江卫视4K,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8
-BRTV北京纪实,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJINGJS-HQ/G_BEIJINGJS-HQ.m3u8
+BRTV纪实科教,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJINGJS-HQ/G_BEIJINGJS-HQ.m3u8
 BRTV纪实科教,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi.m3u8
 东南卫视,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/DNWS/DNWS.m3u8
 东方卫视,http://180.119.147.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-HD-265-8M/G_DONGFANG-HD-265-8M.m3u8
@@ -546,7 +546,7 @@ CCTV-3,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-H
 CCTV-4  中文国际,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
 CCTV-4 中文国际,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
 CCTV-4 中文国际,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
-CCTV-4 中文国际K,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
+CCTV4K,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
 CCTV-5 体育,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5-HD-265-5M/G_CCTV-5-HD-265-5M.m3u8
 CCTV-5 体育,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8
 CCTV-5+ 体育赛事,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5PLUS-HD-265-5M/G_CCTV-5PLUS-HD-265-5M.m3u8
@@ -568,7 +568,7 @@ CCTV-15 音乐,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_
 CCTV-15 音乐,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
 CCTV-16 奥林匹克,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
 CCTV-16 奥林匹克,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
-CCTV-16 奥林匹克-4K,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
+CCTV-16 奥林匹克4K,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
 CCTV-17 农业农村,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u82
 CCTV兵器科技,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8
 CCTV电视指南,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8
@@ -599,7 +599,7 @@ CCTV早期教育,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/
 山东卫视4K,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-4K/G_SHANDONG-4K.m3u8
 四川卫视4K,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_SICHUAN-4K/G_SICHUAN-4K.m3u8
 浙江卫视4K,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8
-BRTV北京纪实,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJINGJS-HQ/G_BEIJINGJS-HQ.m3u8
+BRTV纪实科教,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJINGJS-HQ/G_BEIJINGJS-HQ.m3u8
 BRTV纪实科教,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi.m3u8
 东南卫视,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/DNWS/DNWS.m3u8
 东方卫视,http://112.67.243.17:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-HD-265-8M/G_DONGFANG-HD-265-8M.m3u8
@@ -814,7 +814,7 @@ CCTV-3,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-H
 CCTV-4  中文国际,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
 CCTV-4 中文国际,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
 CCTV-4 中文国际,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
-CCTV-4 中文国际K,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
+CCTV4K,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
 CCTV-5 体育,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5-HD-265-5M/G_CCTV-5-HD-265-5M.m3u8
 CCTV-5 体育,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8
 CCTV-5+ 体育赛事,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5PLUS-HD-265-5M/G_CCTV-5PLUS-HD-265-5M.m3u8
@@ -836,7 +836,7 @@ CCTV-15 音乐,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_
 CCTV-15 音乐,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
 CCTV-16 奥林匹克,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
 CCTV-16 奥林匹克,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
-CCTV-16 奥林匹克-4K,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
+CCTV-16 奥林匹克4K,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
 CCTV-17 农业农村,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u82
 CCTV兵器科技,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8
 CCTV电视指南,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8
@@ -867,7 +867,7 @@ CCTV早期教育,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/
 山东卫视4K,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-4K/G_SHANDONG-4K.m3u8
 四川卫视4K,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_SICHUAN-4K/G_SICHUAN-4K.m3u8
 浙江卫视4K,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8
-BRTV北京纪实,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJINGJS-HQ/G_BEIJINGJS-HQ.m3u8
+BRTV纪实科教,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJINGJS-HQ/G_BEIJINGJS-HQ.m3u8
 BRTV纪实科教,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi.m3u8
 东南卫视,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/DNWS/DNWS.m3u8
 东方卫视,http://112.84.185.38:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-HD-265-8M/G_DONGFANG-HD-265-8M.m3u8
@@ -1092,6 +1092,8 @@ http://223.247.106.44:2380
 http://114.80.73.36:2380
 http://42.101.5.45:2380
 http://182.201.242.39:2380备用ip
+
+
 
 
 上海全网通,#genre#
