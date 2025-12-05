@@ -644,47 +644,47 @@
         {
             "name":"JXYD",
             "type":0,
-            "url":"https://cdn.gh-proxy.com/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
+            "url":"https://gh-proxy.com/https://github.com/lxxcp/live/blob/main/jxiptv.txt"
         },
         {
             "name":"YDV6",
             "type":0,
-            "url":"https://cdn.gh-proxy.com/https://github.com/lxxcp/live/blob/main/ydv6.txt"
+            "url":"https://gh-proxy.com/https://github.com/lxxcp/live/blob/main/ydv6.txt"
         },
         {
             "name":"组播源",
             "type":0,
-            "url":"https://cdn.gh-proxy.com/https://github.com/lxxcp/live/blob/main/zubo.txt"
+            "url":"https://gh-proxy.com/https://github.com/lxxcp/live/blob/main/zubo.txt"
         },
         {
-            "name":"蜀小果",
+            "name":"全网通",
             "type":0,
-            "url":"https://cdn.gh-proxy.com/https://github.com/lxxcp/live/blob/main/sxg.txt"
+            "url":"https://gh-proxy.com/https://github.com/lxxcp/live/blob/main/qwt.txt"
         },
         {
             "name":"lxxcp",
             "type":0,
-            "url":"https://cdn.gh-proxy.com/https://github.com/lxxcp/iptv-api/blob/master/output/result.txt"
+            "url":"https://gh-proxy.com/https://github.com/lxxcp/iptv-api/blob/master/output/result.txt"
         },
         {
             "name":"guovin",
             "type":0,
-            "url":"https://cdn.gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"
+            "url":"https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"
         },
         {
             "name":"酒店源",
             "type":0,
-            "url":"https://cdn.gh-proxy.com/https://github.com/lxxcp/live/blob/main/jiudian.txt"
+            "url":"https://gh-proxy.com/https://github.com/lxxcp/live/blob/main/jiudian.txt"
         },
         {
             "name":"suxuang",
             "type":0,
-            "url":"https://cnd.gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
+            "url":"https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
         },
         {
             "name":"vbskycn",
             "type":0,
-            "url":"https://cdn.gh-proxy.com/https://github.com/vbskycn/iptv/blob/master/tv/hd.txt"
+            "url":"https://gh-proxy.com/https://github.com/vbskycn/iptv/blob/master/tv/hd.txt"
         }
     ]
 }
