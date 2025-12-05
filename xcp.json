@@ -9,42 +9,41 @@
             "name":"tvbox"
         },
         {
-            "url":"http://www.饭太硬.net/tv",
+            "url":"http://www.饭太硬.com/tv",
             "name":"饭太硬"
         },
         {
-            "url":"https://龙伊.top",
-            "name":"龙伊"
+            "url":"http://ok321.top/tv",
+            "name":"OK"
         },
         {
             "url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
             "name":"王二小"
         },
         {
-            "url":"https://proxy.api.030101.xyz/http://fongmi.eu.org/pg/jsm.json",
-            "name":"蜂蜜"
+            "url":"http://cdn.qiaoji8.com/tvbox.json",
+            "name":"巧技"
         },
         {
-            "url":"https://tv.nxog.top?&c9V",
-            "name":"讴歌tv"
+            "url":"http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
+            "name":"小米"
         },
         {
             "url":"http://肥猫.com/",
             "name":"肥猫"
         },
         {
-            "url":"http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "url":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name":"南风"
         },
         {
             "url":"http://tv.nxog.top/m/",
             "name":"讴歌"
         },
- {
+        {
             "url":"https://gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
             "name":"12"
         },
-
         {
             "url":"https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json",
             "name":"备用"
