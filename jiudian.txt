@@ -1,4 +1,83 @@
-﻿酒店,#genre#
+﻿吉林酒店,#genre#
+CCTV-1 综合,http://36.135.118.195:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-2 财经,http://36.135.118.195:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-3 综艺,http://36.135.118.195:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-4 中文国际,http://36.135.118.195:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-5 体育,http://36.135.118.195:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-5+ 体育赛事,http://36.135.118.195:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+
+CCTV-6 电影,http://36.135.118.195:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-7 国防军事,http://36.135.118.195:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-8 电视剧,http://36.135.118.195:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-9 纪录,http://36.135.118.195:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-10 科教,http://36.135.118.195:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-11 戏曲,http://36.135.118.195:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-12 社会与法,http://36.135.118.195:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-13 新闻,http://36.135.118.195:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-14 少儿,http://36.135.118.195:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-15 音乐,http://36.135.118.195:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-16 奥林匹克,http://36.135.118.195:85/tsfile/live/0016_2.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV-17 农业农村,http://36.135.118.195:85/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV第一剧场,http://36.135.118.195:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV发现之旅,http://36.135.118.195:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV风云剧场,http://36.135.118.195:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV兵器科技,http://36.135.118.195:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CETV1,http://36.135.118.195:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CETV2,http://36.135.118.195:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+
+湖南卫视,http://36.135.118.195:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+江苏卫视,http://36.135.118.195:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+浙江卫视,http://36.135.118.195:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+北京卫视,http://36.135.118.195:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+东方卫视,http://36.135.118.195:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+深圳卫视,http://36.135.118.195:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+山西卫视,http://36.135.118.195:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+内蒙古卫视,http://36.135.118.195:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+辽宁卫视,http://36.135.118.195:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+天津卫视,http://36.135.118.195:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+安徽卫视,http://36.135.118.195:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+广东卫视,http://36.135.118.195:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+山东卫视,http://36.135.118.195:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+贵州卫视,http://36.135.118.195:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+黑龙江卫视,http://36.135.118.195:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+河北卫视,http://36.135.118.195:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+东南卫视,http://36.135.118.195:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+湖北卫视,http://36.135.118.195:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+重庆卫视,http://36.135.118.195:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+云南卫视,http://36.135.118.195:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+海南卫视,http://36.135.118.195:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+陕西卫视,http://36.135.118.195:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+青海卫视,http://36.135.118.195:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+兵团卫视,http://36.135.118.195:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+甘肃卫视,http://36.135.118.195:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+新疆卫视,http://36.135.118.195:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+河南卫视,http://36.135.118.195:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+宁夏卫视,http://36.135.118.195:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+江西卫视,http://36.135.118.195:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+广西卫视,http://36.135.118.195:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+西藏卫视,http://36.135.118.195:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+四川卫视,http://36.135.118.195:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+三沙卫视,http://36.135.118.195:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+吉林卫视,http://36.135.118.195:85/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+吉林都市,http://36.135.118.195:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+吉林生活,http://36.135.118.195:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+吉林影视,http://36.135.118.195:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+吉林乡村,http://36.135.118.195:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+吉林综艺文化,http://36.135.118.195:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+延边卫视,http://36.135.118.195:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+吉林教育,http://36.135.118.195:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+吉林长影,http://36.135.118.195:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+长春综合,http://36.135.118.195:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+长春市民生活,http://36.135.118.195:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+长春文旅体育,http://36.135.118.195:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+金鹰卡通,http://36.135.118.195:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+佳嘉卡通,http://36.135.118.195:85/tsfile/live/0150_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+环球奇观,http://36.135.118.195:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+乐游,http://36.135.118.195:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+都市剧场,http://36.135.118.195:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+
+酒店,#genre#
 CCTV-1 综合,http://116.77.33.196:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2 财经,http://116.77.33.196:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-3 综艺,http://116.77.33.196:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
