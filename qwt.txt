@@ -1,5 +1,85 @@
 http://159.226.227.195:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8
-
+北京gitv,#genre#
+CCTV-1 综合,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-2 财经,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-3 综艺,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-4 中文国际,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-5 体育,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV5+ 体育赛事,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-6 电影,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-7 国防军事,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-8 电视剧,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-8-HQ/G_CCTV-8-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-9 纪录,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-9-HQ/G_CCTV-9-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-10 科教,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-11 戏曲,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-12 社会与法,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-12-HQ/G_CCTV-12-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-13 新闻,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-14 少儿,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-14-HQ/G_CCTV-14-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-15 综艺,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-16 体育,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-17 电视剧,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8?p=GITV&area=BJ_CUCC
+北京卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8?p=GITV&area=BJ_CUCC
+四川卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_SICHUAN-HQ/G_SICHUAN-HQ.m3u8?p=GITV&area=BJ_CUCC
+湖北卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_HUBEI-HQ/G_HUBEI-HQ.m3u8?p=GITV&area=BJ_CUCC
+广东卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_GUANGDONG-HQ/G_GUANGDONG-HQ.m3u8?p=GITV&area=BJ_CUCC
+江苏卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_JIANGSU-HQ/G_JIANGSU-HQ.m3u8?p=GITV&area=BJ_CUCC
+浙江卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_ZHEJIANG-HQ/G_ZHEJIANG-HQ.m3u8?p=GITV&area=BJ_CUCC
+湖南卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8?p=GITV&area=BJ_CUCC
+东方卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_DONGFANG-HQ/G_DONGFANG-HQ.m3u8?p=GITV&area=BJ_CUCC
+深圳卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8?p=GITV&area=BJ_CUCC
+辽宁卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_LIAONING-HQ/G_LIAONING-HQ.m3u8?p=GITV&area=BJ_CUCC
+安徽卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_ANHUI-HQ/G_ANHUI-HQ.m3u8?p=GITV&area=BJ_CUCC
+山东卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_SHANDONG-HQ/G_SHANDONG-HQ.m3u8?p=GITV&area=BJ_CUCC
+黑龙江卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ.m3u8?p=GITV&area=BJ_CUCC
+天津卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_TIANJIN-HQ/G_TIANJIN-HQ.m3u8?p=GITV&area=BJ_CUCC
+广西卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_GUANGXI-HQ/G_GUANGXI-HQ.m3u8?p=GITV&area=BJ_CUCC
+东南卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_DONGNAN-HQ/G_DONGNAN-HQ.m3u8?p=GITV&area=BJ_CUCC
+甘肃卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_GANSU-HQ/G_GANSU-HQ.m3u8?p=GITV&area=BJ_CUCC
+贵州卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_GUIZHOU-HQ/G_GUIZHOU-HQ.m3u8?p=GITV&area=BJ_CUCC
+海南卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_HAINAN-HQ/G_HAINAN-HQ.m3u8?p=GITV&area=BJ_CUCC
+河北卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_HEBEI-HQ/G_HEBEI-HQ.m3u8?p=GITV&area=BJ_CUCC
+河南卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_HENAN-HQ/G_HENAN-HQ.m3u8?p=GITV&area=BJ_CUCC
+吉林卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8?p=GITV&area=BJ_CUCC
+江西卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_JIANGXI-HQ/G_JIANGXI-HQ.m3u8?p=GITV&area=BJ_CUCC
+康巴卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_KANGBA/G_KANGBA.m3u8?p=GITV&area=BJ_CUCC
+安多卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_ANDUO/G_ANDUO.m3u8?p=GITV&area=BJ_CUCC
+兵团卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8?p=GITV&area=BJ_CUCC
+内蒙古卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8?p=GITV&area=BJ_CUCC
+宁夏卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_NINGXIA/G_NINGXIA.m3u8?p=GITV&area=BJ_CUCC
+农林卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_NONGLIN/G_NONGLIN.m3u8?p=GITV&area=BJ_CUCC
+三沙卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_SANSHA-HQ/G_SANSHA-HQ.m3u8?p=GITV&area=BJ_CUCC
+陕西卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_SHANXI-HQ/G_SHANXI-HQ.m3u8?p=GITV&area=BJ_CUCC
+山西卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/SXWS/SXWS.m3u8?p=GITV&area=BJ_CUCC
+西藏卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_XIZANG/G_XIZANG.m3u8?p=GITV&area=BJ_CUCC
+新疆卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_XINJIANG/G_XINJIANG.m3u8?p=GITV&area=BJ_CUCC
+延边卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_YANBIAN/G_YANBIAN.m3u8?p=GITV&area=BJ_CUCC
+云南卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_YUNNAN-HQ/G_YUNNAN-HQ.m3u8?p=GITV&area=BJ_CUCC
+重庆卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CHONGQING-HQ/G_CHONGQING-HQ.m3u8?p=GITV&area=BJ_CUCC
+青海卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_QINGHAI/G_QINGHAI.m3u8?p=GITV&area=BJ_CUCC
+厦门卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_XIAMEN/G_XIAMEN.m3u8?p=GITV&area=BJ_CUCC
+CGTN俄语,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CGTN-PYCCNN/G_CGTN-PYCCNN.m3u8?p=GITV&area=BJ_CUCC
+CGTN西语,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CGTN-ESPANOL/G_CGTN-ESPANOL.m3u8?p=GITV&area=BJ_CUCC
+CGTN法语,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CGTN-FRANCAIS/G_CGTN-FRANCAIS.m3u8?p=GITV&area=BJ_CUCC
+CGTN阿语,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CGTN_A/G_CGTN_A.m3u8?p=GITV&area=BJ_CUCC
+BRTV纪实科教,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8?p=GITV&area=BJ_CUCC
+金鹰卡通,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_JINYING/G_JINYING.m3u8?p=GITV&area=BJ_CUCC
+BRTV卡酷少儿,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_KAKU/G_KAKU.m3u8?p=GITV&area=BJ_CUCC
+CCTV女性时尚,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_NVXINGSS/G_NVXINGSS.m3u8?p=GITV&area=BJ_CUCC
+优漫卡通,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_YOUMAN/G_YOUMAN.m3u8?p=GITV&area=BJ_CUCC
+CETV1,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CETV-1-HQ/G_CETV-1-HQ.m3u8?p=GITV&area=BJ_CUCC
+CETV2,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV&area=BJ_CUCC
+CETV3,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8?p=GITV&area=BJ_CUCC
+CETV4,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CETV-4/G_CETV-4.m3u8?p=GITV&area=BJ_CUCC
+天元围棋,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_TIANYUANWQ/G_TIANYUANWQ.m3u8?p=GITV&area=BJ_CUCC
+国学频道,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_GUOXUE/G_GUOXUE.m3u8?p=GITV&area=BJ_CUCC
+山东教育,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_SDETV/G_SDETV.m3u8?p=GITV&area=BJ_CUCC
+嘉佳卡通,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_JIAJIA/G_JIAJIA.m3u8?p=GITV&area=BJ_CUCC
+CETV早期教育,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CETV-ZQJY/G_CETV-ZQJY.m3u8?p=GITV&area=BJ_CUCC
+中央新影-发现之旅,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8?p=GITV&area=BJ_CUCC
+中央新影-老故事,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8?p=GITV&area=BJ_CUCC
+北京卫视4K,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_BEIJING-4K/G_BEIJING-4K.m3u8?p=GITV&area=BJ_CUCC
+CCTV4K,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8?p=GITV&area=BJ_CUCC
 江苏移动,#genre#
 CCTV-1 综合,http://122.70.160.24:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.250/PLTV/4/224/3221228581/index.m3u8
 CCTV-1 综合,http://122.70.160.24:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.5/PLTV/4/224/3221227725/index.m3u8
