@@ -1382,326 +1382,183 @@ XHTV,http://121.57.2.162:8188/rtp/239.29.0.187:5000
 额尔古纳,http://121.57.2.162:8188/rtp/239.29.1.132:5000
 
 内蒙古联通,#genre#
-类型：内蒙古呼和浩特市组播 内蒙古联通 | 节目数量：151
-BRTV卡酷少儿,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.127:4130
-BRTV卡酷少儿,http://www.pve.onetopcloud.com:16666/udp/239.125.1.127:4130
-CCTV-1 综合,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.177:4130
-CCTV-1 综合,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.66:4120
-CCTV-1 综合,http://www.pve.onetopcloud.com:16666/udp/239.125.1.177:4130
-CCTV-1 综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.66:4120
-CCTV-10 科教,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.143:4130
-CCTV-10 科教,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.61:4120
-CCTV-10 科教,http://www.pve.onetopcloud.com:16666/udp/239.125.1.143:4130
-CCTV-10 科教,http://www.pve.onetopcloud.com:16666/udp/239.125.2.61:4120
-CCTV-11 戏曲,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.101:4120
-CCTV-11 戏曲,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.134:4130
-CCTV-11 戏曲,http://www.pve.onetopcloud.com:16666/udp/239.125.1.101:4120
-CCTV-11 戏曲,http://www.pve.onetopcloud.com:16666/udp/239.125.1.134:4130
-CCTV-12 社会与法,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.161:4130
-CCTV-12 社会与法,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.60:4120
-CCTV-12 社会与法,http://www.pve.onetopcloud.com:16666/udp/239.125.1.161:4130
-CCTV-12 社会与法,http://www.pve.onetopcloud.com:16666/udp/239.125.2.60:4120
-CCTV-13 新闻,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.53:4120
-CCTV-13 新闻,http://www.pve.onetopcloud.com:16666/udp/239.125.1.53:4120
-CCTV-14 少儿,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.162:4130
-CCTV-14 少儿,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.59:4120
-CCTV-14 少儿,http://www.pve.onetopcloud.com:16666/udp/239.125.1.162:4130
-CCTV-14 少儿,http://www.pve.onetopcloud.com:16666/udp/239.125.2.59:4120
-CCTV-15 音乐,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.102:4120
-CCTV-15 音乐,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.163:4130
-CCTV-15 音乐,http://www.pve.onetopcloud.com:16666/udp/239.125.1.102:4120
-CCTV-15 音乐,http://www.pve.onetopcloud.com:16666/udp/239.125.1.163:4130
-CCTV-16 奥林匹克,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.206:4120
-CCTV-16 奥林匹克,http://www.pve.onetopcloud.com:16666/udp/239.125.2.206:4120
-CCTV-16 奥林匹克,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.218:4120
-CCTV-16 奥林匹克,http://www.pve.onetopcloud.com:16666/udp/239.125.2.218:4120
-CCTV-17 农业农村,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.204:4120
-CCTV-17 农业农村,http://www.pve.onetopcloud.com:16666/udp/239.125.2.204:4120
-CCTV-2 财经,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.118:4130
-CCTV-2 财经,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.65:4120
-CCTV-2 财经,http://www.pve.onetopcloud.com:16666/udp/239.125.1.118:4130
-CCTV-2 财经,http://www.pve.onetopcloud.com:16666/udp/239.125.2.65:4120
-CCTV-3 综艺,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.52:4120
-CCTV-3 综艺,http://www.pve.onetopcloud.com:16666/udp/239.125.2.52:4120
-CCTV-4 中文国际,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.141:4130
-CCTV-4 中文国际,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.64:4120
-CCTV-4 中文国际,http://www.pve.onetopcloud.com:16666/udp/239.125.1.141:4130
-CCTV-4 中文国际,http://www.pve.onetopcloud.com:16666/udp/239.125.2.64:4120
-CCTV-4 欧洲,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.196:4120
-CCTV-4 欧洲,http://www.pve.onetopcloud.com:16666/udp/239.125.2.196:4120
-CCTV-4 美洲,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.197:4120
-CCTV-4 美洲,http://www.pve.onetopcloud.com:16666/udp/239.125.2.197:4120
-CCTV-5 体育,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.54:4120
-CCTV-5 体育,http://www.pve.onetopcloud.com:16666/udp/239.125.2.54:4120
-CCTV-5+ 体育赛事,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.57:5000
-CCTV-5+ 体育赛事,http://www.pve.onetopcloud.com:16666/udp/239.125.1.57:5000
-CCTV-6 电影,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.56:4120
-CCTV-6 电影,http://www.pve.onetopcloud.com:16666/udp/239.125.2.56:4120
-CCTV-7 国防军事,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.131:4130
-CCTV-7 国防军事,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.63:4120
-CCTV-7 国防军事,http://www.pve.onetopcloud.com:16666/udp/239.125.1.131:4130
-CCTV-7 国防军事,http://www.pve.onetopcloud.com:16666/udp/239.125.2.63:4120
-CCTV-8 电视剧,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.58:4120
-CCTV-8 电视剧,http://www.pve.onetopcloud.com:16666/udp/239.125.2.58:4120
-CCTV-9 纪录,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.142:4130
-CCTV-9 纪录,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.62:4120
-CCTV-9 纪录,http://www.pve.onetopcloud.com:16666/udp/239.125.1.142:4130
-CCTV-9 纪录,http://www.pve.onetopcloud.com:16666/udp/239.125.2.62:4120
-CCTV4K,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.214:4120
-CCTV4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.214:4120
-CETV1,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.139:4130
-CETV1,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.204:4120
-CETV1,http://www.pve.onetopcloud.com:16666/udp/239.125.1.139:4130
-CETV2,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.29:5000
-CETV2,http://www.pve.onetopcloud.com:16666/udp/239.125.1.29:5000
-CETV4,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.110:4120
-CETV4,http://www.pve.onetopcloud.com:16666/udp/239.125.1.110:4120
-CGTN,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.140:4130
-CGTN,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.198:4120
-CGTN,http://www.pve.onetopcloud.com:16666/udp/239.125.1.140:4130
-CGTN,http://www.pve.onetopcloud.com:16666/udp/239.125.2.198:4120
-CGTN俄语,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.203:4120
-CGTN俄语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.203:4120
-CGTN法语,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.201:4120
-CGTN法语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.201:4120
-CGTN纪录,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.199:4120
-CGTN纪录,http://www.pve.onetopcloud.com:16666/udp/239.125.2.199:4120
-CGTN西语,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.200:4120
-CGTN西语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.200:4120
-CGTN阿语,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.202:4120
-CGTN阿语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.202:4120
-IPTV5+,http://www.pve.onetopcloud.com:16666/udp/239.125.1.25:5000
-IPTV光影,http://www.pve.onetopcloud.com:16666/udp/239.125.1.49:5000
-IPTV动作影院,http://www.pve.onetopcloud.com:16666/udp/239.125.1.53:5000
-IPTV动画,http://www.pve.onetopcloud.com:16666/udp/239.125.1.45:5000
-IPTV喜剧影院,http://www.pve.onetopcloud.com:16666/udp/239.125.1.52:5000
-IPTV地理,http://www.pve.onetopcloud.com:16666/udp/239.125.1.41:5000
-IPTV城市剧场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.148:4130
-IPTV墨宝,http://www.pve.onetopcloud.com:16666/udp/239.125.1.48:5000
-IPTV好学生,http://www.pve.onetopcloud.com:16666/udp/239.125.1.17:4120
-IPTV家庭影院,http://www.pve.onetopcloud.com:16666/udp/239.125.1.54:5000
-IPTV少儿动画,http://www.pve.onetopcloud.com:16666/udp/239.125.1.121:4130
-IPTV早教,http://www.pve.onetopcloud.com:16666/udp/239.125.1.44:5000
-IPTV星影,http://www.pve.onetopcloud.com:16666/udp/239.125.1.55:5000
-IPTV武侠剧场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.145:4130
-IPTV法治,http://www.pve.onetopcloud.com:16666/udp/239.125.1.56:5000
-IPTV热播剧场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.125:4130
-IPTV爱体育,http://www.pve.onetopcloud.com:16666/udp/239.125.1.122:4130
-IPTV爱生活,http://www.pve.onetopcloud.com:16666/udp/239.125.1.50:5000
-IPTV爱综艺,http://www.pve.onetopcloud.com:16666/udp/239.125.1.120:4130
-IPTV相声小品,http://www.pve.onetopcloud.com:16666/udp/239.125.1.30:5000
-IPTV精选,http://www.pve.onetopcloud.com:16666/udp/239.125.1.43:5000
-IPTV美人,http://www.pve.onetopcloud.com:16666/udp/239.125.44.9:4120
-IPTV谍战剧场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.130:4130
-IPTV足球,http://www.pve.onetopcloud.com:16666/udp/239.125.1.51:5000
-IPTV野外,http://www.pve.onetopcloud.com:16666/udp/234.1.3.126:5000
-IPTV鉴赏,http://www.pve.onetopcloud.com:16666/udp/239.125.1.47:5000
-IPTV音乐现场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.40:5000
-IPTV魅力时尚,http://www.pve.onetopcloud.com:16666/udp/239.125.1.27:5000
-三沙卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.180:4130
-三沙卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.180:4130
-东南卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.164:4130
-东南卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.77:4120
-东南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.164:4130
-东南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.77:4120
-东方卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.116:4130
-东方卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.82:4120
-东方卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.116:4130
-东方卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.82:4120
-东方卫视4K,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.235:4120
-东方卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.235:4120
-云南卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.160:4130
-云南卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.231:4120
-云南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.160:4130
-优购物,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.138:4130
-优购物,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.220:4120
-优购物,http://www.pve.onetopcloud.com:16666/udp/239.125.1.138:4130
-兵团卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.135:4130
-兵团卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.229:4120
-兵团卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.135:4130
-内蒙古农牧,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.73:4120
-内蒙古农牧,http://www.pve.onetopcloud.com:16666/udp/239.125.1.73:4120
-内蒙古卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.59:5000
-内蒙古卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.194:4120
-内蒙古卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.59:5000
-内蒙古卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.194:4120
-内蒙古少儿,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.69:4120
-内蒙古少儿,http://www.pve.onetopcloud.com:16666/udp/239.125.1.69:4120
-内蒙古文体娱乐,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.72:4120
-内蒙古文体娱乐,http://www.pve.onetopcloud.com:16666/udp/239.125.1.72:4120
-内蒙古新闻综合,http://www.pve.onetopcloud.com:16666/udp/239.125.1.70:4120
-内蒙古经济生活,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.70:4120
-内蒙古经济生活,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.74:4120
-内蒙古经济生活,http://www.pve.onetopcloud.com:16666/udp/239.125.1.74:4120
-内蒙古蒙古语卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.66:5000
-内蒙古蒙古语卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.66:5000
-内蒙古蒙古语文化,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.71:4120
-内蒙古蒙古语文化,http://www.pve.onetopcloud.com:16666/udp/239.125.1.71:4120
-军旅剧场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.147:4130
-动漫秀场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.31:5000
-北京卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.176:4130
-北京卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.73:4120
-北京卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.176:4130
-北京卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.73:4120
-北京卫视4K,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.105:4120
-北京卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.2.105:4120
-古装剧场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.146:4130
-吉林卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.191:4120
-吉林卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.205:4120
-吉林卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.191:4120
-吉林卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.205:4120
-嘉佳卡通,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.213:4120
-嘉佳卡通,http://www.pve.onetopcloud.com:16666/udp/239.125.2.213:4120
-四川卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.175:4130
-四川卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.79:4120
-四川卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.175:4130
-四川卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.79:4120
-四川卫视4K,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.236:4120
-四川卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.236:4120
-天津卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.153:4130
-天津卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.81:4120
-天津卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.153:4130
-天津卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.81:4120
-央广购物,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.14:4120
-央广购物,http://www.pve.onetopcloud.com:16666/udp/239.125.2.14:4120
-好享购物,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.219:4120
-好享购物,http://www.pve.onetopcloud.com:16666/rtp/239.125.44.2:5000
-好享购物,http://www.pve.onetopcloud.com:16666/udp/239.125.44.2:5000
-宁夏卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.157:4130
-宁夏卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.230:4120
-宁夏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.157:4130
-安徽卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.173:4130
-安徽卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.78:4120
-安徽卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.173:4130
-安徽卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.78:4120
-家有购物,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.137:4130
-家有购物,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.217:4120
-家有购物,http://www.pve.onetopcloud.com:16666/udp/239.125.1.137:4130
-山东卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.149:4130
-山东卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.75:4120
-山东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.149:4130
-山东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.75:4120
-山东卫视4K,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.237:4120
-山东卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.237:4120
-山东教育,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.178:4130
-山东教育,http://www.pve.onetopcloud.com:16666/udp/239.125.1.178:4130
-山西卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.119:4130
-山西卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.226:4120
-山西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.119:4130
-广东卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.154:4130
-广东卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.71:4120
-广东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.154:4130
-广东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.71:4120
-广东卫视4K,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.224:4120
-广东卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.224:4120
-广西卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.167:4130
-广西卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.225:4120
-广西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.167:4130
-扎鲁特,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.222:4120
-收视指南,http://www.pve.onetopcloud.com:16666/udp/239.125.44.3:5000
-新疆卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.123:4130
-新疆卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.228:4120
-新疆卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.123:4130
-海南卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.165:4130
-海南卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.189:4120
-时尚购物,http://www.pve.onetopcloud.com:16666/rtp/234.1.3.187:5000
-时尚购物,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.216:4120
-时尚购物,http://www.pve.onetopcloud.com:16666/udp/234.1.3.187:5000
-未知节目,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.195:4120
-未识别,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.212:4120
-未识别,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.213:4120
-杭锦旗,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.212:4120
-杭锦旗,http://www.pve.onetopcloud.com:16666/udp/239.125.2.212:4120
-江苏卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.172:4130
-江苏卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.69:4120
-江苏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.172:4130
-江苏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.69:4120
-江苏卫视4K,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.233:4120
-江苏卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.233:4120
-江西卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.174:4130
-江西卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.101:4129
-江西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.174:4130
-江西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.101:4129
-河北三佳购物,http://www.pve.onetopcloud.com:16666/udp/239.125.2.144:4120
-河北卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.169:4130
-河北卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.70:4120
-河北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.169:4130
-河北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.70:4120
-河南卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.156:4130
-河南卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.215:4120
-河南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.156:4130
-浙江卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.159:4130
-浙江卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.68:4120
-浙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.159:4130
-浙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.68:4120
-浙江卫视4K,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.234:4120
-浙江卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.234:4120
-海南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.165:4130
-海南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.189:4120
-深圳卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.166:4130
-深圳卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.76:4120
-深圳卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.166:4130
-深圳卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.76:4120
-深圳卫视4K,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.223:4120
-深圳卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.223:4120
-游戏风云,http://www.pve.onetopcloud.com:16666/udp/239.125.1.33:5000
-湖北卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.152:4130
-湖北卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.74:4120
-湖北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.152:4130
-湖北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.74:4120
-湖南卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.170:4130
-湖南卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.67:4120
-湖南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.170:4130
-湖南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.67:4120
-湖南卫视4K,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.232:4120
-湖南卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.232:4120
-爱上4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.24:5000
-爱大剧,http://www.pve.onetopcloud.com:16666/udp/239.125.1.126:4130
-爱电影,http://www.pve.onetopcloud.com:16666/udp/239.125.1.124:4130
-甘肃卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.151:4130
-甘肃卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.190:4120
-甘肃卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.151:4130
-甘肃卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.190:4120
-经典电影,http://www.pve.onetopcloud.com:16666/udp/239.125.1.28:5000
-聚鲨环球精选,,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.136:4130
-聚鲨环球精选,,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.221:4120
-聚鲨环球精选,http://www.pve.onetopcloud.com:16666/udp/239.125.1.136:4130
-西藏卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.117:4130
-西藏卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.227:4120
-西藏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.117:4130
-贵州卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.158:4130
-贵州卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.80:4120
-贵州卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.158:4130
-贵州卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.80:4120
-辽宁卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.115:4130
-辽宁卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.72:4120
-辽宁卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.115:4130
-辽宁卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.72:4120
-都市剧场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.129:4130
-鄂尔多斯新闻综合,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.165:4154
-鄂尔多斯新闻综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.165:4154
-鄂尔多斯经济服务,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.164:4153
-鄂尔多斯经济服务,http://www.pve.onetopcloud.com:16666/udp/239.125.2.164:4153
-鄂尔多斯蒙语综合,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.162:4151
-鄂尔多斯蒙语综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.162:4151
-重庆卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.168:4130
-重庆卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.102:4130
-重庆卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.168:4130
-重庆卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.102:4130
-金色学堂,http://www.pve.onetopcloud.com:16666/udp/239.125.1.39:5000
-金鹰卡通,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.128:4130
-金鹰卡通,http://www.pve.onetopcloud.com:16666/udp/239.125.1.128:4130
-金鹰纪实,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.106:4134
-金鹰纪实,http://www.pve.onetopcloud.com:16666/udp/239.125.2.106:4134
-锡林郭勒新闻综合,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.114:4120
-陕西卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.155:4130
-陕西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.155:4130
-青海卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.150:4130
-青海卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.150:4130
-黑龙江卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.1.171:4130
-黑龙江卫视,http://www.pve.onetopcloud.com:16666/rtp/239.125.2.83:4120
-黑龙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.171:4130
-黑龙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.83:4120
+类型：内蒙古呼和浩特市组播 内蒙古联通 | 节目数量：175
+BRTV卡酷少儿,http://www.pve.onetopcloud.com:16666/udp/239.125.1.127:4130$1080p
+CCTV-1 综合,http://www.pve.onetopcloud.com:16666/udp/239.125.1.177:4130$576p
+CCTV-1 综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.219:4120$1080p
+CCTV-1 综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.66:4120$1080p
+CCTV-2 财经,http://www.pve.onetopcloud.com:16666/udp/239.125.1.118:4130$576p
+CCTV-2 财经,http://www.pve.onetopcloud.com:16666/udp/239.125.2.65:4120$1080p
+CCTV-3 综艺,http://www.pve.onetopcloud.com:16666/udp/239.125.2.52:4120$1080p
+CCTV-4 中文国际,http://www.pve.onetopcloud.com:16666/udp/239.125.1.141:4130$576p
+CCTV-4 中文国际,http://www.pve.onetopcloud.com:16666/udp/239.125.2.64:4120$1080p
+CCTV-4 欧洲,http://www.pve.onetopcloud.com:16666/udp/239.125.2.196:4120$1080p
+CCTV-4 美洲,http://www.pve.onetopcloud.com:16666/udp/239.125.2.197:4120$1080p
+CCTV-5 体育,http://www.pve.onetopcloud.com:16666/udp/239.125.1.133:4130$576p
+CCTV-5 体育,http://www.pve.onetopcloud.com:16666/udp/239.125.2.54:4120$1080p
+CCTV-5+ 体育赛事,http://www.pve.onetopcloud.com:16666/udp/239.125.1.57:5000$1080p
+CCTV-6 电影,http://www.pve.onetopcloud.com:16666/udp/239.125.1.144:4130$576p
+CCTV-6 电影,http://www.pve.onetopcloud.com:16666/udp/239.125.2.56:4120$1080p
+CCTV-7 国防军事,http://www.pve.onetopcloud.com:16666/udp/239.125.1.131:4130$576p
+CCTV-7 国防军事,http://www.pve.onetopcloud.com:16666/udp/239.125.2.63:4120$1080p
+CCTV-8 电视剧,http://www.pve.onetopcloud.com:16666/udp/239.125.1.179:4130$576p
+CCTV-8 电视剧,http://www.pve.onetopcloud.com:16666/udp/239.125.2.58:4120$1080p
+CCTV-9 纪录,http://www.pve.onetopcloud.com:16666/udp/239.125.1.142:4130$576p
+CCTV-9 纪录,http://www.pve.onetopcloud.com:16666/udp/239.125.2.62:4120$1080p
+CCTV-10 科教,http://www.pve.onetopcloud.com:16666/udp/239.125.1.143:4130$576p
+CCTV-10 科教,http://www.pve.onetopcloud.com:16666/udp/239.125.2.61:4120$1080p
+CCTV-11 戏曲,http://www.pve.onetopcloud.com:16666/udp/239.125.1.101:4120$1080p
+CCTV-11 戏曲,http://www.pve.onetopcloud.com:16666/udp/239.125.1.134:4130$576p
+CCTV-12 社会与法,http://www.pve.onetopcloud.com:16666/udp/239.125.1.161:4130$576p
+CCTV-12 社会与法,http://www.pve.onetopcloud.com:16666/udp/239.125.2.60:4120$1080p
+CCTV-13 新闻,http://www.pve.onetopcloud.com:16666/udp/239.125.1.53:4120$1080p
+CCTV-14 少儿,http://www.pve.onetopcloud.com:16666/udp/239.125.1.162:4130$576p
+CCTV-14 少儿,http://www.pve.onetopcloud.com:16666/udp/239.125.2.59:4120$1080p
+CCTV-15 音乐,http://www.pve.onetopcloud.com:16666/udp/239.125.1.102:4120$1080p
+CCTV-15 音乐,http://www.pve.onetopcloud.com:16666/udp/239.125.1.163:4130$576p
+CCTV-16 奥林匹克,http://www.pve.onetopcloud.com:16666/udp/239.125.2.206:4120$1080p
+CCTV-16 奥林匹克,http://www.pve.onetopcloud.com:16666/udp/239.125.2.218:4120$2160p
+CCTV-17 农业农村,http://www.pve.onetopcloud.com:16666/udp/239.125.1.100:5000$576p
+CCTV-17 农业农村,http://www.pve.onetopcloud.com:16666/udp/239.125.2.204:4120$1080p
+CCTV4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.214:4120$2160p
+东方卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.235:4120$2160p
+北京卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.2.105:4120$2160p
+四川卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.236:4120$2160p
+山东卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.237:4120$2160p
+广东卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.224:4120$2160p
+江苏卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.233:4120$2160p
+浙江卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.234:4120$2160p
+深圳卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.223:4120$2160p
+湖南卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.232:4120$2160p
+
+CETV1,http://www.pve.onetopcloud.com:16666/udp/239.125.1.139:4130$576p
+CETV1,http://www.pve.onetopcloud.com:16666/udp/239.125.1.204:4120$1080p
+CETV2,http://www.pve.onetopcloud.com:16666/udp/239.125.1.29:5000$576p
+CETV4,http://www.pve.onetopcloud.com:16666/udp/239.125.1.110:4120$1080p
+CGTN,http://www.pve.onetopcloud.com:16666/udp/239.125.1.140:4130$576p
+CGTN,http://www.pve.onetopcloud.com:16666/udp/239.125.2.198:4120$1080p
+CGTN俄语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.203:4120$1080p
+CGTN法语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.201:4120$1080p
+CGTN纪录,http://www.pve.onetopcloud.com:16666/udp/239.125.2.199:4120$1080p
+CGTN西语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.200:4120$1080p
+CGTN阿语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.202:4120$1080p
+三沙卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.180:4130$576p
+东南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.164:4130$576p
+东南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.77:4120$1080p
+东方卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.116:4130$576p
+东方卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.82:4120$1080p
+云南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.160:4130$576p
+云南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.231:4120$1080p
+兵团卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.135:4130$576p
+兵团卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.229:4120$1080p
+北京卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.176:4130$576p
+北京卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.73:4120$1080p
+吉林卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.191:4120$1080p
+吉林卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.205:4120$576p
+四川卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.175:4130$576p
+四川卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.240:4120$1080p
+四川卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.79:4120$1080p
+天津卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.153:4130$576p
+天津卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.81:4120$1080p
+宁夏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.157:4130$576p
+宁夏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.230:4120$1080p
+安徽卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.173:4130$576p
+安徽卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.78:4120$1080p
+山东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.149:4130$576p
+山东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.75:4120$1080p
+山东教育,http://www.pve.onetopcloud.com:16666/udp/239.125.1.178:4130$1080p
+山西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.119:4130$576p
+广东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.154:4130$576p
+广东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.71:4120$1080p
+广西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.167:4130$576p
+广西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.225:4120$1080p
+新疆卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.123:4130$576p
+新疆卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.228:4120$1080p
+江苏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.172:4130$576p
+江苏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.69:4120$1080p
+江西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.174:4130$576p
+河北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.169:4130$576p
+河北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.70:4120$1080p
+河南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.156:4130$576p
+河南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.215:4120$1080p
+河南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.238:4120$1080p
+浙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.159:4130$576p
+浙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.68:4120$1080p
+海南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.165:4130$576p
+海南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.241:4120$1080p
+海南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.189:4120$1080p
+深圳卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.166:4130$576p
+深圳卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.76:4120$1080p
+湖北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.152:4130$576p
+湖北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.74:4120$1080p
+湖南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.170:4130$576p
+湖南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.67:4120$1080p
+甘肃卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.151:4130$576p
+甘肃卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.190:4120$1080p
+西藏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.226:4120$1080p
+西藏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.117:4130$576p
+西藏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.227:4120$1080p
+贵州卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.158:4130$576p
+贵州卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.80:4120$1080p
+辽宁卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.115:4130$576p
+辽宁卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.72:4120$1080p
+重庆卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.168:4130$576p
+陕西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.155:4130$576p
+陕西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.239:4120$1080p
+青海卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.150:4130$576p
+黑龙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.171:4130$576p
+黑龙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.83:4120$1080p
+内蒙古卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.242:4120$1080p
+内蒙古卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.58:5000$576p
+内蒙古卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.59:5000$1080p
+内蒙古卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.68:5000$576p
+内蒙古卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.194:4120$576p
+内蒙古卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.50:4120$1080p
+内蒙古农牧,http://www.pve.onetopcloud.com:16666/udp/239.125.1.61:5000$576p
+内蒙古农牧,http://www.pve.onetopcloud.com:16666/udp/239.125.1.73:4120$1080p
+内蒙古少儿,http://www.pve.onetopcloud.com:16666/udp/239.125.1.60:5000$576p
+内蒙古少儿,http://www.pve.onetopcloud.com:16666/udp/239.125.1.69:4120$1080p
+内蒙古文体娱乐,http://www.pve.onetopcloud.com:16666/udp/239.125.1.62:5000$576p
+内蒙古文体娱乐,http://www.pve.onetopcloud.com:16666/udp/239.125.1.72:4120$1080p
+内蒙古新闻综合,http://www.pve.onetopcloud.com:16666/udp/239.125.1.63:5000$576p
+内蒙古新闻综合,http://www.pve.onetopcloud.com:16666/udp/239.125.1.70:4120$1080p
+内蒙古经济生活,http://www.pve.onetopcloud.com:16666/udp/239.125.1.64:5000$576p
+内蒙古经济生活,http://www.pve.onetopcloud.com:16666/udp/239.125.1.74:4120$1080p
+内蒙古蒙古语卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.65:5000$576p
+内蒙古蒙古语卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.66:5000$1080p
+内蒙古蒙古语文化,http://www.pve.onetopcloud.com:16666/udp/239.125.1.67:5000$576p
+内蒙古蒙古语文化,http://www.pve.onetopcloud.com:16666/udp/239.125.1.71:4120$1080p
+九屏共赏,http://www.pve.onetopcloud.com:16666/udp/239.125.2.215:4120$1080p
+卫视收视排行,http://www.pve.onetopcloud.com:16666/udp/239.125.2.214:4120$1080p
+卫视收视排行,http://www.pve.onetopcloud.com:16666/udp/239.125.2.217:4120$1080p
+本地频道展示,http://www.pve.onetopcloud.com:16666/udp/239.125.2.216:4120$1080p
+察右后旗综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.193:4120$1080p
+库伦综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.15:4120$1080p
+扎鲁特旗综合,http://www.pve.onetopcloud.com:16666/udp/239.125.1.222:4120$576p
+杭锦旗综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.212:4120$1080p
+磴口综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.221:4120$1080p
+鄂尔多斯新闻综合http://www.pve.onetopcloud.com:16666/udp/239.125.2.165:4154$1080p
+鄂尔多斯经济服务,http://www.pve.onetopcloud.com:16666/udp/239.125.2.164:4153$1080p
+鄂尔多斯蒙语综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.162:4151$1080p
+鄂托克旗综合,http://www.pve.onetopcloud.com:16666/udp/239.125.1.212:4120$1080p
+锡林郭勒新闻综合,http://www.pve.onetopcloud.com:16666/udp/239.125.1.114:4120$576p
+阿荣旗综合,http://www.pve.onetopcloud.com:16666/udp/239.125.1.213:4120$1080p
+额尔古纳综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.195:4120$576p
+扎兰屯综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.211:4120$576p
+嘉佳卡通,http://www.pve.onetopcloud.com:16666/udp/239.125.2.213:4120$576p
+金鹰卡通,http://www.pve.onetopcloud.com:16666/udp/239.125.1.128:4130$576p
+金鹰纪实,http://www.pve.onetopcloud.com:16666/udp/239.125.2.106:4134$1080p
+优购物,http://www.pve.onetopcloud.com:16666/udp/239.125.1.138:4130$576p
+优购物,http://www.pve.onetopcloud.com:16666/udp/239.125.1.220:4120$576p
+央广购物,http://www.pve.onetopcloud.com:16666/udp/239.125.2.14:4120$576p
+央广购物,http://www.pve.onetopcloud.com:16666/udp/239.125.2.220:4120$576p
+好享购物,http://www.pve.onetopcloud.com:16666/udp/239.125.1.219:4120$576p
+家有购物,http://www.pve.onetopcloud.com:16666/udp/239.125.1.137:4130$576p
+家有购物,http://www.pve.onetopcloud.com:16666/udp/239.125.1.217:4120$576p
+快乐购,http://www.pve.onetopcloud.com:16666/udp/239.125.1.216:4120$576p
+聚鲨环球精选,http://www.pve.onetopcloud.com:16666/udp/239.125.1.136:4130$576p
+聚鲨环球精选,http://www.pve.onetopcloud.com:16666/udp/239.125.1.221:4120$576p
+
 
 重庆电信,#genre#
 类型：重庆市组播 重庆电信 | 节目数量：340
@@ -8183,7 +8040,7 @@ CGTN阿语,http://1.189.188.101:49135/rtp/229.58.190.19:5000$576p
 湖南卫视,http://1.189.188.101:49135/rtp/229.58.190.142:5000$576p
 甘肃卫视,http://1.189.188.101:49135/rtp/229.58.190.185:5000$576p
 甘肃卫视,http://1.189.188.101:49135/rtp/229.58.190.207:5000$1080p
-甘萧卫视,http://1.189.188.101:49135/rtp/229.58.190.185:5000$576p
+甘肃卫视,http://1.189.188.101:49135/rtp/229.58.190.185:5000$576p
 西藏卫视,http://1.189.188.101:49135/rtp/229.58.190.177:5000$576p
 西藏卫视,http://1.189.188.101:49135/rtp/229.58.190.219:5000$1080p
 贵州卫视,http://1.189.188.101:49135/rtp/229.58.190.100:5000$1080p
@@ -25075,176 +24932,181 @@ PRM,http://www.chutouge.top:34022/rtp/239.3.1.23:8001$1080p
 家有购物,http://www.chutouge.top:34022/rtp/239.3.1.186:8001$1080p
 
 内蒙古联通,#genre#
-BRTV卡酷少儿,http://www.pve.onetopcloud.com:16666/udp/239.125.1.127:4130
-CCTV-1 综合,http://www.pve.onetopcloud.com:16666/udp/239.125.1.177:4130
-CCTV-1 综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.66:4120
-CCTV-10 科教,http://www.pve.onetopcloud.com:16666/udp/239.125.1.143:4130
-CCTV-10 科教,http://www.pve.onetopcloud.com:16666/udp/239.125.2.61:4120
-CCTV-11 戏曲,http://www.pve.onetopcloud.com:16666/udp/239.125.1.101:4120
-CCTV-11 戏曲,http://www.pve.onetopcloud.com:16666/udp/239.125.1.134:4130
-CCTV-12 社会与法,http://www.pve.onetopcloud.com:16666/udp/239.125.1.161:4130
-CCTV-12 社会与法,http://www.pve.onetopcloud.com:16666/udp/239.125.2.60:4120
-CCTV-13 新闻,http://www.pve.onetopcloud.com:16666/udp/239.125.1.53:4120
-CCTV-14 少儿,http://www.pve.onetopcloud.com:16666/udp/239.125.1.162:4130
-CCTV-14 少儿,http://www.pve.onetopcloud.com:16666/udp/239.125.2.59:4120
-CCTV-15 音乐,http://www.pve.onetopcloud.com:16666/udp/239.125.1.102:4120
-CCTV-15 音乐,http://www.pve.onetopcloud.com:16666/udp/239.125.1.163:4130
-CCTV-16 奥林匹克,http://www.pve.onetopcloud.com:16666/udp/239.125.2.206:4120
-CCTV-16 奥林匹克,http://www.pve.onetopcloud.com:16666/udp/239.125.2.218:4120
-CCTV-17 农业农村,http://www.pve.onetopcloud.com:16666/udp/239.125.2.204:4120
-CCTV-2 财经,http://www.pve.onetopcloud.com:16666/udp/239.125.1.118:4130
-CCTV-2 财经,http://www.pve.onetopcloud.com:16666/udp/239.125.2.65:4120
-CCTV-3 综艺,http://www.pve.onetopcloud.com:16666/udp/239.125.2.52:4120
-CCTV-4 中文国际,http://www.pve.onetopcloud.com:16666/udp/239.125.1.141:4130
-CCTV-4 中文国际,http://www.pve.onetopcloud.com:16666/udp/239.125.2.64:4120
-CCTV-4 欧洲,http://www.pve.onetopcloud.com:16666/udp/239.125.2.196:4120
-CCTV-4 美洲,http://www.pve.onetopcloud.com:16666/udp/239.125.2.197:4120
-CCTV-5 体育,http://www.pve.onetopcloud.com:16666/udp/239.125.2.54:4120
-CCTV-5+ 体育赛事,http://www.pve.onetopcloud.com:16666/udp/239.125.1.57:5000
-CCTV-6 电影,http://www.pve.onetopcloud.com:16666/udp/239.125.2.56:4120
-CCTV-7 国防军事,http://www.pve.onetopcloud.com:16666/udp/239.125.1.131:4130
-CCTV-7 国防军事,http://www.pve.onetopcloud.com:16666/udp/239.125.2.63:4120
-CCTV-8 电视剧,http://www.pve.onetopcloud.com:16666/udp/239.125.2.58:4120
-CCTV-9 纪录,http://www.pve.onetopcloud.com:16666/udp/239.125.1.142:4130
-CCTV-9 纪录,http://www.pve.onetopcloud.com:16666/udp/239.125.2.62:4120
-CCTV4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.214:4120
-CETV1,http://www.pve.onetopcloud.com:16666/udp/239.125.1.139:4130
-CETV2,http://www.pve.onetopcloud.com:16666/udp/239.125.1.29:5000
-CETV4,http://www.pve.onetopcloud.com:16666/udp/239.125.1.110:4120
-CGTN,http://www.pve.onetopcloud.com:16666/udp/239.125.1.140:4130
-CGTN,http://www.pve.onetopcloud.com:16666/udp/239.125.2.198:4120
-CGTN俄语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.203:4120
-CGTN法语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.201:4120
-CGTN纪录,http://www.pve.onetopcloud.com:16666/udp/239.125.2.199:4120
-CGTN西语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.200:4120
-CGTN阿语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.202:4120
-IPTV5+,http://www.pve.onetopcloud.com:16666/udp/239.125.1.25:5000
-IPTV光影,http://www.pve.onetopcloud.com:16666/udp/239.125.1.49:5000
-IPTV动作影院,http://www.pve.onetopcloud.com:16666/udp/239.125.1.53:5000
-IPTV动画,http://www.pve.onetopcloud.com:16666/udp/239.125.1.45:5000
-IPTV喜剧影院,http://www.pve.onetopcloud.com:16666/udp/239.125.1.52:5000
-IPTV地理,http://www.pve.onetopcloud.com:16666/udp/239.125.1.41:5000
-IPTV城市剧场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.148:4130
-IPTV墨宝,http://www.pve.onetopcloud.com:16666/udp/239.125.1.48:5000
-IPTV好学生,http://www.pve.onetopcloud.com:16666/udp/239.125.1.17:4120
-IPTV家庭影院,http://www.pve.onetopcloud.com:16666/udp/239.125.1.54:5000
-IPTV少儿动画,http://www.pve.onetopcloud.com:16666/udp/239.125.1.121:4130
-IPTV早教,http://www.pve.onetopcloud.com:16666/udp/239.125.1.44:5000
-IPTV星影,http://www.pve.onetopcloud.com:16666/udp/239.125.1.55:5000
-IPTV武侠剧场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.145:4130
-IPTV法治,http://www.pve.onetopcloud.com:16666/udp/239.125.1.56:5000
-IPTV热播剧场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.125:4130
-IPTV爱体育,http://www.pve.onetopcloud.com:16666/udp/239.125.1.122:4130
-IPTV爱生活,http://www.pve.onetopcloud.com:16666/udp/239.125.1.50:5000
-IPTV爱综艺,http://www.pve.onetopcloud.com:16666/udp/239.125.1.120:4130
-IPTV相声小品,http://www.pve.onetopcloud.com:16666/udp/239.125.1.30:5000
-IPTV精选,http://www.pve.onetopcloud.com:16666/udp/239.125.1.43:5000
-IPTV美人,http://www.pve.onetopcloud.com:16666/udp/239.125.44.9:4120
-IPTV谍战剧场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.130:4130
-IPTV足球,http://www.pve.onetopcloud.com:16666/udp/239.125.1.51:5000
-IPTV野外,http://www.pve.onetopcloud.com:16666/udp/234.1.3.126:5000
-IPTV鉴赏,http://www.pve.onetopcloud.com:16666/udp/239.125.1.47:5000
-IPTV音乐现场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.40:5000
-IPTV魅力时尚,http://www.pve.onetopcloud.com:16666/udp/239.125.1.27:5000
-三沙卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.180:4130
-东南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.164:4130
-东南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.77:4120
-东方卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.116:4130
-东方卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.82:4120
-东方卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.235:4120
-云南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.160:4130
-优购物,http://www.pve.onetopcloud.com:16666/udp/239.125.1.138:4130
-兵团卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.135:4130
-内蒙古农牧,http://www.pve.onetopcloud.com:16666/udp/239.125.1.73:4120
-内蒙古卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.59:5000
-内蒙古卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.194:4120
-内蒙古少儿,http://www.pve.onetopcloud.com:16666/udp/239.125.1.69:4120
-内蒙古文体娱乐,http://www.pve.onetopcloud.com:16666/udp/239.125.1.72:4120
-内蒙古新闻综合,http://www.pve.onetopcloud.com:16666/udp/239.125.1.70:4120
-内蒙古经济生活,http://www.pve.onetopcloud.com:16666/udp/239.125.1.74:4120
-内蒙古蒙古语卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.66:5000
-内蒙古蒙古语文化,http://www.pve.onetopcloud.com:16666/udp/239.125.1.71:4120
-军旅剧场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.147:4130
-动漫秀场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.31:5000
-北京卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.176:4130
-北京卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.73:4120
-北京卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.2.105:4120
-古装剧场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.146:4130
-吉林卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.191:4120
-吉林卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.205:4120
-嘉佳卡通,http://www.pve.onetopcloud.com:16666/udp/239.125.2.213:4120
-四川卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.175:4130
-四川卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.79:4120
-四川卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.236:4120
-天津卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.153:4130
-天津卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.81:4120
-央广购物,http://www.pve.onetopcloud.com:16666/udp/239.125.2.14:4120
-好享购物,http://www.pve.onetopcloud.com:16666/udp/239.125.44.2:5000
-宁夏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.157:4130
-安徽卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.173:4130
-安徽卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.78:4120
-家有购物,http://www.pve.onetopcloud.com:16666/udp/239.125.1.137:4130
-山东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.149:4130
-山东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.75:4120
-山东卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.237:4120
-山东教育,http://www.pve.onetopcloud.com:16666/udp/239.125.1.178:4130
-山西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.119:4130
-广东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.154:4130
-广东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.71:4120
-广东卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.224:4120
-广西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.167:4130
-收视指南,http://www.pve.onetopcloud.com:16666/udp/239.125.44.3:5000
-新疆卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.123:4130
-时尚购物,http://www.pve.onetopcloud.com:16666/udp/234.1.3.187:5000
-杭锦旗,http://www.pve.onetopcloud.com:16666/udp/239.125.2.212:4120
-江苏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.172:4130
-江苏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.69:4120
-江苏卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.233:4120
-江西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.174:4130
-江西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.101:4129
-河北三佳购物,http://www.pve.onetopcloud.com:16666/udp/239.125.2.144:4120
-河北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.169:4130
-河北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.70:4120
-河南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.156:4130
-浙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.159:4130
-浙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.68:4120
-浙江卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.234:4120
-海南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.165:4130
-海南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.189:4120
-深圳卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.166:4130
-深圳卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.76:4120
-深圳卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.223:4120
-游戏风云,http://www.pve.onetopcloud.com:16666/udp/239.125.1.33:5000
-湖北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.152:4130
-湖北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.74:4120
-湖南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.170:4130
-湖南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.67:4120
-湖南卫视4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.232:4120
-爱上4K,http://www.pve.onetopcloud.com:16666/udp/239.125.1.24:5000
-爱大剧,http://www.pve.onetopcloud.com:16666/udp/239.125.1.126:4130
-爱电影,http://www.pve.onetopcloud.com:16666/udp/239.125.1.124:4130
-甘肃卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.151:4130
-甘肃卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.190:4120
-经典电影,http://www.pve.onetopcloud.com:16666/udp/239.125.1.28:5000
-聚鲨环球精选,http://www.pve.onetopcloud.com:16666/udp/239.125.1.136:4130
-西藏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.117:4130
-贵州卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.158:4130
-贵州卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.80:4120
-辽宁卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.115:4130
-辽宁卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.72:4120
-都市剧场,http://www.pve.onetopcloud.com:16666/udp/239.125.1.129:4130
-鄂尔多斯新闻综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.165:4154
-鄂尔多斯经济服务,http://www.pve.onetopcloud.com:16666/udp/239.125.2.164:4153
-鄂尔多斯蒙语综合,http://www.pve.onetopcloud.com:16666/udp/239.125.2.162:4151
-重庆卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.168:4130
-重庆卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.102:4130
-金色学堂,http://www.pve.onetopcloud.com:16666/udp/239.125.1.39:5000
-金鹰卡通,http://www.pve.onetopcloud.com:16666/udp/239.125.1.128:4130
-金鹰纪实,http://www.pve.onetopcloud.com:16666/udp/239.125.2.106:4134
-陕西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.155:4130
-青海卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.150:4130
-黑龙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.171:4130
-黑龙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.83:4120
+BRTV卡酷少儿,http://124.67.68.139:4022/udp/239.125.1.127:4130$1080p
+CCTV-1 综合,http://124.67.68.139:4022/udp/239.125.1.177:4130$576p
+CCTV-1 综合,http://124.67.68.139:4022/udp/239.125.2.219:4120$1080p
+CCTV-1 综合,http://124.67.68.139:4022/udp/239.125.2.66:4120$1080p
+CCTV-2 财经,http://124.67.68.139:4022/udp/239.125.1.118:4130$576p
+CCTV-2 财经,http://124.67.68.139:4022/udp/239.125.2.65:4120$1080p
+CCTV-3 综艺,http://124.67.68.139:4022/udp/239.125.2.52:4120$1080p
+CCTV-4 中文国际,http://124.67.68.139:4022/udp/239.125.1.141:4130$576p
+CCTV-4 中文国际,http://124.67.68.139:4022/udp/239.125.2.64:4120$1080p
+CCTV-4 欧洲,http://124.67.68.139:4022/udp/239.125.2.196:4120$1080p
+CCTV-4 美洲,http://124.67.68.139:4022/udp/239.125.2.197:4120$1080p
+CCTV-5 体育,http://124.67.68.139:4022/udp/239.125.1.133:4130$576p
+CCTV-5 体育,http://124.67.68.139:4022/udp/239.125.2.54:4120$1080p
+CCTV-5+ 体育赛事,http://124.67.68.139:4022/udp/239.125.1.57:5000$1080p
+CCTV-6 电影,http://124.67.68.139:4022/udp/239.125.1.144:4130$576p
+CCTV-6 电影,http://124.67.68.139:4022/udp/239.125.2.56:4120$1080p
+CCTV-7 国防军事,http://124.67.68.139:4022/udp/239.125.1.131:4130$576p
+CCTV-7 国防军事,http://124.67.68.139:4022/udp/239.125.2.63:4120$1080p
+CCTV-8 电视剧,http://124.67.68.139:4022/udp/239.125.1.179:4130$576p
+CCTV-8 电视剧,http://124.67.68.139:4022/udp/239.125.2.58:4120$1080p
+CCTV-9 纪录,http://124.67.68.139:4022/udp/239.125.1.142:4130$576p
+CCTV-9 纪录,http://124.67.68.139:4022/udp/239.125.2.62:4120$1080p
+CCTV-10 科教,http://124.67.68.139:4022/udp/239.125.1.143:4130$576p
+CCTV-10 科教,http://124.67.68.139:4022/udp/239.125.2.61:4120$1080p
+CCTV-11 戏曲,http://124.67.68.139:4022/udp/239.125.1.101:4120$1080p
+CCTV-11 戏曲,http://124.67.68.139:4022/udp/239.125.1.134:4130$576p
+CCTV-12 社会与法,http://124.67.68.139:4022/udp/239.125.1.161:4130$576p
+CCTV-12 社会与法,http://124.67.68.139:4022/udp/239.125.2.60:4120$1080p
+CCTV-13 新闻,http://124.67.68.139:4022/udp/239.125.1.53:4120$1080p
+CCTV-14 少儿,http://124.67.68.139:4022/udp/239.125.1.162:4130$576p
+CCTV-14 少儿,http://124.67.68.139:4022/udp/239.125.2.59:4120$1080p
+CCTV-15 音乐,http://124.67.68.139:4022/udp/239.125.1.102:4120$1080p
+CCTV-15 音乐,http://124.67.68.139:4022/udp/239.125.1.163:4130$576p
+CCTV-16 奥林匹克,http://124.67.68.139:4022/udp/239.125.2.206:4120$1080p
+CCTV-16 奥林匹克,http://124.67.68.139:4022/udp/239.125.2.218:4120$2160p
+CCTV-17 农业农村,http://124.67.68.139:4022/udp/239.125.1.100:5000$576p
+CCTV-17 农业农村,http://124.67.68.139:4022/udp/239.125.2.204:4120$1080p
+CCTV4K,http://124.67.68.139:4022/udp/239.125.1.214:4120$2160p
+东方卫视4K,http://124.67.68.139:4022/udp/239.125.1.235:4120$2160p
+北京卫视4K,http://124.67.68.139:4022/udp/239.125.2.105:4120$2160p
+四川卫视4K,http://124.67.68.139:4022/udp/239.125.1.236:4120$2160p
+山东卫视4K,http://124.67.68.139:4022/udp/239.125.1.237:4120$2160p
+广东卫视4K,http://124.67.68.139:4022/udp/239.125.1.224:4120$2160p
+江苏卫视4K,http://124.67.68.139:4022/udp/239.125.1.233:4120$2160p
+浙江卫视4K,http://124.67.68.139:4022/udp/239.125.1.234:4120$2160p
+深圳卫视4K,http://124.67.68.139:4022/udp/239.125.1.223:4120$2160p
+湖南卫视4K,http://124.67.68.139:4022/udp/239.125.1.232:4120$2160p
+
+CETV1,http://124.67.68.139:4022/udp/239.125.1.139:4130$576p
+CETV1,http://124.67.68.139:4022/udp/239.125.1.204:4120$1080p
+CETV2,http://124.67.68.139:4022/udp/239.125.1.29:5000$576p
+CETV4,http://124.67.68.139:4022/udp/239.125.1.110:4120$1080p
+CGTN,http://124.67.68.139:4022/udp/239.125.1.140:4130$576p
+CGTN,http://124.67.68.139:4022/udp/239.125.2.198:4120$1080p
+CGTN俄语,http://124.67.68.139:4022/udp/239.125.2.203:4120$1080p
+CGTN法语,http://124.67.68.139:4022/udp/239.125.2.201:4120$1080p
+CGTN纪录,http://124.67.68.139:4022/udp/239.125.2.199:4120$1080p
+CGTN西语,http://124.67.68.139:4022/udp/239.125.2.200:4120$1080p
+CGTN阿语,http://124.67.68.139:4022/udp/239.125.2.202:4120$1080p
+三沙卫视,http://124.67.68.139:4022/udp/239.125.1.180:4130$576p
+东南卫视,http://124.67.68.139:4022/udp/239.125.1.164:4130$576p
+东南卫视,http://124.67.68.139:4022/udp/239.125.2.77:4120$1080p
+东方卫视,http://124.67.68.139:4022/udp/239.125.1.116:4130$576p
+东方卫视,http://124.67.68.139:4022/udp/239.125.2.82:4120$1080p
+云南卫视,http://124.67.68.139:4022/udp/239.125.1.160:4130$576p
+云南卫视,http://124.67.68.139:4022/udp/239.125.1.231:4120$1080p
+兵团卫视,http://124.67.68.139:4022/udp/239.125.1.135:4130$576p
+兵团卫视,http://124.67.68.139:4022/udp/239.125.1.229:4120$1080p
+北京卫视,http://124.67.68.139:4022/udp/239.125.1.176:4130$576p
+北京卫视,http://124.67.68.139:4022/udp/239.125.2.73:4120$1080p
+吉林卫视,http://124.67.68.139:4022/udp/239.125.2.191:4120$1080p
+吉林卫视,http://124.67.68.139:4022/udp/239.125.2.205:4120$576p
+四川卫视,http://124.67.68.139:4022/udp/239.125.1.175:4130$576p
+四川卫视,http://124.67.68.139:4022/udp/239.125.1.240:4120$1080p
+四川卫视,http://124.67.68.139:4022/udp/239.125.2.79:4120$1080p
+天津卫视,http://124.67.68.139:4022/udp/239.125.1.153:4130$576p
+天津卫视,http://124.67.68.139:4022/udp/239.125.2.81:4120$1080p
+宁夏卫视,http://124.67.68.139:4022/udp/239.125.1.157:4130$576p
+宁夏卫视,http://124.67.68.139:4022/udp/239.125.1.230:4120$1080p
+安徽卫视,http://124.67.68.139:4022/udp/239.125.1.173:4130$576p
+安徽卫视,http://124.67.68.139:4022/udp/239.125.2.78:4120$1080p
+山东卫视,http://124.67.68.139:4022/udp/239.125.1.149:4130$576p
+山东卫视,http://124.67.68.139:4022/udp/239.125.2.75:4120$1080p
+山东教育,http://124.67.68.139:4022/udp/239.125.1.178:4130$1080p
+山西卫视,http://124.67.68.139:4022/udp/239.125.1.119:4130$576p
+广东卫视,http://124.67.68.139:4022/udp/239.125.1.154:4130$576p
+广东卫视,http://124.67.68.139:4022/udp/239.125.2.71:4120$1080p
+广西卫视,http://124.67.68.139:4022/udp/239.125.1.167:4130$576p
+广西卫视,http://124.67.68.139:4022/udp/239.125.1.225:4120$1080p
+新疆卫视,http://124.67.68.139:4022/udp/239.125.1.123:4130$576p
+新疆卫视,http://124.67.68.139:4022/udp/239.125.1.228:4120$1080p
+江苏卫视,http://124.67.68.139:4022/udp/239.125.1.172:4130$576p
+江苏卫视,http://124.67.68.139:4022/udp/239.125.2.69:4120$1080p
+江西卫视,http://124.67.68.139:4022/udp/239.125.1.174:4130$576p
+河北卫视,http://124.67.68.139:4022/udp/239.125.1.169:4130$576p
+河北卫视,http://124.67.68.139:4022/udp/239.125.2.70:4120$1080p
+河南卫视,http://124.67.68.139:4022/udp/239.125.1.156:4130$576p
+河南卫视,http://124.67.68.139:4022/udp/239.125.1.215:4120$1080p
+河南卫视,http://124.67.68.139:4022/udp/239.125.1.238:4120$1080p
+浙江卫视,http://124.67.68.139:4022/udp/239.125.1.159:4130$576p
+浙江卫视,http://124.67.68.139:4022/udp/239.125.2.68:4120$1080p
+海南卫视,http://124.67.68.139:4022/udp/239.125.1.165:4130$576p
+海南卫视,http://124.67.68.139:4022/udp/239.125.1.241:4120$1080p
+海南卫视,http://124.67.68.139:4022/udp/239.125.2.189:4120$1080p
+深圳卫视,http://124.67.68.139:4022/udp/239.125.1.166:4130$576p
+深圳卫视,http://124.67.68.139:4022/udp/239.125.2.76:4120$1080p
+湖北卫视,http://124.67.68.139:4022/udp/239.125.1.152:4130$576p
+湖北卫视,http://124.67.68.139:4022/udp/239.125.2.74:4120$1080p
+湖南卫视,http://124.67.68.139:4022/udp/239.125.1.170:4130$576p
+湖南卫视,http://124.67.68.139:4022/udp/239.125.2.67:4120$1080p
+甘肃卫视,http://124.67.68.139:4022/udp/239.125.1.151:4130$576p
+甘肃卫视,http://124.67.68.139:4022/udp/239.125.2.190:4120$1080p
+西藏卫视,http://124.67.68.139:4022/udp/239.125.1.226:4120$1080p
+西藏卫视,http://124.67.68.139:4022/udp/239.125.1.117:4130$576p
+西藏卫视,http://124.67.68.139:4022/udp/239.125.1.227:4120$1080p
+贵州卫视,http://124.67.68.139:4022/udp/239.125.1.158:4130$576p
+贵州卫视,http://124.67.68.139:4022/udp/239.125.2.80:4120$1080p
+辽宁卫视,http://124.67.68.139:4022/udp/239.125.1.115:4130$576p
+辽宁卫视,http://124.67.68.139:4022/udp/239.125.2.72:4120$1080p
+重庆卫视,http://124.67.68.139:4022/udp/239.125.1.168:4130$576p
+陕西卫视,http://124.67.68.139:4022/udp/239.125.1.155:4130$576p
+陕西卫视,http://124.67.68.139:4022/udp/239.125.1.239:4120$1080p
+青海卫视,http://124.67.68.139:4022/udp/239.125.1.150:4130$576p
+黑龙江卫视,http://124.67.68.139:4022/udp/239.125.1.171:4130$576p
+黑龙江卫视,http://124.67.68.139:4022/udp/239.125.2.83:4120$1080p
+内蒙古卫视,http://124.67.68.139:4022/udp/239.125.1.242:4120$1080p
+内蒙古卫视,http://124.67.68.139:4022/udp/239.125.1.58:5000$576p
+内蒙古卫视,http://124.67.68.139:4022/udp/239.125.1.59:5000$1080p
+内蒙古卫视,http://124.67.68.139:4022/udp/239.125.1.68:5000$576p
+内蒙古卫视,http://124.67.68.139:4022/udp/239.125.2.194:4120$576p
+内蒙古卫视,http://124.67.68.139:4022/udp/239.125.2.50:4120$1080p
+内蒙古农牧,http://124.67.68.139:4022/udp/239.125.1.61:5000$576p
+内蒙古农牧,http://124.67.68.139:4022/udp/239.125.1.73:4120$1080p
+内蒙古少儿,http://124.67.68.139:4022/udp/239.125.1.60:5000$576p
+内蒙古少儿,http://124.67.68.139:4022/udp/239.125.1.69:4120$1080p
+内蒙古文体娱乐,http://124.67.68.139:4022/udp/239.125.1.62:5000$576p
+内蒙古文体娱乐,http://124.67.68.139:4022/udp/239.125.1.72:4120$1080p
+内蒙古新闻综合,http://124.67.68.139:4022/udp/239.125.1.63:5000$576p
+内蒙古新闻综合,http://124.67.68.139:4022/udp/239.125.1.70:4120$1080p
+内蒙古经济生活,http://124.67.68.139:4022/udp/239.125.1.64:5000$576p
+内蒙古经济生活,http://124.67.68.139:4022/udp/239.125.1.74:4120$1080p
+内蒙古蒙古语卫视,http://124.67.68.139:4022/udp/239.125.1.65:5000$576p
+内蒙古蒙古语卫视,http://124.67.68.139:4022/udp/239.125.1.66:5000$1080p
+内蒙古蒙古语文化,http://124.67.68.139:4022/udp/239.125.1.67:5000$576p
+内蒙古蒙古语文化,http://124.67.68.139:4022/udp/239.125.1.71:4120$1080p
+九屏共赏,http://124.67.68.139:4022/udp/239.125.2.215:4120$1080p
+卫视收视排行,http://124.67.68.139:4022/udp/239.125.2.214:4120$1080p
+卫视收视排行,http://124.67.68.139:4022/udp/239.125.2.217:4120$1080p
+本地频道展示,http://124.67.68.139:4022/udp/239.125.2.216:4120$1080p
+察右后旗综合,http://124.67.68.139:4022/udp/239.125.2.193:4120$1080p
+库伦综合,http://124.67.68.139:4022/udp/239.125.2.15:4120$1080p
+扎鲁特旗综合,http://124.67.68.139:4022/udp/239.125.1.222:4120$576p
+杭锦旗综合,http://124.67.68.139:4022/udp/239.125.2.212:4120$1080p
+磴口综合,http://124.67.68.139:4022/udp/239.125.2.221:4120$1080p
+鄂尔多斯新闻综合http://124.67.68.139:4022/udp/239.125.2.165:4154$1080p
+鄂尔多斯经济服务,http://124.67.68.139:4022/udp/239.125.2.164:4153$1080p
+鄂尔多斯蒙语综合,http://124.67.68.139:4022/udp/239.125.2.162:4151$1080p
+鄂托克旗综合,http://124.67.68.139:4022/udp/239.125.1.212:4120$1080p
+锡林郭勒新闻综合,http://124.67.68.139:4022/udp/239.125.1.114:4120$576p
+阿荣旗综合,http://124.67.68.139:4022/udp/239.125.1.213:4120$1080p
+额尔古纳综合,http://124.67.68.139:4022/udp/239.125.2.195:4120$576p
+扎兰屯综合,http://124.67.68.139:4022/udp/239.125.2.211:4120$576p
+嘉佳卡通,http://124.67.68.139:4022/udp/239.125.2.213:4120$576p
+金鹰卡通,http://124.67.68.139:4022/udp/239.125.1.128:4130$576p
+金鹰纪实,http://124.67.68.139:4022/udp/239.125.2.106:4134$1080p
+优购物,http://124.67.68.139:4022/udp/239.125.1.138:4130$576p
+优购物,http://124.67.68.139:4022/udp/239.125.1.220:4120$576p
+央广购物,http://124.67.68.139:4022/udp/239.125.2.14:4120$576p
+央广购物,http://124.67.68.139:4022/udp/239.125.2.220:4120$576p
+好享购物,http://124.67.68.139:4022/udp/239.125.1.219:4120$576p
+家有购物,http://124.67.68.139:4022/udp/239.125.1.137:4130$576p
+家有购物,http://124.67.68.139:4022/udp/239.125.1.217:4120$576p
+快乐购,http://124.67.68.139:4022/udp/239.125.1.216:4120$576p
+聚鲨环球精选,http://124.67.68.139:4022/udp/239.125.1.136:4130$576p
+聚鲨环球精选,http://124.67.68.139:4022/udp/239.125.1.221:4120$576p
 
 河北联通,#genre#
 BRTV卡酷少儿,http://www.qfly9236.cn:8888/rtp/239.253.92.162:8054
@@ -27336,7 +27198,7 @@ CGTN阿语,http://60.219.228.162:4000/rtp/229.58.190.19:5000$576p
 湖南卫视,http://60.219.228.162:4000/rtp/229.58.190.142:5000$576p
 甘肃卫视,http://60.219.228.162:4000/rtp/229.58.190.185:5000$576p
 甘肃卫视,http://60.219.228.162:4000/rtp/229.58.190.207:5000$1080p
-甘萧卫视,http://60.219.228.162:4000/rtp/229.58.190.185:5000$576p
+甘肃卫视,http://60.219.228.162:4000/rtp/229.58.190.185:5000$576p
 西藏卫视,http://60.219.228.162:4000/rtp/229.58.190.177:5000$576p
 西藏卫视,http://60.219.228.162:4000/rtp/229.58.190.219:5000$1080p
 贵州卫视,http://60.219.228.162:4000/rtp/229.58.190.100:5000$1080p
