@@ -593,7 +593,7 @@ CCTV-14 少儿,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_C
 CCTV-15 音乐,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8?p=GITV&area=BJ_CUCC
 CCTV-16 奥林匹克,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8?p=GITV&area=BJ_CUCC
 CCTV-17 农业农村,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8?p=GITV&area=BJ_CUCC
-CCTV,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8?p=GITV&area=BJ_CUCC
+CGTN,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8?p=GITV&area=BJ_CUCC
 北京卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8?p=GITV&area=BJ_CUCC
 四川卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_SICHUAN-HQ/G_SICHUAN-HQ.m3u8?p=GITV&area=BJ_CUCC
 湖北卫视,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_HUBEI-HQ/G_HUBEI-HQ.m3u8?p=GITV&area=BJ_CUCC
@@ -685,17 +685,17 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chc.m3u8?auth=testpub
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
-CCTV-电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-CCTV-第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-CCTV-风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-CCTV-风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-CCTV-风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-CCTV-高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-CCTV-兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-CCTV-女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+CCTV高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 CCTV-世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-CCTV-怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-CCTV-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 中央新影-老故事,http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
 中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 国学频道,http://38.75.136.137:98/gslb/dsdqpub/gxpd.m3u8?auth=testpub
@@ -745,7 +745,7 @@ CCTV-2 财经,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CC
 CCTV-3 综艺,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8?p=GITV&area=BJ_CUCC
 CCTV-4 中文国际,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8?p=GITV&area=BJ_CUCC
 CCTV-5 体育,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8?p=GITV&area=BJ_CUCC
-CCTV5+ 体育赛事,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8?p=GITV&area=BJ_CUCC
+CCTV-5+ 体育赛事,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8?p=GITV&area=BJ_CUCC
 CCTV-6 电影,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8?p=GITV&area=BJ_CUCC
 CCTV-7 国防军事,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8?p=GITV&area=BJ_CUCC
 CCTV-8 电视剧,http://183.246.208.24/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-8-HQ/G_CCTV-8-HQ.m3u8?p=GITV&area=BJ_CUCC
