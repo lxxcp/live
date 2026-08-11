@@ -1123,7 +1123,7 @@ CETV3,http://103.236.69.25:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-3/G_
 CETV4,http://103.236.69.25:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-4/G_CETV-4.m3u8
 CETV早期教育,http://103.236.69.25:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-ZQJY-CQ/G_CETV-ZQJY-CQ.m3u8
 CCTV4K,http://103.236.69.25:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
-CCTV8K,http://103.236.69.25:2380/jsgitv/cntv/live1/HD_20M-2160P-tchunxiang4k/index.m3u8
+CCTV8K,http://103.236.69.25:2380/jsgitv/cntv/live1/HD_20M-2160P-tchunxiang4k/HD_20M-2160P-tchunxiang4k/index.m3u8
 中央新影-发现之旅,http://103.236.69.25:2380/js-live-screenshot.gitv.tv/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8
 中央新影-中学生,http://103.236.69.25:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHONGXUESHENG/G_ZHONGXUESHENG.m3u8
 中央新影-老故事,http://103.236.69.25:2380/js-live-screenshot.gitv.tv/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
