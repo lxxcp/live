@@ -1,3 +1,273 @@
+江苏,#genre#
+CCTV-1 综合,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M/index.m3u8
+CCTV-1 综合,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/index.m3u8
+CCTV-1 综合,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-1-MD/G_CCTV-1-MD/index.m3u8
+CCTV-1 综合,http://103.236.69.25:2380/jsgitv/cntv/live1/G_XUANDONG/G_XUANDONG/index.m3u8
+CCTV-2 财经,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-2-HD-265-8M/G_CCTV-2-HD-265-8M/index.m3u8
+CCTV-2 财经,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-2-HQ/G_CCTV-2-HQ/index.m3u8
+CCTV-2 财经,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-2-MD/G_CCTV-2-MD/index.m3u8
+CCTV-3 综艺,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/index.m3u8
+CCTV-3 综艺,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M/index.m3u8
+CCTV-4 中文国际,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M/index.m3u8
+CCTV-4 中文国际,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/index.m3u8
+CCTV-4 中文国际,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-4-MD/G_CCTV-4-MD/index.m3u8
+CCTV-5 体育,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-5-HD-265-5M/G_CCTV-5-HD-265-5M/index.m3u8
+CCTV-5 体育,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/index.m3u8
+CCTV-5+ 体育赛事,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-5PLUS-HD-265-5M/G_CCTV-5PLUS-HD-265-5M/index.m3u8
+CCTV-6 电影,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-6-HD-265-8M/G_CCTV-6-HD-265-8M/index.m3u8
+CCTV-6 电影,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/index.m3u8
+CCTV-7 国防军事,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/index.m3u8
+CCTV-8 电视剧,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-8-HD-265-5M/G_CCTV-8-HD-265-5M/index.m3u8
+CCTV-8 电视剧,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/index.m3u8
+CCTV-9 纪录,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M/index.m3u8
+CCTV-9 纪录,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-9-HQ/G_CCTV-9-HQ/index.m3u8
+CCTV-10 科教,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/index.m3u8
+CCTV-11 戏曲,http://103.236.69.25:2380/jsgitv/cntv/live1/CCTV-11/CCTV-11/index.m3u8
+CCTV-11 戏曲,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/index.m3u8
+CCTV-12 社会与法,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-12-HQ/G_CCTV-12-HQ/index.m3u8
+CCTV-13 新闻,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-13-HD-265-8M/G_CCTV-13-HD-265-8M/index.m3u8
+CCTV-14 少儿,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-14-HQ/G_CCTV-14-HQ/index.m3u8
+CCTV-15 音乐,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-15-HQ/G_CCTV-15-HQ/index.m3u8
+CCTV-15 音乐,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-15/G_CCTV-15/index.m3u8
+CCTV-16 奥林匹克,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ/index.m3u8
+CCTV-16 奥林匹克,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-16-HQ/G_CCTV-16-HQ/index.m3u8
+CCTV-16 奥林匹克4K,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-16-4K/G_CCTV-16-4K/index.m3u8
+CCTV-17 农业农村,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-17-HQ/G_CCTV-17-HQ/index.m3u8
+CCTV-17 农业农村,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-17-HD/G_CCTV-17-HD/index.m3u8
+CGTN,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-NEWS/G_CCTV-NEWS/index.m3u8
+CCTV兵器科技,http://103.236.69.25:2380/jsgitv/cntv/live1/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ/index.m3u8
+CCTV电视指南,http://103.236.69.25:2380/jsgitv/cntv/live1/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ/index.m3u8
+CCTV第一剧场,http://103.236.69.25:2380/jsgitv/cntv/live1/G_DIYIJC-CQ/G_DIYIJC-CQ/index.m3u8
+CCTV风云剧场,http://103.236.69.25:2380/jsgitv/cntv/live1/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ/index.m3u8
+CCTV风云音乐,http://103.236.69.25:2380/jsgitv/cntv/live1/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ/index.m3u8
+CCTV风云足球,http://103.236.69.25:2380/jsgitv/cntv/live1/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ/index.m3u8
+CCTV怀旧剧场,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HUAIJIUJC-CQ/G_HUAIJIUJC-CQ/index.m3u8
+CCTV女性时尚,http://103.236.69.25:2380/jsgitv/cntv/live1/G_NVXINGSS-CQ/G_NVXINGSS-CQ/index.m3u8
+CCTV世界地理,http://103.236.69.25:2380/jsgitv/cntv/live1/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ/index.m3u8
+CCTV央视台球,http://103.236.69.25:2380/jsgitv/cntv/live1/G_TAIQIU-CQ/G_TAIQIU-CQ/index.m3u8
+CCTV央视文化精品,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ/index.m3u8
+CCTV高尔夫网球,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ/index.m3u8
+CETV1,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CETV-1/G_CETV-1/index.m3u8
+CETV2,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CETV-2/G_CETV-2/index.m3u8
+CETV3,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CETV-3/G_CETV-3/index.m3u8
+CETV4,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CETV-4/G_CETV-4/index.m3u8
+CETV早期教育,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CETV-ZQJY-CQ/G_CETV-ZQJY-CQ/index.m3u8
+CCTV4K,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CCTV-4K-HD/G_CCTV-4K-HD/index.m3u8
+CCTV8K,http://103.236.69.25:2380/jsgitv/cntv/live1/HD-20M-2160P-tchunxiang4k/HD-20M-2160P-tchunxiang4k/index.m3u8
+中央新影-发现之旅,http://103.236.69.25:2380/jsgitv/cntv/live1/G_FAXIANZL/G_FAXIANZL/index.m3u8
+中央新影-中学生,http://103.236.69.25:2380/jsgitv/cntv/live1/G_ZHONGXUESHENG/G_ZHONGXUESHENG/index.m3u8
+中央新影-老故事,http://103.236.69.25:2380/jsgitv/cntv/live1/G_LAOGUSHI/G_LAOGUSHI/index.m3u8
+北京卫视4K,http://103.236.69.25:2380/jsgitv/cntv/live1/G_BEIJING-4K/G_BEIJING-4K/index.m3u8
+广东卫视4K,http://103.236.69.25:2380/jsgitv/cntv/live1/G_GUANGDONG-4K/G_GUANGDONG-4K/index.m3u8
+深圳卫视4K,http://103.236.69.25:2380/jsgitv/cntv/live1/G_SHENZHEN-4K/G_SHENZHEN-4K/index.m3u8
+东方卫视4K,http://103.236.69.25:2380/jsgitv/cntv/live1/G_DONGFANG-4K/G_DONGFANG-4K/index.m3u8
+湖南卫视4K,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HUNAN-4K/G_HUNAN-4K/index.m3u8
+江苏卫视4K,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JIANGSU-4K/G_JIANGSU-4K/index.m3u8
+山东卫视4K,http://103.236.69.25:2380/jsgitv/cntv/live1/G_SHANDONG-4K/G_SHANDONG-4K/index.m3u8
+四川卫视4K,http://103.236.69.25:2380/jsgitv/cntv/live1/G_SICHUAN-4K/G_SICHUAN-4K/index.m3u8
+浙江卫视4K,http://103.236.69.25:2380/jsgitv/cntv/live1/G_ZHEJIANG-4K/G_ZHEJIANG-4K/index.m3u8
+BRTV纪实科教,http://103.236.69.25:2380/jsgitv/cntv/live1/G_BEIJINGJS-HQ/G_BEIJINGJS-HQ/index.m3u8
+BRTV纪实科教,http://103.236.69.25:2380/jsgitv/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi/index.m3u8
+东南卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/DNWS/DNWS/index.m3u8
+东方卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_DONGFANG-HD-265-8M/G_DONGFANG-HD-265-8M/index.m3u8
+东方卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_DONGFANG-HQ/G_DONGFANG-HQ/index.m3u8
+东方卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_DONGFANG-MD/G_DONGFANG-MD/index.m3u8
+云南卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_YUNNAN/G_YUNNAN/index.m3u8
+兵团卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_BINGTUAN/G_BINGTUAN/index.m3u8
+内蒙古卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_NEIMENGGU/G_NEIMENGGU/index.m3u8
+农林卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_NONGLIN/G_NONGLIN/index.m3u8
+北京卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_BEIJING-HD-265-8M/G_BEIJING-HD-265-8M/index.m3u8
+北京卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_BEIJING-HQ/G_BEIJING-HQ/index.m3u8
+北京卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_BEIJING-MD/G_BEIJING-MD/index.m3u8
+厦门卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_XIAMEN/G_XIAMEN/index.m3u8
+吉林卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JILIN-CQ/G_JILIN-CQ/index.m3u8
+吉林卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JILIN/G_JILIN/index.m3u8
+四川卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_SICHUAN-CQ/G_SICHUAN-CQ/index.m3u8
+四川卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/SCWS/SCWS/index.m3u8
+天津卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_TIANJIN-HD-265-8M/G_TIANJIN-HD-265-8M/index.m3u8
+天津卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_TIANJIN-HQ/G_TIANJIN-HQ/index.m3u8
+天津卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_TIANJIN-MD/G_TIANJIN-MD/index.m3u8
+宁夏卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_NINGXIA/G_NINGXIA/index.m3u8
+安多卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_ANDUO/G_ANDUO/index.m3u8
+安徽卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/AHWS/AHWS/index.m3u8
+安徽卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_ANHUI-HD-265-8M/G_ANHUI-HD-265-8M/index.m3u8
+安徽卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_ANHUI-HQ/G_ANHUI-HQ/index.m3u8
+山东卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_SHANDONG-HD-265-8M/G_SHANDONG-HD-265-8M/index.m3u8
+山东卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/index.m3u8
+山东卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_SHANDONG-MD/G_SHANDONG-MD/index.m3u8
+山东教育,http://103.236.69.25:2380/jsgitv/cntv/live1/G_SDETV/G_SDETV/index.m3u8
+山西卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/SXWS/SXWS/index.m3u8
+广东卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_GUANGDONG-HD-265-8M/G_GUANGDONG-HD-265-8M/index.m3u8
+广东卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_GUANGDONG-HQ/G_GUANGDONG-HQ/index.m3u8
+广东卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_GUANGDONG-MD/G_GUANGDONG-MD/index.m3u8
+广西卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/GXWS/GXWS/index.m3u8
+康巴卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_KANGBA/G_KANGBA/index.m3u8
+延边卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_YANBIAN/G_YANBIAN/index.m3u8
+新疆卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_XINJIANG/G_XINJIANG/index.m3u8
+江苏体育休闲,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JSTY/G_JSTY/index.m3u8
+江苏卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JIANGSU-HD-265-8M/G_JIANGSU-HD-265-8M/index.m3u8
+江苏卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JIANGSU-HD/G_JIANGSU-HD/index.m3u8
+江苏卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JIANGSU-HQ/G_JIANGSU-HQ/index.m3u8
+江苏卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JIANGSU-MD/G_JIANGSU-MD/index.m3u8
+江苏卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_MZB-YZ/G_MZB-YZ/index.m3u8
+江苏城市,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JSCS/G_JSCS/index.m3u8
+江苏影视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JSYS/G_JSYS/index.m3u8
+江苏教育,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JSJY/G_JSJY/index.m3u8
+江苏新闻,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JSGG/G_JSGG/index.m3u8
+江苏综艺,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JSZY/G_JSZY/index.m3u8
+江西卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JIANGXI-CQ/G_JIANGXI-CQ/index.m3u8
+江西卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/JXWS/JXWS/index.m3u8
+河北卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HEBEI-CQ/G_HEBEI-CQ/index.m3u8
+河北卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HEBEI/G_HEBEI/index.m3u8
+河南卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HENAN-CQ/G_HENAN-CQ/index.m3u8
+河南卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/HENAN/HENAN/index.m3u8
+浙江卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_ZHEJIANG-HD-265-8M/G_ZHEJIANG-HD-265-8M/index.m3u8
+浙江卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_ZHEJIANG-HQ/G_ZHEJIANG-HQ/index.m3u8
+浙江卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_ZHEJIANG-MD/G_ZHEJIANG-MD/index.m3u8
+浙江卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/ZJWS-HD/ZJWS-HD/index.m3u8
+海南卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/HD-8000k-1080P-lvyoustv/HD-8000k-1080P-lvyoustv/index.m3u8
+海南卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/LYWS/LYWS/index.m3u8
+深圳卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_SHENZHEN-HD-265-8M/G_SHENZHEN-HD-265-8M/index.m3u8
+深圳卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_SHENZHEN-HQ/G_SHENZHEN-HQ/index.m3u8
+深圳卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_SHENZHEN-MD/G_SHENZHEN-MD/index.m3u8
+湖北卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HUBEI-HD-265-8M/G_HUBEI-HD-265-8M/index.m3u8
+湖北卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HUBEI-HD/G_HUBEI-HD/index.m3u8
+湖北卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HUBEI-HQ/G_HUBEI-HQ/index.m3u8
+湖北卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HUBEI-MD/G_HUBEI-MD/index.m3u8
+湖南卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HUNAN-HD-265-8M/G_HUNAN-HD-265-8M/index.m3u8
+湖南卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HUNAN-HQ/G_HUNAN-HQ/index.m3u8
+湖南卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HUNAN-MD/G_HUNAN-MD/index.m3u8
+甘肃卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_GANSU/G_GANSU/index.m3u8
+茶频道,http://103.236.69.25:2380/jsgitv/cntv/live1/G_EETV-2/G_EETV-2/index.m3u8
+西藏卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_XIZANG/G_XIZANG/index.m3u8
+贵州卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_GUIZHOU-CQ/G_GUIZHOU-CQ/index.m3u8
+贵州卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_GUIZHOU/G_GUIZHOU/index.m3u8
+辽宁卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_LIAONING-HD-265-8M/G_LIAONING-HD-265-8M/index.m3u8
+辽宁卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_LIAONING-HD/G_LIAONING-HD/index.m3u8
+辽宁卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_LIAONING-HQ/G_LIAONING-HQ/index.m3u8
+辽宁卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_LIAONING-MD/G_LIAONING-MD/index.m3u8
+重庆卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CHONGQING-CQ/G_CHONGQING-CQ/index.m3u8
+重庆卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CHONGQING-HD/G_CHONGQING-HD/index.m3u8
+重庆卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CHONGQING-HQ/G_CHONGQING-HQ/index.m3u8
+重庆卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_CHONGQING/G_CHONGQING/index.m3u8
+陕西卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_SHANXI/G_SHANXI/index.m3u8
+青海卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_QINGHAI/G_QINGHAI/index.m3u8
+黑龙江卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HEILONGJIANG-HD-265-8M/G_HEILONGJIANG-HD-265-8M/index.m3u8
+黑龙江卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ/index.m3u8
+黑龙江卫视,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HEILONGJIANG-MD/G_HEILONGJIANG-MD/index.m3u8
+BRTV卡酷少儿,http://103.236.69.25:2380/jsgitv/cntv/live1/G_KAKU/G_KAKU/index.m3u8
+书画,http://103.236.69.25:2380/jsgitv/cntv/live1/G_SHUHUA/G_SHUHUA/index.m3u8
+优漫卡通,http://103.236.69.25:2380/jsgitv/cntv/live1/G_YOUMAN/G_YOUMAN/index.m3u8
+军事之旅,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-29/GITV-JS-29/index.m3u8
+军事评论,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-62/GITV-JS-62/index.m3u8
+军旅剧场,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-53/GITV-JS-53/index.m3u8
+农业致富,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-63/GITV-JS-63/index.m3u8
+冰雪竞技场,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-45/GITV-JS-45/index.m3u8
+动作大电影,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-52/GITV-JS-52/index.m3u8
+动漫星空,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-25/GITV-JS-25/index.m3u8
+动物世界,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-19/GITV-JS-19/index.m3u8
+古装剧场,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-51/GITV-JS-51/index.m3u8
+嘉佳卡通,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JIAJIA/G_JIAJIA/index.m3u8
+国学频道,http://103.236.69.25:2380/jsgitv/cntv/live1/G_GUOXUE/G_GUOXUE/index.m3u8
+地方戏曲,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-GG-3/GITV-GG-3/index.m3u8
+天元围棋,http://103.236.69.25:2380/jsgitv/cntv/live1/G_TIANYUANWQ/G_TIANYUANWQ/index.m3u8
+央广购物,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JUJIAYX/G_JUJIAYX/index.m3u8
+央广购物,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-GG-1/GITV-GG-1/index.m3u8
+好享购物,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HAOXIANG/G_HAOXIANG/index.m3u8
+家庭剧场,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-54/GITV-JS-54/index.m3u8
+惊悚悬疑,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-55/GITV-JS-55/index.m3u8
+潮妈辣婆,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-66/GITV-JS-66/index.m3u8
+热播精选,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-56/GITV-JS-56/index.m3u8
+热门综艺,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-16/GITV-JS-16/index.m3u8
+爱情喜剧,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-58/GITV-JS-58/index.m3u8
+环球奇观,http://103.236.69.25:2380/jsgitv/cntv/live1/G_HUANGQIUQIGUAN/G_HUANGQIUQIGUAN/index.m3u8
+睛彩广场舞,http://103.236.69.25:2380/jsgitv/cntv/live1/MIGU-8000k-1080P-jcgcw/MIGU-8000k-1080P-jcgcw/index.m3u8
+睛彩竞技,http://103.236.69.25:2380/jsgitv/cntv/live1/HD-8000k-1080P-miguaoyun2/HD-8000k-1080P-miguaoyun2/index.m3u8
+睛彩篮球,http://103.236.69.25:2380/jsgitv/cntv/live1/HD-8000k-1080P-miguaoyun1/HD-8000k-1080P-miguaoyun1/index.m3u8
+睛彩青少,http://103.236.69.25:2380/jsgitv/cntv/live1/HD-8000k-1080P-quanminrl/HD-8000k-1080P-quanminrl/index.m3u8
+科幻世界,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-30/GITV-JS-30/index.m3u8
+第一院线,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-2/GITV-JS-2/index.m3u8
+精品体育,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-65/GITV-JS-65/index.m3u8
+精品大剧,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-59/GITV-JS-59/index.m3u8
+精品家居,http://103.236.69.25:2380/jsgitv/cntv/live1/SD-1500k-576P-haoxianggw/SD-1500k-576P-haoxianggw/index.m3u8
+精品纪录,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-64/GITV-JS-64/index.m3u8
+精品综合,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-57/GITV-JS-57/index.m3u8
+臻享推荐,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-36/GITV-JS-36/index.m3u8
+睛彩竞技,http://103.236.69.25:2380/jsgitv/cntv/live1/miguaoyun1-AVS/miguaoyun1-AVS/index.m3u8
+睛彩篮球,http://103.236.69.25:2380/jsgitv/cntv/live1/miguaoyun01-AVS-4K01/miguaoyun01-AVS-4K01/index.m3u8
+睛彩青少,http://103.236.69.25:2380/jsgitv/cntv/live1/G_MIGUJCQS/G_MIGUJCQS/index.m3u8
+重庆汽摩,http://103.236.69.25:2380/jsgitv/cntv/live1/G_QIMO/G_QIMO/index.m3u8
+金牌综艺,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-61/GITV-JS-61/index.m3u8
+金鹰卡通,http://103.236.69.25:2380/jsgitv/cntv/live1/G_JINYING/G_JINYING/index.m3u8
+KTV热歌,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-69/GITV-JS-69/index.m3u8
+万人推荐,http://103.236.69.25:2380/jsgitv/cntv/live1/HD-4000k-1080P-kuailegw/HD-4000k-1080P-kuailegw/index.m3u8
+乡村爱情,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-24/GITV-JS-24/index.m3u8
+乡村爱情17,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-74/GITV-JS-74/index.m3u8
+书籍解读,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-20/GITV-JS-20/index.m3u8
+亮剑,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-70/GITV-JS-70/index.m3u8
+亲子玩具,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-21/GITV-JS-21/index.m3u8
+亲爱的小孩,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-47/GITV-JS-47/index.m3u8
+人世间,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-42/GITV-JS-42/index.m3u8
+体坛同期声,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-35/GITV-JS-35/index.m3u8
+健康养生,http://103.236.69.25:2380/jsgitv/cntv/live1/HD-4000k-1080P-yangguanggw/HD-4000k-1080P-yangguanggw/index.m3u8
+健康生活,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-67/GITV-JS-67/index.m3u8
+儿童天地,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-31/GITV-JS-31/index.m3u8
+北极阁慢直播,http://103.236.69.25:2380/jsgitv/cntv/live1/G_MZB-NT/G_MZB-NT/index.m3u8
+南京南站慢直播,http://103.236.69.25:2380/jsgitv/cntv/live1/G_MZB-SQ/G_MZB-SQ/index.m3u8
+南来北往,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-39/GITV-JS-39/index.m3u8
+哈尔滨一九四四,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-28/GITV-JS-28/index.m3u8
+哦我的鬼神大人,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-48/GITV-JS-48/index.m3u8
+墨雨云间,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-75/GITV-JS-75/index.m3u8
+大江大河,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-43/GITV-JS-43/index.m3u8
+太阳的后裔,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-49/GITV-JS-49/index.m3u8
+小猪佩奇,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-12/GITV-JS-12/index.m3u8
+居家健身,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-4/GITV-JS-4/index.m3u8
+山海情,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-44/GITV-JS-44/index.m3u8
+山花烂漫时,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-3/GITV-JS-3/index.m3u8
+幸福到万家,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-33/GITV-JS-33/index.m3u8
+广场舞,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-22/GITV-JS-22/index.m3u8
+康养保健,http://103.236.69.25:2380/jsgitv/cntv/live1/SD-1500k-576P-jiayougw/SD-1500k-576P-jiayougw/index.m3u8
+影视剧场,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-1/GITV-JS-1/index.m3u8
+德凯奥特曼,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-9/GITV-JS-9/index.m3u8
+戏曲音乐,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-23/GITV-JS-23/index.m3u8
+我的后半生,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-72/GITV-JS-72/index.m3u8
+抖音热歌,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-6/GITV-JS-6/index.m3u8
+文化收藏,http://103.236.69.25:2380/jsgitv/cntv/live1/SD-1500k-576P-zhongshigw/SD-1500k-576P-zhongshigw/index.m3u8
+新白娘子传奇,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-7/GITV-JS-7/index.m3u8
+新街口慢直播,http://103.236.69.25:2380/jsgitv/cntv/live1/G_MZB-ZJ/G_MZB-ZJ/index.m3u8
+无间,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-76/GITV-JS-76/index.m3u8
+梦中的那片海,http://103.236.69.25:2380/jsgitv/cntv/live1/mengzhongdnph/mengzhongdnph/index.m3u8
+楚乔传,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-26/GITV-JS-26/index.m3u8
+欢乐棋牌,http://103.236.69.25:2380/jsgitv/cntv/live1/HD-4000k-1080P-yinlingsg/HD-4000k-1080P-yinlingsg/index.m3u8
+每日优选,http://103.236.69.25:2380/jsgitv/cntv/live1/hdjsmeiriyouxuan/hdjsmeiriyouxuan/index.m3u8
+汪汪队立大功,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-13/GITV-JS-13/index.m3u8
+流行音乐,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-5/GITV-JS-5/index.m3u8
+漫长的季节,http://103.236.69.25:2380/jsgitv/cntv/live1/manchangdjj/manchangdjj/index.m3u8
+牛首山慢直播,http://103.236.69.25:2380/jsgitv/cntv/live1/G_MZB-TZ/G_MZB-TZ/index.m3u8
+狂飙,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-41/GITV-JS-41/index.m3u8
+狗剩快跑,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-40/GITV-JS-40/index.m3u8
+猎冰,http://103.236.69.25:2380/jsgitv/cntv/live1/cos-liebing/cos-liebing/index.m3u8
+玫瑰的故事,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-68/GITV-JS-68/index.m3u8
+纪录片,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-32/GITV-JS-32/index.m3u8
+美好生活家,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-GG-2/GITV-GG-2/index.m3u8
+美食美味,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-17/GITV-JS-17/index.m3u8
+自然风景,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-18/GITV-JS-18/index.m3u8
+请回答1988,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-50/GITV-JS-50/index.m3u8
+超级飞侠,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-11/GITV-JS-11/index.m3u8
+邪恶与疯狂,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-46/GITV-JS-46/index.m3u8
+长江大桥慢直播,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-38/GITV-JS-38/index.m3u8
+难哄,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-73/GITV-JS-73/index.m3u8
+高分电影,http://103.236.69.25:2380/jsgitv/cntv/live1/GITV-JS-14/GITV-JS-14/index.m3u8
+江苏故事广播,http://103.236.69.25:2380/jsgitv/cntv/live1/R_GUSHI/R_GUSHI/index.m3u8
+江苏健康广播,http://103.236.69.25:2380/jsgitv/cntv/live1/R_JIANKANG/R_JIANKANG/index.m3u8
+江苏交通广播网,http://103.236.69.25:2380/jsgitv/cntv/live1/R_JIAOTONG/R_JIAOTONG/index.m3u8
+江苏财经广播,http://103.236.69.25:2380/jsgitv/cntv/live1/R_CAIJING/R_CAIJING/index.m3u8
+江苏文艺广播,http://103.236.69.25:2380/jsgitv/cntv/live1/R_WENYI/R_WENYI/index.m3u8
+江苏新闻广播,http://103.236.69.25:2380/jsgitv/cntv/live1/R_XINWEN/R_XINWEN/index.m3u8
+金陵之声 都市调频,http://103.236.69.25:2380/jsgitv/cntv/live1/R_997/R_997/index.m3u8
+江苏经典流行音乐,http://103.236.69.25:2380/jsgitv/cntv/live1/R_JINGDIANLX/R_JINGDIANLX/index.m3u8
+江苏音乐台,http://103.236.69.25:2380/jsgitv/cntv/live1/R_YINYUE/R_YINYUE/index.m3u8
+
 
 四川蜀小果,#genre#183.214.23.16:2380   183.214.23.27:2380
 
