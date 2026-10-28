@@ -1,3 +1,346 @@
+河南联通,#genre#
+CCTV-1 综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=6cac7d
+CCTV-1 综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=02aa8d
+CCTV-2 财经,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=e7f946
+CCTV-2 财经,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=7799b1
+CCTV-3 综艺,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=df7f23
+CCTV-4 中文国际,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=26c6cc
+CCTV-4 中文国际,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=5ce131
+CCTV-4 中文国际,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=6c5e2a
+CCTV-4 中文国际,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=20166e
+CCTV-5 体育,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=8fca27
+CCTV-5 体育,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=330c65
+CCTV-6 电影,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=fb6b33
+CCTV-7 国防军事,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=e364c2
+CCTV-7 国防军事,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=2c22f8
+CCTV-8 电视剧,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ba45bd
+CCTV-9 纪录,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=b566a0
+CCTV-9 纪录,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=9a7bc8
+CCTV-10 科教,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=8fd0f2
+CCTV-10 科教,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=e6d27f
+CCTV-11 戏曲,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=904e61
+CCTV-11 戏曲,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=c285ae
+CCTV-12 社会与法,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=075a09
+CCTV-12 社会与法,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=81bc62
+CCTV-13 新闻,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=81faf5
+CCTV-13 新闻,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=31f350
+CCTV-14 少儿,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=3635ab
+CCTV-14 少儿,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=58f8be
+CCTV-15 音乐,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=4c2162
+CCTV-15 音乐,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=18cf7b
+CCTV-16 奥林匹克,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=6cf651
+CCTV-17 农业农村,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=7e5c97
+CCTV-17 农业农村,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=f44912
+东方卫视4K,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=824d63
+北京卫视4K,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=02b3cb
+四川卫视4K,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=54338a
+山东卫视4K,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=d27bde
+广东卫视4K,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=48b90d
+江苏卫视4K,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=7ac175
+河南卫视4K,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=3bea9a
+浙江卫视4K,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=be5b35
+深圳卫视4K,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=9bd3ac
+湖南卫视4K,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=015163
+三沙卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=5021bf
+东南卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=715b91
+东南卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ec2311
+东方卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=1f3013
+东方卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=83a0a5
+云南卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=818e6e
+云南卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=726519
+兵团卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=a9a5b4
+内蒙古卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=6711cc
+北京卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=5e0fa6
+北京卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=6332c4
+厦门卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=2e2889
+吉林卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=c7ebb9
+吉林卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=b710b5
+四川卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=814e04
+四川卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ba850e
+天津卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=83aead
+天津卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=a5d028
+宁夏卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=886385
+安徽卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=376018
+安徽卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=3f0c14
+山东卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=e4226d
+山东卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=98322a
+山西卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=417d83
+广东卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=718053
+广东卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=9c1df2
+广西卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=2ce22f
+新疆卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ad808e
+江苏卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=5f3a4f
+江苏卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=e3754e
+江西卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=45c47b
+江西卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=cd5d1d
+河北卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ba5656
+河北卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=939f7d
+河南卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=a05728
+河南卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=93b70c
+浙江卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ad1a0d
+浙江卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=7815d5
+海南卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=8ce7c9
+海南卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=8d46ce
+深圳卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=8e0593
+深圳卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=45305b
+湖北卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=b07f83
+湖北卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=0377fd
+湖南卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=a753c5
+湖南卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=133e1d
+甘肃卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=1a9474
+西藏卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=48fb73
+贵州卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=a81b22
+贵州卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=283746
+辽宁卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=72a214
+辽宁卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=e92de1
+重庆卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=db754b
+重庆卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=adfee1
+陕西卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=94a715
+青海卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=6c810e
+黑龙江卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=5a8fe9
+黑龙江卫视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=77c806
+BRTV纪实科教,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=deb522
+CGTN,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=61b7d8
+CGTN俄语,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=5afb4a
+CGTN法语,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=6ad677
+CGTN纪录,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=d9f276
+CGTN,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=27cc69
+CGTN西语,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=aac639
+CGTN阿语,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=c1cdc9
+CHC动作电影,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=2d47ae
+CHC家庭影院,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=2c4b73
+CHC高清电影,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=d227a5
+IPTV法治,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=d05eb1
+IPTV相声小品,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=a7fc95
+IPTV谍战剧场,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=5bc315
+IPTV野外,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=f687e8
+三门峡文旅,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=da6166
+三门峡新闻综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=8dbe0d
+中华特产,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=f866bb
+CETV1,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=e4902c
+CETV2,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=7652bb
+CETV4,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=774d4f
+中央新影中学生,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=58cdba
+中牟综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=8e1d04
+临颍综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=818f4f
+乐游,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=83b5c9
+信阳文旅,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=8f6acf
+信阳新闻综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=9911bd
+健康中原,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=17e34e
+IPTV军事,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=a97004
+动漫秀场,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=f7698d
+南阳新闻综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=4342ed
+南阳新闻综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=4abab2
+南阳科教,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=40ec57
+BRTV卡酷少儿,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=3f6a19
+卢氏综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=66ed06
+嘉佳卡通,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=d253cd
+四海钓鱼,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=82f540
+IPTV国学,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=7a9293
+国学频道,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=9b67a4
+IPTV地理,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=8bbcac
+大象新闻,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=516c08
+央广购物,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=a82b63
+好享购物,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=e6993d
+IPTV好学生,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=4d717f
+孟津综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=f2ca99
+宜阳综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=2c405d
+家有购物,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=29c419
+IPTV少儿动画,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=d5fce2
+山东教育,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=cdf732
+嵩县综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=641960
+巩义综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=c875a5
+平教育台,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=2a8e7e
+平顶山公共,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=bd19ff
+平顶山城市,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=95e7ce
+平顶山新闻综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=837ce7
+快乐垂钓,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=52e040
+快乐购,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=3745ed
+IPTV收视指南,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=6927d6
+新动漫,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=1c4817
+新密综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=179927
+新郑综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=4065ff
+IPTV早教,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=8e8c91
+棋牌汇,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ee3ec7
+多彩文体,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=07312f
+欢腾购物,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=497e5a
+河南IPTV-导视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=b40032
+河南乡村,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=072583
+河南公共,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=092069
+河南国际,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=0e7ab9
+文物宝库,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=0774ad
+河南新闻,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ed1d24
+梨园频道,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=2f318d
+河南欢腾购物,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=b171c8
+武术世界,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ec18b9
+河南民生,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=e3bd0c
+河南法治,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=61d867
+河南电视剧,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=7578b9
+河南移动电视,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=2adae0
+河南都市,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=fae3bd
+法治天地,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=053b85
+洛阳文旅,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=999f72
+洛阳新闻综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=906ef9
+洛阳新闻综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=0df536
+洛阳科教,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=acf2d3
+济源综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=d92102
+淅川综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=55b519
+渑池新闻综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=fcc702
+游戏风云,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=2dbd83
+漯河文旅,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=3ca70c
+漯河新闻综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=dd0bc9
+IPTV热播剧场,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=8e1407
+焦作文旅,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=c43856
+焦作综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=efb117
+爱上-4k,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=483b9c
+IPTV爱体育,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=55f84d
+IPTV爱体育,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=03bbee
+IPTV爱大剧,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=c92290
+IPTV爱生活,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=47e035
+IPTV爱电影,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=700861
+IPTV爱综艺,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=f89b1e
+环球旅游,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=7d16bb
+环球购物,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=1fe06e
+现场直播,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=63b396
+登封综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=31d1dd
+睛彩中原,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=a69d2e
+禹州综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=8341d4
+河南移动戏曲,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=832305
+IPTV精选,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=aaf8de
+IPTV经典电影,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ee9fd6
+网络棋牌,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=3f08eb
+IPTV美妆,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=38070f
+美食汇,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=9eca4a
+舞钢综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=71f954
+舞阳综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=c702f8
+茶频道,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=389013
+西平综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=3dcb03
+许昌农业科教,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=e3df07
+许昌综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=f00577
+调解剧场,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=3a8b8a
+IPTV足球,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=24101b
+邓州综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=33eea8
+郏县综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ca5d2b
+郑州商都,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=1ca305
+郑州妇女儿童,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=cbe6e2
+郑州教育,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=521016
+郑州影视戏曲,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=21ecfc
+郑州文体,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=7f789f
+郑州时政,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=cb97dd
+郑州都市生活,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=b21c47
+都市剧场,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ad6f5a
+金色学堂,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=89673f
+金鹰卡通,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=af19b1
+金鹰纪实,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=45e065
+镇平新闻综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ffb79f
+陕州综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=833113
+IPTV音乐现场,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=f6c000
+风尚购物,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ab40b9
+驻马店公共,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=ed7344
+驻马店新闻综合,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=c110f1
+驻马店科教,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=17e347
+高清纪实,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=80497d
+IPTV高网,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=9ca992
+IPTV魅力时尚,http://tv.305362.xyz/zhth/tv.php?f=eb3149&id=5c306f
+
+
+安徽电信,#genre#
+CCTV-1 综合,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=6cac7d
+CCTV-2 财经,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=e7f946
+CCTV-3 综艺,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=df7f23
+CCTV-4 中文国际,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=26c6cc
+CCTV-5+ 体育赛事,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=be1ed6
+CCTV-5 体育,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=8fca27
+CCTV-6 电影,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=fb6b33
+CCTV-7 国防军事,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=e364c2
+CCTV-8 电视剧,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=ba45bd
+CCTV-9 纪录,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=b566a0
+CCTV-10 科教,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=8fd0f2
+CCTV-11 戏曲,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=904e61
+CCTV-12 社会与法,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=075a09
+CCTV-13 新闻,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=81faf5
+CCTV-14 少儿,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=3635ab
+CCTV-15 音乐,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=4c2162
+CCTV-17 农业农村,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=7e5c97
+CCTV电视指南,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=93278d
+CCTV女性时尚,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=8030fc
+CCTV怀旧剧场,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=4bd564
+CCTV第一剧场,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=520ba0
+CCTV风云足球,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=b8ad52
+CCTV央视台球,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=64efbb
+CCTV兵器科技,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=725103
+CCTV高尔夫网球,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=b26add
+CCTV风云音乐,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=8c7228
+CCTV风云剧场,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=7aed96
+CCTV世界地理,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=6fa175
+CCTV央视文化精品,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=1b48a9
+东方卫视4K,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=824d63
+北京卫视4K,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=02b3cb
+四川卫视4K,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=54338a
+山东卫视4K,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=d27bde
+广东卫视4K,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=48b90d
+江苏卫视4K,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=7ac175
+浙江卫视4K,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=be5b35
+深圳卫视4K,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=9bd3ac
+湖南卫视4K,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=015163
+三沙卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=5021bf
+东南卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=715b91
+东方卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=1f3013
+云南卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=818e6e
+兵团卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=a9a5b4
+内蒙古卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=6711cc
+北京卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=5e0fa6
+厦门卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=2e2889
+吉林卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=c7ebb9
+四川卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=814e04
+天津卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=83aead
+宁夏卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=886385
+安徽卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=376018
+安徽卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=3f0c14
+山东卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=e4226d
+山东教育,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=67d3fc
+山西卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=417d83
+广东卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=718053
+广西卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=2ce22f
+新疆卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=ad808e
+江苏卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=5f3a4f
+江西卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=45c47b
+河北卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=ba5656
+河南卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=a05728
+浙江卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=ad1a0d
+海南卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=8ce7c9
+深圳卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=8e0593
+湖北卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=b07f83
+湖南卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=a753c5
+甘肃卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=1a9474
+西藏卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=48fb73
+贵州卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=a81b22
+辽宁卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=72a214
+重庆卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=db754b
+陕西卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=94a715
+青海卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=6c810e
+黑龙江卫视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=5a8fe9
+CGTN,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=61b7d8
+七彩戏剧,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=70c752
+东方财经,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=76da8b
+东至综合,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=9b114a
+CETV1,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=3f268c
+CETV2,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=5f93f5
+全纪实,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=2f60a5
+动漫秀场,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=438928
+安徽人物,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=0620f2
+安徽公共,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=870a2a
+安徽农业科教,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=f41d9e
+安徽国际,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=6f10f6
+安徽导视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=2ac5b1
+安徽影视,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=58b637
+安徽经济生活,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=f9a7f9
+安徽综艺体育,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=05c044
+财富天下,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=5f5d8c
+都市剧场,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=ad6f5a
+金色频道,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=40bb82
+金鹰卡通,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=af19b1
+金鹰纪实,http://tv.305362.xyz/zhth/tv.php?f=2830c2&id=97a648
 蜀小果,#genre#
 CCTV-1 综合,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/CCTV-1H265_4000.m3u8
 CCTV-2 财经,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/CCTV-2H265_4000.m3u8
