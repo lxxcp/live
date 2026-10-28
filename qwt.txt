@@ -2786,41 +2786,41 @@ CCTV-2 财经,http://183.250.156.180:9999/newlive/live/hls/2/live.m3u8
 CCTV-3 综艺,http://183.250.156.180:9999/newlive/live/hls/3/live.m3u8
 CCTV-4 中文国际,http://183.250.156.180:9999/newlive/live/hls/4/live.m3u8
 CCTV-5 体育,http://183.250.156.180:9999/newlive/live/hls/5/live.m3u8
-CCTV-5+ 体育赛事,http://183.250.156.180:9999/newlive/live/hls/6/live.m3u8
-CCTV-6 电影,http://183.250.156.180:9999/newlive/live/hls/7/live.m3u8
-CCTV-7 国防军事,http://183.250.156.180:9999/newlive/live/hls/8/live.m3u8
-CCTV-8 电视剧,http://183.250.156.180:9999/newlive/live/hls/9/live.m3u8
-CCTV-9 纪录,http://183.250.156.180:9999/newlive/live/hls/10/live.m3u8
-CCTV-10 科教,http://183.250.156.180:9999/newlive/live/hls/11/live.m3u8
-CCTV-11 戏曲,http://183.250.156.180:9999/newlive/live/hls/12/live.m3u8
-CCTV-12 社会与法,http://183.250.156.180:9999/newlive/live/hls/13/live.m3u8
-CCTV-13 新闻,http://183.250.156.180:9999/newlive/live/hls/14/live.m3u8
-CCTV-14 少儿,http://183.250.156.180:9999/newlive/live/hls/15/live.m3u8
-CCTV-15 音乐,http://183.250.156.180:9999/newlive/live/hls/16/live.m3u8
-CCTV-16 奥林匹克,http://183.250.156.180:9999/newlive/live/hls/17/live.m3u8
-CGTN,http://183.250.156.180:9999/newlive/live/hls/18/live.m3u8
-福建综合,http://183.250.156.180:9999/newlive/live/hls/19/live.m3u8
-东南卫视,http://183.250.156.180:9999/newlive/live/hls/20/live.m3u8
-福建公共,http://183.250.156.180:9999/newlive/live/hls/21/live.m3u8
+CCTV-6 电影,http://183.250.156.180:9999/newlive/live/hls/6/live.m3u8
+CCTV-7 国防军事,http://183.250.156.180:9999/newlive/live/hls/7/live.m3u8
+CCTV-8 电视剧,http://183.250.156.180:9999/newlive/live/hls/8/live.m3u8
+CCTV-9 纪录,http://183.250.156.180:9999/newlive/live/hls/9/live.m3u8
+CCTV-10 科教,http://183.250.156.180:9999/newlive/live/hls/10/live.m3u8
+CCTV-11 戏曲,http://183.250.156.180:9999/newlive/live/hls/11/live.m3u8
+CCTV-12 社会与法,http://183.250.156.180:9999/newlive/live/hls/12/live.m3u8
+CCTV-13 新闻,http://183.250.156.180:9999/newlive/live/hls/13/live.m3u8
+CCTV-14 少儿,http://183.250.156.180:9999/newlive/live/hls/14/live.m3u8
+CCTV-15 音乐,http://183.250.156.180:9999/newlive/live/hls/15/live.m3u8
+CCTV-16 奥林匹克,http://183.250.156.180:9999/newlive/live/hls/16/live.m3u8
+CCTV-17 农业农村,http://183.250.156.180:9999/newlive/live/hls/17/live.m3u8
+CCTV-5+ 体育赛事,http://183.250.156.180:9999/newlive/live/hls/18/live.m3u8
+CGTN,http://183.250.156.180:9999/newlive/live/hls/19/live.m3u8
+福建综合,http://183.250.156.180:9999/newlive/live/hls/20/live.m3u8
+东南卫视,http://183.250.156.180:9999/newlive/live/hls/21/live.m3u8
 福建新闻,http://183.250.156.180:9999/newlive/live/hls/22/live.m3u8
-福建电视剧,http://183.250.156.180:9999/newlive/live/hls/23/live.m3u8
-福建旅游,http://183.250.156.180:9999/newlive/live/hls/24/live.m3u8
-福建经济,http://183.250.156.180:9999/newlive/live/hls/25/live.m3u8
-福建少儿,http://183.250.156.180:9999/newlive/live/hls/26/live.m3u8
-海峡卫视,http://183.250.156.180:9999/newlive/live/hls/27/live.m3u8
-厦门卫视,http://183.250.156.180:9999/newlive/live/hls/28/live.m3u8
-东方卫视,http://183.250.156.180:9999/newlive/live/hls/29/live.m3u8
-湖南卫视,http://183.250.156.180:9999/newlive/live/hls/30/live.m3u8
-江苏卫视,http://183.250.156.180:9999/newlive/live/hls/31/live.m3u8
-浙江卫视,http://183.250.156.180:9999/newlive/live/hls/32/live.m3u8
-河北卫视,http://183.250.156.180:9999/newlive/live/hls/33/live.m3u8
-广东卫视,http://183.250.156.180:9999/newlive/live/hls/34/live.m3u8
-山东卫视,http://183.250.156.180:9999/newlive/live/hls/35/live.m3u8
-湖北卫视,http://183.250.156.180:9999/newlive/live/hls/36/live.m3u8
-深圳卫视,http://183.250.156.180:9999/newlive/live/hls/37/live.m3u8
-黑龙江卫视,http://183.250.156.180:9999/newlive/live/hls/38/live.m3u8
-贵州卫视,http://183.250.156.180:9999/newlive/live/hls/39/live.m3u8
-安徽卫视,http://183.250.156.180:9999/newlive/live/hls/40/live.m3u8
+福建文旅体育,http://183.250.156.180:9999/newlive/live/hls/23/live.m3u8
+福建少儿,http://183.250.156.180:9999/newlive/live/hls/24/live.m3u8
+海峡卫视,http://183.250.156.180:9999/newlive/live/hls/25/live.m3u8
+福建教育,http://183.250.156.180:9999/newlive/live/hls/26/live.m3u8
+厦门卫视,http://183.250.156.180:9999/newlive/live/hls/27/live.m3u8
+东方卫视,http://183.250.156.180:9999/newlive/live/hls/28/live.m3u8
+湖南卫视,http://183.250.156.180:9999/newlive/live/hls/29/live.m3u8
+江苏卫视,http://183.250.156.180:9999/newlive/live/hls/30/live.m3u8
+浙江卫视,http://183.250.156.180:9999/newlive/live/hls/31/live.m3u8
+河北卫视,http://183.250.156.180:9999/newlive/live/hls/32/live.m3u8
+广东卫视,http://183.250.156.180:9999/newlive/live/hls/33/live.m3u8
+山东卫视,http://183.250.156.180:9999/newlive/live/hls/34/live.m3u8
+湖北卫视,http://183.250.156.180:9999/newlive/live/hls/35/live.m3u8
+深圳卫视,http://183.250.156.180:9999/newlive/live/hls/36/live.m3u8
+黑龙江卫视,http://183.250.156.180:9999/newlive/live/hls/37/live.m3u8
+安徽卫视,http://183.250.156.180:9999/newlive/live/hls/38/live.m3u8
+天津卫视,http://183.250.156.180:9999/newlive/live/hls/39/live.m3u8
+辽宁卫视,http://183.250.156.180:9999/newlive/live/hls/40/live.m3u8
 
 
 北京银河,#genre#
