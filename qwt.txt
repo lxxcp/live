@@ -2821,6 +2821,59 @@ CGTN,http://183.250.156.180:9999/newlive/live/hls/19/live.m3u8
 安徽卫视,http://183.250.156.180:9999/newlive/live/hls/38/live.m3u8
 天津卫视,http://183.250.156.180:9999/newlive/live/hls/39/live.m3u8
 辽宁卫视,http://183.250.156.180:9999/newlive/live/hls/40/live.m3u8
+黑龙江电信,
+CCTV-1 综合,http://219.147.245.238:25480/newlive/live/hls/1/live.m3u8$1080p
+CCTV-2 财经,http://219.147.245.238:25480/newlive/live/hls/2/live.m3u8$720p
+CCTV-3 综艺,http://219.147.245.238:25480/newlive/live/hls/3/live.m3u8$1080p
+CCTV-4 中文国际,http://219.147.245.238:25480/newlive/live/hls/4/live.m3u8$720p
+CCTV-5 体育,http://219.147.245.238:25480/newlive/live/hls/5/live.m3u8$1080p
+CCTV-5+ 体育赛事,http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8$1080p
+CCTV-6 电影,http://219.147.245.238:25480/newlive/live/hls/7/live.m3u8$1080p
+CCTV-7 国防军事,http://219.147.245.238:25480/newlive/live/hls/8/live.m3u8$1080p
+CCTV-8 电视剧,http://219.147.245.238:25480/newlive/live/hls/9/live.m3u8$1080p
+CCTV-9 纪录,http://219.147.245.238:25480/newlive/live/hls/10/live.m3u8$1080p
+CCTV-10 科教,http://219.147.245.238:25480/newlive/live/hls/11/live.m3u8$1080p
+CCTV-11 戏曲,http://219.147.245.238:25480/newlive/live/hls/12/live.m3u8$720p
+CCTV-12 社会与法,http://219.147.245.238:25480/newlive/live/hls/13/live.m3u8$1080p
+CCTV-13 新闻,http://219.147.245.238:25480/newlive/live/hls/14/live.m3u8$720p
+CCTV-14 少儿,http://219.147.245.238:25480/newlive/live/hls/15/live.m3u8$1080p
+CCTV-15 音乐,http://219.147.245.238:25480/newlive/live/hls/16/live.m3u8$720p
+CCTV-16 奥林匹克,http://219.147.245.238:25480/newlive/live/hls/107/live.m3u8$1080p
+CCTV-17 农业农村,http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8$1080p
+贵州卫视,http://219.147.245.238:25480/newlive/live/hls/40/live.m3u8$1080p
+云南卫视,http://219.147.245.238:25480/newlive/live/hls/41/live.m3u8$576p
+海南卫视,http://219.147.245.238:25480/newlive/live/hls/42/live.m3u8$1080p
+山西卫视,http://219.147.245.238:25480/newlive/live/hls/43/live.m3u8$576p
+陕西卫视,http://219.147.245.238:25480/newlive/live/hls/44/live.m3u8$576p
+内蒙古卫视,http://219.147.245.238:25480/newlive/live/hls/45/live.m3u8$576p
+宁夏卫视,http://219.147.245.238:25480/newlive/live/hls/46/live.m3u8$576p
+甘肃卫视,http://219.147.245.238:25480/newlive/live/hls/47/live.m3u8$576p
+电影,http://219.147.245.238:25480/newlive/live/hls/48/live.m3u8$576p
+西藏卫视,http://219.147.245.238:25480/newlive/live/hls/49/live.m3u8$576p
+新疆卫视,http://219.147.245.238:25480/newlive/live/hls/50/live.m3u8$576p
+四川卫视,http://219.147.245.238:25480/newlive/live/hls/85/live.m3u8$1080p
+广西卫视,http://219.147.245.238:25480/newlive/live/hls/86/live.m3u8$576p
+东南卫视,http://219.147.245.238:25480/newlive/live/hls/87/live.m3u8$1080p
+安徽卫视,http://219.147.245.238:25480/newlive/live/hls/88/live.m3u8$1080p
+江西卫视,http://219.147.245.238:25480/newlive/live/hls/89/live.m3u8$1080p
+湖北卫视,http://219.147.245.238:25480/newlive/live/hls/90/live.m3u8$1080p
+河南卫视,http://219.147.245.238:25480/newlive/live/hls/91/live.m3u8$1080p
+山东卫视,http://219.147.245.238:25480/newlive/live/hls/92/live.m3u8$1080p
+河北卫视,http://219.147.245.238:25480/newlive/live/hls/93/live.m3u8$1080p
+重庆卫视,http://219.147.245.238:25480/newlive/live/hls/94/live.m3u8$1080p
+天津卫视,http://219.147.245.238:25480/newlive/live/hls/95/live.m3u8$1080p
+辽宁卫视,http://219.147.245.238:25480/newlive/live/hls/96/live.m3u8$576p
+吉林卫视,http://219.147.245.238:25480/newlive/live/hls/97/live.m3u8$1080p
+东卫视,http://219.147.245.238:25480/newlive/live/hls/98/live.m3u8$1080p
+深圳卫视,http://219.147.245.238:25480/newlive/live/hls/99/live.m3u8$1080p
+浙江卫视,http://219.147.245.238:25480/newlive/live/hls/100/live.m3u8$1080p
+江苏卫视,http://219.147.245.238:25480/newlive/live/hls/101/live.m3u8$1080p
+湖南卫视,http://219.147.245.238:25480/newlive/live/hls/102/live.m3u8$1080p
+东方卫视,http://219.147.245.238:25480/newlive/live/hls/103/live.m3u8$1080p
+BRTV纪实科教,http://219.147.245.238:25480/newlive/live/hls/104/live.m3u8$1080p
+北京卫视,http://219.147.245.238:25480/newlive/live/hls/105/live.m3u8$1080p
+黑龙江卫视,http://219.147.245.238:25480/newlive/live/hls/106/live.m3u8$1080p
+
 
 
 北京银河,#genre#
